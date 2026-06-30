@@ -1,0 +1,907 @@
+[
+  {
+    "id": "https-openai-com-index-previewing-gpt-5-6-sol",
+    "lab": "OpenAI",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+    "date": "2026-06-26T10:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "tags": [
+      "gpt",
+      "sol",
+      "next",
+      "generation"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-vllm-jobs",
+    "lab": "Hugging Face",
+    "title": "Run a vLLM Server on HF Jobs in One Command",
+    "summary": "",
+    "date": "2026-06-26T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/vllm-jobs",
+    "tags": [
+      "run",
+      "vllm",
+      "server",
+      "jobs"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-allenai-hybrid-token-prediction",
+    "lab": "Hugging Face",
+    "title": "Which tokens does a hybrid model predict better?",
+    "summary": "",
+    "date": "2026-06-25T16:11:42.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+    "tags": [
+      "which",
+      "tokens",
+      "does",
+      "hybrid"
+    ]
+  },
+  {
+    "id": "https-blog-google-products-and-platforms-products-search-google-finance-updates-",
+    "lab": "Google DeepMind",
+    "title": "Our latest Google Finance upgrades, including a new app",
+    "summary": "The new Google Finance is coming out of beta and launching a new Android app.",
+    "date": "2026-06-25T16:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp",
+    "tags": [
+      "google",
+      "finance",
+      "app",
+      "latest"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-how-agents-are-transforming-work",
+    "lab": "OpenAI",
+    "title": "How agents are transforming work",
+    "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+    "date": "2026-06-25T02:00:00.000Z",
+    "category": "research",
+    "url": "https://openai.com/index/how-agents-are-transforming-work",
+    "tags": [
+      "agents",
+      "transforming",
+      "work",
+      "openai"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-introducing-computer-use-in-gemini-3-5-flash",
+    "lab": "Google DeepMind",
+    "title": "Introducing computer use in Gemini 3.5 Flash",
+    "summary": "",
+    "date": "2026-06-24T16:30:01.000Z",
+    "category": "model",
+    "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "tags": [
+      "computer",
+      "gemini",
+      "flash"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-nvidia-accelerating-fine-tuning-nvidia-nemo-automodel",
+    "lab": "Hugging Face",
+    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "summary": "",
+    "date": "2026-06-24T16:00:13.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "tags": [
+      "accelerating",
+      "transformers",
+      "fine",
+      "tuning"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-openai-broadcom-jalapeno-inference-chip",
+    "lab": "OpenAI",
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+    "date": "2026-06-24T06:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "tags": [
+      "openai",
+      "broadcom",
+      "llm",
+      "inference"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-ffasr-leaderboard",
+    "lab": "Hugging Face",
+    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+    "summary": "",
+    "date": "2026-06-24T00:00:00.000Z",
+    "category": "model",
+    "url": "https://huggingface.co/blog/ffasr-leaderboard",
+    "tags": [
+      "ffasr",
+      "leaderboard",
+      "benchmarking",
+      "asr"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-gpt-5-immunology-mystery",
+    "lab": "OpenAI",
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+    "date": "2026-06-23T17:00:00.000Z",
+    "category": "research",
+    "url": "https://openai.com/index/gpt-5-immunology-mystery",
+    "tags": [
+      "gpt",
+      "helped",
+      "solve",
+      "year"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-helping-build-shared-standards-for-advanced-ai",
+    "lab": "OpenAI",
+    "title": "Helping build shared standards for advanced AI",
+    "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+    "date": "2026-06-23T13:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "tags": [
+      "build",
+      "shared",
+      "standards",
+      "advanced"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-ibm-research-cuga-apps",
+    "lab": "Hugging Face",
+    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+    "summary": "",
+    "date": "2026-06-23T12:51:55.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "tags": [
+      "build",
+      "real",
+      "agentic",
+      "apps"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-huggingface-hub-release-ci",
+    "lab": "Hugging Face",
+    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+    "summary": "",
+    "date": "2026-06-23T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "tags": [
+      "shipping",
+      "huggingface",
+      "hub",
+      "every"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-cross-origin-storage",
+    "lab": "Hugging Face",
+    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+    "summary": "",
+    "date": "2026-06-23T00:00:00.000Z",
+    "category": "api",
+    "url": "https://huggingface.co/blog/cross-origin-storage",
+    "tags": [
+      "experimenting",
+      "proposed",
+      "cross",
+      "origin"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-omio",
+    "lab": "OpenAI",
+    "title": "How Omio is building the future of conversational travel",
+    "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+    "date": "2026-06-23T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/omio",
+    "tags": [
+      "omio",
+      "conversational",
+      "travel",
+      "building"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-paddlepaddle-pp-ocrv6",
+    "lab": "Hugging Face",
+    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+    "summary": "",
+    "date": "2026-06-22T13:18:56.000Z",
+    "category": "model",
+    "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "tags": [
+      "ocrv6",
+      "hugging",
+      "face",
+      "language"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-patch-the-planet",
+    "lab": "OpenAI",
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+    "date": "2026-06-22T10:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/patch-the-planet",
+    "tags": [
+      "patch",
+      "planet",
+      "daybreak",
+      "initiative"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-daybreak-securing-the-world",
+    "lab": "OpenAI",
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+    "date": "2026-06-22T10:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "tags": [
+      "daybreak",
+      "tools",
+      "securing",
+      "every"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-local-models-pr-triage",
+    "lab": "Hugging Face",
+    "title": "We got local models to triage the OpenClaw repo for FREE!*",
+    "summary": "",
+    "date": "2026-06-22T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/local-models-pr-triage",
+    "tags": [
+      "got",
+      "local",
+      "models",
+      "triage"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-codex-maxxing-long-running-work",
+    "lab": "OpenAI",
+    "title": "Codex-maxxing for long-running work",
+    "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+    "date": "2026-06-22T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/codex-maxxing-long-running-work",
+    "tags": [
+      "codex",
+      "work",
+      "maxxing",
+      "long"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-samsung-electronics-chatgpt-codex-deployment",
+    "lab": "OpenAI",
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+    "date": "2026-06-21T23:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "tags": [
+      "samsung",
+      "electronics",
+      "chatgpt",
+      "codex"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-servicenow-mosaicleaks",
+    "lab": "Hugging Face",
+    "title": "MosaicLeaks: Can your research agent keep a secret?",
+    "summary": "",
+    "date": "2026-06-18T18:13:13.000Z",
+    "category": "research",
+    "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "tags": [
+      "mosaicleaks",
+      "research",
+      "agent",
+      "keep"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-chatgpt-enterprise-spend-controls",
+    "lab": "OpenAI",
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+    "date": "2026-06-18T17:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "tags": [
+      "usage",
+      "analytics",
+      "spend",
+      "controls"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-improving-health-intelligence-in-chatgpt",
+    "lab": "OpenAI",
+    "title": "Improving health intelligence in ChatGPT",
+    "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+    "date": "2026-06-18T11:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "tags": [
+      "health",
+      "chatgpt",
+      "improving",
+      "intelligence"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-diagnose-rare-childhood-diseases",
+    "lab": "OpenAI",
+    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+    "date": "2026-06-18T08:00:00.000Z",
+    "category": "research",
+    "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "tags": [
+      "help",
+      "diagnose",
+      "rare",
+      "diseases"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-peft-beyond-lora",
+    "lab": "Hugging Face",
+    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+    "summary": "",
+    "date": "2026-06-18T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/peft-beyond-lora",
+    "tags": [
+      "beyond",
+      "lora",
+      "beat",
+      "popular"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-is-it-agentic-enough",
+    "lab": "Hugging Face",
+    "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+    "summary": "",
+    "date": "2026-06-18T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/is-it-agentic-enough",
+    "tags": [
+      "agentic",
+      "enough",
+      "benchmarking",
+      "open"
+    ]
+  },
+  {
+    "id": "https-blog-google-innovation-and-ai-models-and-research-google-research-amie-for",
+    "lab": "Google DeepMind",
+    "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+    "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+    "date": "2026-06-17T15:00:00.000Z",
+    "category": "research",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp",
+    "tags": [
+      "research",
+      "shows",
+      "amie",
+      "medical"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-amazon-strands-lerobot-hub-to-hardware",
+    "lab": "Hugging Face",
+    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+    "summary": "",
+    "date": "2026-06-17T10:18:05.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "tags": [
+      "hugging",
+      "face",
+      "hub",
+      "robot"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-ai-chemist-improves-reaction",
+    "lab": "OpenAI",
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+    "date": "2026-06-17T10:00:00.000Z",
+    "category": "research",
+    "url": "https://openai.com/index/ai-chemist-improves-reaction",
+    "tags": [
+      "near",
+      "autonomous",
+      "chemist",
+      "reaction"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-zai-org-glm-52-blog",
+    "lab": "Hugging Face",
+    "title": "GLM-5.2: Built for Long-Horizon Tasks",
+    "summary": "",
+    "date": "2026-06-17T09:01:25.000Z",
+    "category": "model",
+    "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+    "tags": [
+      "glm",
+      "built",
+      "long",
+      "horizon"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-agentic-resource-discovery-launch",
+    "lab": "Hugging Face",
+    "title": "Agentic Resource Discovery: Let agents search",
+    "summary": "",
+    "date": "2026-06-17T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+    "tags": [
+      "agentic",
+      "resource",
+      "discovery",
+      "let"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-introducing-life-sci-bench",
+    "lab": "OpenAI",
+    "title": "Introducing LifeSciBench",
+    "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+    "date": "2026-06-17T00:00:00.000Z",
+    "category": "research",
+    "url": "https://openai.com/index/introducing-life-sci-bench",
+    "tags": [
+      "lifescibench",
+      "expert",
+      "authored",
+      "reviewed"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-unlocking-uk-house-building-with-ai-accelerated-plann",
+    "lab": "Google DeepMind",
+    "title": "Unlocking UK house-building with AI-accelerated planning",
+    "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+    "date": "2026-06-16T21:29:50.000Z",
+    "category": "feature",
+    "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "image": "https://lh3.googleusercontent.com/kc7RMwXGDfJAoCsgs6pUuONGMXePGbvF_q_i8i-bWBBakQ91O8VYPk8cyHfpOD1uF-lw8Mk6pd2JpXofi5n4qNoNziPol46lBMmZuxoG9NKl16CW=w528-h297-n-nu-rw-lo",
+    "tags": [
+      "unlocking",
+      "house",
+      "building",
+      "accelerated"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-securing-the-future-of-ai-agents",
+    "lab": "Google DeepMind",
+    "title": "Securing the future of AI agents",
+    "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+    "date": "2026-06-16T15:46:31.000Z",
+    "category": "feature",
+    "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "image": "https://lh3.googleusercontent.com/X6w_t9eA7TLFiq3JMp1kXlon25qi9N6O0AxPyp7j0qOIu8oz-QDsaOP-oKz7FIuqlA3W1evDbeLYssDJM_fjkqeyscPO_fHJd0xeD0IoDlHkiUQW1w=w528-h297-n-nu-rw-lo",
+    "tags": [
+      "securing",
+      "future",
+      "agents",
+      "internal"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-deployment-simulation",
+    "lab": "OpenAI",
+    "title": "Predicting model behavior before release by simulating deployment",
+    "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+    "date": "2026-06-16T00:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/deployment-simulation",
+    "tags": [
+      "deployment",
+      "model",
+      "behavior",
+      "before"
+    ]
+  },
+  {
+    "id": "https-blog-google-innovation-and-ai-infrastructure-and-cloud-global-network-alab",
+    "lab": "Google DeepMind",
+    "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+    "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
+    "date": "2026-06-15T15:00:00.000Z",
+    "category": "model",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+    "tags": [
+      "alabama",
+      "strengthening",
+      "presence",
+      "through"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-introducing-openai-partner-network",
+    "lab": "OpenAI",
+    "title": "Introducing the OpenAI Partner Network",
+    "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+    "date": "2026-06-14T17:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/introducing-openai-partner-network",
+    "tags": [
+      "openai",
+      "partner",
+      "network",
+      "launches"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-academy-courses-applying-ai-at-work",
+    "lab": "OpenAI",
+    "title": "New OpenAI Academy courses for the next era of work",
+    "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+    "date": "2026-06-12T10:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "tags": [
+      "openai",
+      "academy",
+      "courses",
+      "work"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-preply",
+    "lab": "OpenAI",
+    "title": "How Preply combines AI and human tutors to personalize learning",
+    "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+    "date": "2026-06-12T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/preply",
+    "tags": [
+      "preply",
+      "learning",
+      "combines",
+      "human"
+    ]
+  },
+  {
+    "id": "https-blog-google-innovation-and-ai-infrastructure-and-cloud-global-network-virg",
+    "lab": "Google DeepMind",
+    "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+    "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
+    "date": "2026-06-11T20:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp",
+    "tags": [
+      "energy",
+      "community",
+      "investments",
+      "virginia"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-torch-mlp-fusion",
+    "lab": "Hugging Face",
+    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+    "summary": "",
+    "date": "2026-06-11T00:00:00.000Z",
+    "category": "model",
+    "url": "https://huggingface.co/blog/torch-mlp-fusion",
+    "tags": [
+      "profiling",
+      "pytorch",
+      "part",
+      "linear"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-bbva",
+    "lab": "OpenAI",
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+    "date": "2026-06-11T00:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/bbva",
+    "tags": [
+      "bbva",
+      "banking",
+      "openai",
+      "puts"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-using-codex-to-simulate-black-holes",
+    "lab": "OpenAI",
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+    "date": "2026-06-11T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "tags": [
+      "astrophysicist",
+      "uses",
+      "codex",
+      "black"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-supporting-eu-trustworthy-ai-ecosystem",
+    "lab": "OpenAI",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+    "date": "2026-06-11T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "tags": [
+      "content",
+      "supporting",
+      "europe",
+      "work"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-openai-to-acquire-ona",
+    "lab": "OpenAI",
+    "title": "OpenAI to acquire Ona",
+    "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+    "date": "2026-06-11T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/openai-to-acquire-ona",
+    "tags": [
+      "openai",
+      "acquire",
+      "ona",
+      "plans"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-openai-on-oracle-cloud",
+    "lab": "OpenAI",
+    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+    "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+    "date": "2026-06-10T20:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/openai-on-oracle-cloud",
+    "tags": [
+      "access",
+      "openai",
+      "models",
+      "codex"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-diffusiongemma-4x-faster-text-generation",
+    "lab": "Google DeepMind",
+    "title": "DiffusionGemma: 4x faster text generation",
+    "summary": "",
+    "date": "2026-06-10T16:24:11.000Z",
+    "category": "feature",
+    "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+    "tags": [
+      "diffusiongemma",
+      "faster",
+      "text",
+      "generation"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-prc-linked-influence-operations-ai-debates",
+    "lab": "OpenAI",
+    "title": "PRC-linked influence operations are targeting AI debates in the US",
+    "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT.",
+    "date": "2026-06-10T12:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+    "tags": [
+      "prc",
+      "linked",
+      "influence",
+      "operations"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-investing-in-multi-agent-ai-safety-research",
+    "lab": "Google DeepMind",
+    "title": "Investing in multi-agent AI safety research",
+    "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+    "date": "2026-06-10T10:21:19.000Z",
+    "category": "research",
+    "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "image": "https://lh3.googleusercontent.com/YgqOl-h3mEKPbpttnT89PtoHDKTc1-2fbhwRgDauUPtagZVWiw0lr1IGgRUDZDqb9Ib4nhaU93T0mJSE8FFbhkDRiaT53BGLnLVdpqliTP8v5kvmwu8=w528-h297-n-nu-rw-lo",
+    "tags": [
+      "multi",
+      "agent",
+      "safety",
+      "research"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-lseg",
+    "lab": "OpenAI",
+    "title": "From data to decisions: how LSEG is scaling trusted AI",
+    "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+    "date": "2026-06-10T00:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/lseg",
+    "tags": [
+      "lseg",
+      "trusted",
+      "data",
+      "decisions"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-fluid-natural-voice-translation-with-gemini-35-live-t",
+    "lab": "Google DeepMind",
+    "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+    "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+    "date": "2026-06-09T15:16:25.000Z",
+    "category": "model",
+    "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+    "tags": [
+      "translate",
+      "google",
+      "natural",
+      "translation"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-introducing-gemma-4-12b-a-unified-encoder-free-multim",
+    "lab": "Google DeepMind",
+    "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+    "summary": "",
+    "date": "2026-06-09T14:10:19.000Z",
+    "category": "model",
+    "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+    "tags": [
+      "gemma",
+      "unified",
+      "encoder",
+      "free"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-powering-the-future-of-robotics-in-europe",
+    "lab": "Google DeepMind",
+    "title": "Powering the future of robotics in Europe",
+    "summary": "",
+    "date": "2026-06-09T14:02:33.000Z",
+    "category": "feature",
+    "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+    "tags": [
+      "powering",
+      "future",
+      "robotics",
+      "europe"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-nextdoor",
+    "lab": "OpenAI",
+    "title": "How engineers at Nextdoor use Codex to build without limits",
+    "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+    "date": "2026-06-09T12:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/nextdoor",
+    "tags": [
+      "engineers",
+      "nextdoor",
+      "codex",
+      "build"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-mishig-spaces-agents-md",
+    "lab": "Hugging Face",
+    "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+    "summary": "",
+    "date": "2026-06-09T10:46:19.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+    "tags": [
+      "agent",
+      "built",
+      "paris",
+      "gallery"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-notion",
+    "lab": "OpenAI",
+    "title": "What Codex unlocks for Notion",
+    "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+    "date": "2026-06-09T10:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/notion",
+    "tags": [
+      "codex",
+      "notion",
+      "unlocks",
+      "uses"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-github-ci-hf-jobs",
+    "lab": "Hugging Face",
+    "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+    "summary": "",
+    "date": "2026-06-09T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+    "tags": [
+      "migrating",
+      "github",
+      "hugging",
+      "face"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-industrial-policy-for-the-intelligence-age",
+    "lab": "OpenAI",
+    "title": "Industrial policy for the Intelligence Age",
+    "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+    "date": "2026-06-09T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+    "tags": [
+      "industrial",
+      "policy",
+      "intelligence",
+      "age"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-openai-submits-confidential-s-1",
+    "lab": "OpenAI",
+    "title": "Confidential submission of draft S-1 to the SEC",
+    "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+    "date": "2026-06-08T14:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/openai-submits-confidential-s-1",
+    "tags": [
+      "confidential",
+      "submission",
+      "sec",
+      "draft"
+    ]
+  }
+]

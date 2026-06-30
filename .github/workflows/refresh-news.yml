@@ -1,0 +1,55 @@
+name: "Refresh AI news"
+
+# Runs the daily news pipeline:
+#   ① collector (scripts/refresh-news.mjs) → fetch RSS, map to cards
+#   ② optional LLM enrichment (scripts/enrich.mjs) — only if ANTHROPIC_API_KEY secret is set
+#   ③ publisher → writes public/releases.json
+# then commits the regenerated public/releases.json if (and only if) it changed.
+
+on:
+  # Daily at 06:00 UTC.
+  schedule:
+    - cron: "0 6 * * *"
+  # Allow manual runs from the Actions tab.
+  workflow_dispatch:
+
+# Needed so the commit step can push back to the repo.
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Refresh news feed
+        run: npm run refresh
+        env:
+          # Optional. If unset, scripts/enrich.mjs skips the LLM step gracefully.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit updated feed
+        run: |
+          # Neutral bot identity — no AI/Claude attribution.
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Skip the commit entirely when public/releases.json is unchanged.
+          if git diff --quiet -- public/releases.json; then
+            echo "No changes to public/releases.json — nothing to commit."
+            exit 0
+          fi
+
+          git add public/releases.json
+          git commit -m "chore: refresh AI news feed"
+          git push
