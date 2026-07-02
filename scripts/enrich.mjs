@@ -58,6 +58,7 @@ const LABS = [
   'Mistral',
   'xAI',
   'DeepSeek',
+  'Hugging Face',
 ]
 
 /**

@@ -1,44 +1,82 @@
+import { memo, useState, type CSSProperties } from 'react'
+import { Bookmark, Check, Link2 } from 'lucide-react'
 import type { Release } from '../types'
-import { labColor, labMonogram, CAT_COLOR, CAT_LABEL, relativeTime, fullDate } from './LeadStory'
+import { labColor, labMonogram, CAT_COLOR, relativeTime, fullDate, isFresh } from '../lib/format'
 
 interface NewsRowProps {
   release: Release
+  now: number
+  isSaved: boolean
+  isRead: boolean
+  onToggleSave: (id: string) => void
+  onMarkRead: (id: string) => void
 }
 
-export default function NewsRow({ release }: NewsRowProps) {
+function SpecStrip({ release }: { release: Release }) {
+  const specs: string[] = []
+  if (release.contextWindow) specs.push(`ctx ${release.contextWindow}`)
+  if (release.priceInput) specs.push(`in ${release.priceInput}`)
+  if (release.priceOutput) specs.push(`out ${release.priceOutput}`)
+  if (release.benchmark) specs.push(release.benchmark)
+  if (specs.length === 0) return null
+  return (
+    <div className="spec-strip" aria-label="Model specs">
+      {specs.map((s) => (
+        <span className="spec-strip__item" key={s}>{s}</span>
+      ))}
+    </div>
+  )
+}
+
+function NewsRow({ release, now, isSaved, isRead, onToggleSave, onMarkRead }: NewsRowProps) {
+  const [imgFailed, setImgFailed] = useState(false)
+  const [copied, setCopied] = useState(false)
   const color = labColor(release.lab)
   const mono = labMonogram(release.lab)
   const catColor = CAT_COLOR[release.category]
-  const catLabel = CAT_LABEL[release.category]
+  const showImage = Boolean(release.image) && !imgFailed
+  const fresh = isFresh(release.date, now)
 
-  const inner = (
-    <>
+  async function handleCopy() {
+    if (!release.url) return
+    try {
+      await navigator.clipboard.writeText(release.url)
+      setCopied(true)
+      window.setTimeout(() => setCopied(false), 1600)
+    } catch {
+      /* clipboard unavailable */
+    }
+  }
+
+  return (
+    <article
+      className={'news-row' + (isRead ? ' is-read' : '')}
+      style={{ '--row-accent': color } as CSSProperties}
+    >
       {/* Thumbnail */}
       <div className="news-row__thumb" aria-hidden="true">
-        {release.image ? (
+        {showImage && (
           <img
             className="news-row__thumb-img"
             src={release.image}
             alt=""
-            onError={(e) => {
-              const t = e.currentTarget
-              t.style.display = 'none'
-              const fallback = t.parentElement?.querySelector('.news-row__thumb-mono') as HTMLElement | null
-              if (fallback) fallback.style.display = 'flex'
-            }}
+            loading="lazy"
+            decoding="async"
+            referrerPolicy="no-referrer"
+            onError={() => setImgFailed(true)}
           />
-        ) : null}
-
-        <div
-          className="news-row__thumb-mono"
-          style={{
-            display: release.image ? 'none' : 'flex',
-            background: `linear-gradient(145deg, color-mix(in srgb, ${color} 16%, #141A22), #141A22)`,
-            color,
-          }}
-        >
-          {mono}
-        </div>
+        )}
+        {!showImage && (
+          <div
+            className="news-row__thumb-mono"
+            style={{
+              background: `linear-gradient(145deg, color-mix(in srgb, ${color} 16%, #141A22), #141A22)`,
+              color,
+            }}
+          >
+            {mono}
+          </div>
+        )}
       </div>
 
       {/* Body */}
@@ -46,52 +84,69 @@ export default function NewsRow({ release }: NewsRowProps) {
         {/* Meta row */}
         <div className="news-row__meta">
           <div className="news-row__meta-left">
-            <span
-              className="source-dot"
-              style={{ background: color }}
-              aria-hidden="true"
-            />
+            <span className="source-dot" style={{ background: color }} aria-hidden="true" />
             <span className="source-name">{release.lab}</span>
             <span className="meta-sep" aria-hidden="true">·</span>
-            <span className="cat-label" style={{ color: catColor }}>{catLabel}</span>
+            <span className="cat-label" style={{ color: catColor }}>{release.category}</span>
+            {fresh && <span className="new-badge">New</span>}
           </div>
           <time
             className="news-row__time"
             dateTime={release.date}
             title={fullDate(release.date)}
           >
-            {relativeTime(release.date)}
+            {relativeTime(release.date, now)}
           </time>
         </div>
 
         {/* Headline */}
-        <div className="news-row__headline">{release.title}</div>
+        <h3 className="news-row__headline">
+          {release.url ? (
+            <a
+              href={release.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={() => onMarkRead(release.id)}
+            >
+              {release.title}
+            </a>
+          ) : (
+            release.title
+          )}
+        </h3>
 
         {/* Dek */}
-        {release.summary && (
-          <p className="news-row__dek">{release.summary}</p>
+        {release.summary && <p className="news-row__dek">{release.summary}</p>}
+
+        <SpecStrip release={release} />
+      </div>
+
+      {/* Actions */}
+      <div className="news-row__actions">
+        <button
+          type="button"
+          className={'row-action' + (isSaved ? ' is-active' : '')}
+          onClick={() => onToggleSave(release.id)}
+          aria-pressed={isSaved}
+          aria-label={isSaved ? `Remove "${release.title}" from saved` : `Save "${release.title}" for later`}
+          title={isSaved ? 'Remove from saved' : 'Save for later'}
+        >
+          <Bookmark size={14} aria-hidden="true" fill={isSaved ? 'currentColor' : 'none'} />
+        </button>
+        {release.url && (
+          <button
+            type="button"
+            className={'row-action' + (copied ? ' is-active' : '')}
+            onClick={handleCopy}
+            aria-label={copied ? 'Link copied' : `Copy link to "${release.title}"`}
+            title={copied ? 'Copied!' : 'Copy link'}
+          >
+            {copied ? <Check size={14} aria-hidden="true" /> : <Link2 size={14} aria-hidden="true" />}
+          </button>
         )}
       </div>
-    </>
-  )
-
-  if (release.url) {
-    return (
-      <a
-        className="news-row"
-        href={release.url}
-        target="_blank"
-        rel="noopener noreferrer"
-        aria-label={release.title}
-      >
-        {inner}
-      </a>
-    )
-  }
-
-  return (
-    <div className="news-row" role="article" aria-label={release.title}>
-      {inner}
-    </div>
+    </article>
   )
 }
+
+export default memo(NewsRow)

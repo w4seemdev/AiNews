@@ -1,0 +1,5 @@
+# AI Pulse — allow everything, point crawlers at the sitemap.
+User-agent: *
+Allow: /
+
+Sitemap: https://ai-pulse.vercel.app/sitemap.xml

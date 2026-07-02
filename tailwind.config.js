@@ -3,29 +3,30 @@ export default {
   content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
   theme: {
     extend: {
-      // The real design system lives in src/index.css as CSS variables +
-      // component classes (the "FORGED STEEL" theme). These tokens just mirror
-      // a few values so Tailwind utilities stay on-palette if used.
+      // The real design system ("Calm Dark Editorial") lives in src/index.css
+      // as CSS variables + hand-written component classes. These tokens mirror
+      // those values so any Tailwind utility stays on-palette if one is used.
       colors: {
+        bg: '#0D1117',
+        surface: {
+          DEFAULT: '#141A22',
+          raised: '#1B232E',
+        },
+        line: '#232C38',
         ink: {
-          950: '#070b14',
-          900: '#0b1120',
-          850: '#111a2e',
-          800: '#18233c',
-          700: '#243150',
+          DEFAULT: '#E8EDF3',
+          body: '#C4CDD8',
+          muted: '#8A95A4',
         },
         accent: {
-          DEFAULT: '#2f8bff',
-          soft: '#62a8ff',
-          deep: '#1f6fe0',
+          DEFAULT: '#4D8DFF',
+          deep: '#2563EB',
         },
-        steel: '#38bdf8',
       },
       fontFamily: {
-        head: ['Anton', 'Barlow Condensed', 'sans-serif'],
-        cond: ['"Barlow Condensed"', 'Barlow', 'sans-serif'],
-        sans: ['Barlow', 'system-ui', 'sans-serif'],
-        mono: ['"JetBrains Mono"', 'ui-monospace', 'monospace'],
+        serif: ['Newsreader', 'Georgia', '"Times New Roman"', 'serif'],
+        sans: ['Inter', 'system-ui', '-apple-system', 'sans-serif'],
+        mono: ['"IBM Plex Mono"', 'ui-monospace', 'monospace'],
       },
     },
   },
