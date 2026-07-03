@@ -1,0 +1,106 @@
+/* ============================================================
+   AI PULSE — DESIGN TOKENS
+   Dark navy developer-SaaS language: slate-950 canvas, slate-900
+   surfaces separated by slate-800 hairlines, a single electric
+   sky-blue accent, Inter everywhere with tight tracking.
+
+   Every color, font, radius, shadow and duration used by the
+   style modules lives here. Components consume ONLY these vars.
+   ============================================================ */
+
+:root {
+  /* ---- Surfaces ---- */
+  --bg:             #020617; /* slate-950 — page background        */
+  --surface:        #0f172a; /* slate-900 — cards, panels, inputs  */
+  --surface-raised: #1e293b; /* slate-800 — hover fills, active UI */
+  --surface-alt:    #0a1628; /* alternate section band             */
+
+  /* ---- Borders / hairlines ---- */
+  --border:         #1e293b;                 /* slate-800 — cards, dividers */
+  --border-mid:     #334155;                 /* slate-700 — inputs, ghost buttons */
+  --hairline:       rgba(255, 255, 255, 0.08); /* glass borders, header rule */
+  --glass:          rgba(255, 255, 255, 0.03); /* glass pill/card fill */
+
+  /* ---- Text ---- */
+  --text-strong:    #ffffff; /* hero headings, button labels     */
+  --text:           #f1f5f9; /* headings, card titles            */
+  --text-body:      #cbd5e1; /* body copy, deks                  */
+  --muted:          #94a3b8; /* subtitles, meta, inactive links  */
+  --text-faint:     #64748b; /* descriptions, footer links       */
+  --text-ghost:     #475569; /* micro labels, counts, captions   */
+
+  /* ---- Accent (sky) ---- */
+  --accent:             #38bdf8; /* sky-400 — CTAs, links, active states */
+  --accent-light:       #7dd3fc; /* sky-300 — badge text, gradient start */
+  --accent-deep:        #0ea5e9; /* sky-500 — gradient end               */
+  --accent-wash:        rgba(56, 189, 248, 0.10); /* active-nav / chip bg */
+  --accent-wash-strong: rgba(56, 189, 248, 0.18);
+  --accent-border:      rgba(56, 189, 248, 0.30); /* accent chip borders  */
+  --accent-border-soft: rgba(56, 189, 248, 0.25); /* quiet accent borders — pills, count chips, tinted panels */
+  --accent-glow:        rgba(56, 189, 248, 0.35); /* CTA glow shadows     */
+
+  /* ---- Status ---- */
+  --success:        #10b981; /* emerald-500 */
+  --success-wash:   rgba(16, 185, 129, 0.10); /* success alert fill   */
+  --success-border: rgba(16, 185, 129, 0.25); /* success alert border */
+  --danger:   #ef4444;
+  --warning:  #fbbf24;
+
+  /* ---- Source identity colors (data — unchanged) ---- */
+  --lab-openai:       #10A37F;
+  --lab-anthropic:    #D97757;
+  --lab-google:       #4D8DFF;
+  --lab-meta:         #0866FF;
+  --lab-mistral:      #FA520F;
+  --lab-xai:          #C9D2DE;
+  --lab-deepseek:     #7C6CF5;
+  --lab-huggingface:  #FFB000;
+  --lab-fallback:     #94a3b8;
+
+  /* ---- Category colors (data — unchanged) ---- */
+  --cat-model:    #4D8DFF;
+  --cat-feature:  #10A37F;
+  --cat-api:      #9B8CFF;
+  --cat-research: #FFB000;
+
+  /* ---- Typography ----
+     Single-family system: Inter carries every role.
+     --font-serif / --font-mono are LEGACY ALIASES kept so existing
+     rules keep compiling — both resolve to Inter. Use tabular-nums
+     (font-variant-numeric) where mono previously aligned digits. */
+  --font-sans:  'Inter', ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --font-serif: var(--font-sans);
+  --font-mono:  var(--font-sans);
+
+  /* ---- Radius scale ---- */
+  --radius-xs:   6px;    /* small tag chips            */
+  --radius-sm:   8px;    /* nav links, alerts, chips   */
+  --radius-md:   10px;   /* inputs, icon buttons       */
+  --radius-lg:   12px;   /* CTAs, big inputs, dropdowns*/
+  --radius-xl:   16px;   /* cards                      */
+  --radius-2xl:  20px;   /* major panels               */
+  --radius-pill: 9999px; /* pills, badges, dots        */
+
+  /* ---- Shadows (borders do the separation work — use sparingly) ---- */
+  --shadow-header:   0 2px 12px rgba(2, 6, 23, 0.45);
+  --shadow-badge:    0 2px 8px rgba(2, 6, 23, 0.45);
+  --shadow-dropdown: 0 16px 40px rgba(0, 0, 0, 0.4);
+  --shadow-glow:     0 0 32px var(--accent-glow);
+  --focus-ring:      0 0 0 3px var(--accent-wash);
+
+  /* ---- Motion ---- */
+  --ease-fast: 0.15s ease; /* color / background / border micro-interactions */
+  --ease-med:  0.2s ease;  /* card hover border + lift                       */
+  --ease-slow: 0.45s ease; /* image zoom inside cards                        */
+
+  /* ---- Layout rhythm ---- */
+  --maxw:       1240px; /* page container */
+  --gutter:     32px;   /* container inline padding */
+  --masthead-h: 64px;   /* sticky header height — sticky offsets derive from this */
+}
+
+@media (max-width: 640px) {
+  :root {
+    --gutter: 20px;
+  }
+}

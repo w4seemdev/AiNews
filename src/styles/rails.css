@@ -1,0 +1,713 @@
+/* ============================================================
+   RAILS — right sidebar (filter, sources, trending), newsletter
+   signup (sidebar + footer variants), and the site footer.
+   Templix skin: card panels with faint accent sheen, sentence-case
+   panel headers with icons, pill counts, gradient footer hairline.
+   ============================================================ */
+
+/* ============================================================
+   SIDEBAR
+   ============================================================ */
+
+.sidebar {
+  position: sticky;
+  top: calc(var(--masthead-h) + 16px);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.sidebar__panel {
+  background:
+    linear-gradient(
+      180deg,
+      color-mix(in srgb, var(--accent) 4%, transparent),
+      transparent 45%
+    ),
+    var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-xl);
+  padding: 20px;
+}
+
+/* Panel header — 13px Inter 600 sentence-case + muted icon, no rule */
+.sidebar__title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--font-sans);
+  font-size: 0.8125rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--text);
+  margin-bottom: 14px;
+}
+.sidebar__title svg {
+  color: var(--muted);
+  flex-shrink: 0;
+}
+
+/* Filter panel — vertical list of soft buttons */
+.sidebar__filter-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.sidebar__filter-btn {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 8px 10px;
+  border-radius: var(--radius-sm);
+  font-family: var(--font-sans);
+  font-size: 0.83rem;
+  font-weight: 400;
+  color: var(--text-body);
+  background: transparent;
+  transition: background var(--ease-fast), color var(--ease-fast);
+  cursor: pointer;
+  text-align: left;
+}
+.sidebar__filter-btn:hover {
+  background: var(--surface-raised);
+  color: var(--text);
+}
+.sidebar__filter-btn.active {
+  background: var(--accent-wash);
+  color: var(--accent);
+  font-weight: 500;
+}
+/* 2px accent indicator on the active row */
+.sidebar__filter-btn.active::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 6px;
+  bottom: 6px;
+  width: 2px;
+  border-radius: var(--radius-pill);
+  background: var(--accent);
+}
+
+.sidebar__filter-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+}
+
+/* Count as a right-aligned mini pill */
+.sidebar__filter-count {
+  font-family: var(--font-sans);
+  font-size: 0.68rem;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  color: var(--muted);
+  background: var(--glass);
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius-pill);
+  padding: 1px 7px;
+  line-height: 1.5;
+  transition: background var(--ease-fast), color var(--ease-fast);
+}
+.sidebar__filter-btn.active .sidebar__filter-count {
+  color: var(--accent);
+  background: var(--accent-wash);
+  border-color: var(--accent-border-soft);
+}
+
+/* Sources panel */
+.sidebar__source-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.sidebar__source-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 7px 8px;
+  margin: 0 -8px;
+  width: calc(100% + 16px);
+  border-radius: var(--radius-sm);
+  background: transparent;
+  text-align: left;
+  transition: background var(--ease-fast), transform var(--ease-fast);
+  cursor: pointer;
+}
+.sidebar__source-row:hover {
+  background: var(--surface-raised);
+  transform: translateX(2px);
+}
+.sidebar__source-row.active {
+  background: var(--accent-wash);
+  transform: none;
+}
+.sidebar__source-row.active .sidebar__source-left,
+.sidebar__source-row.active .sidebar__source-count {
+  color: var(--accent);
+}
+
+.sidebar__source-left {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  color: var(--text-body);
+}
+
+.sidebar__source-count {
+  font-family: var(--font-sans);
+  font-size: 0.68rem;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  color: var(--muted);
+  background: var(--glass);
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius-pill);
+  padding: 1px 7px;
+  line-height: 1.5;
+  transition: background var(--ease-fast), color var(--ease-fast);
+}
+.sidebar__source-row.active .sidebar__source-count {
+  background: var(--accent-wash);
+  border-color: var(--accent-border-soft);
+}
+
+/* "Show all sources" — small ghost button */
+.sidebar__source-clear {
+  align-self: flex-start;
+  font-family: var(--font-sans);
+  font-size: 0.72rem;
+  font-weight: 500;
+  color: var(--muted);
+  background: transparent;
+  border: 1px solid var(--border-mid);
+  border-radius: var(--radius-sm);
+  padding: 5px 12px;
+  margin-top: 6px;
+  transition: color var(--ease-fast), border-color var(--ease-fast),
+    transform var(--ease-fast);
+}
+.sidebar__source-clear:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+.sidebar__source-clear:active {
+  transform: translateY(1px);
+}
+
+/* Trending panel — gap-separated rows with full-row hover targets */
+.sidebar__trend-list {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.sidebar__trend-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 8px;
+  margin: 0 -8px;
+  border-radius: var(--radius-sm);
+  text-decoration: none;
+  color: inherit;
+  transition: background var(--ease-fast);
+}
+.sidebar__trend-item:hover {
+  background: var(--surface-raised);
+}
+.sidebar__trend-item:hover .sidebar__trend-title {
+  color: var(--accent);
+}
+
+/* Rank — 20px rounded-square accent token */
+.sidebar__trend-rank {
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  margin-top: 1px;
+  border-radius: var(--radius-xs);
+  background: var(--accent-wash);
+  font-family: var(--font-sans);
+  font-size: 0.68rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  color: var(--accent);
+}
+
+.sidebar__trend-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.sidebar__trend-title {
+  font-family: var(--font-sans);
+  font-size: 0.8125rem;
+  font-weight: 600;
+  line-height: 1.4;
+  letter-spacing: -0.01em;
+  color: var(--text);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  transition: color var(--ease-fast);
+}
+
+.sidebar__trend-meta {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-family: var(--font-sans);
+  font-size: 0.7rem;
+  color: var(--muted);
+  margin-top: 3px;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ============================================================
+   NEWSLETTER SIGNUP
+   ============================================================ */
+
+/* Sidebar highlight panel: accent-tinted border + radial glow */
+.sidebar__panel--newsletter {
+  position: relative;
+  overflow: hidden;
+  border-color: color-mix(in srgb, var(--accent) 25%, var(--border));
+  background:
+    radial-gradient(
+      120% 90% at 85% -10%,
+      var(--accent-wash),
+      transparent 55%
+    ),
+    var(--surface);
+}
+
+.newsletter__heading {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--text);
+  margin-bottom: 8px;
+}
+
+/* Mail icon inside a 28px rounded-square accent-wash tile */
+.newsletter__icon-tile {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  flex-shrink: 0;
+  border-radius: var(--radius-sm);
+  background: var(--accent-wash);
+  border: 1px solid color-mix(in srgb, var(--accent) 20%, transparent);
+}
+.newsletter__icon-tile svg {
+  color: var(--accent);
+}
+
+.newsletter__copy {
+  font-family: var(--font-sans);
+  font-size: 0.78rem;
+  color: var(--muted);
+  line-height: 1.55;
+  margin-bottom: 12px;
+  text-wrap: pretty;
+}
+
+.newsletter__form {
+  display: flex;
+  gap: 8px;
+}
+
+/* Panel variant is narrow — stack input over a full-width button */
+.newsletter--panel .newsletter__form {
+  flex-direction: column;
+}
+.newsletter--panel .newsletter__btn {
+  width: 100%;
+}
+
+.newsletter__input {
+  flex: 1;
+  min-width: 0;
+  font-family: var(--font-sans);
+  font-size: 0.82rem;
+  color: var(--text);
+  background: var(--bg);
+  border: 1px solid var(--border-mid);
+  border-radius: var(--radius-md);
+  padding: 11px 14px;
+  transition: border-color var(--ease-fast), box-shadow var(--ease-fast);
+}
+.newsletter__input::placeholder { color: var(--muted); }
+.newsletter__input:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: var(--focus-ring);
+}
+
+.newsletter__btn {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--bg);
+  background: linear-gradient(135deg, var(--accent-deep), var(--accent));
+  border-radius: var(--radius-md);
+  padding: 11px 16px;
+  white-space: nowrap;
+  transition: filter var(--ease-fast), box-shadow var(--ease-fast);
+}
+.newsletter__btn:hover {
+  filter: brightness(1.1);
+  box-shadow: 0 0 20px var(--accent-border-soft);
+}
+.newsletter__btn:active {
+  transform: translateY(1px);
+}
+
+/* Success confirmation — tinted alert card, animates in */
+.newsletter__done {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  font-family: var(--font-sans);
+  font-size: 0.78rem;
+  color: var(--success);
+  line-height: 1.5;
+  background: var(--success-wash);
+  border: 1px solid var(--success-border);
+  border-radius: var(--radius-md);
+  padding: 10px 12px;
+  animation: newsletter-done-in 0.25s ease both;
+}
+.newsletter__done svg {
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+@keyframes newsletter-done-in {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.newsletter__fine {
+  font-family: var(--font-sans);
+  font-size: 0.7rem;
+  color: var(--text-faint);
+  margin-top: 10px;
+}
+
+/* Footer variant — single pill-joined input+button group */
+.newsletter--footer .newsletter__copy {
+  max-width: 340px;
+}
+.newsletter--footer .newsletter__form {
+  max-width: 340px;
+  gap: 0;
+  padding: 4px;
+  background: var(--bg);
+  border: 1px solid var(--border-mid);
+  border-radius: var(--radius-pill);
+  transition: border-color var(--ease-fast), box-shadow var(--ease-fast);
+}
+.newsletter--footer .newsletter__form:focus-within {
+  border-color: var(--accent);
+  box-shadow: var(--focus-ring);
+}
+.newsletter--footer .newsletter__input {
+  background: transparent;
+  border: none;
+  padding: 7px 12px;
+}
+.newsletter--footer .newsletter__input:focus {
+  border: none;
+  box-shadow: none;
+}
+.newsletter--footer .newsletter__btn {
+  border-radius: var(--radius-pill);
+  padding: 7px 16px;
+}
+.newsletter--footer .newsletter__done {
+  max-width: 340px;
+}
+
+/* ============================================================
+   FOOTER
+   ============================================================ */
+
+.footer {
+  position: relative;
+  background: var(--surface);
+  margin-top: 64px;
+}
+/* Gradient hairline instead of a flat border-top */
+.footer::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    var(--accent-border) 50%,
+    transparent
+  );
+}
+
+.footer__inner {
+  width: 100%;
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 56px var(--gutter) 28px;
+}
+
+.footer__grid {
+  display: grid;
+  grid-template-columns: 1.4fr 0.8fr 1.2fr;
+  gap: 40px;
+}
+
+.footer__brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-family: var(--font-sans);
+  font-weight: 700;
+  font-size: 1rem;
+  letter-spacing: -0.02em;
+  color: var(--text);
+  margin-bottom: 12px;
+}
+
+/* Gradient logo mark, matching the masthead tile */
+.footer__logo {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 26px;
+  height: 26px;
+  flex-shrink: 0;
+  border-radius: var(--radius-sm);
+  background: linear-gradient(135deg, var(--accent), var(--accent-deep));
+}
+
+.footer__about {
+  font-family: var(--font-sans);
+  font-size: 0.78rem;
+  color: var(--muted);
+  line-height: 1.6;
+  margin-bottom: 16px;
+  max-width: 340px;
+}
+
+.footer__feeds {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+/* Icon pill buttons */
+.footer__feed-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-sans);
+  font-size: 0.74rem;
+  font-weight: 500;
+  color: var(--text-body);
+  background: var(--glass);
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius-pill);
+  padding: 6px 13px;
+  transition: color var(--ease-fast), border-color var(--ease-fast),
+    background var(--ease-fast);
+}
+.footer__feed-link:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+/* Column titles — sentence-case, same voice as sidebar panel headers */
+.footer__title {
+  font-family: var(--font-sans);
+  font-size: 0.8125rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--text);
+  margin-bottom: 14px;
+}
+
+.footer__source-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.footer__source-link {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--font-sans);
+  font-size: 0.78rem;
+  color: var(--text-body);
+  padding: 5px 8px;
+  margin: 0 -8px;
+  border-radius: var(--radius-xs);
+  transition: color var(--ease-fast), background var(--ease-fast);
+}
+.footer__source-link:hover {
+  color: var(--accent);
+  background: var(--surface-raised);
+}
+
+.footer__bottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+  border-top: 1px solid var(--border);
+  margin-top: 40px;
+  padding-top: 18px;
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  color: var(--text-faint);
+}
+
+.footer__top-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-family: var(--font-sans);
+  font-size: 0.72rem;
+  font-weight: 500;
+  color: var(--muted);
+  padding: 6px 10px;
+  margin: -6px -10px;
+  border-radius: var(--radius-sm);
+  transition: color var(--ease-fast), background var(--ease-fast);
+}
+.footer__top-btn:hover {
+  color: var(--accent);
+  background: var(--surface-raised);
+}
+
+/* ============================================================
+   RESPONSIVE
+   ============================================================ */
+
+@media (max-width: 1023px) {
+  /* Sidebar stacks below the river. The category Filter panel is dropped
+     (the chip bar above the river covers it); sources, trending, and the
+     newsletter stay reachable on mobile. */
+  .sidebar {
+    position: static;
+    margin-top: 40px;
+    padding-top: 28px;
+    border-top: 1px solid var(--border);
+  }
+
+  .sidebar__panel--filter {
+    display: none;
+  }
+
+  /* Sources compress into a two-column grid */
+  .sidebar__source-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2px 12px;
+  }
+  .sidebar__source-row {
+    margin: 0;
+    width: 100%;
+  }
+  .sidebar__source-clear {
+    grid-column: 1 / -1;
+    justify-self: start;
+  }
+
+  .footer__grid {
+    grid-template-columns: 1fr 1fr;
+  }
+  .footer__col--newsletter {
+    grid-column: 1 / -1;
+  }
+  /* Source links flow into two columns at tablet widths */
+  .footer__source-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2px 16px;
+  }
+}
+
+@media (max-width: 640px) {
+  /* 16px inputs stop iOS Safari from zooming the page on focus */
+  .newsletter__input {
+    font-size: 16px;
+  }
+
+  .footer__inner {
+    padding-top: 40px;
+  }
+
+  .footer__grid {
+    grid-template-columns: 1fr;
+    gap: 28px;
+  }
+  .footer__source-list {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (pointer: coarse) {
+  .sidebar__filter-btn {
+    padding: 12px 10px;
+  }
+  .sidebar__source-row {
+    padding: 11px 8px;
+  }
+  .sidebar__trend-item {
+    padding: 11px 8px;
+  }
+  .sidebar__source-clear {
+    padding: 9px 14px;
+  }
+  .footer__source-link {
+    padding: 10px 8px;
+  }
+  .footer__feed-link {
+    padding: 10px 16px;
+  }
+  .footer__top-btn {
+    padding: 10px 12px;
+    margin: -10px -12px;
+  }
+}

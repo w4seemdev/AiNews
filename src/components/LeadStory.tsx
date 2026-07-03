@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, type CSSProperties } from 'react'
 import { ArrowRight, Bookmark, Check, Link2 } from 'lucide-react'
 import type { Release } from '../types'
 import { CAT_COLOR, fullDate, isFresh, labColor, labMonogram, relativeTime } from '../lib/format'
@@ -48,13 +48,18 @@ export default function LeadStory({ release, now, isSaved, onToggleSave, onMarkR
           className="lead__monogram"
           aria-hidden="true"
           style={{
-            background: `linear-gradient(145deg, color-mix(in srgb, ${color} 18%, #0D1117), #0D1117)`,
+            background: `linear-gradient(145deg, color-mix(in srgb, ${color} 18%, var(--surface)), var(--surface))`,
             color,
           }}
         >
           {mono}
         </div>
       )}
+      <div className="lead__scrim" aria-hidden="true" />
+      <div className="lead__badges">
+        <span className="lead__featured-badge">Featured</span>
+        {fresh && <span className="new-badge">New</span>}
+      </div>
     </div>
   )
 
@@ -76,6 +81,8 @@ export default function LeadStory({ release, now, isSaved, onToggleSave, onMarkR
         media
       )}
 
+      {/* Body */}
+      <div className="lead__body">
       {/* Meta line */}
       <div className="lead__meta">
         <div className="lead__meta-left">
@@ -86,9 +93,12 @@ export default function LeadStory({ release, now, isSaved, onToggleSave, onMarkR
           />
           <span className="source-name">{release.lab}</span>
           <span className="meta-sep" aria-hidden="true">·</span>
-          <span className="cat-label" style={{ color: catColor }}>{release.category}</span>
-          <span className="lead__featured-badge">Featured</span>
-          {fresh && <span className="new-badge">New</span>}
+          <span
+            className="cat-chip"
+            style={{ '--chip-color': catColor } as CSSProperties}
+          >
+            {release.category}
+          </span>
         </div>
         <div className="lead__meta-right">
           <button
@@ -104,7 +114,7 @@ export default function LeadStory({ release, now, isSaved, onToggleSave, onMarkR
           {release.url && (
             <button
               type="button"
-              className={'row-action' + (copied ? ' is-active' : '')}
+              className={'row-action' + (copied ? ' is-active is-copied' : '')}
               onClick={handleCopy}
               aria-label={copied ? 'Link copied' : `Copy link to "${release.title}"`}
               title={copied ? 'Copied!' : 'Copy link'}
@@ -153,6 +163,7 @@ export default function LeadStory({ release, now, isSaved, onToggleSave, onMarkR
           Read the brief <ArrowRight size={13} aria-hidden="true" />
         </a>
       )}
+      </div>
     </article>
   )
 }

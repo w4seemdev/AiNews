@@ -1,4 +1,4 @@
-import { Rss } from 'lucide-react'
+import { ArrowUp, Mail, Rss } from 'lucide-react'
 import { LAB_COLOR } from '../lib/format'
 import NewsletterSignup from './NewsletterSignup'
 
@@ -23,7 +23,20 @@ export default function Footer() {
           {/* About */}
           <div className="footer__col footer__col--about">
             <div className="footer__brand">
-              <span className="masthead__dot" aria-hidden="true" />
+              <span className="footer__logo" aria-hidden="true">
+                <svg
+                  width="14"
+                  height="14"
+                  viewBox="0 0 16 16"
+                  fill="none"
+                  style={{ stroke: 'var(--bg)' }}
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                >
+                  <path d="M1.5 8h3l2-4.5 3 9 2-4.5h3" />
+                </svg>
+              </span>
               AI Pulse
             </div>
             <p className="footer__about">
@@ -36,7 +49,7 @@ export default function Footer() {
                 <Rss size={13} aria-hidden="true" /> JSON feed
               </a>
               <a className="footer__feed-link" href="mailto:waseemabufares@gmail.com">
-                Contact
+                <Mail size={13} aria-hidden="true" /> Contact
               </a>
             </div>
           </div>
@@ -73,6 +86,17 @@ export default function Footer() {
 
         <div className="footer__bottom">
           <span>© {year} AI Pulse. Headlines and summaries link to the original announcements.</span>
+          <button
+            type="button"
+            className="footer__top-btn"
+            onClick={() => {
+              const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches
+              window.scrollTo({ top: 0, behavior: reduce ? 'auto' : 'smooth' })
+            }}
+          >
+            <ArrowUp size={13} aria-hidden="true" />
+            Back to top
+          </button>
         </div>
       </div>
     </footer>

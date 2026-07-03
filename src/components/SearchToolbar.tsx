@@ -81,17 +81,30 @@ export default function SearchToolbar({
         </span>
       )}
 
-      <button
-        type="button"
-        className="toolbar__density"
-        onClick={() => onDensityChange(compact ? 'comfortable' : 'compact')}
-        aria-pressed={compact}
-        title={compact ? 'Switch to comfortable view' : 'Switch to headlines-only view'}
-        aria-label={compact ? 'Switch to comfortable view' : 'Switch to headlines-only view'}
-      >
-        {compact ? <LayoutList size={14} aria-hidden="true" /> : <AlignJustify size={14} aria-hidden="true" />}
-        <span className="toolbar__density-label">{compact ? 'Comfortable' : 'Headlines'}</span>
-      </button>
+      <div className="toolbar__seg" role="group" aria-label="River density">
+        <button
+          type="button"
+          className="toolbar__seg-btn"
+          onClick={() => onDensityChange('comfortable')}
+          aria-pressed={!compact}
+          title="Comfortable view"
+          aria-label="Switch to comfortable view"
+        >
+          <LayoutList size={14} aria-hidden="true" />
+          <span className="toolbar__seg-label">Comfortable</span>
+        </button>
+        <button
+          type="button"
+          className="toolbar__seg-btn"
+          onClick={() => onDensityChange('compact')}
+          aria-pressed={compact}
+          title="Headlines only"
+          aria-label="Switch to headlines-only view"
+        >
+          <AlignJustify size={14} aria-hidden="true" />
+          <span className="toolbar__seg-label">Headlines</span>
+        </button>
+      </div>
     </div>
   )
 }

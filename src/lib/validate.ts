@@ -7,6 +7,22 @@ function optionalString(v: unknown): string | undefined {
 }
 
 /**
+ * Scheme allowlist for untrusted feed URLs. Only absolute http(s) URLs are
+ * accepted — javascript:, data:, vbscript:, relative paths, and anything
+ * unparseable are dropped. Applied to every field that ends up in an
+ * <a href>, <img src>, or the copy-link clipboard.
+ */
+function safeHttpUrl(v: unknown): string | undefined {
+  if (typeof v !== 'string' || v.trim() === '') return undefined
+  try {
+    const protocol = new URL(v).protocol
+    return protocol === 'https:' || protocol === 'http:' ? v : undefined
+  } catch {
+    return undefined
+  }
+}
+
+/**
  * Runtime guard for the fetched /releases.json payload. The pipeline writes
  * well-formed data, but the fetch result is untrusted at the type level —
  * this replaces the old blind `as Release[]` cast. Malformed entries are
@@ -36,7 +52,7 @@ export function sanitizeReleases(input: unknown): Release[] {
       summary: typeof r.summary === 'string' ? r.summary : '',
       date: r.date,
       category: r.category as Category,
-      url: optionalString(r.url),
+      url: safeHttpUrl(r.url),
       contextWindow: optionalString(r.contextWindow),
       priceInput: optionalString(r.priceInput),
       priceOutput: optionalString(r.priceOutput),
@@ -44,7 +60,7 @@ export function sanitizeReleases(input: unknown): Release[] {
       tags: Array.isArray(r.tags)
         ? r.tags.filter((t): t is string => typeof t === 'string')
         : undefined,
-      image: optionalString(r.image),
+      image: safeHttpUrl(r.image),
     })
   }
   return out

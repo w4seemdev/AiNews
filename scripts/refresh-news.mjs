@@ -65,13 +65,16 @@ const SOURCES = [
 const SUMMARY_MAX = 240
 // Final cap on number of cards written (raised from 40).
 const OUTPUT_CAP = 60
+// Per-feed fetch timeout.
+const FETCH_TIMEOUT_MS = 15000
+// Per-feed response size cap. rss-parser buffers the whole body in memory, so
+// without a cap a compromised feed endpoint could OOM the daily CI job.
+const FETCH_MAX_BYTES = 5_000_000
 
-// rss-parser instance. customFields captures media/enclosure fields for
-// thumbnail extraction. A short timeout + browser-like UA helps feeds that
-// reject the default agent.
+// rss-parser instance (fed pre-fetched XML strings via parseString — see
+// fetchFeedXml for the timeout/size-capped transport). customFields captures
+// media/enclosure fields for thumbnail extraction.
 const parser = new Parser({
-  timeout: 15000,
-  headers: { 'User-Agent': 'ai-pulse-refresh/1.0 (+https://github.com/)' },
   customFields: {
     item: [
       // RSS Media extensions (media:thumbnail, media:content).
@@ -237,12 +240,63 @@ function extractImage(entry) {
   return undefined
 }
 
+/**
+ * Fetch a feed URL with a hard timeout and response-size cap, returning the
+ * body as text for parser.parseString(). The size cap is enforced while
+ * streaming, so an over-limit body is aborted early rather than buffered.
+ */
+async function fetchFeedXml(feedUrl) {
+  // Outbound requests are restricted to the https:// allowlist in SOURCES.
+  if (!/^https:\/\//i.test(feedUrl)) {
+    throw new Error(`refusing non-https feed URL: ${feedUrl}`)
+  }
+
+  const res = await fetch(feedUrl, {
+    signal: AbortSignal.timeout(FETCH_TIMEOUT_MS),
+    headers: {
+      'User-Agent': 'ai-pulse-refresh/1.0 (+https://github.com/)',
+      Accept:
+        'application/rss+xml, application/atom+xml, application/xml, text/xml;q=0.9, */*;q=0.8',
+    },
+  })
+  if (!res.ok) throw new Error(`HTTP ${res.status}`)
+
+  // Fast reject when the server declares an over-limit size up front.
+  const declared = Number(res.headers.get('content-length'))
+  if (Number.isFinite(declared) && declared > FETCH_MAX_BYTES) {
+    throw new Error(`feed too large (${declared} bytes declared)`)
+  }
+
+  // Stream with a running byte count so we never buffer more than the cap.
+  if (!res.body) {
+    const buf = await res.arrayBuffer()
+    if (buf.byteLength > FETCH_MAX_BYTES) throw new Error('feed too large')
+    return new TextDecoder().decode(buf)
+  }
+  const reader = res.body.getReader()
+  const chunks = []
+  let total = 0
+  for (;;) {
+    const { done, value } = await reader.read()
+    if (done) break
+    total += value.byteLength
+    if (total > FETCH_MAX_BYTES) {
+      await reader.cancel()
+      throw new Error(`feed too large (>${FETCH_MAX_BYTES} bytes)`)
+    }
+    chunks.push(value)
+  }
+  return new TextDecoder().decode(Buffer.concat(chunks))
+}
+
 /** Map a single rss-parser entry + its source lab to a Release card. */
 function toCard(entry, lab) {
   const title = cleanText(entry.title)
   if (!title) return null // skip entries without a usable title
 
-  const url = entry.link || undefined
+  // Only absolute http(s) links may reach <a href> / clipboard in the UI —
+  // never javascript:, data:, or other schemes from untrusted feed entries.
+  const url = /^https?:\/\//i.test(entry.link || '') ? entry.link : undefined
   const date = toIsoDate(entry)
 
   // Summary: prefer contentSnippet (already text); if empty/whitespace, fall
@@ -292,7 +346,8 @@ async function collect() {
 
   for (const source of SOURCES) {
     try {
-      const feed = await parser.parseURL(source.feed)
+      const xml = await fetchFeedXml(source.feed)
+      const feed = await parser.parseString(xml)
       const items = feed.items || []
       let mapped = 0
       for (const item of items) {

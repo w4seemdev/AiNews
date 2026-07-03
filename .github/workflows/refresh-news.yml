@@ -13,24 +13,33 @@ on:
   # Allow manual runs from the Actions tab.
   workflow_dispatch:
 
-# Needed so the commit step can push back to the repo.
-permissions:
-  contents: write
+# Default: no permissions for any job unless it opts in below.
+permissions: {}
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    # contents:write is scoped to THIS job only, so the commit step can push
+    # back to the repo; any future jobs default to no access.
+    permissions:
+      contents: write
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        # Pinned to an immutable commit SHA (tag-hijack protection).
+        uses: actions/checkout@08eba0b27e820071cde6df949e0beb9ba4906955 # v4.3.0
 
       - name: Set up Node
-        uses: actions/setup-node@v4
+        # Pinned to an immutable commit SHA (tag-hijack protection).
+        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
         with:
           node-version: 20
 
       - name: Install dependencies
-        run: npm install
+        # `npm ci` installs the exact versions pinned in package-lock.json;
+        # `--ignore-scripts` blocks dependency install scripts from executing
+        # in a job that holds contents:write and ANTHROPIC_API_KEY
+        # (rss-parser and the rest of this toolchain need no install scripts).
+        run: npm ci --ignore-scripts
 
       - name: Refresh news feed
         run: npm run refresh

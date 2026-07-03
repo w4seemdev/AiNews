@@ -1,5 +1,5 @@
 import { useState, type FormEvent } from 'react'
-import { Mail } from 'lucide-react'
+import { Check, Mail } from 'lucide-react'
 
 interface NewsletterSignupProps {
   /** 'panel' renders inside a sidebar card; 'footer' renders inline in the footer. */
@@ -28,7 +28,9 @@ export default function NewsletterSignup({ variant = 'panel' }: NewsletterSignup
   return (
     <div className={`newsletter newsletter--${variant}`}>
       <h2 className="newsletter__heading">
-        <Mail size={14} aria-hidden="true" />
+        <span className="newsletter__icon-tile" aria-hidden="true">
+          <Mail size={14} />
+        </span>
         The daily briefing
       </h2>
       <p className="newsletter__copy">
@@ -36,7 +38,11 @@ export default function NewsletterSignup({ variant = 'panel' }: NewsletterSignup
       </p>
       {done ? (
         <p className="newsletter__done" role="status">
-          Almost there — send the email that just opened and you&rsquo;re on the list.
+          <Check size={14} aria-hidden="true" />
+          <span>
+            Almost there — send the email that just opened (to
+            waseemabufares@gmail.com) and you&rsquo;re on the list.
+          </span>
         </p>
       ) : (
         <form className="newsletter__form" onSubmit={handleSubmit}>

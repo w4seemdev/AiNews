@@ -1,4 +1,16 @@
+import { useEffect, useState } from 'react'
+
 export default function Masthead() {
+  // Scroll elevation: border + shadow appear only after the page scrolls.
+  const [scrolled, setScrolled] = useState(false)
+
+  useEffect(() => {
+    const onScroll = () => setScrolled(window.scrollY > 4)
+    onScroll()
+    window.addEventListener('scroll', onScroll, { passive: true })
+    return () => window.removeEventListener('scroll', onScroll)
+  }, [])
+
   const now = new Date()
   const today = now.toLocaleDateString('en-US', {
     weekday: 'long',
@@ -13,11 +25,24 @@ export default function Masthead() {
   ].join('-')
 
   return (
-    <header className="masthead">
+    <header className={`masthead${scrolled ? ' is-scrolled' : ''}`}>
       <div className="masthead__inner">
         <div className="masthead__brand">
           <h1 className="masthead__wordmark">
-            <span className="masthead__dot" aria-hidden="true" />
+            <span className="masthead__logo" aria-hidden="true">
+              <svg
+                width="16"
+                height="16"
+                viewBox="0 0 16 16"
+                fill="none"
+                stroke="#020617"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              >
+                <path d="M1.5 8h3l2-4.5 3 9 2-4.5h3" />
+              </svg>
+            </span>
             AI Pulse
           </h1>
           <p className="masthead__tagline">The AI newswire</p>

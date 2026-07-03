@@ -1,4 +1,5 @@
 import { useCallback, useEffect, useMemo, useState } from 'react'
+import { Bookmark, Inbox, SearchX, TriangleAlert, X } from 'lucide-react'
 import { releases as sampleReleases } from '../data/releases'
 import type { Lab, Release } from '../types'
 import FilterBar, { type Filter } from './FilterBar'
@@ -95,6 +96,7 @@ function matchesQuery(r: Release, q: string): boolean {
 export default function Feed() {
   const [data, setData] = useState<Release[] | null>(null)
   const [usedFallback, setUsedFallback] = useState(false)
+  const [fallbackDismissed, setFallbackDismissed] = useState(false)
   const [active, setActive] = useState<Filter>('all')
   const [activeLab, setActiveLab] = useState<Lab | null>(null)
   const [query, setQuery] = useState('')
@@ -283,9 +285,20 @@ export default function Feed() {
     <div className="layout">
       {/* Main column */}
       <main className="layout__main" id="main-content" tabIndex={-1}>
-        {usedFallback && (
+        {usedFallback && !fallbackDismissed && (
           <div className="fallback-note" role="status">
-            Live feed unavailable — showing sample data.
+            <TriangleAlert size={14} aria-hidden="true" />
+            <span className="fallback-note__text">
+              Live feed unavailable — showing sample data.
+            </span>
+            <button
+              type="button"
+              className="fallback-note__close"
+              onClick={() => setFallbackDismissed(true)}
+              aria-label="Dismiss notice"
+            >
+              <X size={13} aria-hidden="true" />
+            </button>
           </div>
         )}
 
@@ -320,6 +333,15 @@ export default function Feed() {
         {/* River: date-grouped rows */}
         {riverAll.length === 0 ? (
           <div className="empty-state">
+            <div className="empty-state__icon" aria-hidden="true">
+              {active === 'saved' ? (
+                <Bookmark size={24} />
+              ) : q !== '' ? (
+                <SearchX size={24} />
+              ) : (
+                <Inbox size={24} />
+              )}
+            </div>
             <p>{emptyMessage}</p>
             {(q !== '' || active !== 'all' || activeLab !== null) && (
               <button type="button" className="empty-state__clear" onClick={clearFilters}>
@@ -331,20 +353,25 @@ export default function Feed() {
           <>
             {groups.map((group) => (
               <section key={group.label} aria-label={group.label}>
-                <h2 className="date-group">{group.label}</h2>
+                <h2 className="date-group">
+                  <span className="date-group__label">
+                    {group.label}
+                    <span className="date-group__count" aria-label={`${group.items.length} ${group.items.length === 1 ? 'story' : 'stories'}`}>
+                      {group.items.length}
+                    </span>
+                  </span>
+                </h2>
                 <div className={'river' + (density === 'compact' ? ' river--compact' : '')}>
-                  {group.items.map((r, i) => (
-                    <div key={r.id}>
-                      {i > 0 && <div className="river__divider" aria-hidden="true" />}
-                      <NewsRow
-                        release={r}
-                        now={now}
-                        isSaved={saved.has(r.id)}
-                        isRead={read.has(r.id)}
-                        onToggleSave={toggleSave}
-                        onMarkRead={markRead}
-                      />
-                    </div>
+                  {group.items.map((r) => (
+                    <NewsRow
+                      key={r.id}
+                      release={r}
+                      now={now}
+                      isSaved={saved.has(r.id)}
+                      isRead={read.has(r.id)}
+                      onToggleSave={toggleSave}
+                      onMarkRead={markRead}
+                    />
                   ))}
                 </div>
               </section>

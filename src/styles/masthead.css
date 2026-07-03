@@ -1,0 +1,130 @@
+/* ============================================================
+   MASTHEAD — sticky 64px header, glass blur, scroll elevation.
+   Border + shadow appear only once the page has scrolled
+   (.is-scrolled is toggled by Masthead.tsx).
+   ============================================================ */
+
+.masthead {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: color-mix(in srgb, var(--bg) 85%, transparent);
+  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid transparent;
+  height: var(--masthead-h);
+  display: flex;
+  align-items: center;
+  transition: border-color var(--ease-fast), box-shadow var(--ease-fast);
+}
+
+.masthead.is-scrolled {
+  border-bottom-color: var(--hairline);
+  box-shadow: var(--shadow-header);
+}
+
+.masthead__inner {
+  width: 100%;
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.masthead__brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.masthead__wordmark {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-family: var(--font-sans);
+  font-weight: 700;
+  font-size: 1.15rem;
+  color: var(--text-strong);
+  letter-spacing: -0.02em;
+  line-height: 1;
+}
+
+/* Gradient logo tile with pulse glyph (SVG lives in Masthead.tsx) */
+.masthead__logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: var(--radius-sm);
+  background: linear-gradient(135deg, var(--accent) 0%, var(--accent-deep) 100%);
+  box-shadow: var(--shadow-badge);
+  flex-shrink: 0;
+}
+.masthead__logo svg {
+  display: block;
+}
+
+.masthead__tagline {
+  font-size: 0.6875rem;
+  color: var(--muted);
+  font-family: var(--font-sans);
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.masthead__right {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  flex-shrink: 0;
+}
+
+.masthead__date {
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  color: var(--text-faint);
+  letter-spacing: 0.02em;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+/* "Updated daily" — glass pill badge with pulsing accent dot */
+.masthead__live {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-sans);
+  font-size: 0.6875rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--accent);
+  background: var(--accent-wash);
+  border: 1px solid var(--accent-border-soft);
+  border-radius: var(--radius-pill);
+  padding: 5px 12px;
+  white-space: nowrap;
+}
+
+.masthead__live-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  animation: livepulse 2.2s ease-in-out infinite;
+}
+
+@keyframes livepulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.35; }
+}
+
+@media (max-width: 640px) {
+  .masthead__tagline { display: none; }
+  .masthead__live { display: none; }
+}

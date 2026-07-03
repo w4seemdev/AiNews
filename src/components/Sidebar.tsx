@@ -1,3 +1,4 @@
+import { Filter as FilterIcon, Radio, TrendingUp } from 'lucide-react'
 import type { Lab, Release } from '../types'
 import FilterBar, { type Filter } from './FilterBar'
 import NewsletterSignup from './NewsletterSignup'
@@ -40,7 +41,10 @@ export default function Sidebar({
     <aside className="sidebar" aria-label="Filters, sources, and trending">
       {/* 1 — Filter panel (hidden on mobile — the chip bar covers it) */}
       <div className="sidebar__panel sidebar__panel--filter">
-        <h2 className="sidebar__title">Filter</h2>
+        <h2 className="sidebar__title">
+          <FilterIcon size={14} aria-hidden="true" />
+          Filter
+        </h2>
         <FilterBar
           active={active}
           onChange={onChange}
@@ -51,7 +55,10 @@ export default function Sidebar({
 
       {/* 2 — Sources panel (clickable lab filter) */}
       <div className="sidebar__panel">
-        <h2 className="sidebar__title">Sources</h2>
+        <h2 className="sidebar__title">
+          <Radio size={14} aria-hidden="true" />
+          Sources
+        </h2>
         <div className="sidebar__source-list" role="group" aria-label="Filter releases by lab">
           {labCounts.map(({ lab, count }) => {
             const selected = activeLab === lab
@@ -90,14 +97,17 @@ export default function Sidebar({
 
       {/* 3 — Trending panel */}
       <div className="sidebar__panel">
-        <h2 className="sidebar__title">Trending this week</h2>
+        <h2 className="sidebar__title">
+          <TrendingUp size={14} aria-hidden="true" />
+          Trending this week
+        </h2>
         <div className="sidebar__trend-list">
           {trendItems.map((r, i) => {
             const color = labColor(r.lab)
             const body = (
               <>
                 <span className="sidebar__trend-rank" aria-hidden="true">
-                  {String(i + 1).padStart(2, '0')}
+                  {i + 1}
                 </span>
                 <div className="sidebar__trend-body">
                   <div className="sidebar__trend-title">{r.title}</div>
@@ -137,7 +147,7 @@ export default function Sidebar({
       </div>
 
       {/* 4 — Newsletter panel */}
-      <div className="sidebar__panel">
+      <div className="sidebar__panel sidebar__panel--newsletter">
         <NewsletterSignup variant="panel" />
       </div>
     </aside>

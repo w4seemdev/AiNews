@@ -49,10 +49,7 @@ function NewsRow({ release, now, isSaved, isRead, onToggleSave, onMarkRead }: Ne
   }
 
   return (
-    <article
-      className={'news-row' + (isRead ? ' is-read' : '')}
-      style={{ '--row-accent': color } as CSSProperties}
-    >
+    <article className={'news-row' + (isRead ? ' is-read' : '')}>
       {/* Thumbnail */}
       <div className="news-row__thumb" aria-hidden="true">
         {showImage && (
@@ -70,7 +67,7 @@ function NewsRow({ release, now, isSaved, isRead, onToggleSave, onMarkRead }: Ne
           <div
             className="news-row__thumb-mono"
             style={{
-              background: `linear-gradient(145deg, color-mix(in srgb, ${color} 16%, #141A22), #141A22)`,
+              background: `linear-gradient(145deg, color-mix(in srgb, ${color} 16%, var(--surface-raised)), var(--surface-raised))`,
               color,
             }}
           >
@@ -87,7 +84,12 @@ function NewsRow({ release, now, isSaved, isRead, onToggleSave, onMarkRead }: Ne
             <span className="source-dot" style={{ background: color }} aria-hidden="true" />
             <span className="source-name">{release.lab}</span>
             <span className="meta-sep" aria-hidden="true">·</span>
-            <span className="cat-label" style={{ color: catColor }}>{release.category}</span>
+            <span
+              className="cat-chip"
+              style={{ '--chip-color': catColor } as CSSProperties}
+            >
+              {release.category}
+            </span>
             {fresh && <span className="new-badge">New</span>}
           </div>
           <time
@@ -136,7 +138,7 @@ function NewsRow({ release, now, isSaved, isRead, onToggleSave, onMarkRead }: Ne
         {release.url && (
           <button
             type="button"
-            className={'row-action' + (copied ? ' is-active' : '')}
+            className={'row-action' + (copied ? ' is-active is-copied' : '')}
             onClick={handleCopy}
             aria-label={copied ? 'Link copied' : `Copy link to "${release.title}"`}
             title={copied ? 'Copied!' : 'Copy link'}

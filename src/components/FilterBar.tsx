@@ -33,7 +33,13 @@ export default function FilterBar({ active, onChange, counts, variant = 'chips' 
             onClick={() => onChange(o.value)}
           >
             <span className="sidebar__filter-label">
-              {o.value === 'saved' && <Bookmark size={12} aria-hidden="true" />}
+              {o.value === 'saved' && (
+                <Bookmark
+                  size={12}
+                  aria-hidden="true"
+                  fill={(counts?.saved ?? 0) > 0 ? 'currentColor' : 'none'}
+                />
+              )}
               {o.label}
             </span>
             {counts?.[o.value] != null && (
@@ -56,7 +62,13 @@ export default function FilterBar({ active, onChange, counts, variant = 'chips' 
           className={'mobile-chip' + (active === o.value ? ' active' : '')}
           onClick={() => onChange(o.value)}
         >
-          {o.value === 'saved' && <Bookmark size={11} aria-hidden="true" />}
+          {o.value === 'saved' && (
+            <Bookmark
+              size={11}
+              aria-hidden="true"
+              fill={(counts?.saved ?? 0) > 0 ? 'currentColor' : 'none'}
+            />
+          )}
           {o.label}
           {counts?.[o.value] != null && (
             <span className="mobile-chip__count">{counts[o.value]}</span>
