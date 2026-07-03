@@ -1,5 +1,52 @@
 [
   {
+    "id": "https-blog-google-innovation-and-ai-technology-ai-google-ai-updates-june-2026",
+    "lab": "Google DeepMind",
+    "title": "The latest AI news we announced in June 2026",
+    "summary": "Here are Google’s latest AI updates from June 2026.",
+    "date": "2026-07-01T18:15:00.000Z",
+    "category": "model",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp",
+    "tags": [
+      "latest",
+      "june",
+      "news",
+      "announced"
+    ]
+  },
+  {
+    "id": "https-blog-google-products-and-platforms-products-education-nyc-ai-summit",
+    "lab": "Google DeepMind",
+    "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+    "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
+    "date": "2026-07-01T16:00:00.000Z",
+    "category": "model",
+    "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp",
+    "tags": [
+      "york",
+      "industry",
+      "leaders",
+      "google"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-cerebras-gemma4-voice-ai",
+    "lab": "Hugging Face",
+    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "summary": "",
+    "date": "2026-07-01T00:00:00.000Z",
+    "category": "model",
+    "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "tags": [
+      "hugging",
+      "face",
+      "cerebras",
+      "bring"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-ibm-research-scarfbench",
     "lab": "Hugging Face",
     "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
@@ -89,6 +136,20 @@
     ]
   },
   {
+    "id": "https-openai-com-index-genebench-pro-case-studies",
+    "lab": "OpenAI",
+    "title": "Inside Genebench-Pro",
+    "summary": "",
+    "date": "2026-06-30T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/genebench-pro/case-studies",
+    "tags": [
+      "inside",
+      "genebench",
+      "pro"
+    ]
+  },
+  {
     "id": "https-openai-com-index-introducing-genebench-pro",
     "lab": "OpenAI",
     "title": "Introducing GeneBench-Pro",
@@ -116,20 +177,6 @@
       "dump",
       "bug",
       "epidemiology"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-genebench-pro-case-studies",
-    "lab": "OpenAI",
-    "title": "Inside Genebench-Pro",
-    "summary": "",
-    "date": "2026-06-30T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/genebench-pro/case-studies",
-    "tags": [
-      "inside",
-      "genebench",
-      "pro"
     ]
   },
   {
@@ -404,21 +451,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-daybreak-securing-the-world",
-    "lab": "OpenAI",
-    "title": "Daybreak: Tools for securing every organization in the world",
-    "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-    "date": "2026-06-22T10:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/daybreak-securing-the-world",
-    "tags": [
-      "daybreak",
-      "tools",
-      "securing",
-      "every"
-    ]
-  },
-  {
     "id": "https-openai-com-index-patch-the-planet",
     "lab": "OpenAI",
     "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
@@ -431,6 +463,21 @@
       "planet",
       "daybreak",
       "initiative"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-daybreak-securing-the-world",
+    "lab": "OpenAI",
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+    "date": "2026-06-22T10:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "tags": [
+      "daybreak",
+      "tools",
+      "securing",
+      "every"
     ]
   },
   {
@@ -798,21 +845,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-bbva",
-    "lab": "OpenAI",
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-    "date": "2026-06-11T00:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/bbva",
-    "tags": [
-      "bbva",
-      "banking",
-      "openai",
-      "puts"
-    ]
-  },
-  {
     "id": "https-openai-com-index-using-codex-to-simulate-black-holes",
     "lab": "OpenAI",
     "title": "How an astrophysicist uses Codex to help simulate black holes",
@@ -843,6 +875,21 @@
     ]
   },
   {
+    "id": "https-openai-com-index-bbva",
+    "lab": "OpenAI",
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+    "date": "2026-06-11T00:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/bbva",
+    "tags": [
+      "bbva",
+      "banking",
+      "openai",
+      "puts"
+    ]
+  },
+  {
     "id": "https-openai-com-index-supporting-eu-trustworthy-ai-ecosystem",
     "lab": "OpenAI",
     "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
@@ -855,51 +902,6 @@
       "supporting",
       "europe",
       "work"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-openai-on-oracle-cloud",
-    "lab": "OpenAI",
-    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-    "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
-    "date": "2026-06-10T20:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/openai-on-oracle-cloud",
-    "tags": [
-      "access",
-      "openai",
-      "models",
-      "codex"
-    ]
-  },
-  {
-    "id": "https-deepmind-google-blog-diffusiongemma-4x-faster-text-generation",
-    "lab": "Google DeepMind",
-    "title": "DiffusionGemma: 4x faster text generation",
-    "summary": "",
-    "date": "2026-06-10T16:24:11.000Z",
-    "category": "feature",
-    "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
-    "tags": [
-      "diffusiongemma",
-      "faster",
-      "text",
-      "generation"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-prc-linked-influence-operations-ai-debates",
-    "lab": "OpenAI",
-    "title": "PRC-linked influence operations are targeting AI debates in the US",
-    "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT.",
-    "date": "2026-06-10T12:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-    "tags": [
-      "prc",
-      "linked",
-      "influence",
-      "operations"
     ]
   }
 ]
