@@ -1,5 +1,20 @@
 [
   {
+    "id": "https-deepmind-google-blog-google-deepmind-and-a24-announce-first-of-its-kind-re",
+    "lab": "Google DeepMind",
+    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+    "summary": "",
+    "date": "2026-07-03T14:25:43.000Z",
+    "category": "research",
+    "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "tags": [
+      "google",
+      "deepmind",
+      "a24",
+      "announce"
+    ]
+  },
+  {
     "id": "https-blog-google-innovation-and-ai-technology-ai-google-ai-updates-june-2026",
     "lab": "Google DeepMind",
     "title": "The latest AI news we announced in June 2026",
@@ -887,21 +902,6 @@
       "banking",
       "openai",
       "puts"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-supporting-eu-trustworthy-ai-ecosystem",
-    "lab": "OpenAI",
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-    "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-    "date": "2026-06-11T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-    "tags": [
-      "content",
-      "supporting",
-      "europe",
-      "work"
     ]
   }
 ]
