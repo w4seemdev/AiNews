@@ -1,5 +1,35 @@
 [
   {
+    "id": "https-huggingface-co-blog-lerobot-release-v060",
+    "lab": "Hugging Face",
+    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+    "summary": "",
+    "date": "2026-07-07T00:00:00.000Z",
+    "category": "model",
+    "url": "https://huggingface.co/blog/lerobot-release-v060",
+    "tags": [
+      "lerobot",
+      "imagine",
+      "evaluate",
+      "improve"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-photoroom-prx-part4-data",
+    "lab": "Hugging Face",
+    "title": "PRX Part 4: Our Data Strategy",
+    "summary": "",
+    "date": "2026-07-06T15:30:55.000Z",
+    "category": "model",
+    "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+    "tags": [
+      "prx",
+      "part",
+      "data",
+      "strategy"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-revamped-kernels",
     "lab": "Hugging Face",
     "title": "🤗 Kernels: Major Updates",
@@ -165,17 +195,18 @@
     ]
   },
   {
-    "id": "https-openai-com-index-genebench-pro-case-studies",
+    "id": "https-openai-com-index-core-dump-epidemiology-data-infrastructure-bug",
     "lab": "OpenAI",
-    "title": "Inside Genebench-Pro",
-    "summary": "",
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
     "date": "2026-06-30T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/genebench-pro/case-studies",
+    "category": "model",
+    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
     "tags": [
-      "inside",
-      "genebench",
-      "pro"
+      "core",
+      "dump",
+      "bug",
+      "epidemiology"
     ]
   },
   {
@@ -194,18 +225,17 @@
     ]
   },
   {
-    "id": "https-openai-com-index-core-dump-epidemiology-data-infrastructure-bug",
+    "id": "https-openai-com-index-genebench-pro-case-studies",
     "lab": "OpenAI",
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+    "title": "Inside Genebench-Pro",
+    "summary": "",
     "date": "2026-06-30T00:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "category": "feature",
+    "url": "https://openai.com/index/genebench-pro/case-studies",
     "tags": [
-      "core",
-      "dump",
-      "bug",
-      "epidemiology"
+      "inside",
+      "genebench",
+      "pro"
     ]
   },
   {
@@ -871,36 +901,6 @@
       "pytorch",
       "part",
       "linear"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-using-codex-to-simulate-black-holes",
-    "lab": "OpenAI",
-    "title": "How an astrophysicist uses Codex to help simulate black holes",
-    "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-    "date": "2026-06-11T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-    "tags": [
-      "astrophysicist",
-      "uses",
-      "codex",
-      "black"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-openai-to-acquire-ona",
-    "lab": "OpenAI",
-    "title": "OpenAI to acquire Ona",
-    "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-    "date": "2026-06-11T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/openai-to-acquire-ona",
-    "tags": [
-      "openai",
-      "acquire",
-      "ona",
-      "plans"
     ]
   }
 ]
