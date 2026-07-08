@@ -1,5 +1,66 @@
 [
   {
+    "id": "https-huggingface-co-blog-amazon-one-click-to-sagemaker-studio",
+    "lab": "Hugging Face",
+    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+    "summary": "",
+    "date": "2026-07-07T21:15:33.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "tags": [
+      "hugging",
+      "face",
+      "amazon",
+      "sagemaker"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-microsoft-foundry-managed-compute",
+    "lab": "Hugging Face",
+    "title": "Hugging Face Models on Foundry Managed Compute",
+    "summary": "",
+    "date": "2026-07-07T15:20:06.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "tags": [
+      "hugging",
+      "face",
+      "models",
+      "foundry"
+    ]
+  },
+  {
+    "id": "https-blog-google-innovation-and-ai-technology-developers-tools-expanding-manage",
+    "lab": "Google DeepMind",
+    "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+    "summary": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+    "date": "2026-07-07T08:54:00.000Z",
+    "category": "api",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp",
+    "tags": [
+      "agents",
+      "managed",
+      "gemini",
+      "api"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-skypilot-hf-storage",
+    "lab": "Hugging Face",
+    "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+    "summary": "",
+    "date": "2026-07-07T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/skypilot-hf-storage",
+    "tags": [
+      "run",
+      "workloads",
+      "cloud",
+      "store"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-lerobot-release-v060",
     "lab": "Hugging Face",
     "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
@@ -12,6 +73,36 @@
       "imagine",
       "evaluate",
       "improve"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-australian-payments-plus",
+    "lab": "OpenAI",
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+    "date": "2026-07-07T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/australian-payments-plus",
+    "tags": [
+      "payments",
+      "australian",
+      "plus",
+      "faster"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-mufg",
+    "lab": "OpenAI",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+    "date": "2026-07-07T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/mufg",
+    "tags": [
+      "mufg",
+      "native",
+      "aims",
+      "become"
     ]
   },
   {
@@ -510,21 +601,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-patch-the-planet",
-    "lab": "OpenAI",
-    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-    "date": "2026-06-22T10:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/patch-the-planet",
-    "tags": [
-      "patch",
-      "planet",
-      "daybreak",
-      "initiative"
-    ]
-  },
-  {
     "id": "https-openai-com-index-daybreak-securing-the-world",
     "lab": "OpenAI",
     "title": "Daybreak: Tools for securing every organization in the world",
@@ -537,6 +613,21 @@
       "tools",
       "securing",
       "every"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-patch-the-planet",
+    "lab": "OpenAI",
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+    "date": "2026-06-22T10:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/patch-the-planet",
+    "tags": [
+      "patch",
+      "planet",
+      "daybreak",
+      "initiative"
     ]
   },
   {
@@ -810,97 +901,6 @@
       "model",
       "behavior",
       "before"
-    ]
-  },
-  {
-    "id": "https-blog-google-innovation-and-ai-infrastructure-and-cloud-global-network-alab",
-    "lab": "Google DeepMind",
-    "title": "We’re strengthening our presence in Alabama through new investments and community support.",
-    "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
-    "date": "2026-06-15T15:00:00.000Z",
-    "category": "model",
-    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-    "tags": [
-      "alabama",
-      "strengthening",
-      "presence",
-      "through"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-introducing-openai-partner-network",
-    "lab": "OpenAI",
-    "title": "Introducing the OpenAI Partner Network",
-    "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
-    "date": "2026-06-14T17:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/introducing-openai-partner-network",
-    "tags": [
-      "openai",
-      "partner",
-      "network",
-      "launches"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-academy-courses-applying-ai-at-work",
-    "lab": "OpenAI",
-    "title": "New OpenAI Academy courses for the next era of work",
-    "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
-    "date": "2026-06-12T10:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-    "tags": [
-      "openai",
-      "academy",
-      "courses",
-      "work"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-preply",
-    "lab": "OpenAI",
-    "title": "How Preply combines AI and human tutors to personalize learning",
-    "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-    "date": "2026-06-12T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/preply",
-    "tags": [
-      "preply",
-      "learning",
-      "combines",
-      "human"
-    ]
-  },
-  {
-    "id": "https-blog-google-innovation-and-ai-infrastructure-and-cloud-global-network-virg",
-    "lab": "Google DeepMind",
-    "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
-    "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
-    "date": "2026-06-11T20:00:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp",
-    "tags": [
-      "energy",
-      "community",
-      "investments",
-      "virginia"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-torch-mlp-fusion",
-    "lab": "Hugging Face",
-    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-    "summary": "",
-    "date": "2026-06-11T00:00:00.000Z",
-    "category": "model",
-    "url": "https://huggingface.co/blog/torch-mlp-fusion",
-    "tags": [
-      "profiling",
-      "pytorch",
-      "part",
-      "linear"
     ]
   }
 ]
