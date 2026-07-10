@@ -31,3 +31,6 @@ token.json
 service-account*.json
 credentials*.json
 *.pem
+
+# Graphify knowledge graph output
+graphify-out/
