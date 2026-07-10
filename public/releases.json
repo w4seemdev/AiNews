@@ -1,5 +1,183 @@
 [
   {
+    "id": "https-openai-com-index-deutsche-telekom",
+    "lab": "OpenAI",
+    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+    "date": "2026-07-10T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/deutsche-telekom",
+    "tags": [
+      "deutsche",
+      "telekom",
+      "rewiring",
+      "telecommunications"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-torch-attention-profile",
+    "lab": "Hugging Face",
+    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+    "summary": "",
+    "date": "2026-07-10T00:00:00.000Z",
+    "category": "model",
+    "url": "https://huggingface.co/blog/torch-attention-profile",
+    "tags": [
+      "profiling",
+      "pytorch",
+      "part",
+      "attention"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-gpt-5-6-preferred-model-microsoft-365-copilot",
+    "lab": "OpenAI",
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+    "date": "2026-07-09T13:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "tags": [
+      "gpt",
+      "microsoft",
+      "copilot",
+      "preferred"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-gpt-5-6",
+    "lab": "OpenAI",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+    "date": "2026-07-09T10:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/gpt-5-6",
+    "tags": [
+      "intelligence",
+      "gpt",
+      "frontier",
+      "scales"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-chatgpt-for-your-most-ambitious-work",
+    "lab": "OpenAI",
+    "title": "ChatGPT is now a partner for your most ambitious work",
+    "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+    "date": "2026-07-09T10:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "tags": [
+      "work",
+      "chatgpt",
+      "partner",
+      "ambitious"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-bio-bug-bounty",
+    "lab": "OpenAI",
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "summary": "Details about the OpenAI Bio Bounty program",
+    "date": "2026-07-09T10:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/bio-bug-bounty",
+    "tags": [
+      "bio",
+      "bounty",
+      "gpt",
+      "bug"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-nvidia-open-data-for-agents",
+    "lab": "Hugging Face",
+    "title": "Data for Agents",
+    "summary": "",
+    "date": "2026-07-08T17:16:05.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "tags": [
+      "data",
+      "agents"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-government-national-security-partnerships",
+    "lab": "OpenAI",
+    "title": "Our approach to government and national security partnerships",
+    "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+    "date": "2026-07-08T13:30:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/government-national-security-partnerships",
+    "tags": [
+      "government",
+      "national",
+      "security",
+      "partnerships"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-separating-signal-from-noise-coding-evaluations",
+    "lab": "OpenAI",
+    "title": "Separating signal from noise in coding evaluations",
+    "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+    "date": "2026-07-08T13:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+    "tags": [
+      "coding",
+      "separating",
+      "signal",
+      "noise"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-k-12-educators-practical-skills",
+    "lab": "OpenAI",
+    "title": "Helping K–12 educators build practical AI skills",
+    "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+    "date": "2026-07-08T10:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/k-12-educators-practical-skills",
+    "tags": [
+      "skills",
+      "educators",
+      "build",
+      "practical"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-native-speed-vllm-transformers-backend",
+    "lab": "Hugging Face",
+    "title": "Native-speed vLLM transformers modeling backend",
+    "summary": "",
+    "date": "2026-07-08T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "tags": [
+      "native",
+      "speed",
+      "vllm",
+      "transformers"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-introducing-gpt-live",
+    "lab": "OpenAI",
+    "title": "Introducing GPT-Live",
+    "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+    "date": "2026-07-08T00:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/introducing-gpt-live",
+    "tags": [
+      "voice",
+      "gpt",
+      "live",
+      "generation"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-amazon-one-click-to-sagemaker-studio",
     "lab": "Hugging Face",
     "title": "From Hugging Face to Amazon SageMaker Studio in one click",
@@ -76,21 +254,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-australian-payments-plus",
-    "lab": "OpenAI",
-    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-    "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
-    "date": "2026-07-07T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/australian-payments-plus",
-    "tags": [
-      "payments",
-      "australian",
-      "plus",
-      "faster"
-    ]
-  },
-  {
     "id": "https-openai-com-index-mufg",
     "lab": "OpenAI",
     "title": "MUFG aims to become AI-native with OpenAI",
@@ -103,6 +266,21 @@
       "native",
       "aims",
       "become"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-australian-payments-plus",
+    "lab": "OpenAI",
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+    "date": "2026-07-07T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/australian-payments-plus",
+    "tags": [
+      "payments",
+      "australian",
+      "plus",
+      "faster"
     ]
   },
   {
@@ -718,189 +896,6 @@
       "chatgpt",
       "improving",
       "intelligence"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-diagnose-rare-childhood-diseases",
-    "lab": "OpenAI",
-    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-    "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
-    "date": "2026-06-18T08:00:00.000Z",
-    "category": "research",
-    "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-    "tags": [
-      "help",
-      "diagnose",
-      "rare",
-      "diseases"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-peft-beyond-lora",
-    "lab": "Hugging Face",
-    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-    "summary": "",
-    "date": "2026-06-18T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/peft-beyond-lora",
-    "tags": [
-      "beyond",
-      "lora",
-      "beat",
-      "popular"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-is-it-agentic-enough",
-    "lab": "Hugging Face",
-    "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-    "summary": "",
-    "date": "2026-06-18T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/is-it-agentic-enough",
-    "tags": [
-      "agentic",
-      "enough",
-      "benchmarking",
-      "open"
-    ]
-  },
-  {
-    "id": "https-blog-google-innovation-and-ai-models-and-research-google-research-amie-for",
-    "lab": "Google DeepMind",
-    "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-    "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
-    "date": "2026-06-17T15:00:00.000Z",
-    "category": "research",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp",
-    "tags": [
-      "research",
-      "shows",
-      "amie",
-      "medical"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-amazon-strands-lerobot-hub-to-hardware",
-    "lab": "Hugging Face",
-    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-    "summary": "",
-    "date": "2026-06-17T10:18:05.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-    "tags": [
-      "hugging",
-      "face",
-      "hub",
-      "robot"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-ai-chemist-improves-reaction",
-    "lab": "OpenAI",
-    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-    "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
-    "date": "2026-06-17T10:00:00.000Z",
-    "category": "research",
-    "url": "https://openai.com/index/ai-chemist-improves-reaction",
-    "tags": [
-      "near",
-      "autonomous",
-      "chemist",
-      "reaction"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-zai-org-glm-52-blog",
-    "lab": "Hugging Face",
-    "title": "GLM-5.2: Built for Long-Horizon Tasks",
-    "summary": "",
-    "date": "2026-06-17T09:01:25.000Z",
-    "category": "model",
-    "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
-    "tags": [
-      "glm",
-      "built",
-      "long",
-      "horizon"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-agentic-resource-discovery-launch",
-    "lab": "Hugging Face",
-    "title": "Agentic Resource Discovery: Let agents search",
-    "summary": "",
-    "date": "2026-06-17T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
-    "tags": [
-      "agentic",
-      "resource",
-      "discovery",
-      "let"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-introducing-life-sci-bench",
-    "lab": "OpenAI",
-    "title": "Introducing LifeSciBench",
-    "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
-    "date": "2026-06-17T00:00:00.000Z",
-    "category": "research",
-    "url": "https://openai.com/index/introducing-life-sci-bench",
-    "tags": [
-      "lifescibench",
-      "expert",
-      "authored",
-      "reviewed"
-    ]
-  },
-  {
-    "id": "https-deepmind-google-blog-unlocking-uk-house-building-with-ai-accelerated-plann",
-    "lab": "Google DeepMind",
-    "title": "Unlocking UK house-building with AI-accelerated planning",
-    "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
-    "date": "2026-06-16T21:29:50.000Z",
-    "category": "feature",
-    "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-    "image": "https://lh3.googleusercontent.com/kc7RMwXGDfJAoCsgs6pUuONGMXePGbvF_q_i8i-bWBBakQ91O8VYPk8cyHfpOD1uF-lw8Mk6pd2JpXofi5n4qNoNziPol46lBMmZuxoG9NKl16CW=w528-h297-n-nu-rw-lo",
-    "tags": [
-      "unlocking",
-      "house",
-      "building",
-      "accelerated"
-    ]
-  },
-  {
-    "id": "https-deepmind-google-blog-securing-the-future-of-ai-agents",
-    "lab": "Google DeepMind",
-    "title": "Securing the future of AI agents",
-    "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
-    "date": "2026-06-16T15:46:31.000Z",
-    "category": "feature",
-    "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
-    "image": "https://lh3.googleusercontent.com/X6w_t9eA7TLFiq3JMp1kXlon25qi9N6O0AxPyp7j0qOIu8oz-QDsaOP-oKz7FIuqlA3W1evDbeLYssDJM_fjkqeyscPO_fHJd0xeD0IoDlHkiUQW1w=w528-h297-n-nu-rw-lo",
-    "tags": [
-      "securing",
-      "future",
-      "agents",
-      "internal"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-deployment-simulation",
-    "lab": "OpenAI",
-    "title": "Predicting model behavior before release by simulating deployment",
-    "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
-    "date": "2026-06-16T00:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/deployment-simulation",
-    "tags": [
-      "deployment",
-      "model",
-      "behavior",
-      "before"
     ]
   }
 ]
