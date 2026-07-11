@@ -1,4 +1,4 @@
-import { Filter as FilterIcon, Radio, TrendingUp } from 'lucide-react'
+import { Clock, Filter as FilterIcon, Radio } from 'lucide-react'
 import type { Lab, Release } from '../types'
 import FilterBar, { type Filter } from './FilterBar'
 import NewsletterSignup from './NewsletterSignup'
@@ -16,8 +16,8 @@ interface SidebarProps {
   labCounts: LabCount[]
   activeLab: Lab | null
   onLabChange: (lab: Lab | null) => void
-  /** Full sorted release list — used for the trending panel only. */
-  trending: Release[]
+  /** Full newest-first release list — used for the Latest panel only. */
+  latest: Release[]
   now: number
 }
 
@@ -28,17 +28,14 @@ export default function Sidebar({
   labCounts,
   activeLab,
   onLabChange,
-  trending,
+  latest,
   now,
 }: SidebarProps) {
-  // 5 most recent for trending, preferring the last 7 days
-  const newest = trending.slice(0, 5)
-  const oneWeekAgo = now - 7 * 24 * 60 * 60 * 1000
-  const thisWeek = newest.filter((r) => new Date(r.date).getTime() >= oneWeekAgo)
-  const trendItems = thisWeek.length >= 3 ? thisWeek : newest
+  // Honest label, honest logic: simply the 5 newest stories.
+  const latestItems = latest.slice(0, 5)
 
   return (
-    <aside className="sidebar" aria-label="Filters, sources, and trending">
+    <aside className="sidebar" aria-label="Filters, sources, and latest stories">
       {/* 1 — Filter panel (hidden on mobile — the chip bar covers it) */}
       <div className="sidebar__panel sidebar__panel--filter">
         <h2 className="sidebar__title">
@@ -95,14 +92,14 @@ export default function Sidebar({
         </div>
       </div>
 
-      {/* 3 — Trending panel */}
+      {/* 3 — Latest panel */}
       <div className="sidebar__panel">
         <h2 className="sidebar__title">
-          <TrendingUp size={14} aria-hidden="true" />
-          Trending this week
+          <Clock size={14} aria-hidden="true" />
+          Latest
         </h2>
         <div className="sidebar__trend-list">
-          {trendItems.map((r, i) => {
+          {latestItems.map((r, i) => {
             const color = labColor(r.lab)
             const body = (
               <>

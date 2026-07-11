@@ -93,7 +93,7 @@
   white-space: nowrap;
 }
 
-/* "Updated daily" — glass pill badge with pulsing accent dot */
+/* "Updated Xh ago" — glass pill badge with pulsing accent dot */
 .masthead__live {
   display: flex;
   align-items: center;
@@ -122,6 +122,18 @@
 @keyframes livepulse {
   0%, 100% { opacity: 1; }
   50% { opacity: 0.35; }
+}
+
+/* Stale data (>36h old): the pill greys out and the dot stops pulsing so
+   the badge can't imply live updates the feed isn't getting. */
+.masthead__live--stale {
+  color: var(--muted);
+  background: var(--glass);
+  border-color: var(--hairline);
+}
+.masthead__live--stale .masthead__live-dot {
+  background: var(--muted);
+  animation: none;
 }
 
 @media (max-width: 640px) {

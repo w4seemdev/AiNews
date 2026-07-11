@@ -8,6 +8,8 @@ interface NewsRowProps {
   now: number
   isSaved: boolean
   isRead: boolean
+  /** True when the row shows illustrative sample data, not a real story. */
+  isSample: boolean
   onToggleSave: (id: string) => void
   onMarkRead: (id: string) => void
 }
@@ -28,7 +30,7 @@ function SpecStrip({ release }: { release: Release }) {
   )
 }
 
-function NewsRow({ release, now, isSaved, isRead, onToggleSave, onMarkRead }: NewsRowProps) {
+function NewsRow({ release, now, isSaved, isRead, isSample, onToggleSave, onMarkRead }: NewsRowProps) {
   const [imgFailed, setImgFailed] = useState(false)
   const [copied, setCopied] = useState(false)
   const color = labColor(release.lab)
@@ -90,6 +92,11 @@ function NewsRow({ release, now, isSaved, isRead, onToggleSave, onMarkRead }: Ne
             >
               {release.category}
             </span>
+            {isSample && (
+              <span className="sample-chip" title="Illustrative sample story — not real news">
+                Sample
+              </span>
+            )}
             {fresh && <span className="new-badge">New</span>}
           </div>
           <time

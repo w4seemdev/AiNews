@@ -91,9 +91,49 @@ function matchesQuery(r: Release, q: string): boolean {
   return q.split(/\s+/).every((term) => haystack.includes(term))
 }
 
+// ---- Freshness ----
+
+/**
+ * The refresh pipeline writes /meta.json ({ generatedAt, labs }) alongside
+ * /releases.json. It may not exist on older deploys, so failures return null
+ * and the caller falls back to the newest item date.
+ */
+async function fetchGeneratedAt(): Promise<string | null> {
+  try {
+    const res = await fetch('/meta.json')
+    if (!res.ok) return null
+    const meta: unknown = await res.json()
+    if (typeof meta === 'object' && meta !== null) {
+      const g = (meta as Record<string, unknown>).generatedAt
+      if (typeof g === 'string' && !Number.isNaN(new Date(g).getTime())) return g
+    }
+  } catch {
+    /* meta.json is optional */
+  }
+  return null
+}
+
+function newestDate(list: Release[]): string | null {
+  let newest: string | null = null
+  let newestMs = -Infinity
+  for (const r of list) {
+    const t = new Date(r.date).getTime()
+    if (t > newestMs) {
+      newestMs = t
+      newest = r.date
+    }
+  }
+  return newest
+}
+
 // ---- Component ----
 
-export default function Feed() {
+interface FeedProps {
+  /** Reports the data's freshness timestamp (ISO) up to App for the masthead badge. */
+  onFreshness: (iso: string | null) => void
+}
+
+export default function Feed({ onFreshness }: FeedProps) {
   const [data, setData] = useState<Release[] | null>(null)
   const [usedFallback, setUsedFallback] = useState(false)
   const [fallbackDismissed, setFallbackDismissed] = useState(false)
@@ -117,9 +157,15 @@ export default function Feed() {
         const json: unknown = await res.json()
         const list = sanitizeReleases(json)
         if (list.length === 0) throw new Error('Empty or malformed feed')
-        if (!cancelled) setData(list)
+        // meta.json's generatedAt is authoritative; newest item date is the fallback.
+        const generatedAt = await fetchGeneratedAt()
+        if (!cancelled) {
+          setData(list)
+          onFreshness(generatedAt ?? newestDate(list))
+        }
       } catch {
         if (!cancelled) {
+          // Sample data carries no real freshness — leave the badge hidden.
           setData(sampleReleases)
           setUsedFallback(true)
         }
@@ -127,7 +173,8 @@ export default function Feed() {
     }
     load()
     return () => { cancelled = true }
-  }, [])
+    // onFreshness is a stable setState from App, so this still runs once.
+  }, [onFreshness])
 
   // Keep relative timestamps fresh while the tab stays open.
   useEffect(() => {
@@ -289,7 +336,7 @@ export default function Feed() {
           <div className="fallback-note" role="status">
             <TriangleAlert size={14} aria-hidden="true" />
             <span className="fallback-note__text">
-              Live feed unavailable — showing sample data.
+              Live feed unavailable — showing illustrative sample stories, not real news.
             </span>
             <button
               type="button"
@@ -325,6 +372,7 @@ export default function Feed() {
             release={lead}
             now={now}
             isSaved={saved.has(lead.id)}
+            isSample={usedFallback}
             onToggleSave={toggleSave}
             onMarkRead={markRead}
           />
@@ -369,6 +417,7 @@ export default function Feed() {
                       now={now}
                       isSaved={saved.has(r.id)}
                       isRead={read.has(r.id)}
+                      isSample={usedFallback}
                       onToggleSave={toggleSave}
                       onMarkRead={markRead}
                     />
@@ -380,6 +429,7 @@ export default function Feed() {
             {visible < riverAll.length && (
               <div className="load-more-wrap">
                 <button
+                  type="button"
                   className="load-more-btn"
                   onClick={() => setVisible((v) => v + PAGE)}
                   aria-label={`Load more releases (${riverAll.length - visible} remaining)`}
@@ -403,7 +453,7 @@ export default function Feed() {
         labCounts={labCounts}
         activeLab={activeLab}
         onLabChange={handleLabChange}
-        trending={sorted}
+        latest={sorted}
         now={now}
       />
     </div>

@@ -7,11 +7,13 @@ interface LeadStoryProps {
   release: Release
   now: number
   isSaved: boolean
+  /** True when the story shows illustrative sample data, not real news. */
+  isSample: boolean
   onToggleSave: (id: string) => void
   onMarkRead: (id: string) => void
 }
 
-export default function LeadStory({ release, now, isSaved, onToggleSave, onMarkRead }: LeadStoryProps) {
+export default function LeadStory({ release, now, isSaved, isSample, onToggleSave, onMarkRead }: LeadStoryProps) {
   const [imgFailed, setImgFailed] = useState(false)
   const [copied, setCopied] = useState(false)
   const color = labColor(release.lab)
@@ -58,6 +60,11 @@ export default function LeadStory({ release, now, isSaved, onToggleSave, onMarkR
       <div className="lead__scrim" aria-hidden="true" />
       <div className="lead__badges">
         <span className="lead__featured-badge">Featured</span>
+        {isSample && (
+          <span className="sample-chip" title="Illustrative sample story — not real news">
+            Sample
+          </span>
+        )}
         {fresh && <span className="new-badge">New</span>}
       </div>
     </div>

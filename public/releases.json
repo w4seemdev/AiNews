@@ -1,5 +1,33 @@
 [
   {
+    "id": "cbmivkfvx3lxtfbuoddfofzitfjmb0fynw00tkzedutfyzvxwnv5bwxcy1drc3hnvjdfuvpqnhrnwdbg",
+    "lab": "Mistral",
+    "title": "Robostral Navigate: single-camera AI navigation",
+    "summary": "",
+    "date": "2026-07-11T08:52:05.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuODdfOFZITFJmb0FyNW00TkZEdUtFYzVxWnV5bWxCY1dRc3hnVjdFUVpqNHRnWDBGVUMzYXViZ1ViVEVCR216YzNOZ0lDbXZHMGNnUW93?oc=5",
+    "tags": [
+      "robostral",
+      "navigate",
+      "single",
+      "camera"
+    ]
+  },
+  {
+    "id": "cbmiekfvx3lxte1knjyyze1os2v3tenpbmlfrnkzwdb3s1hswfriag1smufga2dfn2npzxdawezledfu",
+    "lab": "DeepSeek",
+    "title": "Integrate with OpenCode",
+    "summary": "",
+    "date": "2026-07-10T16:10:14.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KNjYyZE1OS2V3TENPbmlFRnkzWDB3S1hsWFRIaG1SMUFGa2dfN2NpZXdaWEZleDFuRlVUZG02MkszdnlmZVdpa3ZEMWduN2I3SVVLT3RyTXlaVEM2UzJEeWg2cGV4WEFnX0dXdHh3TVJwTUpFSTlncGd3?oc=5",
+    "tags": [
+      "integrate",
+      "opencode"
+    ]
+  },
+  {
     "id": "https-openai-com-index-deutsche-telekom",
     "lab": "OpenAI",
     "title": "How Deutsche Telekom is rewiring telecommunications with AI",
@@ -15,18 +43,212 @@
     ]
   },
   {
+    "id": "cbmieefvx3lxte9yvwdkqvpangfqqxjvnmtbuu5ta3lrwdn6rkh1uhpjv0nvn3j1wdqtvfv2athaumh1",
+    "lab": "DeepSeek",
+    "title": "Integrate with AstrBot",
+    "summary": "",
+    "date": "2026-07-10T06:27:04.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YVWdKQVpaNGFQQXJVNmtBUU5ta3lRWDN6Rkh1UHpjV0NVN3J1WDQtVFV2aThaUmh1R1lBOHJHRm9uVUtKMWhwX3VQamJ3eHJxV3VjT0xSWkxlMDBHbjJSeGIxSmk2R1F4SnlLUWJnMGNKRk1jcmtxcw?oc=5",
+    "tags": [
+      "integrate",
+      "astrbot"
+    ]
+  },
+  {
+    "id": "cbmiggfbvv95cuxon256uwxyrtywbfjmtwlzbnjhm3rjnkzvanixdzrmnmzzqjjmenlrbexnm2n3ce81",
+    "lab": "DeepSeek",
+    "title": "Integrate with GitHub Copilot",
+    "summary": "",
+    "date": "2026-07-10T06:26:08.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON256UWxyRTYwbFJmTWlZbnJHM3RJNkZvanIxdzRMNmZZQjJmenlRbExnM2N3cE81OEhpeDRPYTdJN2RidzNKc3NyLThRbGpaTzNZWmNoU3Q0TnpfOWxIekpPWTZQVHRtYU1WSDYyOElvNkx3a01aRlF3M1BKcWx6TUFB?oc=5",
+    "tags": [
+      "integrate",
+      "github",
+      "copilot"
+    ]
+  },
+  {
+    "id": "cbmiekfvx3lxtfbtbgrfyuryc01qadfqnug1bfm4al9ibhjqmdvprerxvmdvvxd6d2pnblvtcjztytln",
+    "lab": "DeepSeek",
+    "title": "Integrate with Reasonix",
+    "summary": "",
+    "date": "2026-07-10T04:49:59.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtbGRFYURyc01QaDFQNUg1bFM4al9IbHJQMDVpRERXVmdvVXd6d2pnblVtcjZTYTlNdkN2d012YWphTHM3akRZQXVrU2l2UnpabUtSdk1lMmpCcE01c1g2aTJzVmFoZnNPUTczd1ZROFNTNDJxMkN1YTJ3?oc=5",
+    "tags": [
+      "integrate",
+      "reasonix"
+    ]
+  },
+  {
+    "id": "cbmiekfvx3lxte1usxbot2ttttdqqmvnb0hhevrvswrczdflrnptquzhd19stzlcvmzvamlmmdgxcmit",
+    "lab": "DeepSeek",
+    "title": "Integrate with Deep Code",
+    "summary": "",
+    "date": "2026-07-10T03:00:45.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uSXBoT2tTTTdQQmVNb0hheVRVSWRCZDFlRnptQUZHd19sTzlCVmZVamlMMDgxcmItaDVSU2lteHBkZXRQTjh0X2tfWlg3ZGxmWm90UUk4TkRYMUFxQURVYkZJQ2FiQzladWY3VGRneEprUVZYN1B4Q1h3?oc=5",
+    "tags": [
+      "integrate",
+      "deep",
+      "code"
+    ]
+  },
+  {
+    "id": "cbmidkfvx3lxte14d0jiane3wklty2twrkjurkjhwujbwnayv0djsulwbxdvbgc0nlbbbtvfws13rtvd",
+    "lab": "DeepSeek",
+    "title": "Integrate with Crush",
+    "summary": "",
+    "date": "2026-07-10T02:52:37.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14d0JianE3WklTY2twRkJuRkJHWUJBWnAyV0dJSUlWbXdvbGc0NlBBbTVFWS13RTVDRllGWDNyVFZxQi1xckE4cHhOMlVvVzhLNXJrUlJHeExVT1ZVTy1ySEM1d1J0b2xnOWZCcXA1S3MwM1Fkenc?oc=5",
+    "tags": [
+      "integrate",
+      "crush"
+    ]
+  },
+  {
+    "id": "cbmid0fvx3lxte1wcelhzdlxcgpuuldvnli3rhlmwlv5c2vdd3n1vnjzx2fzvwtum1jov1qxzdl3qji2",
+    "lab": "DeepSeek",
+    "title": "Integrate with Hermes Agent",
+    "summary": "",
+    "date": "2026-07-10T02:48:24.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wcElhZDlxcGpUUldVNlI3RHlMWlV5c2VDd3N1VnJZX2FZVWtuM1JoV1QxZDl3QjI2d1JGSnZaN2tTMHJxT2xkMll1ZFlHaHJtZXg1c0tKWjRZU0JDQTJWaGxWVXZOZ2ZqbkpHTEp0R3A1RWNnMmEw?oc=5",
+    "tags": [
+      "integrate",
+      "hermes",
+      "agent"
+    ]
+  },
+  {
+    "id": "cbmiu0fvx3lxte9pwmhdajnfv09gx2zrcfprthjucfdwcfzdrdfvmlq5mghpclvkr1dysfi4mllxtwrk",
+    "lab": "Anthropic",
+    "title": "UST is bringing Claude to physical AI",
+    "summary": "",
+    "date": "2026-07-10T00:43:28.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PWmhDajNFV09GX2ZrcFpRTHJUcFdwcFZDRDFvMlQ5MGhpclVkR1dYSFI4MllXTWRkaTR5cEhQN0RvcmFRVTVicXpxbUZkc2lDUTZj?oc=5",
+    "tags": [
+      "ust",
+      "bringing",
+      "claude",
+      "physical"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-torch-attention-profile",
     "lab": "Hugging Face",
     "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
     "summary": "",
     "date": "2026-07-10T00:00:00.000Z",
-    "category": "model",
+    "category": "feature",
     "url": "https://huggingface.co/blog/torch-attention-profile",
     "tags": [
       "profiling",
       "pytorch",
       "part",
       "attention"
+    ]
+  },
+  {
+    "id": "cbmiwefvx3lxte0yehlprmsxagnhvgwxreszvzfizhh1t05xs0f2c0jrczvmd3hbawnnmjb0n0xsytdr",
+    "lab": "Anthropic",
+    "title": "Inviting hard questions",
+    "summary": "",
+    "date": "2026-07-09T17:35:18.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yeHlpRmsxaGNhVGwxREszVzFIZHh1T05XS0F2c0JrczVmd3hBaWNnMjB0N0xSYTdRd2hxREp2OGF4SEtDemFEanpLZVNlSFRSSThuQVBXMFY?oc=5",
+    "tags": [
+      "inviting",
+      "hard",
+      "questions"
+    ]
+  },
+  {
+    "id": "cbmivkfvx3lxte5javloytdbu1u4nhcwcm9wamzxoc14alfsvlbnm0pnc1pxanlmvge2elzfbdlmdwy1",
+    "lab": "Anthropic",
+    "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+    "summary": "",
+    "date": "2026-07-09T16:37:16.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jaVloYTdBU1U4NHcwcm9wamZXOC14alFSVlBNM0pnc1pxanlMVGE2elZfbDlmdWY1cEpJODVTZ19rdDZkS1lSSmt1WmNtODV2Y215ODBB?oc=5",
+    "tags": [
+      "ben",
+      "bernanke",
+      "appointed",
+      "anthropic"
+    ]
+  },
+  {
+    "id": "cbmiaefvx3lxtfbxq0lnczrja1looed4stdpafhmykywserhszu1wvraee1qv0pqegntehffowzoswkw",
+    "lab": "DeepSeek",
+    "title": "Anthropic API",
+    "summary": "",
+    "date": "2026-07-09T14:40:52.000Z",
+    "category": "api",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxQ0lnczRJa1loOEd4STdPaFhmYkYwSERHSzU1WVRaeE1QV0pQeGNTeHFFOWZOSWkwMG9mQjNTMXdIRW5PUEE1dHFIRHBLVVJmTlFPQjF1bUMzLWxVeURRWUplV2Z0T09V?oc=5",
+    "tags": [
+      "anthropic",
+      "api"
+    ]
+  },
+  {
+    "id": "cbmicefvx3lxte9zagzqs2rfv05tshu3dgrurgfxnfd2uznkykjur2tisug4x3rtt0uxv1vltjnvskzw",
+    "lab": "Meta",
+    "title": "Introducing Muse Spark 1.1",
+    "summary": "",
+    "date": "2026-07-09T14:36:32.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGZQS2RfV05tSHU3dGRuRGFXNFd2UzNkYkJuR2tiSUg4X3RtT0UxV1VlTjNvSkZWcVUtU0NNUDJPVUo5WW5RMFR6Z055Y0dhZ1EyaG1SeGIxZlMtWFFmZTMyc2paYmxFLXE1TlBlaEg?oc=5",
+    "tags": [
+      "muse",
+      "spark"
+    ]
+  },
+  {
+    "id": "cbmibefvx3lxte13a2xuefvrymvrlvrra2u5uurmsupzumm4ymmwc3fluffnovzpztm3ylzdb2dqs2c4",
+    "lab": "Mistral",
+    "title": "Version control for prompts & skills in Studio",
+    "summary": "",
+    "date": "2026-07-09T14:01:05.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13a2xUeFVrYmVrLVRra2U5UURmSUpzUmM4YmMwc3FLUFFNOVZpZTM3YlZDb2dQS2c4cGNfd2pyc1pMaTJCMHg2ZHlLakwxdlpxT2hobTJ3RGZPTnBnWE1LaktCSTVxZlNfNEQwcw?oc=5",
+    "tags": [
+      "version",
+      "control",
+      "prompts",
+      "skills"
+    ]
+  },
+  {
+    "id": "cbmifkfvx3lxte5hmdn6tg56sfi1cfntmm40z2vtzw1ktwrnnzbhczzlbufnywfpdfnretryzklqtmff",
+    "lab": "DeepSeek",
+    "title": "Integrate with Claude Code",
+    "summary": "",
+    "date": "2026-07-09T13:43:23.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HMDN6TG56SFI1cFNTMm40Z2VtZW1kTWRNNzBhczZlbUFnYWFpdFNreTRYZklqTmFFRzdhN2tMeGttRHVHZkk1eXIwWW1kMXZ0eGd0YUttNTRhclRIYWJLZ3lVemRUdGpBT0RMVDNhLW9NdW9vZlhrcXBLQ0NCdw?oc=5",
+    "tags": [
+      "integrate",
+      "claude",
+      "code"
+    ]
+  },
+  {
+    "id": "cbmix0fvx3lxte9uqmgzmw5sugnxn3vqlujmu3ytcehcvxpyul9aovrmvefdzu94ngjyvs1yv1numgoy",
+    "lab": "Anthropic",
+    "title": "A new way to reflect on how you use Claude",
+    "summary": "",
+    "date": "2026-07-09T13:31:02.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uQmgzMW5SUGNxN3VQLUJmU3YtcEhCVXpyUl9aOVRMVEFDZU94NGJyVS1yV1NUMGoyY2Fycm1iamhuNVBNUlFEQjd2djFiRGRXSmRiZW14akhXdS1XZlNB?oc=5",
+    "tags": [
+      "way",
+      "reflect",
+      "claude"
     ]
   },
   {
@@ -90,6 +312,33 @@
     ]
   },
   {
+    "id": "cbmifkfvx3lxte9zyjq0nevlsi1xcuqtrtzbb3dpdno4dhg4d2fjemrubwk1x1nqdexrtno0vmlcodvq",
+    "lab": "DeepSeek",
+    "title": "Integrate with GitHub Copilot CLI",
+    "summary": "",
+    "date": "2026-07-09T08:24:21.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zYjQ0NEVlSi1XcUQtRTZBb3dPdno4dHg4d2FjemRUbWk1X1NqdExrTno0VmlCODVqN2QxRVJ3NENLdmo1QlVDd21tOVBoWi03ckFjdVpwLWhsN1p5ZmM5dWpoT1JrOTdFS2tpX3I1WW9aRmJQanVsYXBGRDMtZw?oc=5",
+    "tags": [
+      "integrate",
+      "github",
+      "copilot",
+      "cli"
+    ]
+  },
+  {
+    "id": "cbmip0fvx3lxte1ocvzvx1u2su4zazfwww5sbtziaehlx3fvcgh0y2lsmxrhc1fyynbpamveowtnlwct",
+    "lab": "xAI",
+    "title": "Introducing Grok 4.5",
+    "summary": "",
+    "date": "2026-07-08T17:59:56.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1ocVZvX1U2SU4zazFwWW5SbTZiaEhlX3FVcGh0Y2lSMXRhc1FyYnBpamVEOWtnLWctYlZjUlByOA?oc=5",
+    "tags": [
+      "grok"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-nvidia-open-data-for-agents",
     "lab": "Hugging Face",
     "title": "Data for Agents",
@@ -148,6 +397,21 @@
     ]
   },
   {
+    "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
+    "lab": "xAI",
+    "title": "SpaceXAI — Creators of Grok, the AI Chatbot",
+    "summary": "",
+    "date": "2026-07-08T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
+    "tags": [
+      "spacexai",
+      "creators",
+      "grok",
+      "chatbot"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-native-speed-vllm-transformers-backend",
     "lab": "Hugging Face",
     "title": "Native-speed vLLM transformers modeling backend",
@@ -190,6 +454,20 @@
       "face",
       "amazon",
       "sagemaker"
+    ]
+  },
+  {
+    "id": "cbmicefvx3lxtfblov9wdnuwrw1wtvzjvm9uac1xetv6eefvv1hyotrrmvznv2lscwctc2nor3b5zwne",
+    "lab": "Meta",
+    "title": "Introducing Muse Image and Muse Video",
+    "summary": "",
+    "date": "2026-07-07T20:07:47.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLOV9WdnUwRW1WTVZjVm9UaC1xeTV6eEFVV1hYOTRRMVZNV2lScWctc2NOR3B5ZWNEcmNaMmpNSkFTWHkwYlV1V1ZJejYyRFRqUjJmcW45VGItRXJ1bi1EVlc5R1Z3anFRNzBWM1ZzT2w?oc=5",
+    "tags": [
+      "muse",
+      "image",
+      "video"
     ]
   },
   {
@@ -269,18 +547,32 @@
     ]
   },
   {
-    "id": "https-openai-com-index-australian-payments-plus",
-    "lab": "OpenAI",
-    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-    "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
-    "date": "2026-07-07T00:00:00.000Z",
+    "id": "cbmitkfvx3lxte1wtnhtqzcyx3uyrmu2u1g5r040yzfhv2hiyks3quvqahleemfpdglutu1pnzixbi1k",
+    "lab": "xAI",
+    "title": "21 New Flagship Grok Voices",
+    "summary": "",
+    "date": "2026-07-06T22:43:53.000Z",
     "category": "feature",
-    "url": "https://openai.com/index/australian-payments-plus",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wTnhtQzcyX3UyRmU2U1g5R040YzFHV2hIYks3QUVqaHlEemFPdGlUTU1pNzIxbi1kSHI0TFhlTXJ5MVdYbW5MWlhZdWdGZw?oc=5",
     "tags": [
-      "payments",
-      "australian",
-      "plus",
-      "faster"
+      "flagship",
+      "grok",
+      "voices"
+    ]
+  },
+  {
+    "id": "cbmiekfvx3lxte10owxivti4ckf3stdtutizsw9cdfryzfrpuelzyw10ckxoz3vpmwngwjm4vk9pmhll",
+    "lab": "Anthropic",
+    "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+    "summary": "",
+    "date": "2026-07-06T19:06:35.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10OWxIVTI4ckF3STdtUTIzSW9CdFRYZFRPUElzYW10ckxOZ3VPMWNGWjM4Vk9PMHllYjc1dkNuY1Y2OW5jSHI1eENJek9tcGk4UFhkR1NCSjU3X0lROXREZzhCVUVrTExkTmdCYnBRZHBpS044UXF5RUpn?oc=5",
+    "tags": [
+      "government",
+      "alberta",
+      "uses",
+      "claude"
     ]
   },
   {
@@ -289,7 +581,7 @@
     "title": "PRX Part 4: Our Data Strategy",
     "summary": "",
     "date": "2026-07-06T15:30:55.000Z",
-    "category": "model",
+    "category": "feature",
     "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
     "tags": [
       "prx",
@@ -308,8 +600,7 @@
     "url": "https://huggingface.co/blog/revamped-kernels",
     "tags": [
       "kernels",
-      "major",
-      "updates"
+      "major"
     ]
   },
   {
@@ -324,7 +615,36 @@
       "google",
       "deepmind",
       "a24",
-      "announce"
+      "first"
+    ]
+  },
+  {
+    "id": "cbmidkfvx3lxte5aumuwaffoegmxbmo1rwtnemm2dfrfs1pczuluwtd6ckjeuc16zzfwvfz4qw5jegdc",
+    "lab": "Anthropic",
+    "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+    "summary": "",
+    "date": "2026-07-03T00:03:32.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aUmUwaFFoeGMxbmo1RWtnemM2dFRFS1pCZUlUWTd6ckJEUC16ZzFwVFZ4QW5jeGdCa0VzbGpFQW96TmpUTmpYd1pyb1U2X3hRQXRyZG9CY1R4RFo0QnhlWlc0YVVLZjVyTEc2TkUxNnpuZllxUmc?oc=5",
+    "tags": [
+      "details",
+      "fable",
+      "cyber",
+      "safeguards"
+    ]
+  },
+  {
+    "id": "cbmit0fvx3lxte12tlfut3dedgtdsgd1vuzvbxputgnavjrtqthwztjomwzfqzjhvuthtxaxlxzzsi0w",
+    "lab": "Mistral",
+    "title": "Leanstral 1.5: Proof Abundance for All",
+    "summary": "",
+    "date": "2026-07-02T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12TlFuT3dEdGtDSGd1VUZVbXpUTGNaVjRtQThwZTJoMWZFQzJhVUtHTXAxLXZzSi0wd1A1azhCWU5hZEFfOUR3NGlNODVwRXc?oc=5",
+    "tags": [
+      "leanstral",
+      "proof",
+      "abundance"
     ]
   },
   {
@@ -333,30 +653,25 @@
     "title": "The latest AI news we announced in June 2026",
     "summary": "Here are Google’s latest AI updates from June 2026.",
     "date": "2026-07-01T18:15:00.000Z",
-    "category": "model",
+    "category": "feature",
     "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
     "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp",
     "tags": [
-      "latest",
-      "june",
-      "news",
-      "announced"
+      "google"
     ]
   },
   {
-    "id": "https-blog-google-products-and-platforms-products-education-nyc-ai-summit",
-    "lab": "Google DeepMind",
-    "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-    "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
-    "date": "2026-07-01T16:00:00.000Z",
-    "category": "model",
-    "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp",
+    "id": "cbmivefvx3lxtfa1z29rahh3x3jfngrjrtjqqtrmbk5mdhrmundpewp4vkjfrvlydzbummfendf4bwvr",
+    "lab": "xAI",
+    "title": "Introducing the Voice Agent Builder",
+    "summary": "",
+    "date": "2026-07-01T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1Z29raHh3X3JFNGRJRTJQQTRmbk5mdHRMUndpeWp4VkJfRVlydzBUMmFENDF4bWVreU9WMC1CLVdBRzRIUUphUjhzWWREeEJEdHFwWg?oc=5",
     "tags": [
-      "york",
-      "industry",
-      "leaders",
-      "google"
+      "voice",
+      "agent",
+      "builder"
     ]
   },
   {
@@ -375,27 +690,12 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-ibm-research-scarfbench",
-    "lab": "Hugging Face",
-    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-    "summary": "",
-    "date": "2026-06-30T18:32:50.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-    "tags": [
-      "scarfbench",
-      "benchmarking",
-      "agents",
-      "enterprise"
-    ]
-  },
-  {
     "id": "https-deepmind-google-blog-start-building-with-nano-banana-2-lite-and-gemini-omn",
     "lab": "Google DeepMind",
     "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
     "summary": "",
     "date": "2026-06-30T16:02:40.000Z",
-    "category": "model",
+    "category": "feature",
     "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
     "tags": [
       "start",
@@ -405,31 +705,45 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-dharma-ai-why-specialization-is-inevitable",
-    "lab": "Hugging Face",
-    "title": "Why Specialization Is Inevitable",
+    "id": "cbmix0fvx3lxte1eszfvr1hure9erwlnc0pnafg3uetxbgjza2ffqxitrwpgckpvtupiu0lvn1vvzxbs",
+    "lab": "Anthropic",
+    "title": "Redeploying Claude Fable 5",
     "summary": "",
-    "date": "2026-06-30T14:39:11.000Z",
+    "date": "2026-06-30T07:00:00.000Z",
     "category": "feature",
-    "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ESzFvR1hURE9ERWlNc0pNaFg3UEtxbGJza2FfQXItRWpGckpVTUpiU0lVN1VvZXBSVzZ3LVBobEJNQUhFOHBlcWVOSkFndkZfckF1T3l1eDI3N3NGYVFJ?oc=5",
     "tags": [
-      "specialization",
-      "inevitable"
+      "redeploying",
+      "claude",
+      "fable"
     ]
   },
   {
-    "id": "https-openai-com-index-how-chatgpt-adoption-has-expanded",
-    "lab": "OpenAI",
-    "title": "How ChatGPT adoption has expanded",
-    "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
-    "date": "2026-06-30T09:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "id": "cbmiwkfvx3lxte94ujq1sehhswrtzuvlmlzddhjbbdu1aeflbzjpv3a1v19nvf9slvnnbjlksecwmv9v",
+    "lab": "Anthropic",
+    "title": "Introducing Claude Sonnet 5",
+    "summary": "",
+    "date": "2026-06-30T07:00:00.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
     "tags": [
-      "chatgpt",
-      "adoption",
-      "expanded",
-      "openai"
+      "claude",
+      "sonnet"
+    ]
+  },
+  {
+    "id": "cbmiakfvx3lxte81r0j0dxluyzjgcmxvb3ddy0z2ujvyt2i5zkywsvrrwtbsum5hzxpwrkfsq2k5bm1j",
+    "lab": "Anthropic",
+    "title": "Claude Science, an AI workbench for scientists, is now available",
+    "summary": "",
+    "date": "2026-06-30T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81R0J0dXluYzJGcmxVb3dDY0Z2UjVYT2I5ZkYwSVRrWTBSUm5HZXpWRkFsQ2k5bm1jbVU5cENOY0xkX0tybV9FbnhRcFVac1dncWtqTF85OTZyd3o1dlRXenJkd1h3T1pTSGc?oc=5",
+    "tags": [
+      "claude",
+      "science",
+      "workbench",
+      "scientists"
     ]
   },
   {
@@ -449,80 +763,6 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-eee-community-evals",
-    "lab": "Hugging Face",
-    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-    "summary": "",
-    "date": "2026-06-30T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/eee-community-evals",
-    "tags": [
-      "featuring",
-      "every",
-      "eval",
-      "ever"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-core-dump-epidemiology-data-infrastructure-bug",
-    "lab": "OpenAI",
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-    "date": "2026-06-30T00:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "tags": [
-      "core",
-      "dump",
-      "bug",
-      "epidemiology"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-introducing-genebench-pro",
-    "lab": "OpenAI",
-    "title": "Introducing GeneBench-Pro",
-    "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-    "date": "2026-06-30T00:00:00.000Z",
-    "category": "research",
-    "url": "https://openai.com/index/introducing-genebench-pro",
-    "tags": [
-      "genebench",
-      "pro",
-      "benchmark",
-      "testing"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-genebench-pro-case-studies",
-    "lab": "OpenAI",
-    "title": "Inside Genebench-Pro",
-    "summary": "",
-    "date": "2026-06-30T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/genebench-pro/case-studies",
-    "tags": [
-      "inside",
-      "genebench",
-      "pro"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-allenai-discoformer",
-    "lab": "Hugging Face",
-    "title": "DiScoFormer: One transformer for density and score, across distributions",
-    "summary": "",
-    "date": "2026-06-29T18:02:48.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/allenai/discoformer",
-    "tags": [
-      "discoformer",
-      "one",
-      "transformer",
-      "density"
-    ]
-  },
-  {
     "id": "https-blog-google-innovation-and-ai-technology-ai-full-stack-ai-explainer",
     "lab": "Google DeepMind",
     "title": "Ask an AI expert: What exactly is the full stack?",
@@ -539,63 +779,18 @@
     ]
   },
   {
-    "id": "https-openai-com-index-mapping-ai-jobs-transition-eu",
-    "lab": "OpenAI",
-    "title": "Mapping Europe’s AI Workforce Opportunity",
-    "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+    "id": "cbmidkfvx3lxte1ut0uztc1ocmfnckxuqzhhqwpmmgmys3pfa0drbuxnnjb1rtzdbkxpwm5wrdb0sdc3",
+    "lab": "Meta",
+    "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
+    "summary": "",
     "date": "2026-06-29T07:00:00.000Z",
     "category": "feature",
-    "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uT0UzTC1ocmFNckxuQzhhQWpMMGMyS3pfa0drbUxnNjB1RTZDbkxpWm5wRDB0SDc3WkZCNWU5My0xUFhrbFBzM0lyNEgzNUhaLUM5V0U2QjFpQUF3OXdPYmNTOWl3MjBUNVZRNHhra0FtY1h2N3c?oc=5",
     "tags": [
-      "mapping",
-      "europe",
-      "workforce",
-      "opportunity"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-hp-frontier-partnership",
-    "lab": "OpenAI",
-    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-    "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-    "date": "2026-06-28T17:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/hp-frontier-partnership",
-    "tags": [
-      "inc",
-      "frontier",
-      "partnership",
-      "openai"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-previewing-gpt-5-6-sol",
-    "lab": "OpenAI",
-    "title": "Previewing GPT-5.6 Sol: a next-generation model",
-    "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-    "date": "2026-06-26T10:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-    "tags": [
-      "gpt",
-      "sol",
-      "next",
-      "generation"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-vllm-jobs",
-    "lab": "Hugging Face",
-    "title": "Run a vLLM Server on HF Jobs in One Command",
-    "summary": "",
-    "date": "2026-06-26T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/vllm-jobs",
-    "tags": [
-      "run",
-      "vllm",
-      "server",
-      "jobs"
+      "brain",
+      "waves",
+      "words",
+      "brain2qwerty"
     ]
   },
   {
@@ -611,22 +806,22 @@
       "google",
       "finance",
       "app",
-      "latest"
+      "upgrades"
     ]
   },
   {
-    "id": "https-openai-com-index-how-agents-are-transforming-work",
-    "lab": "OpenAI",
-    "title": "How agents are transforming work",
-    "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-    "date": "2026-06-25T02:00:00.000Z",
-    "category": "research",
-    "url": "https://openai.com/index/how-agents-are-transforming-work",
+    "id": "cbmivefvx3lxte9lm3drre85c1vywi14ejv6tlf0q3bvtmgxaxdls0lreezgogxqvju2c0ztwfpqrjix",
+    "lab": "xAI",
+    "title": "Explore the markets with Interactive Brokers and Grok",
+    "summary": "",
+    "date": "2026-06-25T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LM3dRRE85c1VYWi14ejV6TlF0Q3BvTmgxaXdLS0lreEZGOGxQVjU2c0ZtWFpQRjIxcHJfZldSTTNiNmdxUVp3Y25PZzIwWEZWWVZrWg?oc=5",
     "tags": [
-      "agents",
-      "transforming",
-      "work",
-      "openai"
+      "explore",
+      "markets",
+      "interactive",
+      "brokers"
     ]
   },
   {
@@ -644,258 +839,30 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-nvidia-accelerating-fine-tuning-nvidia-nemo-automodel",
-    "lab": "Hugging Face",
-    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "id": "cbmiy0fvx3lxtfb2ngh3ajmyoxo5ymfrwgljltvmcdfnzmngtulsogzucmxfow43ee0zd1jsofbhalpg",
+    "lab": "Mistral",
+    "title": "Bringing more control over your connectors",
     "summary": "",
-    "date": "2026-06-24T16:00:13.000Z",
+    "date": "2026-06-24T07:00:00.000Z",
     "category": "feature",
-    "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2NGh3ajMyOXo5YmFRWGljLTVmcDFNZmNGTUlsOGZucmxfOW43eE0zd1JsOFBhalpGWnVPLTFhbnFrc2o1MEJULTFCQ0FoRWExNnFJOWN5bG9zTkJaRk94SjZTMA?oc=5",
     "tags": [
-      "accelerating",
-      "transformers",
-      "fine",
-      "tuning"
+      "bringing",
+      "control",
+      "connectors"
     ]
   },
   {
-    "id": "https-openai-com-index-openai-broadcom-jalapeno-inference-chip",
-    "lab": "OpenAI",
-    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-    "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-    "date": "2026-06-24T06:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-    "tags": [
-      "openai",
-      "broadcom",
-      "llm",
-      "inference"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-ffasr-leaderboard",
-    "lab": "Hugging Face",
-    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+    "id": "cbmiy0fvx3lxte9izjjcvwrwdnpwlwtmtgvecy1rbmfuwgy3uhhfvmflqkrzalpoofzmmzhleezhyvbt",
+    "lab": "Anthropic",
+    "title": "Introducing Claude Tag",
     "summary": "",
-    "date": "2026-06-24T00:00:00.000Z",
-    "category": "model",
-    "url": "https://huggingface.co/blog/ffasr-leaderboard",
-    "tags": [
-      "ffasr",
-      "leaderboard",
-      "benchmarking",
-      "asr"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-gpt-5-immunology-mystery",
-    "lab": "OpenAI",
-    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-    "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
-    "date": "2026-06-23T17:00:00.000Z",
-    "category": "research",
-    "url": "https://openai.com/index/gpt-5-immunology-mystery",
-    "tags": [
-      "gpt",
-      "helped",
-      "solve",
-      "year"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-helping-build-shared-standards-for-advanced-ai",
-    "lab": "OpenAI",
-    "title": "Helping build shared standards for advanced AI",
-    "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
-    "date": "2026-06-23T13:00:00.000Z",
+    "date": "2026-06-23T07:00:00.000Z",
     "category": "feature",
-    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iZjJCVWRWdnpWLWtMTGVEcy1RbmFuWGY3UHhfVmFlQkRZalpoOFZMMzhLeEZhYVBTcjhKR0FZaEF5QlpNVzB2bXVIczF0X0RWbmN4NDM4VmUtZGxyU2dHbGRSWQ?oc=5",
     "tags": [
-      "build",
-      "shared",
-      "standards",
-      "advanced"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-huggingface-hub-release-ci",
-    "lab": "Hugging Face",
-    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-    "summary": "",
-    "date": "2026-06-23T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
-    "tags": [
-      "shipping",
-      "huggingface",
-      "hub",
-      "every"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-cross-origin-storage",
-    "lab": "Hugging Face",
-    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-    "summary": "",
-    "date": "2026-06-23T00:00:00.000Z",
-    "category": "api",
-    "url": "https://huggingface.co/blog/cross-origin-storage",
-    "tags": [
-      "experimenting",
-      "proposed",
-      "cross",
-      "origin"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-omio",
-    "lab": "OpenAI",
-    "title": "How Omio is building the future of conversational travel",
-    "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-    "date": "2026-06-23T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/omio",
-    "tags": [
-      "omio",
-      "conversational",
-      "travel",
-      "building"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-paddlepaddle-pp-ocrv6",
-    "lab": "Hugging Face",
-    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-    "summary": "",
-    "date": "2026-06-22T13:18:56.000Z",
-    "category": "model",
-    "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-    "tags": [
-      "ocrv6",
-      "hugging",
-      "face",
-      "language"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-daybreak-securing-the-world",
-    "lab": "OpenAI",
-    "title": "Daybreak: Tools for securing every organization in the world",
-    "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-    "date": "2026-06-22T10:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/daybreak-securing-the-world",
-    "tags": [
-      "daybreak",
-      "tools",
-      "securing",
-      "every"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-patch-the-planet",
-    "lab": "OpenAI",
-    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-    "date": "2026-06-22T10:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/patch-the-planet",
-    "tags": [
-      "patch",
-      "planet",
-      "daybreak",
-      "initiative"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-local-models-pr-triage",
-    "lab": "Hugging Face",
-    "title": "We got local models to triage the OpenClaw repo for FREE!*",
-    "summary": "",
-    "date": "2026-06-22T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/local-models-pr-triage",
-    "tags": [
-      "got",
-      "local",
-      "models",
-      "triage"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-codex-maxxing-long-running-work",
-    "lab": "OpenAI",
-    "title": "Codex-maxxing for long-running work",
-    "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
-    "date": "2026-06-22T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/codex-maxxing-long-running-work",
-    "tags": [
-      "codex",
-      "work",
-      "maxxing",
-      "long"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-samsung-electronics-chatgpt-codex-deployment",
-    "lab": "OpenAI",
-    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-    "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
-    "date": "2026-06-21T23:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-    "tags": [
-      "samsung",
-      "electronics",
-      "chatgpt",
-      "codex"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-servicenow-mosaicleaks",
-    "lab": "Hugging Face",
-    "title": "MosaicLeaks: Can your research agent keep a secret?",
-    "summary": "",
-    "date": "2026-06-18T18:13:13.000Z",
-    "category": "research",
-    "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-    "tags": [
-      "mosaicleaks",
-      "research",
-      "agent",
-      "keep"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-chatgpt-enterprise-spend-controls",
-    "lab": "OpenAI",
-    "title": "New usage analytics and updated spend controls for enterprises",
-    "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
-    "date": "2026-06-18T17:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-    "tags": [
-      "usage",
-      "analytics",
-      "spend",
-      "controls"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-improving-health-intelligence-in-chatgpt",
-    "lab": "OpenAI",
-    "title": "Improving health intelligence in ChatGPT",
-    "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
-    "date": "2026-06-18T11:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-    "tags": [
-      "health",
-      "chatgpt",
-      "improving",
-      "intelligence"
+      "claude",
+      "tag"
     ]
   }
 ]

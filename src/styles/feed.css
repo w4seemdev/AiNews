@@ -709,6 +709,34 @@
   line-height: 1.6;
 }
 
+/* Watermark on fallback rows — fabricated sample stories must stay
+   identifiable even after the dismissible banner is closed. */
+.sample-chip {
+  font-family: var(--font-sans);
+  font-size: 0.64rem;
+  font-weight: 700;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--warning);
+  background: color-mix(in srgb, var(--warning) 9%, transparent);
+  border: 1px dashed color-mix(in srgb, var(--warning) 45%, transparent);
+  border-radius: var(--radius-pill);
+  padding: 1px 7px;
+  margin-left: 2px;
+  white-space: nowrap;
+  line-height: 1.6;
+}
+
+/* Solid fill when floated over the lead image, matching the other badges */
+.lead__badges .sample-chip {
+  color: var(--bg);
+  background: var(--warning);
+  border: 0;
+  margin-left: 0;
+  padding: 3px 10px;
+  box-shadow: var(--shadow-badge);
+}
+
 .spec-strip {
   display: flex;
   flex-wrap: wrap;

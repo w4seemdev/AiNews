@@ -3,8 +3,14 @@ name: "Refresh AI news"
 # Runs the daily news pipeline:
 #   ① collector (scripts/refresh-news.mjs) → fetch RSS, map to cards
 #   ② optional LLM enrichment (scripts/enrich.mjs) — only if ANTHROPIC_API_KEY secret is set
-#   ③ publisher → writes public/releases.json
-# then commits the regenerated public/releases.json if (and only if) it changed.
+#   ③ publisher → writes public/releases.json + public/meta.json + public/feed.xml
+# then commits the regenerated files if (and only if) they changed.
+#
+# NOTE: `schedule` triggers only run against the repository's DEFAULT branch
+# (main), and only when GitHub Actions is enabled for the repo. GitHub also
+# disables scheduled workflows after ~60 days without repo activity — check
+# the Actions tab and re-enable if the "Refresh AI news" workflow shows as
+# disabled.
 
 on:
   # Daily at 06:00 UTC.
@@ -47,18 +53,36 @@ jobs:
           # Optional. If unset, scripts/enrich.mjs skips the LLM step gracefully.
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
+      - name: Verify lab coverage
+        # The collector skips broken feeds silently by design (one bad feed
+        # must not kill the run) — this gate makes systemic source failure
+        # LOUD instead: fail the job when fewer than 4 labs produced items.
+        run: |
+          node --input-type=module -e '
+            import { readFile } from "node:fs/promises"
+            const meta = JSON.parse(await readFile("public/meta.json", "utf8"))
+            const withItems = Object.entries(meta.labs).filter(([, n]) => n > 0)
+            console.log("Labs with items:", withItems.map(([lab, n]) => `${lab}(${n})`).join(", "))
+            if (withItems.length < 4) {
+              console.error(`::error::Only ${withItems.length} labs produced items (need >= 4). Feed sources are likely broken — check scripts/refresh-news.mjs SOURCES.`)
+              process.exit(1)
+            }
+          '
+
       - name: Commit updated feed
         run: |
           # Neutral bot identity — no AI/Claude attribution.
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Skip the commit entirely when public/releases.json is unchanged.
-          if git diff --quiet -- public/releases.json; then
-            echo "No changes to public/releases.json — nothing to commit."
+          # Skip the commit entirely when the pipeline outputs are unchanged.
+          # (meta.json's generatedAt changes every run, so in practice this
+          # commits daily — which also keeps the scheduled workflow active.)
+          if git diff --quiet -- public/releases.json public/meta.json public/feed.xml; then
+            echo "No changes to pipeline outputs — nothing to commit."
             exit 0
           fi
 
-          git add public/releases.json
+          git add public/releases.json public/meta.json public/feed.xml
           git commit -m "chore: refresh AI news feed"
           git push

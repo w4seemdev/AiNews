@@ -3,9 +3,15 @@
 // Collector + Publisher stage of the daily AI-news refresh pipeline.
 //
 // Fetches RSS feeds from AI labs / community sources, maps each entry to the
-// card shape consumed by the website (see src/types.ts -> Release), dedupes,
-// sorts newest-first, caps to 60, optionally runs an enrichment hook, and
-// writes public/releases.json.
+// card shape consumed by the website (see src/types.ts -> Release), drops
+// marketing/event posts, dedupes, sorts newest-first, caps per-lab then
+// globally, optionally runs an enrichment hook, and writes three outputs:
+//   public/releases.json — the card array consumed by the frontend (shape
+//                          unchanged: a top-level JSON array)
+//   public/meta.json     — { generatedAt, labs: { <lab>: <count> } } freshness
+//                          metadata (sibling file, so the frontend contract
+//                          for releases.json is untouched)
+//   public/feed.xml      — RSS 2.0 feed of the same items
 //
 // Run with:  npm run refresh   (= node scripts/refresh-news.mjs)
 //
@@ -29,8 +35,17 @@ import Parser from 'rss-parser'
 //   - Only include feeds that cleanly map to ONE of the above labs.
 //   - Do NOT add generic press outlets (TechCrunch, Wired, etc.) — they can't
 //     be attributed to a single lab, so attribution would be wrong.
-//   - If a feed 404s or times out, it is skipped silently at runtime (see the
-//     per-feed try/catch in collect()); just swap in a working URL.
+//   - Labs without a working first-party RSS endpoint (Anthropic, Meta,
+//     Mistral, xAI, DeepSeek all 404/403 as of 2026-07) use Google News RSS
+//     scoped to the lab's own news/blog path via a `site:` query, so every
+//     item is still the lab's own post — attribution stays correct. Mark
+//     those entries with `googleNews: true`: their titles carry a
+//     " - Publisher" suffix (stripped in toCard) and their descriptions just
+//     repeat the title, so no summary is derived from them. Links are
+//     news.google.com redirects; they resolve, so we keep them.
+//   - If a feed 404s or times out, it is skipped at runtime (see the per-feed
+//     try/catch in collect()); the CI workflow fails loudly when fewer than
+//     4 labs produce items.
 // ---------------------------------------------------------------------------
 const SOURCES = [
   // --- Hugging Face ---
@@ -40,31 +55,57 @@ const SOURCES = [
   // --- OpenAI ---
   { feed: 'https://openai.com/news/rss.xml', lab: 'OpenAI' },
 
-  // --- Anthropic ---
-  { feed: 'https://www.anthropic.com/news/rss', lab: 'Anthropic' },
+  // --- Anthropic --- (first-party https://www.anthropic.com/news/rss is 404)
+  {
+    feed: 'https://news.google.com/rss/search?q=site:anthropic.com/news&hl=en-US&gl=US&ceid=US:en',
+    lab: 'Anthropic',
+    googleNews: true,
+  },
 
   // --- Google DeepMind ---
   { feed: 'https://deepmind.google/blog/rss.xml', lab: 'Google DeepMind' },
   // Google AI / Research blog (also covers DeepMind releases).
   { feed: 'https://blog.google/technology/ai/rss/', lab: 'Google DeepMind' },
 
-  // --- Meta ---
-  { feed: 'https://ai.meta.com/blog/rss/', lab: 'Meta' },
+  // --- Meta --- (first-party https://ai.meta.com/blog/rss/ is 404)
+  {
+    feed: 'https://news.google.com/rss/search?q=site:ai.meta.com/blog&hl=en-US&gl=US&ceid=US:en',
+    lab: 'Meta',
+    googleNews: true,
+  },
 
-  // --- Mistral ---
-  { feed: 'https://mistral.ai/news/feed.xml', lab: 'Mistral' },
+  // --- Mistral --- (first-party https://mistral.ai/news/feed.xml is 404)
+  {
+    feed: 'https://news.google.com/rss/search?q=site:mistral.ai/news&hl=en-US&gl=US&ceid=US:en',
+    lab: 'Mistral',
+    googleNews: true,
+  },
 
-  // --- xAI ---
-  { feed: 'https://x.ai/news/rss.xml', lab: 'xAI' },
+  // --- xAI --- (first-party https://x.ai/news/rss.xml is 403)
+  {
+    feed: 'https://news.google.com/rss/search?q=site:x.ai/news&hl=en-US&gl=US&ceid=US:en',
+    lab: 'xAI',
+    googleNews: true,
+  },
 
-  // --- DeepSeek ---
-  { feed: 'https://www.deepseek.com/news/rss.xml', lab: 'DeepSeek' },
+  // --- DeepSeek --- (first-party https://www.deepseek.com/news/rss.xml is
+  // 404; DeepSeek publishes announcements on api-docs.deepseek.com)
+  {
+    feed: 'https://news.google.com/rss/search?q=site:api-docs.deepseek.com&hl=en-US&gl=US&ceid=US:en',
+    lab: 'DeepSeek',
+    googleNews: true,
+  },
 ]
 
 // ~240-char target for summaries.
 const SUMMARY_MAX = 240
 // Final cap on number of cards written (raised from 40).
 const OUTPUT_CAP = 60
+// Per-lab cap applied BEFORE the global cap, so high-volume publishers
+// (OpenAI, Hugging Face) can't flood low-frequency labs out of the river.
+const PER_LAB_CAP = 10
+// Canonical site URL — used for the RSS 2.0 channel in public/feed.xml.
+const SITE_URL = 'https://ai-pulse.vercel.app'
 // Per-feed fetch timeout.
 const FETCH_TIMEOUT_MS = 15000
 // Per-feed response size cap. rss-parser buffers the whole body in memory, so
@@ -134,18 +175,54 @@ function toIsoDate(entry) {
 }
 
 /**
+ * Relevance filter: drop marketing / event / hiring posts that aren't a
+ * release, feature, API change, or research result. Tested against the
+ * combined title+summary text; a match means the card is discarded.
+ */
+const IRRELEVANT_RE = new RegExp(
+  [
+    // Events & appearances.
+    '\\b(summit|conference|hackathon|webinar|meetup|keynote|fireside chat|expo|bootcamp)\\b',
+    // Event-marketing calls to action.
+    '\\b(register (now|today)|join us|rsvp|save the date|get tickets)\\b',
+    // Hiring / careers posts.
+    "\\b(we'?re hiring|job openings?|careers at)\\b",
+    // Customer-story / case-study marketing.
+    '\\b(customer stor(y|ies)|case stud(y|ies))\\b',
+  ].join('|'),
+  'i',
+)
+
+/** True when a card is release/feature/research content worth publishing. */
+function isRelevant(card) {
+  return !IRRELEVANT_RE.test(`${card.title} ${card.summary}`)
+}
+
+/**
  * Heuristic category classification from the combined title+summary text.
  * Order matters: research > api > model > feature (default).
  */
 function classify(text) {
   const t = text.toLowerCase()
-  if (/\b(paper|research|arxiv|interpretab)/.test(t)) return 'research'
+  if (/\b(paper|research|arxiv|interpretab|technical report)/.test(t)) return 'research'
   if (/\b(api|sdk|endpoint)/.test(t)) return 'api'
-  // "introducing/announcing/available" or a version/model-name pattern
-  // (e.g. "gpt-4", "claude 3.5", "llama 3", "v2", "1.5").
+  // 'model' requires a real model signal — the old generic
+  // /\b[a-z]+[- ]?\d+/ heuristic matched dates ("june 2026") and ordinary
+  // numbers, mislabeling recap and event posts as model releases.
   if (
-    /\b(introduc|announc|available)/.test(t) ||
-    /\b[a-z]+[- ]?\d+(\.\d+)?\b/.test(t) ||
+    // A known model-family name followed by a version number
+    // (e.g. "gpt-5", "claude 4.1", "llama 4", "grok 4.5", "qwen 3").
+    /\b(gpt|claude|gemini|gemma|llama|grok|mistral|mixtral|codestral|magistral|devstral|pixtral|deepseek|qwen|phi|opus|sonnet|haiku)[- ]?\d+(\.\d+)?\b/.test(t) ||
+    // OpenAI o-series ("o3", "o4-mini").
+    /\bo\d\b/.test(t) ||
+    // A release verb applied to the word model/weights
+    // ("announcing our new model", "released the weights").
+    /\b(introduc|announc|releas|launch|unveil|ship)\w*\b[^.]{0,80}\b(models?|weights)\b/.test(t) ||
+    /\b(open[- ]?weights?|foundation model|frontier model)\b/.test(t) ||
+    // A release verb followed by a short versioned product name
+    // ("Introducing Muse Spark 1.1"). \d{1,2} deliberately excludes
+    // 4-digit years so "announced in June 2026" doesn't match.
+    /\b(introduc|announc|unveil)\w*\s[^.]{0,50}\b\d{1,2}(\.\d+)?\b/.test(t) ||
     /\bv\d+(\.\d+)?\b/.test(t)
   ) {
     return 'model'
@@ -161,6 +238,18 @@ const STOPWORDS = new Set([
   'using', 'used', 'about', 'over', 'out', 'its', 'their', 'they', 'them',
   'you', 'we', 'a', 'an', 'of', 'to', 'in', 'on', 'at', 'by', 'is', 'it',
   'as', 'be', 'or', 'we', 'introducing', 'announcing', 'available', 'today',
+  // Newswire noise seen in live data ('latest', 'june', 'news', 'announced'):
+  // release verbs, generic news words, and calendar words carry no signal on
+  // a site where everything is a dated announcement.
+  'news', 'latest', 'update', 'updates', 'updated',
+  'announce', 'announces', 'announced', 'announcement', 'announcements',
+  'introduce', 'introduces', 'introduced',
+  'launch', 'launches', 'launched', 'launching',
+  'release', 'releases', 'released', 'releasing',
+  'unveil', 'unveils', 'unveiled', 'says', 'here',
+  'week', 'month', 'year', 'day', 'days',
+  'january', 'february', 'march', 'april', 'may', 'june', 'july',
+  'august', 'september', 'october', 'november', 'december',
 ])
 
 /** Infer 2-4 short, lowercase, single-word keyword tags from the text. */
@@ -289,9 +378,27 @@ async function fetchFeedXml(feedUrl) {
   return new TextDecoder().decode(Buffer.concat(chunks))
 }
 
-/** Map a single rss-parser entry + its source lab to a Release card. */
-function toCard(entry, lab) {
-  const title = cleanText(entry.title)
+/**
+ * Google News search-result titles end in " - Publisher". Strip that final
+ * segment (only the last " - " chunk, so hyphenated product names survive).
+ */
+function stripGoogleNewsSuffix(title) {
+  const idx = title.lastIndexOf(' - ')
+  if (idx <= 0) return title
+  const stripped = title.slice(0, idx).trim()
+  return stripped || title
+}
+
+/**
+ * Map a single rss-parser entry + its source lab to a Release card.
+ * `googleNews: true` marks Google News proxy feeds: their titles carry a
+ * " - Publisher" suffix (stripped here) and their descriptions merely repeat
+ * the title as HTML, so no summary is derived from them (enrich.mjs can fill
+ * summaries later).
+ */
+function toCard(entry, lab, googleNews = false) {
+  let title = cleanText(entry.title)
+  if (googleNews) title = stripGoogleNewsSuffix(title)
   if (!title) return null // skip entries without a usable title
 
   // Only absolute http(s) links may reach <a href> / clipboard in the UI —
@@ -301,11 +408,15 @@ function toCard(entry, lab) {
 
   // Summary: prefer contentSnippet (already text); if empty/whitespace, fall
   // back to stripping HTML from content:encoded or content; truncate to max.
-  let rawSummary = (entry.contentSnippet || '').trim()
-  if (!rawSummary) {
-    rawSummary = cleanText(entry['content:encoded'] || entry.content || entry.summary || '')
+  // Google News descriptions just repeat the title, so leave those empty.
+  let summary = ''
+  if (!googleNews) {
+    let rawSummary = (entry.contentSnippet || '').trim()
+    if (!rawSummary) {
+      rawSummary = cleanText(entry['content:encoded'] || entry.content || entry.summary || '')
+    }
+    summary = truncate(rawSummary || cleanText(entry.summary || ''), SUMMARY_MAX)
   }
-  const summary = truncate(rawSummary || cleanText(entry.summary || ''), SUMMARY_MAX)
 
   // id: slug of guid or link; fallback to slug(title + date).
   const idSource = entry.guid || entry.link || `${title} ${date}`
@@ -351,8 +462,8 @@ async function collect() {
       const items = feed.items || []
       let mapped = 0
       for (const item of items) {
-        const card = toCard(item, source.lab)
-        if (card) {
+        const card = toCard(item, source.lab, source.googleNews === true)
+        if (card && isRelevant(card)) {
           cards.push(card)
           mapped++
         }
@@ -368,7 +479,11 @@ async function collect() {
   return { cards, perFeed }
 }
 
-/** Dedupe by id AND by url, sort by date descending, cap to OUTPUT_CAP. */
+/**
+ * Dedupe by id AND by url, sort by date descending, cap each lab to
+ * PER_LAB_CAP (so OpenAI/Hugging Face volume can't crowd out low-frequency
+ * labs), then cap globally to OUTPUT_CAP.
+ */
 function finalize(cards) {
   const seenIds  = new Set()
   const seenUrls = new Set()
@@ -383,7 +498,19 @@ function finalize(cards) {
   }
 
   unique.sort((a, b) => new Date(b.date) - new Date(a.date)) // newest first
-  return unique.slice(0, OUTPUT_CAP)
+
+  // Per-lab cap: cards are newest-first, so keeping the first PER_LAB_CAP per
+  // lab keeps each lab's newest items.
+  const perLabCounts = new Map()
+  const capped = []
+  for (const card of unique) {
+    const n = perLabCounts.get(card.lab) || 0
+    if (n >= PER_LAB_CAP) continue
+    perLabCounts.set(card.lab, n + 1)
+    capped.push(card)
+  }
+
+  return capped.slice(0, OUTPUT_CAP)
 }
 
 // ---------------------------------------------------------------------------
@@ -416,6 +543,65 @@ async function runEnrichment(releases) {
 }
 
 // ---------------------------------------------------------------------------
+// RSS 2.0 output (public/feed.xml)
+// ---------------------------------------------------------------------------
+
+/** Escape the five XML special characters for element/attribute content. */
+function escapeXml(text) {
+  return String(text || '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&apos;')
+}
+
+/** RFC 822-style date required by RSS 2.0 <pubDate>/<lastBuildDate>. */
+function toRfc822(isoDate) {
+  const d = new Date(isoDate)
+  return Number.isNaN(d.getTime()) ? new Date().toUTCString() : d.toUTCString()
+}
+
+/** Build an RSS 2.0 document from the finalized release cards. */
+function buildRssFeed(releases, generatedAt) {
+  const items = releases
+    .map((r) => {
+      const lines = [
+        '    <item>',
+        `      <title>${escapeXml(r.title)}</title>`,
+      ]
+      if (r.url) lines.push(`      <link>${escapeXml(r.url)}</link>`)
+      lines.push(`      <guid isPermaLink="false">${escapeXml(r.id)}</guid>`)
+      lines.push(`      <pubDate>${toRfc822(r.date)}</pubDate>`)
+      const description = r.summary
+        ? `${r.summary} (Source: ${r.lab})`
+        : `Source: ${r.lab}`
+      lines.push(`      <description>${escapeXml(description)}</description>`)
+      lines.push(`      <source url="${escapeXml(SITE_URL)}">${escapeXml(r.lab)}</source>`)
+      lines.push(`      <category>${escapeXml(r.category)}</category>`)
+      lines.push('    </item>')
+      return lines.join('\n')
+    })
+    .join('\n')
+
+  return [
+    '<?xml version="1.0" encoding="UTF-8"?>',
+    '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">',
+    '  <channel>',
+    '    <title>AI Pulse</title>',
+    `    <link>${escapeXml(SITE_URL)}</link>`,
+    '    <description>Model, feature, API, and research drops from the top AI labs.</description>',
+    '    <language>en-us</language>',
+    `    <lastBuildDate>${toRfc822(generatedAt)}</lastBuildDate>`,
+    `    <atom:link href="${escapeXml(SITE_URL)}/feed.xml" rel="self" type="application/rss+xml"/>`,
+    items,
+    '  </channel>',
+    '</rss>',
+    '',
+  ].join('\n')
+}
+
+// ---------------------------------------------------------------------------
 // Main
 // ---------------------------------------------------------------------------
 
@@ -426,17 +612,40 @@ async function main() {
   let releases = finalize(cards)
   releases = await runEnrichment(releases)
 
-  // Resolve output path relative to THIS file so it works from any cwd:
-  // scripts/refresh-news.mjs -> ../public/releases.json
-  const outPath = fileURLToPath(new URL('../public/releases.json', import.meta.url))
-  await writeFile(outPath, JSON.stringify(releases, null, 2) + '\n', 'utf8')
+  const generatedAt = new Date().toISOString()
 
-  // Concise summary: per-feed counts then the final total.
+  // Per-lab counts over the FINAL output — this is what meta.json reports and
+  // what the CI coverage gate checks.
+  const labs = {}
+  for (const r of releases) {
+    labs[r.lab] = (labs[r.lab] || 0) + 1
+  }
+
+  // Resolve output paths relative to THIS file so it works from any cwd:
+  // scripts/refresh-news.mjs -> ../public/…
+  const releasesPath = fileURLToPath(new URL('../public/releases.json', import.meta.url))
+  const metaPath     = fileURLToPath(new URL('../public/meta.json', import.meta.url))
+  const feedPath     = fileURLToPath(new URL('../public/feed.xml', import.meta.url))
+
+  // releases.json keeps its original shape: a top-level JSON array (the
+  // frontend's sanitizeReleases() expects exactly that). Freshness metadata
+  // goes in the sibling meta.json instead.
+  await writeFile(releasesPath, JSON.stringify(releases, null, 2) + '\n', 'utf8')
+  await writeFile(metaPath, JSON.stringify({ generatedAt, labs }, null, 2) + '\n', 'utf8')
+  await writeFile(feedPath, buildRssFeed(releases, generatedAt), 'utf8')
+
+  // Concise summary: per-feed counts, per-lab counts, then the final total.
   console.log('\nPer-feed counts:')
   for (const [feedUrl, count] of perFeed) {
     console.log(`  ${String(count).padStart(3)}  ${feedUrl}`)
   }
-  console.log(`\n✅ Wrote ${releases.length} releases to ${outPath}`)
+  console.log('\nPer-lab counts (final output):')
+  for (const [lab, count] of Object.entries(labs)) {
+    console.log(`  ${String(count).padStart(3)}  ${lab}`)
+  }
+  console.log(`\n✅ Wrote ${releases.length} releases to ${releasesPath}`)
+  console.log(`✅ Wrote ${metaPath}`)
+  console.log(`✅ Wrote ${feedPath}`)
 }
 
 main().catch((err) => {

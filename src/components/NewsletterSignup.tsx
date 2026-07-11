@@ -1,5 +1,5 @@
 import { useState, type FormEvent } from 'react'
-import { Check, Mail } from 'lucide-react'
+import { Mail, Send } from 'lucide-react'
 
 interface NewsletterSignupProps {
   /** 'panel' renders inside a sidebar card; 'footer' renders inline in the footer. */
@@ -8,12 +8,14 @@ interface NewsletterSignupProps {
 
 /**
  * Front-end-only newsletter capture. There is no backend yet, so a submit
- * opens a prefilled mail draft and flips to a success state. Swap the
- * handler for a Buttondown/Beehiiv POST when a provider is wired up.
+ * opens a prefilled mail draft in the visitor's email app — nothing is sent
+ * automatically, and the UI never claims a subscription it can't confirm.
+ * Swap the handler for a Buttondown/Beehiiv POST when a provider is wired up.
  */
 export default function NewsletterSignup({ variant = 'panel' }: NewsletterSignupProps) {
   const [email, setEmail] = useState('')
-  const [done, setDone] = useState(false)
+  // A draft was opened in the visitor's email app — NOT a confirmed signup.
+  const [drafted, setDrafted] = useState(false)
 
   function handleSubmit(e: FormEvent<HTMLFormElement>) {
     e.preventDefault()
@@ -22,7 +24,7 @@ export default function NewsletterSignup({ variant = 'panel' }: NewsletterSignup
     const subject = encodeURIComponent('Subscribe to AI Pulse')
     const body = encodeURIComponent(`Please add ${trimmed} to the AI Pulse daily briefing.`)
     window.location.href = `mailto:waseemabufares@gmail.com?subject=${subject}&body=${body}`
-    setDone(true)
+    setDrafted(true)
   }
 
   return (
@@ -36,12 +38,12 @@ export default function NewsletterSignup({ variant = 'panel' }: NewsletterSignup
       <p className="newsletter__copy">
         Every model, feature, and paper from the top labs — one calm email, every morning.
       </p>
-      {done ? (
+      {drafted ? (
         <p className="newsletter__done" role="status">
-          <Check size={14} aria-hidden="true" />
+          <Send size={14} aria-hidden="true" />
           <span>
-            Almost there — send the email that just opened (to
-            waseemabufares@gmail.com) and you&rsquo;re on the list.
+            A prefilled request just opened in your email app — press send there
+            to finish subscribing. Nothing was sent automatically.
           </span>
         </p>
       ) : (
@@ -64,7 +66,9 @@ export default function NewsletterSignup({ variant = 'panel' }: NewsletterSignup
           </button>
         </form>
       )}
-      <p className="newsletter__fine">Free. No spam, unsubscribe anytime.</p>
+      <p className="newsletter__fine">
+        Subscribing opens your email app. Free, unsubscribe anytime.
+      </p>
     </div>
   )
 }
