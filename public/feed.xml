@@ -5,13 +5,13 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2026 13:58:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 08:11:09 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Robostral Navigate: single-camera AI navigation</title>
       <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuODdfOFZITFJmb0FyNW00TkZEdUtFYzVxWnV5bWxCY1dRc3hnVjdFUVpqNHRnWDBGVUMzYXViZ1ViVEVCR216YzNOZ0lDbXZHMGNnUW93?oc=5</link>
       <guid isPermaLink="false">cbmivkfvx3lxtfbuoddfofzitfjmb0fynw00tkzedutfyzvxwnv5bwxcy1drc3hnvjdfuvpqnhrnwdbg</guid>
-      <pubDate>Sat, 11 Jul 2026 08:52:05 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 03:02:17 GMT</pubDate>
       <description>Source: Mistral</description>
       <source url="https://ai-pulse.vercel.app">Mistral</source>
       <category>feature</category>
@@ -20,7 +20,16 @@
       <title>Integrate with OpenCode</title>
       <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE1KNjYyZE1OS2V3TENPbmlFRnkzWDB3S1hsWFRIaG1SMUFGa2dfN2NpZXdaWEZleDFuRlVUZG02MkszdnlmZVdpa3ZEMWduN2I3SVVLT3RyTXlaVEM2UzJEeWg2cGV4WEFnX0dXdHh3TVJwTUpFSTlncGd3?oc=5</link>
       <guid isPermaLink="false">cbmiekfvx3lxte1knjyyze1os2v3tenpbmlfrnkzwdb3s1hswfriag1smufga2dfn2npzxdawezledfu</guid>
-      <pubDate>Fri, 10 Jul 2026 16:10:14 GMT</pubDate>
+      <pubDate>Fri, 10 Jul 2026 16:10:15 GMT</pubDate>
+      <description>Source: DeepSeek</description>
+      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Integrating nanobot</title>
+      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE9YdFY5VUVFWWI3b2o5NDJLc2h0ZzNrM3MwMlBqLXBnNjlfVXpydVJRXzFwOWh5YXZaNGVnbGJiWEgyNGgzMDEtNzZDeldvSVBEVTNmN193MXlEdEk3dW4yVjFPbDg2UWVnODdJUzRLSjI0N1Z6SFhIVQ?oc=5</link>
+      <guid isPermaLink="false">cbmieefvx3lxte9ydfy5vuvfwwi3b2o5ndjlc2h0zznrm3mwmlbqlxbnnjlfvxpydvjrxzfwowh5yxza</guid>
+      <pubDate>Fri, 10 Jul 2026 09:28:05 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>feature</category>
@@ -83,7 +92,7 @@
       <title>Integrate with Hermes Agent</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1wcElhZDlxcGpUUldVNlI3RHlMWlV5c2VDd3N1VnJZX2FZVWtuM1JoV1QxZDl3QjI2d1JGSnZaN2tTMHJxT2xkMll1ZFlHaHJtZXg1c0tKWjRZU0JDQTJWaGxWVXZOZ2ZqbkpHTEp0R3A1RWNnMmEw?oc=5</link>
       <guid isPermaLink="false">cbmid0fvx3lxte1wcelhzdlxcgpuuldvnli3rhlmwlv5c2vdd3n1vnjzx2fzvwtum1jov1qxzdl3qji2</guid>
-      <pubDate>Fri, 10 Jul 2026 02:48:24 GMT</pubDate>
+      <pubDate>Fri, 10 Jul 2026 02:48:25 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>feature</category>
@@ -149,15 +158,6 @@
       <pubDate>Thu, 09 Jul 2026 14:01:05 GMT</pubDate>
       <description>Source: Mistral</description>
       <source url="https://ai-pulse.vercel.app">Mistral</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Integrate with Claude Code</title>
-      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE5HMDN6TG56SFI1cFNTMm40Z2VtZW1kTWRNNzBhczZlbUFnYWFpdFNreTRYZklqTmFFRzdhN2tMeGttRHVHZkk1eXIwWW1kMXZ0eGd0YUttNTRhclRIYWJLZ3lVemRUdGpBT0RMVDNhLW9NdW9vZlhrcXBLQ0NCdw?oc=5</link>
-      <guid isPermaLink="false">cbmifkfvx3lxte5hmdn6tg56sfi1cfntmm40z2vtzw1ktwrnnzbhczzlbufnywfpdfnretryzklqtmff</guid>
-      <pubDate>Thu, 09 Jul 2026 13:43:23 GMT</pubDate>
-      <description>Source: DeepSeek</description>
-      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>feature</category>
     </item>
     <item>

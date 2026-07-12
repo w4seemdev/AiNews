@@ -4,7 +4,7 @@
     "lab": "Mistral",
     "title": "Robostral Navigate: single-camera AI navigation",
     "summary": "",
-    "date": "2026-07-11T08:52:05.000Z",
+    "date": "2026-07-12T03:02:17.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuODdfOFZITFJmb0FyNW00TkZEdUtFYzVxWnV5bWxCY1dRc3hnVjdFUVpqNHRnWDBGVUMzYXViZ1ViVEVCR216YzNOZ0lDbXZHMGNnUW93?oc=5",
     "tags": [
@@ -19,12 +19,25 @@
     "lab": "DeepSeek",
     "title": "Integrate with OpenCode",
     "summary": "",
-    "date": "2026-07-10T16:10:14.000Z",
+    "date": "2026-07-10T16:10:15.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KNjYyZE1OS2V3TENPbmlFRnkzWDB3S1hsWFRIaG1SMUFGa2dfN2NpZXdaWEZleDFuRlVUZG02MkszdnlmZVdpa3ZEMWduN2I3SVVLT3RyTXlaVEM2UzJEeWg2cGV4WEFnX0dXdHh3TVJwTUpFSTlncGd3?oc=5",
     "tags": [
       "integrate",
       "opencode"
+    ]
+  },
+  {
+    "id": "cbmieefvx3lxte9ydfy5vuvfwwi3b2o5ndjlc2h0zznrm3mwmlbqlxbnnjlfvxpydvjrxzfwowh5yxza",
+    "lab": "DeepSeek",
+    "title": "Integrating nanobot",
+    "summary": "",
+    "date": "2026-07-10T09:28:05.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YdFY5VUVFWWI3b2o5NDJLc2h0ZzNrM3MwMlBqLXBnNjlfVXpydVJRXzFwOWh5YXZaNGVnbGJiWEgyNGgzMDEtNzZDeldvSVBEVTNmN193MXlEdEk3dW4yVjFPbDg2UWVnODdJUzRLSjI0N1Z6SFhIVQ?oc=5",
+    "tags": [
+      "integrating",
+      "nanobot"
     ]
   },
   {
@@ -114,7 +127,7 @@
     "lab": "DeepSeek",
     "title": "Integrate with Hermes Agent",
     "summary": "",
-    "date": "2026-07-10T02:48:24.000Z",
+    "date": "2026-07-10T02:48:25.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wcElhZDlxcGpUUldVNlI3RHlMWlV5c2VDd3N1VnJZX2FZVWtuM1JoV1QxZDl3QjI2d1JGSnZaN2tTMHJxT2xkMll1ZFlHaHJtZXg1c0tKWjRZU0JDQTJWaGxWVXZOZ2ZqbkpHTEp0R3A1RWNnMmEw?oc=5",
     "tags": [
@@ -221,20 +234,6 @@
       "control",
       "prompts",
       "skills"
-    ]
-  },
-  {
-    "id": "cbmifkfvx3lxte5hmdn6tg56sfi1cfntmm40z2vtzw1ktwrnnzbhczzlbufnywfpdfnretryzklqtmff",
-    "lab": "DeepSeek",
-    "title": "Integrate with Claude Code",
-    "summary": "",
-    "date": "2026-07-09T13:43:23.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HMDN6TG56SFI1cFNTMm40Z2VtZW1kTWRNNzBhczZlbUFnYWFpdFNreTRYZklqTmFFRzdhN2tMeGttRHVHZkk1eXIwWW1kMXZ0eGd0YUttNTRhclRIYWJLZ3lVemRUdGpBT0RMVDNhLW9NdW9vZlhrcXBLQ0NCdw?oc=5",
-    "tags": [
-      "integrate",
-      "claude",
-      "code"
     ]
   },
   {
