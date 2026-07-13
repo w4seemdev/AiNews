@@ -4,7 +4,7 @@
     "lab": "Mistral",
     "title": "Robostral Navigate: single-camera AI navigation",
     "summary": "",
-    "date": "2026-07-12T03:02:17.000Z",
+    "date": "2026-07-13T06:21:27.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuODdfOFZITFJmb0FyNW00TkZEdUtFYzVxWnV5bWxCY1dRc3hnVjdFUVpqNHRnWDBGVUMzYXViZ1ViVEVCR216YzNOZ0lDbXZHMGNnUW93?oc=5",
     "tags": [
@@ -12,6 +12,33 @@
       "navigate",
       "single",
       "camera"
+    ]
+  },
+  {
+    "id": "cbmizefvx3lxte5arznhdgvvbfbhuhrqmwpowvdtejrmoxbgmvphuja5tuj2skczutlpvnvmdufgdhqw",
+    "lab": "DeepSeek",
+    "title": "chat_python",
+    "summary": "",
+    "date": "2026-07-12T04:11:59.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aRzNhdGVvbFBhUHRqMWpOWVdtejRmOXBGMVpHUjA5TUJ2SkczUTlPVnVMdUFGdHQwX3JWN2VoenI0Qmt2T1B0SjNzcERDX0JNVEtydE1HSWtENzBMRDduTGVMcEg?oc=5",
+    "tags": [
+      "chat",
+      "python"
+    ]
+  },
+  {
+    "id": "cbmie0fvx3lxte1idkz0ceyzegltqndiwnhnsv80unp0ynvitznhvkrrzkztr1mwltg0atdqu05xekfk",
+    "lab": "DeepSeek",
+    "title": "Integrate with Kilo Code",
+    "summary": "",
+    "date": "2026-07-10T18:02:03.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1idkZ0cEYzeGlTQndiWnhnSV80Unp0YnViTzNhVkRRZkZtR1MwLTg0aTdQU05XekFKUzFmTWVCaHQ1OWo2OTRCUHliQXNKencyczNxbUZmR1N2WlNIQzNra0RmdXdGcmlTM0VXeXBhRkxWRzNFSG9LbjlwQQ?oc=5",
+    "tags": [
+      "integrate",
+      "kilo",
+      "code"
     ]
   },
   {
@@ -25,6 +52,18 @@
     "tags": [
       "integrate",
       "opencode"
+    ]
+  },
+  {
+    "id": "cbmieefvx3lxte1scdy0shzdyi04zxlhyvz1nmpbse9qufhqdlo1dutobm9ssxruaxruql91rhfqu19a",
+    "lab": "DeepSeek",
+    "title": "Integrate with Pi",
+    "summary": "",
+    "date": "2026-07-10T09:56:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1scDY0SHZDYi04ZXlHYVZ1NmpBSE9qUFhQdlo1dUtObm9SSXRUaXRUQl91RHFqU19aUUFtNFJVa21UMGVtNnRaSHBEU2NnbkQ0SDdXLUVvU3NoU2hhR0pzSU9nQkctVGl5eTdTM3h5WlhKRWJ2c3BSSw?oc=5",
+    "tags": [
+      "integrate"
     ]
   },
   {
@@ -83,57 +122,42 @@
     ]
   },
   {
-    "id": "cbmiekfvx3lxtfbtbgrfyuryc01qadfqnug1bfm4al9ibhjqmdvprerxvmdvvxd6d2pnblvtcjztytln",
+    "id": "cbmie0fvx3lxte4zd2xprhnwtlnaui04yuu1zux1wxuydwtyz1c1wks0vlhvtnetvdbolu82cestzdzh",
+    "lab": "DeepSeek",
+    "title": "Integrate with WorkBuddy/CodeBuddy",
+    "summary": "",
+    "date": "2026-07-10T06:09:08.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zd2xpRHNWTlNaUi04YUU1ZUx1WXUydWtyZ1c1Wks0VlhVTnEtVDBOLU82cEstZDZhZmx2OHkyNXh0anFfOTY3bm83dWZyMlFqdG1pcnNRNFl6cEJBLVdGcC04S1dFYXUzdjA4NjFpTkdXaXRTd3lpV0hHNA?oc=5",
+    "tags": [
+      "integrate",
+      "workbuddy",
+      "codebuddy"
+    ]
+  },
+  {
+    "id": "cbmiekfvx3lxte1csdfavzztzfjczdfiu0fpotljx1bprwryr3ddd1frsnjqakv1swzct2pgek1bqldl",
+    "lab": "DeepSeek",
+    "title": "Using DeepSeek with Oh My Pi",
+    "summary": "",
+    "date": "2026-07-10T05:46:28.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CSDFaVzZtZFJCZDFIU0FpOTlJX1BpRWRyR3dDd1FrSnJqakV1SWZCT2pGek1BQldlTHNod0xFYkNUemJkcTFmelFPakhjdnZZOW90ZWRWcGNXNjBnWkdXME9SVXg5a2tQbjgwRkVVUEFJUUU0TUNQeUR3?oc=5",
+    "tags": [
+      "deepseek"
+    ]
+  },
+  {
+    "id": "cbmieefvx3lxte1yedm4ddrnv3ktbupgzc1ncmdjm2ewvhrfsnjvy0ctqkd5rev1qxywbeu4betvvgrp",
     "lab": "DeepSeek",
     "title": "Integrate with Reasonix",
     "summary": "",
-    "date": "2026-07-10T04:49:59.000Z",
+    "date": "2026-07-10T04:50:00.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtbGRFYURyc01QaDFQNUg1bFM4al9IbHJQMDVpRERXVmdvVXd6d2pnblVtcjZTYTlNdkN2d012YWphTHM3akRZQXVrU2l2UnpabUtSdk1lMmpCcE01c1g2aTJzVmFoZnNPUTczd1ZROFNTNDJxMkN1YTJ3?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yeDM4dDRnV3ktbUpGZC1ncmdjM2EwVHRFSnJvY0ctQkd5REV1QXYwbEU4bEtvVGRPbjJ4akR0RFhVMDE3aUxLOGdMc2dQaDVwbDFlLVJsa1E4OGc4QWZxTnVCWVBrUFZvUm56ZXFTcUpIbGRXM3Zvbg?oc=5",
     "tags": [
       "integrate",
       "reasonix"
-    ]
-  },
-  {
-    "id": "cbmiekfvx3lxte1usxbot2ttttdqqmvnb0hhevrvswrczdflrnptquzhd19stzlcvmzvamlmmdgxcmit",
-    "lab": "DeepSeek",
-    "title": "Integrate with Deep Code",
-    "summary": "",
-    "date": "2026-07-10T03:00:45.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uSXBoT2tTTTdQQmVNb0hheVRVSWRCZDFlRnptQUZHd19sTzlCVmZVamlMMDgxcmItaDVSU2lteHBkZXRQTjh0X2tfWlg3ZGxmWm90UUk4TkRYMUFxQURVYkZJQ2FiQzladWY3VGRneEprUVZYN1B4Q1h3?oc=5",
-    "tags": [
-      "integrate",
-      "deep",
-      "code"
-    ]
-  },
-  {
-    "id": "cbmidkfvx3lxte14d0jiane3wklty2twrkjurkjhwujbwnayv0djsulwbxdvbgc0nlbbbtvfws13rtvd",
-    "lab": "DeepSeek",
-    "title": "Integrate with Crush",
-    "summary": "",
-    "date": "2026-07-10T02:52:37.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14d0JianE3WklTY2twRkJuRkJHWUJBWnAyV0dJSUlWbXdvbGc0NlBBbTVFWS13RTVDRllGWDNyVFZxQi1xckE4cHhOMlVvVzhLNXJrUlJHeExVT1ZVTy1ySEM1d1J0b2xnOWZCcXA1S3MwM1Fkenc?oc=5",
-    "tags": [
-      "integrate",
-      "crush"
-    ]
-  },
-  {
-    "id": "cbmid0fvx3lxte1wcelhzdlxcgpuuldvnli3rhlmwlv5c2vdd3n1vnjzx2fzvwtum1jov1qxzdl3qji2",
-    "lab": "DeepSeek",
-    "title": "Integrate with Hermes Agent",
-    "summary": "",
-    "date": "2026-07-10T02:48:25.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wcElhZDlxcGpUUldVNlI3RHlMWlV5c2VDd3N1VnJZX2FZVWtuM1JoV1QxZDl3QjI2d1JGSnZaN2tTMHJxT2xkMll1ZFlHaHJtZXg1c0tKWjRZU0JDQTJWaGxWVXZOZ2ZqbkpHTEp0R3A1RWNnMmEw?oc=5",
-    "tags": [
-      "integrate",
-      "hermes",
-      "agent"
     ]
   },
   {
@@ -193,19 +217,6 @@
       "bernanke",
       "appointed",
       "anthropic"
-    ]
-  },
-  {
-    "id": "cbmiaefvx3lxtfbxq0lnczrja1looed4stdpafhmykywserhszu1wvraee1qv0pqegntehffowzoswkw",
-    "lab": "DeepSeek",
-    "title": "Anthropic API",
-    "summary": "",
-    "date": "2026-07-09T14:40:52.000Z",
-    "category": "api",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxQ0lnczRJa1loOEd4STdPaFhmYkYwSERHSzU1WVRaeE1QV0pQeGNTeHFFOWZOSWkwMG9mQjNTMXdIRW5PUEE1dHFIRHBLVVJmTlFPQjF1bUMzLWxVeURRWUplV2Z0T09V?oc=5",
-    "tags": [
-      "anthropic",
-      "api"
     ]
   },
   {
@@ -308,21 +319,6 @@
       "bounty",
       "gpt",
       "bug"
-    ]
-  },
-  {
-    "id": "cbmifkfvx3lxte9zyjq0nevlsi1xcuqtrtzbb3dpdno4dhg4d2fjemrubwk1x1nqdexrtno0vmlcodvq",
-    "lab": "DeepSeek",
-    "title": "Integrate with GitHub Copilot CLI",
-    "summary": "",
-    "date": "2026-07-09T08:24:21.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zYjQ0NEVlSi1XcUQtRTZBb3dPdno4dHg4d2FjemRUbWk1X1NqdExrTno0VmlCODVqN2QxRVJ3NENLdmo1QlVDd21tOVBoWi03ckFjdVpwLWhsN1p5ZmM5dWpoT1JrOTdFS2tpX3I1WW9aRmJQanVsYXBGRDMtZw?oc=5",
-    "tags": [
-      "integrate",
-      "github",
-      "copilot",
-      "cli"
     ]
   },
   {
@@ -718,19 +714,6 @@
     ]
   },
   {
-    "id": "cbmiwkfvx3lxte94ujq1sehhswrtzuvlmlzddhjbbdu1aeflbzjpv3a1v19nvf9slvnnbjlksecwmv9v",
-    "lab": "Anthropic",
-    "title": "Introducing Claude Sonnet 5",
-    "summary": "",
-    "date": "2026-06-30T07:00:00.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
-    "tags": [
-      "claude",
-      "sonnet"
-    ]
-  },
-  {
     "id": "cbmiakfvx3lxte81r0j0dxluyzjgcmxvb3ddy0z2ujvyt2i5zkywsvrrwtbsum5hzxpwrkfsq2k5bm1j",
     "lab": "Anthropic",
     "title": "Claude Science, an AI workbench for scientists, is now available",
@@ -743,6 +726,19 @@
       "science",
       "workbench",
       "scientists"
+    ]
+  },
+  {
+    "id": "cbmiwkfvx3lxte94ujq1sehhswrtzuvlmlzddhjbbdu1aeflbzjpv3a1v19nvf9slvnnbjlksecwmv9v",
+    "lab": "Anthropic",
+    "title": "Introducing Claude Sonnet 5",
+    "summary": "",
+    "date": "2026-06-30T07:00:00.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
+    "tags": [
+      "claude",
+      "sonnet"
     ]
   },
   {
