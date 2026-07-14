@@ -5,15 +5,24 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2026 09:19:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 07:57:15 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Robostral Navigate: single-camera AI navigation</title>
       <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuODdfOFZITFJmb0FyNW00TkZEdUtFYzVxWnV5bWxCY1dRc3hnVjdFUVpqNHRnWDBGVUMzYXViZ1ViVEVCR216YzNOZ0lDbXZHMGNnUW93?oc=5</link>
       <guid isPermaLink="false">cbmivkfvx3lxtfbuoddfofzitfjmb0fynw00tkzedutfyzvxwnv5bwxcy1drc3hnvjdfuvpqnhrnwdbg</guid>
-      <pubDate>Mon, 13 Jul 2026 06:21:27 GMT</pubDate>
+      <pubDate>Tue, 14 Jul 2026 07:49:47 GMT</pubDate>
       <description>Source: Mistral</description>
       <source url="https://ai-pulse.vercel.app">Mistral</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Empowering India’s next generation of innovators with ATL Saathi</title>
+      <link>https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/</link>
+      <guid isPermaLink="false">https-deepmind-google-blog-empowering-indias-next-generation-of-innovators-with-</guid>
+      <pubDate>Mon, 13 Jul 2026 12:37:28 GMT</pubDate>
+      <description>Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs. (Source: Google DeepMind)</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
       <category>feature</category>
     </item>
     <item>
@@ -36,8 +45,8 @@
     </item>
     <item>
       <title>Integrate with OpenCode</title>
-      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE1KNjYyZE1OS2V3TENPbmlFRnkzWDB3S1hsWFRIaG1SMUFGa2dfN2NpZXdaWEZleDFuRlVUZG02MkszdnlmZVdpa3ZEMWduN2I3SVVLT3RyTXlaVEM2UzJEeWg2cGV4WEFnX0dXdHh3TVJwTUpFSTlncGd3?oc=5</link>
-      <guid isPermaLink="false">cbmiekfvx3lxte1knjyyze1os2v3tenpbmlfrnkzwdb3s1hswfriag1smufga2dfn2npzxdawezledfu</guid>
+      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE8wM2NyUTJHUW9peVpYUEticVB2bmtzdDI2VmhKZURYSXZ5OURoZUw4blV4eXU1VzNwOVhLZThOdVNNX0FOaGZ2ckFQWmtQSnZVREZFT3JlTlVDTHZGaWVrdDN3VGU1Wk9Zbk9kOEt6eUJKbXVpS292bg?oc=5</link>
+      <guid isPermaLink="false">cbmieefvx3lxte8wm2nyutjhuw9pevpyueticvb2bmtzddi2vmhkzurysxz5ourozuw4blv4exu1vznw</guid>
       <pubDate>Fri, 10 Jul 2026 16:10:15 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
@@ -81,8 +90,8 @@
     </item>
     <item>
       <title>Integrate with GitHub Copilot</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxON256UWxyRTYwbFJmTWlZbnJHM3RJNkZvanIxdzRMNmZZQjJmenlRbExnM2N3cE81OEhpeDRPYTdJN2RidzNKc3NyLThRbGpaTzNZWmNoU3Q0TnpfOWxIekpPWTZQVHRtYU1WSDYyOElvNkx3a01aRlF3M1BKcWx6TUFB?oc=5</link>
-      <guid isPermaLink="false">cbmiggfbvv95cuxon256uwxyrtywbfjmtwlzbnjhm3rjnkzvanixdzrmnmzzqjjmenlrbexnm2n3ce81</guid>
+      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxNdDFCOXZfYmJtYWFSdTFPOHgtckUtWXVNZkI4R1V1ejdIOG9ITEd4bzQ2RjNqZ1NYbExnemFtczR3OVFkQnVMTUhGM01udmszR2dvR2hyTEU0d1pSRTFvRkJxYmEtNVVKUWZlZ3M4dlp4YTlSdGRPQ1NtcHZfYWVQaw?oc=5</link>
+      <guid isPermaLink="false">cbmigafbvv95cuxnddfcoxzfymjtywfsdtfpohgtckutwxvnzki4r1v1ejdiog9ited4bzq2rjnqz1ny</guid>
       <pubDate>Fri, 10 Jul 2026 06:26:08 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
@@ -108,8 +117,8 @@
     </item>
     <item>
       <title>Integrate with Reasonix</title>
-      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE1yeDM4dDRnV3ktbUpGZC1ncmdjM2EwVHRFSnJvY0ctQkd5REV1QXYwbEU4bEtvVGRPbjJ4akR0RFhVMDE3aUxLOGdMc2dQaDVwbDFlLVJsa1E4OGc4QWZxTnVCWVBrUFZvUm56ZXFTcUpIbGRXM3Zvbg?oc=5</link>
-      <guid isPermaLink="false">cbmieefvx3lxte1yedm4ddrnv3ktbupgzc1ncmdjm2ewvhrfsnjvy0ctqkd5rev1qxywbeu4betvvgrp</guid>
+      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTFBtbGRFYURyc01QaDFQNUg1bFM4al9IbHJQMDVpRERXVmdvVXd6d2pnblVtcjZTYTlNdkN2d012YWphTHM3akRZQXVrU2l2UnpabUtSdk1lMmpCcE01c1g2aTJzVmFoZnNPUTczd1ZROFNTNDJxMkN1YTJ3?oc=5</link>
+      <guid isPermaLink="false">cbmiekfvx3lxtfbtbgrfyuryc01qadfqnug1bfm4al9ibhjqmdvprerxvmdvvxd6d2pnblvtcjztytln</guid>
       <pubDate>Fri, 10 Jul 2026 04:50:00 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
@@ -131,6 +140,15 @@
       <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
       <description>Source: Hugging Face</description>
       <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Getting started with ChatGPT</title>
+      <link>https://openai.com/academy/getting-started</link>
+      <guid isPermaLink="false">https-openai-com-academy-getting-started</guid>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
       <category>feature</category>
     </item>
     <item>
@@ -170,7 +188,7 @@
       <category>feature</category>
     </item>
     <item>
-      <title>A new way to reflect on how you use Claude</title>
+      <title>Introducing a way to reflect on how you use Claude</title>
       <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uQmgzMW5SUGNxN3VQLUJmU3YtcEhCVXpyUl9aOVRMVEFDZU94NGJyVS1yV1NUMGoyY2Fycm1iamhuNVBNUlFEQjd2djFiRGRXSmRiZW14akhXdS1XZlNB?oc=5</link>
       <guid isPermaLink="false">cbmix0fvx3lxte9uqmgzmw5sugnxn3vqlujmu3ytcehcvxpyul9aovrmvefdzu94ngjyvs1yv1numgoy</guid>
       <pubDate>Thu, 09 Jul 2026 13:31:02 GMT</pubDate>
@@ -184,6 +202,15 @@
       <guid isPermaLink="false">https-openai-com-index-gpt-5-6-preferred-model-microsoft-365-copilot</guid>
       <pubDate>Thu, 09 Jul 2026 13:00:00 GMT</pubDate>
       <description>Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>model</category>
+    </item>
+    <item>
+      <title>GPT-5.5 Bio Bug Bounty</title>
+      <link>https://openai.com/index/bio-bug-bounty</link>
+      <guid isPermaLink="false">https-openai-com-index-bio-bug-bounty</guid>
+      <pubDate>Thu, 09 Jul 2026 10:00:00 GMT</pubDate>
+      <description>Details about the OpenAI Bio Bounty program (Source: OpenAI)</description>
       <source url="https://ai-pulse.vercel.app">OpenAI</source>
       <category>model</category>
     </item>
@@ -204,15 +231,6 @@
       <description>ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work. (Source: OpenAI)</description>
       <source url="https://ai-pulse.vercel.app">OpenAI</source>
       <category>feature</category>
-    </item>
-    <item>
-      <title>GPT-5.5 Bio Bug Bounty</title>
-      <link>https://openai.com/index/bio-bug-bounty</link>
-      <guid isPermaLink="false">https-openai-com-index-bio-bug-bounty</guid>
-      <pubDate>Thu, 09 Jul 2026 10:00:00 GMT</pubDate>
-      <description>Details about the OpenAI Bio Bounty program (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>model</category>
     </item>
     <item>
       <title>Introducing Grok 4.5</title>
@@ -260,7 +278,7 @@
       <category>feature</category>
     </item>
     <item>
-      <title>SpaceXAI — Creators of Grok, the AI Chatbot</title>
+      <title>Creators of Grok, the AI Chatbot</title>
       <link>https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5</link>
       <guid isPermaLink="false">cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq</guid>
       <pubDate>Wed, 08 Jul 2026 07:00:00 GMT</pubDate>
@@ -341,15 +359,6 @@
       <category>model</category>
     </item>
     <item>
-      <title>MUFG aims to become AI-native with OpenAI</title>
-      <link>https://openai.com/index/mufg</link>
-      <guid isPermaLink="false">https-openai-com-index-mufg</guid>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-      <description>MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>21 New Flagship Grok Voices</title>
       <link>https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wTnhtQzcyX3UyRmU2U1g5R040YzFHV2hIYks3QUVqaHlEemFPdGlUTU1pNzIxbi1kSHI0TFhlTXJ5MVdYbW5MWlhZdWdGZw?oc=5</link>
       <guid isPermaLink="false">cbmitkfvx3lxte1wtnhtqzcyx3uyrmu2u1g5r040yzfhv2hiyks3quvqahleemfpdglutu1pnzixbi1k</guid>
@@ -398,7 +407,7 @@
       <title>More details on Fable 5’s cyber safeguards and our jailbreak framework</title>
       <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE5aUmUwaFFoeGMxbmo1RWtnemM2dFRFS1pCZUlUWTd6ckJEUC16ZzFwVFZ4QW5jeGdCa0VzbGpFQW96TmpUTmpYd1pyb1U2X3hRQXRyZG9CY1R4RFo0QnhlWlc0YVVLZjVyTEc2TkUxNnpuZllxUmc?oc=5</link>
       <guid isPermaLink="false">cbmidkfvx3lxte5aumuwaffoegmxbmo1rwtnemm2dfrfs1pczuluwtd6ckjeuc16zzfwvfz4qw5jegdc</guid>
-      <pubDate>Fri, 03 Jul 2026 00:03:32 GMT</pubDate>
+      <pubDate>Thu, 02 Jul 2026 07:00:00 GMT</pubDate>
       <description>Source: Anthropic</description>
       <source url="https://ai-pulse.vercel.app">Anthropic</source>
       <category>feature</category>
@@ -458,15 +467,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Claude Science, an AI workbench for scientists, is now available</title>
-      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE81R0J0dXluYzJGcmxVb3dDY0Z2UjVYT2I5ZkYwSVRrWTBSUm5HZXpWRkFsQ2k5bm1jbVU5cENOY0xkX0tybV9FbnhRcFVac1dncWtqTF85OTZyd3o1dlRXenJkd1h3T1pTSGc?oc=5</link>
-      <guid isPermaLink="false">cbmiakfvx3lxte81r0j0dxluyzjgcmxvb3ddy0z2ujvyt2i5zkywsvrrwtbsum5hzxpwrkfsq2k5bm1j</guid>
-      <pubDate>Tue, 30 Jun 2026 07:00:00 GMT</pubDate>
-      <description>Source: Anthropic</description>
-      <source url="https://ai-pulse.vercel.app">Anthropic</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Introducing Claude Sonnet 5</title>
       <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5</link>
       <guid isPermaLink="false">cbmiwkfvx3lxte94ujq1sehhswrtzuvlmlzddhjbbdu1aeflbzjpv3a1v19nvf9slvnnbjlksecwmv9v</guid>
@@ -474,6 +474,15 @@
       <description>Source: Anthropic</description>
       <source url="https://ai-pulse.vercel.app">Anthropic</source>
       <category>model</category>
+    </item>
+    <item>
+      <title>Claude Science, an AI workbench for scientists, is now available</title>
+      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE81R0J0dXluYzJGcmxVb3dDY0Z2UjVYT2I5ZkYwSVRrWTBSUm5HZXpWRkFsQ2k5bm1jbVU5cENOY0xkX0tybV9FbnhRcFVac1dncWtqTF85OTZyd3o1dlRXenJkd1h3T1pTSGc?oc=5</link>
+      <guid isPermaLink="false">cbmiakfvx3lxte81r0j0dxluyzjgcmxvb3ddy0z2ujvyt2i5zkywsvrrwtbsum5hzxpwrkfsq2k5bm1j</guid>
+      <pubDate>Tue, 30 Jun 2026 07:00:00 GMT</pubDate>
+      <description>Source: Anthropic</description>
+      <source url="https://ai-pulse.vercel.app">Anthropic</source>
+      <category>feature</category>
     </item>
     <item>
       <title>Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers</title>
@@ -536,15 +545,6 @@
       <pubDate>Wed, 24 Jun 2026 07:00:00 GMT</pubDate>
       <description>Source: Mistral</description>
       <source url="https://ai-pulse.vercel.app">Mistral</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Introducing Claude Tag</title>
-      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iZjJCVWRWdnpWLWtMTGVEcy1RbmFuWGY3UHhfVmFlQkRZalpoOFZMMzhLeEZhYVBTcjhKR0FZaEF5QlpNVzB2bXVIczF0X0RWbmN4NDM4VmUtZGxyU2dHbGRSWQ?oc=5</link>
-      <guid isPermaLink="false">cbmiy0fvx3lxte9izjjcvwrwdnpwlwtmtgvecy1rbmfuwgy3uhhfvmflqkrzalpoofzmmzhleezhyvbt</guid>
-      <pubDate>Tue, 23 Jun 2026 07:00:00 GMT</pubDate>
-      <description>Source: Anthropic</description>
-      <source url="https://ai-pulse.vercel.app">Anthropic</source>
       <category>feature</category>
     </item>
   </channel>

@@ -4,7 +4,7 @@
     "lab": "Mistral",
     "title": "Robostral Navigate: single-camera AI navigation",
     "summary": "",
-    "date": "2026-07-13T06:21:27.000Z",
+    "date": "2026-07-14T07:49:47.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuODdfOFZITFJmb0FyNW00TkZEdUtFYzVxWnV5bWxCY1dRc3hnVjdFUVpqNHRnWDBGVUMzYXViZ1ViVEVCR216YzNOZ0lDbXZHMGNnUW93?oc=5",
     "tags": [
@@ -12,6 +12,22 @@
       "navigate",
       "single",
       "camera"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-empowering-indias-next-generation-of-innovators-with-",
+    "lab": "Google DeepMind",
+    "title": "Empowering India’s next generation of innovators with ATL Saathi",
+    "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+    "date": "2026-07-13T12:37:28.000Z",
+    "category": "feature",
+    "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "image": "https://lh3.googleusercontent.com/0BYvIo8ObViyRtRGOYajXHdEGUFX6cKMTQ6lxys98kN0sB6H7rrTo1pdW8M4kCUGnBnidJWbIr6VvcxGKDEDD4YxOVqYRlyxj_a48uqNw_AytF7c-A=w528-h297-n-nu-rw-lo",
+    "tags": [
+      "empowering",
+      "atl",
+      "saathi",
+      "india"
     ]
   },
   {
@@ -42,13 +58,13 @@
     ]
   },
   {
-    "id": "cbmiekfvx3lxte1knjyyze1os2v3tenpbmlfrnkzwdb3s1hswfriag1smufga2dfn2npzxdawezledfu",
+    "id": "cbmieefvx3lxte8wm2nyutjhuw9pevpyueticvb2bmtzddi2vmhkzurysxz5ourozuw4blv4exu1vznw",
     "lab": "DeepSeek",
     "title": "Integrate with OpenCode",
     "summary": "",
     "date": "2026-07-10T16:10:15.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KNjYyZE1OS2V3TENPbmlFRnkzWDB3S1hsWFRIaG1SMUFGa2dfN2NpZXdaWEZleDFuRlVUZG02MkszdnlmZVdpa3ZEMWduN2I3SVVLT3RyTXlaVEM2UzJEeWg2cGV4WEFnX0dXdHh3TVJwTUpFSTlncGd3?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wM2NyUTJHUW9peVpYUEticVB2bmtzdDI2VmhKZURYSXZ5OURoZUw4blV4eXU1VzNwOVhLZThOdVNNX0FOaGZ2ckFQWmtQSnZVREZFT3JlTlVDTHZGaWVrdDN3VGU1Wk9Zbk9kOEt6eUJKbXVpS292bg?oc=5",
     "tags": [
       "integrate",
       "opencode"
@@ -108,13 +124,13 @@
     ]
   },
   {
-    "id": "cbmiggfbvv95cuxon256uwxyrtywbfjmtwlzbnjhm3rjnkzvanixdzrmnmzzqjjmenlrbexnm2n3ce81",
+    "id": "cbmigafbvv95cuxnddfcoxzfymjtywfsdtfpohgtckutwxvnzki4r1v1ejdiog9ited4bzq2rjnqz1ny",
     "lab": "DeepSeek",
     "title": "Integrate with GitHub Copilot",
     "summary": "",
     "date": "2026-07-10T06:26:08.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON256UWxyRTYwbFJmTWlZbnJHM3RJNkZvanIxdzRMNmZZQjJmenlRbExnM2N3cE81OEhpeDRPYTdJN2RidzNKc3NyLThRbGpaTzNZWmNoU3Q0TnpfOWxIekpPWTZQVHRtYU1WSDYyOElvNkx3a01aRlF3M1BKcWx6TUFB?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdDFCOXZfYmJtYWFSdTFPOHgtckUtWXVNZkI4R1V1ejdIOG9ITEd4bzQ2RjNqZ1NYbExnemFtczR3OVFkQnVMTUhGM01udmszR2dvR2hyTEU0d1pSRTFvRkJxYmEtNVVKUWZlZ3M4dlp4YTlSdGRPQ1NtcHZfYWVQaw?oc=5",
     "tags": [
       "integrate",
       "github",
@@ -148,13 +164,13 @@
     ]
   },
   {
-    "id": "cbmieefvx3lxte1yedm4ddrnv3ktbupgzc1ncmdjm2ewvhrfsnjvy0ctqkd5rev1qxywbeu4betvvgrp",
+    "id": "cbmiekfvx3lxtfbtbgrfyuryc01qadfqnug1bfm4al9ibhjqmdvprerxvmdvvxd6d2pnblvtcjztytln",
     "lab": "DeepSeek",
     "title": "Integrate with Reasonix",
     "summary": "",
     "date": "2026-07-10T04:50:00.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yeDM4dDRnV3ktbUpGZC1ncmdjM2EwVHRFSnJvY0ctQkd5REV1QXYwbEU4bEtvVGRPbjJ4akR0RFhVMDE3aUxLOGdMc2dQaDVwbDFlLVJsa1E4OGc4QWZxTnVCWVBrUFZvUm56ZXFTcUpIbGRXM3Zvbg?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtbGRFYURyc01QaDFQNUg1bFM4al9IbHJQMDVpRERXVmdvVXd6d2pnblVtcjZTYTlNdkN2d012YWphTHM3akRZQXVrU2l2UnpabUtSdk1lMmpCcE01c1g2aTJzVmFoZnNPUTczd1ZROFNTNDJxMkN1YTJ3?oc=5",
     "tags": [
       "integrate",
       "reasonix"
@@ -188,6 +204,21 @@
       "pytorch",
       "part",
       "attention"
+    ]
+  },
+  {
+    "id": "https-openai-com-academy-getting-started",
+    "lab": "OpenAI",
+    "title": "Getting started with ChatGPT",
+    "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+    "date": "2026-07-10T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/academy/getting-started",
+    "tags": [
+      "chatgpt",
+      "getting",
+      "started",
+      "learn"
     ]
   },
   {
@@ -250,7 +281,7 @@
   {
     "id": "cbmix0fvx3lxte9uqmgzmw5sugnxn3vqlujmu3ytcehcvxpyul9aovrmvefdzu94ngjyvs1yv1numgoy",
     "lab": "Anthropic",
-    "title": "A new way to reflect on how you use Claude",
+    "title": "Introducing a way to reflect on how you use Claude",
     "summary": "",
     "date": "2026-07-09T13:31:02.000Z",
     "category": "feature",
@@ -274,6 +305,21 @@
       "microsoft",
       "copilot",
       "preferred"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-bio-bug-bounty",
+    "lab": "OpenAI",
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "summary": "Details about the OpenAI Bio Bounty program",
+    "date": "2026-07-09T10:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/bio-bug-bounty",
+    "tags": [
+      "bio",
+      "bounty",
+      "gpt",
+      "bug"
     ]
   },
   {
@@ -304,21 +350,6 @@
       "chatgpt",
       "partner",
       "ambitious"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-bio-bug-bounty",
-    "lab": "OpenAI",
-    "title": "GPT-5.5 Bio Bug Bounty",
-    "summary": "Details about the OpenAI Bio Bounty program",
-    "date": "2026-07-09T10:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/bio-bug-bounty",
-    "tags": [
-      "bio",
-      "bounty",
-      "gpt",
-      "bug"
     ]
   },
   {
@@ -394,13 +425,12 @@
   {
     "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
     "lab": "xAI",
-    "title": "SpaceXAI — Creators of Grok, the AI Chatbot",
+    "title": "Creators of Grok, the AI Chatbot",
     "summary": "",
     "date": "2026-07-08T07:00:00.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
     "tags": [
-      "spacexai",
       "creators",
       "grok",
       "chatbot"
@@ -527,21 +557,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-mufg",
-    "lab": "OpenAI",
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-    "date": "2026-07-07T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/mufg",
-    "tags": [
-      "mufg",
-      "native",
-      "aims",
-      "become"
-    ]
-  },
-  {
     "id": "cbmitkfvx3lxte1wtnhtqzcyx3uyrmu2u1g5r040yzfhv2hiyks3quvqahleemfpdglutu1pnzixbi1k",
     "lab": "xAI",
     "title": "21 New Flagship Grok Voices",
@@ -618,7 +633,7 @@
     "lab": "Anthropic",
     "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
     "summary": "",
-    "date": "2026-07-03T00:03:32.000Z",
+    "date": "2026-07-02T07:00:00.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aUmUwaFFoeGMxbmo1RWtnemM2dFRFS1pCZUlUWTd6ckJEUC16ZzFwVFZ4QW5jeGdCa0VzbGpFQW96TmpUTmpYd1pyb1U2X3hRQXRyZG9CY1R4RFo0QnhlWlc0YVVLZjVyTEc2TkUxNnpuZllxUmc?oc=5",
     "tags": [
@@ -714,6 +729,19 @@
     ]
   },
   {
+    "id": "cbmiwkfvx3lxte94ujq1sehhswrtzuvlmlzddhjbbdu1aeflbzjpv3a1v19nvf9slvnnbjlksecwmv9v",
+    "lab": "Anthropic",
+    "title": "Introducing Claude Sonnet 5",
+    "summary": "",
+    "date": "2026-06-30T07:00:00.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
+    "tags": [
+      "claude",
+      "sonnet"
+    ]
+  },
+  {
     "id": "cbmiakfvx3lxte81r0j0dxluyzjgcmxvb3ddy0z2ujvyt2i5zkywsvrrwtbsum5hzxpwrkfsq2k5bm1j",
     "lab": "Anthropic",
     "title": "Claude Science, an AI workbench for scientists, is now available",
@@ -726,19 +754,6 @@
       "science",
       "workbench",
       "scientists"
-    ]
-  },
-  {
-    "id": "cbmiwkfvx3lxte94ujq1sehhswrtzuvlmlzddhjbbdu1aeflbzjpv3a1v19nvf9slvnnbjlksecwmv9v",
-    "lab": "Anthropic",
-    "title": "Introducing Claude Sonnet 5",
-    "summary": "",
-    "date": "2026-06-30T07:00:00.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
-    "tags": [
-      "claude",
-      "sonnet"
     ]
   },
   {
@@ -845,19 +860,6 @@
       "bringing",
       "control",
       "connectors"
-    ]
-  },
-  {
-    "id": "cbmiy0fvx3lxte9izjjcvwrwdnpwlwtmtgvecy1rbmfuwgy3uhhfvmflqkrzalpoofzmmzhleezhyvbt",
-    "lab": "Anthropic",
-    "title": "Introducing Claude Tag",
-    "summary": "",
-    "date": "2026-06-23T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iZjJCVWRWdnpWLWtMTGVEcy1RbmFuWGY3UHhfVmFlQkRZalpoOFZMMzhLeEZhYVBTcjhKR0FZaEF5QlpNVzB2bXVIczF0X0RWbmN4NDM4VmUtZGxyU2dHbGRSWQ?oc=5",
-    "tags": [
-      "claude",
-      "tag"
     ]
   }
 ]
