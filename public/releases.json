@@ -1,5 +1,152 @@
 [
   {
+    "id": "cbmip0fvx3lxte1ocvzvx1u2su4zazfwww5sbtziaehlx3fvcgh0y2lsmxrhc1fyynbpamveowtnlwct",
+    "lab": "xAI",
+    "title": "Introducing Grok 4.5",
+    "summary": "",
+    "date": "2026-07-17T06:53:16.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1ocVZvX1U2SU4zazFwWW5SbTZiaEhlX3FVcGh0Y2lSMXRhc1FyYnBpamVEOWtnLWctYlZjUlByOA?oc=5",
+    "tags": [
+      "grok"
+    ]
+  },
+  {
+    "id": "cbmiskfvx3lxte9meu56cunqlxncemduwmhfeffvc0rvm2rcbwmxovlvcy13rensrhvtrgziyurfwnvq",
+    "lab": "xAI",
+    "title": "Automations in Grok",
+    "summary": "",
+    "date": "2026-07-16T21:01:54.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9meU56cUNqLXNCemduWmhFeFFVc0RvM2RCbWMxOVlvcy13RENsRHVtRGZiYURFWnVqaC1rVlNJLXZZN3gtbnhneEZ3?oc=5",
+    "tags": [
+      "automations",
+      "grok"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-nvidia-nemotron-3-embed-wins-rteb",
+    "lab": "Hugging Face",
+    "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+    "summary": "",
+    "date": "2026-07-16T16:01:21.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+    "tags": [
+      "nvidia",
+      "nemotron",
+      "embed",
+      "ranks"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-why-teens-deserve-access-safe-ai",
+    "lab": "OpenAI",
+    "title": "Why teens deserve access to safe AI",
+    "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+    "date": "2026-07-16T16:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "tags": [
+      "teens",
+      "deserve",
+      "access",
+      "safe"
+    ]
+  },
+  {
+    "id": "https-blog-google-products-and-platforms-products-search-connected-apps",
+    "lab": "Google DeepMind",
+    "title": "Connect more of your apps to Search",
+    "summary": "You’ll be able to securely link and interact with your go-to services directly in AI Mode.",
+    "date": "2026-07-16T16:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp",
+    "tags": [
+      "connect",
+      "apps",
+      "search",
+      "able"
+    ]
+  },
+  {
+    "id": "https-blog-google-products-and-platforms-products-workspace-gemini-omni-personal",
+    "lab": "Google DeepMind",
+    "title": "Create, edit and star in videos with two Google Vids updates",
+    "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.",
+    "date": "2026-07-16T16:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp",
+    "tags": [
+      "google",
+      "vids",
+      "create",
+      "edit"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-dharma-ai-newer-models-same-advantages",
+    "lab": "Hugging Face",
+    "title": "Newer Models, Same Advantage",
+    "summary": "",
+    "date": "2026-07-16T11:49:48.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+    "tags": [
+      "newer",
+      "models",
+      "same",
+      "advantage"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-our-approach-to-bioresilience",
+    "lab": "Google DeepMind",
+    "title": "Our approach to bioresilience",
+    "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+    "date": "2026-07-16T09:30:42.000Z",
+    "category": "feature",
+    "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+    "image": "https://lh3.googleusercontent.com/ZRyQg91pjea8kXXaGSlnZIJF90-VwnKHSBxo22e2RedCvCCszsurR8W9NHw80e1V6HtWXccbU1MI27Rtjjf963rD673XgkWK7cZe_1ekfruPgdHHVEc=w528-h297-n-nu-rw-lo",
+    "tags": [
+      "approach",
+      "bioresilience",
+      "google",
+      "deepmind"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-security-incident-july-2026",
+    "lab": "Hugging Face",
+    "title": "Security incident disclosure — July 2026",
+    "summary": "",
+    "date": "2026-07-16T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/security-incident-july-2026",
+    "tags": [
+      "security",
+      "incident",
+      "disclosure"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-cars24",
+    "lab": "OpenAI",
+    "title": "How Cars24 scales conversations and builds faster with OpenAI",
+    "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+    "date": "2026-07-16T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/cars24",
+    "tags": [
+      "cars24",
+      "openai",
+      "scales",
+      "conversations"
+    ]
+  },
+  {
     "id": "cbmiukfvx3lxte9xn1vyowdwegi1dmnhrdjtc1prdxzktkpxy1jluwhutwtxoddpavvjr0tfwm4ydwjf",
     "lab": "xAI",
     "title": "Grok Build is Now Open Source",
@@ -15,18 +162,33 @@
     ]
   },
   {
-    "id": "cbmivkfvx3lxtfbuoddfofzitfjmb0fynw00tkzedutfyzvxwnv5bwxcy1drc3hnvjdfuvpqnhrnwdbg",
-    "lab": "Mistral",
-    "title": "Robostral Navigate: single-camera AI navigation",
+    "id": "https-huggingface-co-blog-allenai-shippy-tech-blog",
+    "lab": "Hugging Face",
+    "title": "What building Shippy taught us about building agents",
     "summary": "",
-    "date": "2026-07-15T19:10:49.000Z",
+    "date": "2026-07-15T17:29:41.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuODdfOFZITFJmb0FyNW00TkZEdUtFYzVxWnV5bWxCY1dRc3hnVjdFUVpqNHRnWDBGVUMzYXViZ1ViVEVCR216YzNOZ0lDbXZHMGNnUW93?oc=5",
+    "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
     "tags": [
-      "robostral",
-      "navigate",
-      "single",
-      "camera"
+      "building",
+      "shippy",
+      "taught",
+      "agents"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-ibm-research-model-routing-is-simple-until-it-isnt",
+    "lab": "Hugging Face",
+    "title": "Model Routing Is Simple. Until It Isn’t.",
+    "summary": "",
+    "date": "2026-07-15T17:27:01.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+    "tags": [
+      "model",
+      "routing",
+      "simple",
+      "until"
     ]
   },
   {
@@ -57,6 +219,36 @@
       "gpt",
       "self",
       "robustness"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-thinkingmachines-inkling",
+    "lab": "Hugging Face",
+    "title": "Welcome Inkling by Thinking Machines",
+    "summary": "",
+    "date": "2026-07-15T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+    "tags": [
+      "welcome",
+      "inkling",
+      "thinking",
+      "machines"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-real-world-voiceeq",
+    "lab": "Hugging Face",
+    "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+    "summary": "",
+    "date": "2026-07-15T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/real-world-voiceeq",
+    "tags": [
+      "real",
+      "world",
+      "voiceeq",
+      "measuring"
     ]
   },
   {
@@ -165,16 +357,16 @@
     ]
   },
   {
-    "id": "cbmizefvx3lxte5arznhdgvvbfbhuhrqmwpowvdtejrmoxbgmvphuja5tuj2skczutlpvnvmdufgdhqw",
+    "id": "cbmiyefvx3lxte9ns3bive1jlxjvsnnpwtj4te0znkcxbmleekrqwmrybhdttxmza09jr2zfwvizrm1w",
     "lab": "DeepSeek",
-    "title": "chat_python",
+    "title": "Integrate with AI Tools",
     "summary": "",
-    "date": "2026-07-12T04:11:59.000Z",
+    "date": "2026-07-11T04:40:36.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aRzNhdGVvbFBhUHRqMWpOWVdtejRmOXBGMVpHUjA5TUJ2SkczUTlPVnVMdUFGdHQwX3JWN2VoenI0Qmt2T1B0SjNzcERDX0JNVEtydE1HSWtENzBMRDduTGVMcEg?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NS3BiVE1jLXJVSnNPWTJ4TE0zNkcxbmlEekRqWmRYbHdTTXMza09JR2ZFWVIzRm1weEdHcjdDcnlKdXV2aHJCeUs3MWx2bWxXUTBuY2VZVktKU1JXcGdSNA?oc=5",
     "tags": [
-      "chat",
-      "python"
+      "integrate",
+      "tools"
     ]
   },
   {
@@ -227,6 +419,19 @@
     "tags": [
       "integrating",
       "nanobot"
+    ]
+  },
+  {
+    "id": "cbmiekfvx3lxte5wuxe2qwq3zwtsedj4dmhuwg9pbf9psmjqt0q2vld6owy2nxvgzetmofzwaezldtfq",
+    "lab": "DeepSeek",
+    "title": "Integrate with OpenClaw",
+    "summary": "",
+    "date": "2026-07-10T07:32:51.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WUXE2QWQ3ZWtseDJ4dmhuWG9pbF9pSmJQT0Q2Vld6OWY2NXVGZEtMOFZwaEZldTFQcW5pUk5wbGVrNHMzY0wzb1hKVWJmWW1XTzl1cXpnY1hKbXR4NkVseU5aSnRtVWZVZVE2S0xyei1udmpUaU10TGJ3?oc=5",
+    "tags": [
+      "integrate",
+      "openclaw"
     ]
   },
   {
@@ -298,19 +503,6 @@
     ]
   },
   {
-    "id": "cbmiekfvx3lxtfbtbgrfyuryc01qadfqnug1bfm4al9ibhjqmdvprerxvmdvvxd6d2pnblvtcjztytln",
-    "lab": "DeepSeek",
-    "title": "Integrate with Reasonix",
-    "summary": "",
-    "date": "2026-07-10T04:50:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtbGRFYURyc01QaDFQNUg1bFM4al9IbHJQMDVpRERXVmdvVXd6d2pnblVtcjZTYTlNdkN2d012YWphTHM3akRZQXVrU2l2UnpabUtSdk1lMmpCcE01c1g2aTJzVmFoZnNPUTczd1ZROFNTNDJxMkN1YTJ3?oc=5",
-    "tags": [
-      "integrate",
-      "reasonix"
-    ]
-  },
-  {
     "id": "cbmiu0fvx3lxte9pwmhdajnfv09gx2zrcfprthjucfdwcfzdrdfvmlq5mghpclvkr1dysfi4mllxtwrk",
     "lab": "Anthropic",
     "title": "UST is bringing Claude to physical AI",
@@ -323,6 +515,21 @@
       "bringing",
       "claude",
       "physical"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-torch-attention-profile",
+    "lab": "Hugging Face",
+    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+    "summary": "",
+    "date": "2026-07-10T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/torch-attention-profile",
+    "tags": [
+      "profiling",
+      "pytorch",
+      "part",
+      "attention"
     ]
   },
   {
@@ -370,19 +577,6 @@
     ]
   },
   {
-    "id": "cbmicefvx3lxte9zagzqs2rfv05tshu3dgrurgfxnfd2uznkykjur2tisug4x3rtt0uxv1vltjnvskzw",
-    "lab": "Meta",
-    "title": "Introducing Muse Spark 1.1",
-    "summary": "",
-    "date": "2026-07-09T14:36:32.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGZQS2RfV05tSHU3dGRuRGFXNFd2UzNkYkJuR2tiSUg4X3RtT0UxV1VlTjNvSkZWcVUtU0NNUDJPVUo5WW5RMFR6Z055Y0dhZ1EyaG1SeGIxZlMtWFFmZTMyc2paYmxFLXE1TlBlaEg?oc=5",
-    "tags": [
-      "muse",
-      "spark"
-    ]
-  },
-  {
     "id": "cbmibefvx3lxte13a2xuefvrymvrlvrra2u5uurmsupzumm4ymmwc3fluffnovzpztm3ylzdb2dqs2c4",
     "lab": "Mistral",
     "title": "Version control for prompts & skills in Studio",
@@ -427,59 +621,61 @@
     ]
   },
   {
-    "id": "https-openai-com-index-chatgpt-for-your-most-ambitious-work",
-    "lab": "OpenAI",
-    "title": "ChatGPT is now a partner for your most ambitious work",
-    "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-    "date": "2026-07-09T10:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "tags": [
-      "work",
-      "chatgpt",
-      "partner",
-      "ambitious"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-gpt-5-6",
-    "lab": "OpenAI",
-    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-    "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-    "date": "2026-07-09T10:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/gpt-5-6",
-    "tags": [
-      "intelligence",
-      "gpt",
-      "frontier",
-      "scales"
-    ]
-  },
-  {
-    "id": "cbmip0fvx3lxte1ocvzvx1u2su4zazfwww5sbtziaehlx3fvcgh0y2lsmxrhc1fyynbpamveowtnlwct",
-    "lab": "xAI",
-    "title": "Introducing Grok 4.5",
+    "id": "cbmicefvx3lxte9zagzqs2rfv05tshu3dgrurgfxnfd2uznkykjur2tisug4x3rtt0uxv1vltjnvskzw",
+    "lab": "Meta",
+    "title": "Introducing Muse Spark 1.1",
     "summary": "",
-    "date": "2026-07-08T07:00:00.000Z",
+    "date": "2026-07-09T07:00:00.000Z",
     "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1ocVZvX1U2SU4zazFwWW5SbTZiaEhlX3FVcGh0Y2lSMXRhc1FyYnBpamVEOWtnLWctYlZjUlByOA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGZQS2RfV05tSHU3dGRuRGFXNFd2UzNkYkJuR2tiSUg4X3RtT0UxV1VlTjNvSkZWcVUtU0NNUDJPVUo5WW5RMFR6Z055Y0dhZ1EyaG1SeGIxZlMtWFFmZTMyc2paYmxFLXE1TlBlaEg?oc=5",
     "tags": [
-      "grok"
+      "muse",
+      "spark"
     ]
   },
   {
-    "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
-    "lab": "xAI",
-    "title": "Creators of Grok, the AI Chatbot",
+    "id": "cbmivkfvx3lxtfbuoddfofzitfjmb0fynw00tkzedutfyzvxwnv5bwxcy1drc3hnvjdfuvpqnhrnwdbg",
+    "lab": "Mistral",
+    "title": "Robostral Navigate: single-camera AI navigation",
     "summary": "",
-    "date": "2026-07-08T07:00:00.000Z",
+    "date": "2026-07-08T14:15:10.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuODdfOFZITFJmb0FyNW00TkZEdUtFYzVxWnV5bWxCY1dRc3hnVjdFUVpqNHRnWDBGVUMzYXViZ1ViVEVCR216YzNOZ0lDbXZHMGNnUW93?oc=5",
     "tags": [
-      "creators",
-      "grok",
-      "chatbot"
+      "robostral",
+      "navigate",
+      "single",
+      "camera"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-native-speed-vllm-transformers-backend",
+    "lab": "Hugging Face",
+    "title": "Native-speed vLLM transformers modeling backend",
+    "summary": "",
+    "date": "2026-07-08T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "tags": [
+      "native",
+      "speed",
+      "vllm",
+      "transformers"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-amazon-one-click-to-sagemaker-studio",
+    "lab": "Hugging Face",
+    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+    "summary": "",
+    "date": "2026-07-07T21:15:33.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "tags": [
+      "hugging",
+      "face",
+      "amazon",
+      "sagemaker"
     ]
   },
   {
@@ -642,16 +838,18 @@
     ]
   },
   {
-    "id": "cbmiwkfvx3lxte94ujq1sehhswrtzuvlmlzddhjbbdu1aeflbzjpv3a1v19nvf9slvnnbjlksecwmv9v",
+    "id": "cbmiakfvx3lxte81r0j0dxluyzjgcmxvb3ddy0z2ujvyt2i5zkywsvrrwtbsum5hzxpwrkfsq2k5bm1j",
     "lab": "Anthropic",
-    "title": "Introducing Claude Sonnet 5",
+    "title": "Claude Science, an AI workbench for scientists, is now available",
     "summary": "",
     "date": "2026-06-30T07:00:00.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81R0J0dXluYzJGcmxVb3dDY0Z2UjVYT2I5ZkYwSVRrWTBSUm5HZXpWRkFsQ2k5bm1jbVU5cENOY0xkX0tybV9FbnhRcFVac1dncWtqTF85OTZyd3o1dlRXenJkd1h3T1pTSGc?oc=5",
     "tags": [
       "claude",
-      "sonnet"
+      "science",
+      "workbench",
+      "scientists"
     ]
   },
   {
@@ -669,180 +867,5 @@
       "next",
       "era"
     ]
-  },
-  {
-    "id": "https-blog-google-innovation-and-ai-technology-ai-full-stack-ai-explainer",
-    "lab": "Google DeepMind",
-    "title": "Ask an AI expert: What exactly is the full stack?",
-    "summary": "A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long.",
-    "date": "2026-06-29T16:00:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp",
-    "tags": [
-      "expert",
-      "full",
-      "stack",
-      "ask"
-    ]
-  },
-  {
-    "id": "cbmidkfvx3lxte1ut0uztc1ocmfnckxuqzhhqwpmmgmys3pfa0drbuxnnjb1rtzdbkxpwm5wrdb0sdc3",
-    "lab": "Meta",
-    "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
-    "summary": "",
-    "date": "2026-06-29T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uT0UzTC1ocmFNckxuQzhhQWpMMGMyS3pfa0drbUxnNjB1RTZDbkxpWm5wRDB0SDc3WkZCNWU5My0xUFhrbFBzM0lyNEgzNUhaLUM5V0U2QjFpQUF3OXdPYmNTOWl3MjBUNVZRNHhra0FtY1h2N3c?oc=5",
-    "tags": [
-      "brain",
-      "waves",
-      "words",
-      "brain2qwerty"
-    ]
-  },
-  {
-    "id": "https-blog-google-products-and-platforms-products-search-google-finance-updates-",
-    "lab": "Google DeepMind",
-    "title": "Our latest Google Finance upgrades, including a new app",
-    "summary": "The new Google Finance is coming out of beta and launching a new Android app.",
-    "date": "2026-06-25T16:00:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp",
-    "tags": [
-      "google",
-      "finance",
-      "app",
-      "upgrades"
-    ]
-  },
-  {
-    "id": "cbmivefvx3lxte9lm3drre85c1vywi14ejv6tlf0q3bvtmgxaxdls0lreezgogxqvju2c0ztwfpqrjix",
-    "lab": "xAI",
-    "title": "Explore the markets with Interactive Brokers and Grok",
-    "summary": "",
-    "date": "2026-06-25T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LM3dRRE85c1VYWi14ejV6TlF0Q3BvTmgxaXdLS0lreEZGOGxQVjU2c0ZtWFpQRjIxcHJfZldSTTNiNmdxUVp3Y25PZzIwWEZWWVZrWg?oc=5",
-    "tags": [
-      "explore",
-      "markets",
-      "interactive",
-      "brokers"
-    ]
-  },
-  {
-    "id": "https-deepmind-google-blog-introducing-computer-use-in-gemini-3-5-flash",
-    "lab": "Google DeepMind",
-    "title": "Introducing computer use in Gemini 3.5 Flash",
-    "summary": "",
-    "date": "2026-06-24T16:30:01.000Z",
-    "category": "model",
-    "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
-    "tags": [
-      "computer",
-      "gemini",
-      "flash"
-    ]
-  },
-  {
-    "id": "cbmiy0fvx3lxtfb2ngh3ajmyoxo5ymfrwgljltvmcdfnzmngtulsogzucmxfow43ee0zd1jsofbhalpg",
-    "lab": "Mistral",
-    "title": "Bringing more control over your connectors",
-    "summary": "",
-    "date": "2026-06-24T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2NGh3ajMyOXo5YmFRWGljLTVmcDFNZmNGTUlsOGZucmxfOW43eE0zd1JsOFBhalpGWnVPLTFhbnFrc2o1MEJULTFCQ0FoRWExNnFJOWN5bG9zTkJaRk94SjZTMA?oc=5",
-    "tags": [
-      "bringing",
-      "control",
-      "connectors"
-    ]
-  },
-  {
-    "id": "cbmirefvx3lxtfb6sdnootvgudbzrzhjzm9wrgk2n1ppd1c3tfrpb2izmzrqc2d0rjdjtgc5c0f6yjro",
-    "lab": "Mistral",
-    "title": "Mistral OCR 4 : SOTA OCR for Document Intelligence",
-    "summary": "",
-    "date": "2026-06-23T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB6SDNOOTVGUDBZRzhJZm9WRGk2N1pPd1c3TFRpb2IzMzRqc2d0RjdjTGc5c0F6YjRORE84VXdlX0docWFp?oc=5",
-    "tags": [
-      "ocr",
-      "mistral",
-      "sota",
-      "document"
-    ]
-  },
-  {
-    "id": "cbmiskfvx3lxtfbswlgytknsrgzfmgxibwvwx0nfswiwumpjueldbmsyvjzvwesxdmrpn0gxd1dqtmnt",
-    "lab": "xAI",
-    "title": "Introducing /goal",
-    "summary": "",
-    "date": "2026-06-22T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBsWlgyTkNsRGZFMGxibWVwX0NFSWIwUmpJUElDbmsyVjZvWEsxdmRPN0gxd1dqTmNtdlAwMmhxanR4SWh0S1pFekl3?oc=5",
-    "tags": [
-      "goal"
-    ]
-  },
-  {
-    "id": "cbmisefvx3lxte9db3uwwfrhudbcofl0qtd1lxv6egpkdwnlbzdnntu3ruvrazk4vzb4qnhjr0jewfdw",
-    "lab": "xAI",
-    "title": "Grok on Databricks",
-    "summary": "",
-    "date": "2026-06-18T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Db3UwWFRhUDBCOFl0QTd1LXV6eGpkdWNLbzdNNTU3RUVrazk4VzB4QnhJR0JEWFdwWnVmSVRQZXpTZllRTm1yUg?oc=5",
-    "tags": [
-      "grok",
-      "databricks"
-    ]
-  },
-  {
-    "id": "cbmiukfvx3lxte0wa1uwu3vqawmwuunevmfkbddfumrjrglcc0npvwrdsnbsc1povmfowdfqzjzcwjqy",
-    "lab": "xAI",
-    "title": "Grok for Word",
-    "summary": "",
-    "date": "2026-06-18T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wa1UwU3VQaWMwUUNEVmFKbDdFUmRjRGlCc0NPVWRDSnBsc1poVmFOWDFQZjZCWjQya24tN3RNRnVxYkFDU2FzX2tWSXBMVU9TcGc?oc=5",
-    "tags": [
-      "grok",
-      "word"
-    ]
-  },
-  {
-    "id": "cbmitkfvx3lxte1xywtjcw80u1rsmtjqx1dyamznwdvumepmq1j6d3g1uvnudm5vqxrzteftxzhsdkte",
-    "lab": "xAI",
-    "title": "Grok on Amazon Bedrock",
-    "summary": "",
-    "date": "2026-06-17T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XYWtjcW80U1RSMTJqX1dYamZnWDVUMEpmQ1J6d3g1UVNudm5VQXRZTEFtXzhsdktEeF9oeHdyN0xHNUUtYzNNRHBVTnNidw?oc=5",
-    "tags": [
-      "grok",
-      "amazon",
-      "bedrock"
-    ]
-  },
-  {
-    "id": "cbmiwkfvx3lxte9hvkpfnm82ahhzcupoy0tlbzzewmljvxhfmc10uvvmsxbsu3zdluzbogdkoulya1zm",
-    "lab": "Mistral",
-    "title": "Latest news",
-    "summary": "",
-    "date": "2026-05-28T09:30:21.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HVkpFNm82aHhzcUpoY0tLbzZEWmlJVXhFMC10UVVMSXBsU3ZDLUZBOGdkOUlYa1ZMc0RhQk02WV9Eakc2YTUwSHhSczhXOG5xMVNJVThpUW1GQQ?oc=5"
-  },
-  {
-    "id": "cbmivefvx3lxte1weja3utq1a3gxcvz4tkf5vlexufhjcuuyceg1zxc4rthdq1k2cxvvnwd5n3rhy1zn",
-    "lab": "Mistral",
-    "title": "Latest news",
-    "summary": "",
-    "date": "2026-05-28T09:29:49.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WejA3UTQ1a3gxcVZ4TkF5VlExUFhJcUUycEg1ZXc4RThDQ1k2cXVVNWd5N3RhY1ZnV1NSZFBpM3JsZ1lKMjBKSHdTaWFRVW9wYnlLWA?oc=5"
   }
 ]
