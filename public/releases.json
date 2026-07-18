@@ -1,14 +1,32 @@
 [
   {
-    "id": "cbmip0fvx3lxte1ocvzvx1u2su4zazfwww5sbtziaehlx3fvcgh0y2lsmxrhc1fyynbpamveowtnlwct",
-    "lab": "xAI",
-    "title": "Introducing Grok 4.5",
+    "id": "https-huggingface-co-blog-nvidia-scale-diffusers-finetuning-nemo-automodel",
+    "lab": "Hugging Face",
+    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
     "summary": "",
-    "date": "2026-07-17T06:53:16.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1ocVZvX1U2SU4zazFwWW5SbTZiaEhlX3FVcGh0Y2lSMXRhc1FyYnBpamVEOWtnLWctYlZjUlByOA?oc=5",
+    "date": "2026-07-17T15:57:54.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
     "tags": [
-      "grok"
+      "fine",
+      "tune",
+      "video",
+      "image"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-a-scorecard-for-the-ai-age",
+    "lab": "OpenAI",
+    "title": "A scorecard for the AI age",
+    "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+    "date": "2026-07-17T10:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "tags": [
+      "scorecard",
+      "age",
+      "sarah",
+      "friar"
     ]
   },
   {
@@ -22,21 +40,6 @@
     "tags": [
       "automations",
       "grok"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-nvidia-nemotron-3-embed-wins-rteb",
-    "lab": "Hugging Face",
-    "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-    "summary": "",
-    "date": "2026-07-16T16:01:21.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-    "tags": [
-      "nvidia",
-      "nemotron",
-      "embed",
-      "ranks"
     ]
   },
   {
@@ -115,6 +118,32 @@
       "bioresilience",
       "google",
       "deepmind"
+    ]
+  },
+  {
+    "id": "cbmip0fvx3lxte1ocvzvx1u2su4zazfwww5sbtziaehlx3fvcgh0y2lsmxrhc1fyynbpamveowtnlwct",
+    "lab": "xAI",
+    "title": "Introducing Grok 4.5",
+    "summary": "",
+    "date": "2026-07-16T07:00:00.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1ocVZvX1U2SU4zazFwWW5SbTZiaEhlX3FVcGh0Y2lSMXRhc1FyYnBpamVEOWtnLWctYlZjUlByOA?oc=5",
+    "tags": [
+      "grok"
+    ]
+  },
+  {
+    "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
+    "lab": "xAI",
+    "title": "Creators of Grok, the AI Chatbot",
+    "summary": "",
+    "date": "2026-07-16T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
+    "tags": [
+      "creators",
+      "grok",
+      "chatbot"
     ]
   },
   {
@@ -491,30 +520,16 @@
     ]
   },
   {
-    "id": "cbmiekfvx3lxte1csdfavzztzfjczdfiu0fpotljx1bprwryr3ddd1frsnjqakv1swzct2pgek1bqldl",
+    "id": "cbmiekfvx3lxtfbtbgrfyuryc01qadfqnug1bfm4al9ibhjqmdvprerxvmdvvxd6d2pnblvtcjztytln",
     "lab": "DeepSeek",
-    "title": "Using DeepSeek with Oh My Pi",
+    "title": "Integrate with Reasonix",
     "summary": "",
-    "date": "2026-07-10T05:46:28.000Z",
+    "date": "2026-07-10T04:50:00.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CSDFaVzZtZFJCZDFIU0FpOTlJX1BpRWRyR3dDd1FrSnJqakV1SWZCT2pGek1BQldlTHNod0xFYkNUemJkcTFmelFPakhjdnZZOW90ZWRWcGNXNjBnWkdXME9SVXg5a2tQbjgwRkVVUEFJUUU0TUNQeUR3?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtbGRFYURyc01QaDFQNUg1bFM4al9IbHJQMDVpRERXVmdvVXd6d2pnblVtcjZTYTlNdkN2d012YWphTHM3akRZQXVrU2l2UnpabUtSdk1lMmpCcE01c1g2aTJzVmFoZnNPUTczd1ZROFNTNDJxMkN1YTJ3?oc=5",
     "tags": [
-      "deepseek"
-    ]
-  },
-  {
-    "id": "cbmiu0fvx3lxte9pwmhdajnfv09gx2zrcfprthjucfdwcfzdrdfvmlq5mghpclvkr1dysfi4mllxtwrk",
-    "lab": "Anthropic",
-    "title": "UST is bringing Claude to physical AI",
-    "summary": "",
-    "date": "2026-07-10T00:43:28.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PWmhDajNFV09GX2ZrcFpRTHJUcFdwcFZDRDFvMlQ5MGhpclVkR1dYSFI4MllXTWRkaTR5cEhQN0RvcmFRVTVicXpxbUZkc2lDUTZj?oc=5",
-    "tags": [
-      "ust",
-      "bringing",
-      "claude",
-      "physical"
+      "integrate",
+      "reasonix"
     ]
   },
   {
@@ -548,35 +563,6 @@
     ]
   },
   {
-    "id": "cbmiwefvx3lxte0yehlprmsxagnhvgwxreszvzfizhh1t05xs0f2c0jrczvmd3hbawnnmjb0n0xsytdr",
-    "lab": "Anthropic",
-    "title": "Inviting hard questions",
-    "summary": "",
-    "date": "2026-07-09T17:35:18.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yeHlpRmsxaGNhVGwxREszVzFIZHh1T05XS0F2c0JrczVmd3hBaWNnMjB0N0xSYTdRd2hxREp2OGF4SEtDemFEanpLZVNlSFRSSThuQVBXMFY?oc=5",
-    "tags": [
-      "inviting",
-      "hard",
-      "questions"
-    ]
-  },
-  {
-    "id": "cbmivkfvx3lxte5javloytdbu1u4nhcwcm9wamzxoc14alfsvlbnm0pnc1pxanlmvge2elzfbdlmdwy1",
-    "lab": "Anthropic",
-    "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
-    "summary": "",
-    "date": "2026-07-09T16:37:16.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jaVloYTdBU1U4NHcwcm9wamZXOC14alFSVlBNM0pnc1pxanlMVGE2elZfbDlmdWY1cEpJODVTZ19rdDZkS1lSSmt1WmNtODV2Y215ODBB?oc=5",
-    "tags": [
-      "ben",
-      "bernanke",
-      "appointed",
-      "anthropic"
-    ]
-  },
-  {
     "id": "cbmibefvx3lxte13a2xuefvrymvrlvrra2u5uurmsupzumm4ymmwc3fluffnovzpztm3ylzdb2dqs2c4",
     "lab": "Mistral",
     "title": "Version control for prompts & skills in Studio",
@@ -592,11 +578,25 @@
     ]
   },
   {
+    "id": "cbmiwefvx3lxte0yehlprmsxagnhvgwxreszvzfizhh1t05xs0f2c0jrczvmd3hbawnnmjb0n0xsytdr",
+    "lab": "Anthropic",
+    "title": "Inviting hard questions",
+    "summary": "",
+    "date": "2026-07-09T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yeHlpRmsxaGNhVGwxREszVzFIZHh1T05XS0F2c0JrczVmd3hBaWNnMjB0N0xSYTdRd2hxREp2OGF4SEtDemFEanpLZVNlSFRSSThuQVBXMFY?oc=5",
+    "tags": [
+      "inviting",
+      "hard",
+      "questions"
+    ]
+  },
+  {
     "id": "cbmix0fvx3lxte9uqmgzmw5sugnxn3vqlujmu3ytcehcvxpyul9aovrmvefdzu94ngjyvs1yv1numgoy",
     "lab": "Anthropic",
     "title": "Introducing a way to reflect on how you use Claude",
     "summary": "",
-    "date": "2026-07-09T13:31:02.000Z",
+    "date": "2026-07-09T07:00:00.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uQmgzMW5SUGNxN3VQLUJmU3YtcEhCVXpyUl9aOVRMVEFDZU94NGJyVS1yV1NUMGoyY2Fycm1iamhuNVBNUlFEQjd2djFiRGRXSmRiZW14akhXdS1XZlNB?oc=5",
     "tags": [
@@ -606,18 +606,33 @@
     ]
   },
   {
-    "id": "https-openai-com-index-gpt-5-6-preferred-model-microsoft-365-copilot",
-    "lab": "OpenAI",
-    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-    "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-    "date": "2026-07-09T13:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "id": "cbmiu0fvx3lxte9pwmhdajnfv09gx2zrcfprthjucfdwcfzdrdfvmlq5mghpclvkr1dysfi4mllxtwrk",
+    "lab": "Anthropic",
+    "title": "UST is bringing Claude to physical AI",
+    "summary": "",
+    "date": "2026-07-09T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PWmhDajNFV09GX2ZrcFpRTHJUcFdwcFZDRDFvMlQ5MGhpclVkR1dYSFI4MllXTWRkaTR5cEhQN0RvcmFRVTVicXpxbUZkc2lDUTZj?oc=5",
     "tags": [
-      "gpt",
-      "microsoft",
-      "copilot",
-      "preferred"
+      "ust",
+      "bringing",
+      "claude",
+      "physical"
+    ]
+  },
+  {
+    "id": "cbmivkfvx3lxte5javloytdbu1u4nhcwcm9wamzxoc14alfsvlbnm0pnc1pxanlmvge2elzfbdlmdwy1",
+    "lab": "Anthropic",
+    "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+    "summary": "",
+    "date": "2026-07-09T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jaVloYTdBU1U4NHcwcm9wamZXOC14alFSVlBNM0pnc1pxanlMVGE2elZfbDlmdWY1cEpJODVTZ19rdDZkS1lSSmt1WmNtODV2Y215ODBB?oc=5",
+    "tags": [
+      "ben",
+      "bernanke",
+      "appointed",
+      "anthropic"
     ]
   },
   {
@@ -850,22 +865,6 @@
       "science",
       "workbench",
       "scientists"
-    ]
-  },
-  {
-    "id": "https-blog-google-company-news-inside-google-around-the-globe-google-europe-unit",
-    "lab": "Google DeepMind",
-    "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-    "summary": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.",
-    "date": "2026-06-30T06:00:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp",
-    "tags": [
-      "unlocking",
-      "britain",
-      "next",
-      "era"
     ]
   }
 ]
