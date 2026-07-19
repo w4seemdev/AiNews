@@ -520,16 +520,15 @@
     ]
   },
   {
-    "id": "cbmiekfvx3lxtfbtbgrfyuryc01qadfqnug1bfm4al9ibhjqmdvprerxvmdvvxd6d2pnblvtcjztytln",
+    "id": "cbmiekfvx3lxte1csdfavzztzfjczdfiu0fpotljx1bprwryr3ddd1frsnjqakv1swzct2pgek1bqldl",
     "lab": "DeepSeek",
-    "title": "Integrate with Reasonix",
+    "title": "Using DeepSeek with Oh My Pi",
     "summary": "",
-    "date": "2026-07-10T04:50:00.000Z",
+    "date": "2026-07-10T05:46:28.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtbGRFYURyc01QaDFQNUg1bFM4al9IbHJQMDVpRERXVmdvVXd6d2pnblVtcjZTYTlNdkN2d012YWphTHM3akRZQXVrU2l2UnpabUtSdk1lMmpCcE01c1g2aTJzVmFoZnNPUTczd1ZROFNTNDJxMkN1YTJ3?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CSDFaVzZtZFJCZDFIU0FpOTlJX1BpRWRyR3dDd1FrSnJqakV1SWZCT2pGek1BQldlTHNod0xFYkNUemJkcTFmelFPakhjdnZZOW90ZWRWcGNXNjBnWkdXME9SVXg5a2tQbjgwRkVVUEFJUUU0TUNQeUR3?oc=5",
     "tags": [
-      "integrate",
-      "reasonix"
+      "deepseek"
     ]
   },
   {
@@ -578,20 +577,6 @@
     ]
   },
   {
-    "id": "cbmiwefvx3lxte0yehlprmsxagnhvgwxreszvzfizhh1t05xs0f2c0jrczvmd3hbawnnmjb0n0xsytdr",
-    "lab": "Anthropic",
-    "title": "Inviting hard questions",
-    "summary": "",
-    "date": "2026-07-09T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yeHlpRmsxaGNhVGwxREszVzFIZHh1T05XS0F2c0JrczVmd3hBaWNnMjB0N0xSYTdRd2hxREp2OGF4SEtDemFEanpLZVNlSFRSSThuQVBXMFY?oc=5",
-    "tags": [
-      "inviting",
-      "hard",
-      "questions"
-    ]
-  },
-  {
     "id": "cbmix0fvx3lxte9uqmgzmw5sugnxn3vqlujmu3ytcehcvxpyul9aovrmvefdzu94ngjyvs1yv1numgoy",
     "lab": "Anthropic",
     "title": "Introducing a way to reflect on how you use Claude",
@@ -603,6 +588,20 @@
       "way",
       "reflect",
       "claude"
+    ]
+  },
+  {
+    "id": "cbmiwefvx3lxte0yehlprmsxagnhvgwxreszvzfizhh1t05xs0f2c0jrczvmd3hbawnnmjb0n0xsytdr",
+    "lab": "Anthropic",
+    "title": "Inviting hard questions",
+    "summary": "",
+    "date": "2026-07-09T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yeHlpRmsxaGNhVGwxREszVzFIZHh1T05XS0F2c0JrczVmd3hBaWNnMjB0N0xSYTdRd2hxREp2OGF4SEtDemFEanpLZVNlSFRSSThuQVBXMFY?oc=5",
+    "tags": [
+      "inviting",
+      "hard",
+      "questions"
     ]
   },
   {

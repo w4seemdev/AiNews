@@ -5,7 +5,7 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jul 2026 07:43:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 08:10:38 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers</title>
@@ -332,10 +332,10 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Integrate with Reasonix</title>
-      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTFBtbGRFYURyc01QaDFQNUg1bFM4al9IbHJQMDVpRERXVmdvVXd6d2pnblVtcjZTYTlNdkN2d012YWphTHM3akRZQXVrU2l2UnpabUtSdk1lMmpCcE01c1g2aTJzVmFoZnNPUTczd1ZROFNTNDJxMkN1YTJ3?oc=5</link>
-      <guid isPermaLink="false">cbmiekfvx3lxtfbtbgrfyuryc01qadfqnug1bfm4al9ibhjqmdvprerxvmdvvxd6d2pnblvtcjztytln</guid>
-      <pubDate>Fri, 10 Jul 2026 04:50:00 GMT</pubDate>
+      <title>Using DeepSeek with Oh My Pi</title>
+      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE1CSDFaVzZtZFJCZDFIU0FpOTlJX1BpRWRyR3dDd1FrSnJqakV1SWZCT2pGek1BQldlTHNod0xFYkNUemJkcTFmelFPakhjdnZZOW90ZWRWcGNXNjBnWkdXME9SVXg5a2tQbjgwRkVVUEFJUUU0TUNQeUR3?oc=5</link>
+      <guid isPermaLink="false">cbmiekfvx3lxte1csdfavzztzfjczdfiu0fpotljx1bprwryr3ddd1frsnjqakv1swzct2pgek1bqldl</guid>
+      <pubDate>Fri, 10 Jul 2026 05:46:28 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>feature</category>
@@ -368,18 +368,18 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Inviting hard questions</title>
-      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yeHlpRmsxaGNhVGwxREszVzFIZHh1T05XS0F2c0JrczVmd3hBaWNnMjB0N0xSYTdRd2hxREp2OGF4SEtDemFEanpLZVNlSFRSSThuQVBXMFY?oc=5</link>
-      <guid isPermaLink="false">cbmiwefvx3lxte0yehlprmsxagnhvgwxreszvzfizhh1t05xs0f2c0jrczvmd3hbawnnmjb0n0xsytdr</guid>
+      <title>Introducing a way to reflect on how you use Claude</title>
+      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uQmgzMW5SUGNxN3VQLUJmU3YtcEhCVXpyUl9aOVRMVEFDZU94NGJyVS1yV1NUMGoyY2Fycm1iamhuNVBNUlFEQjd2djFiRGRXSmRiZW14akhXdS1XZlNB?oc=5</link>
+      <guid isPermaLink="false">cbmix0fvx3lxte9uqmgzmw5sugnxn3vqlujmu3ytcehcvxpyul9aovrmvefdzu94ngjyvs1yv1numgoy</guid>
       <pubDate>Thu, 09 Jul 2026 07:00:00 GMT</pubDate>
       <description>Source: Anthropic</description>
       <source url="https://ai-pulse.vercel.app">Anthropic</source>
       <category>feature</category>
     </item>
     <item>
-      <title>Introducing a way to reflect on how you use Claude</title>
-      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uQmgzMW5SUGNxN3VQLUJmU3YtcEhCVXpyUl9aOVRMVEFDZU94NGJyVS1yV1NUMGoyY2Fycm1iamhuNVBNUlFEQjd2djFiRGRXSmRiZW14akhXdS1XZlNB?oc=5</link>
-      <guid isPermaLink="false">cbmix0fvx3lxte9uqmgzmw5sugnxn3vqlujmu3ytcehcvxpyul9aovrmvefdzu94ngjyvs1yv1numgoy</guid>
+      <title>Inviting hard questions</title>
+      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yeHlpRmsxaGNhVGwxREszVzFIZHh1T05XS0F2c0JrczVmd3hBaWNnMjB0N0xSYTdRd2hxREp2OGF4SEtDemFEanpLZVNlSFRSSThuQVBXMFY?oc=5</link>
+      <guid isPermaLink="false">cbmiwefvx3lxte0yehlprmsxagnhvgwxreszvzfizhh1t05xs0f2c0jrczvmd3hbawnnmjb0n0xsytdr</guid>
       <pubDate>Thu, 09 Jul 2026 07:00:00 GMT</pubDate>
       <description>Source: Anthropic</description>
       <source url="https://ai-pulse.vercel.app">Anthropic</source>
