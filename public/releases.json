@@ -1,5 +1,20 @@
 [
   {
+    "id": "cbmihafbvv95cuxotnc2ehl3tw9vakrhm2jysmvnn0xtd2ktzvytczdrzjdxzufprtjaoefnsgdhlunx",
+    "lab": "DeepSeek",
+    "title": "thinking_mode_api_example_tool_call",
+    "summary": "",
+    "date": "2026-07-19T12:06:11.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTnc2eHl3TW9vakRHM2JYSmVNN0xTd2ktZVYtczdRZjdXZUFPRTJaOEFNSGdHLUNxTVlSX2JOWjROWmU4RTFNVWtqTHRJMTA4MnZxM28zSEJLQzBTbFdmQ2Z6eF9oQlZIcFpJV1RFV2FYdlNqcGF6cTNrZWs5OTFZWmFVZ1M?oc=5",
+    "tags": [
+      "thinking",
+      "mode",
+      "api",
+      "example"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-nvidia-scale-diffusers-finetuning-nemo-automodel",
     "lab": "Hugging Face",
     "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
@@ -426,18 +441,6 @@
     ]
   },
   {
-    "id": "cbmieefvx3lxte1scdy0shzdyi04zxlhyvz1nmpbse9qufhqdlo1dutobm9ssxruaxruql91rhfqu19a",
-    "lab": "DeepSeek",
-    "title": "Integrate with Pi",
-    "summary": "",
-    "date": "2026-07-10T09:56:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1scDY0SHZDYi04ZXlHYVZ1NmpBSE9qUFhQdlo1dUtObm9SSXRUaXRUQl91RHFqU19aUUFtNFJVa21UMGVtNnRaSHBEU2NnbkQ0SDdXLUVvU3NoU2hhR0pzSU9nQkctVGl5eTdTM3h5WlhKRWJ2c3BSSw?oc=5",
-    "tags": [
-      "integrate"
-    ]
-  },
-  {
     "id": "cbmieefvx3lxte9ydfy5vuvfwwi3b2o5ndjlc2h0zznrm3mwmlbqlxbnnjlfvxpydvjrxzfwowh5yxza",
     "lab": "DeepSeek",
     "title": "Integrating nanobot",
@@ -577,20 +580,6 @@
     ]
   },
   {
-    "id": "cbmix0fvx3lxte9uqmgzmw5sugnxn3vqlujmu3ytcehcvxpyul9aovrmvefdzu94ngjyvs1yv1numgoy",
-    "lab": "Anthropic",
-    "title": "Introducing a way to reflect on how you use Claude",
-    "summary": "",
-    "date": "2026-07-09T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uQmgzMW5SUGNxN3VQLUJmU3YtcEhCVXpyUl9aOVRMVEFDZU94NGJyVS1yV1NUMGoyY2Fycm1iamhuNVBNUlFEQjd2djFiRGRXSmRiZW14akhXdS1XZlNB?oc=5",
-    "tags": [
-      "way",
-      "reflect",
-      "claude"
-    ]
-  },
-  {
     "id": "cbmiwefvx3lxte0yehlprmsxagnhvgwxreszvzfizhh1t05xs0f2c0jrczvmd3hbawnnmjb0n0xsytdr",
     "lab": "Anthropic",
     "title": "Inviting hard questions",
@@ -602,6 +591,20 @@
       "inviting",
       "hard",
       "questions"
+    ]
+  },
+  {
+    "id": "cbmix0fvx3lxte9uqmgzmw5sugnxn3vqlujmu3ytcehcvxpyul9aovrmvefdzu94ngjyvs1yv1numgoy",
+    "lab": "Anthropic",
+    "title": "Introducing a way to reflect on how you use Claude",
+    "summary": "",
+    "date": "2026-07-09T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uQmgzMW5SUGNxN3VQLUJmU3YtcEhCVXpyUl9aOVRMVEFDZU94NGJyVS1yV1NUMGoyY2Fycm1iamhuNVBNUlFEQjd2djFiRGRXSmRiZW14akhXdS1XZlNB?oc=5",
+    "tags": [
+      "way",
+      "reflect",
+      "claude"
     ]
   },
   {
@@ -650,16 +653,14 @@
   {
     "id": "cbmivkfvx3lxtfbuoddfofzitfjmb0fynw00tkzedutfyzvxwnv5bwxcy1drc3hnvjdfuvpqnhrnwdbg",
     "lab": "Mistral",
-    "title": "Robostral Navigate: single-camera AI navigation",
+    "title": "Introducing Robostral Navigate",
     "summary": "",
     "date": "2026-07-08T14:15:10.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuODdfOFZITFJmb0FyNW00TkZEdUtFYzVxWnV5bWxCY1dRc3hnVjdFUVpqNHRnWDBGVUMzYXViZ1ViVEVCR216YzNOZ0lDbXZHMGNnUW93?oc=5",
     "tags": [
       "robostral",
-      "navigate",
-      "single",
-      "camera"
+      "navigate"
     ]
   },
   {

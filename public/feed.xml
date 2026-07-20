@@ -5,8 +5,17 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2026 08:10:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 08:52:09 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>thinking_mode_api_example_tool_call</title>
+      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxOTnc2eHl3TW9vakRHM2JYSmVNN0xTd2ktZVYtczdRZjdXZUFPRTJaOEFNSGdHLUNxTVlSX2JOWjROWmU4RTFNVWtqTHRJMTA4MnZxM28zSEJLQzBTbFdmQ2Z6eF9oQlZIcFpJV1RFV2FYdlNqcGF6cTNrZWs5OTFZWmFVZ1M?oc=5</link>
+      <guid isPermaLink="false">cbmihafbvv95cuxotnc2ehl3tw9vakrhm2jysmvnn0xtd2ktzvytczdrzjdxzufprtjaoefnsgdhlunx</guid>
+      <pubDate>Sun, 19 Jul 2026 12:06:11 GMT</pubDate>
+      <description>Source: DeepSeek</description>
+      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
+      <category>feature</category>
+    </item>
     <item>
       <title>Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers</title>
       <link>https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel</link>
@@ -269,15 +278,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Integrate with Pi</title>
-      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE1scDY0SHZDYi04ZXlHYVZ1NmpBSE9qUFhQdlo1dUtObm9SSXRUaXRUQl91RHFqU19aUUFtNFJVa21UMGVtNnRaSHBEU2NnbkQ0SDdXLUVvU3NoU2hhR0pzSU9nQkctVGl5eTdTM3h5WlhKRWJ2c3BSSw?oc=5</link>
-      <guid isPermaLink="false">cbmieefvx3lxte1scdy0shzdyi04zxlhyvz1nmpbse9qufhqdlo1dutobm9ssxruaxruql91rhfqu19a</guid>
-      <pubDate>Fri, 10 Jul 2026 09:56:00 GMT</pubDate>
-      <description>Source: DeepSeek</description>
-      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Integrating nanobot</title>
       <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE9YdFY5VUVFWWI3b2o5NDJLc2h0ZzNrM3MwMlBqLXBnNjlfVXpydVJRXzFwOWh5YXZaNGVnbGJiWEgyNGgzMDEtNzZDeldvSVBEVTNmN193MXlEdEk3dW4yVjFPbDg2UWVnODdJUzRLSjI0N1Z6SFhIVQ?oc=5</link>
       <guid isPermaLink="false">cbmieefvx3lxte9ydfy5vuvfwwi3b2o5ndjlc2h0zznrm3mwmlbqlxbnnjlfvxpydvjrxzfwowh5yxza</guid>
@@ -368,18 +368,18 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Introducing a way to reflect on how you use Claude</title>
-      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uQmgzMW5SUGNxN3VQLUJmU3YtcEhCVXpyUl9aOVRMVEFDZU94NGJyVS1yV1NUMGoyY2Fycm1iamhuNVBNUlFEQjd2djFiRGRXSmRiZW14akhXdS1XZlNB?oc=5</link>
-      <guid isPermaLink="false">cbmix0fvx3lxte9uqmgzmw5sugnxn3vqlujmu3ytcehcvxpyul9aovrmvefdzu94ngjyvs1yv1numgoy</guid>
+      <title>Inviting hard questions</title>
+      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yeHlpRmsxaGNhVGwxREszVzFIZHh1T05XS0F2c0JrczVmd3hBaWNnMjB0N0xSYTdRd2hxREp2OGF4SEtDemFEanpLZVNlSFRSSThuQVBXMFY?oc=5</link>
+      <guid isPermaLink="false">cbmiwefvx3lxte0yehlprmsxagnhvgwxreszvzfizhh1t05xs0f2c0jrczvmd3hbawnnmjb0n0xsytdr</guid>
       <pubDate>Thu, 09 Jul 2026 07:00:00 GMT</pubDate>
       <description>Source: Anthropic</description>
       <source url="https://ai-pulse.vercel.app">Anthropic</source>
       <category>feature</category>
     </item>
     <item>
-      <title>Inviting hard questions</title>
-      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yeHlpRmsxaGNhVGwxREszVzFIZHh1T05XS0F2c0JrczVmd3hBaWNnMjB0N0xSYTdRd2hxREp2OGF4SEtDemFEanpLZVNlSFRSSThuQVBXMFY?oc=5</link>
-      <guid isPermaLink="false">cbmiwefvx3lxte0yehlprmsxagnhvgwxreszvzfizhh1t05xs0f2c0jrczvmd3hbawnnmjb0n0xsytdr</guid>
+      <title>Introducing a way to reflect on how you use Claude</title>
+      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uQmgzMW5SUGNxN3VQLUJmU3YtcEhCVXpyUl9aOVRMVEFDZU94NGJyVS1yV1NUMGoyY2Fycm1iamhuNVBNUlFEQjd2djFiRGRXSmRiZW14akhXdS1XZlNB?oc=5</link>
+      <guid isPermaLink="false">cbmix0fvx3lxte9uqmgzmw5sugnxn3vqlujmu3ytcehcvxpyul9aovrmvefdzu94ngjyvs1yv1numgoy</guid>
       <pubDate>Thu, 09 Jul 2026 07:00:00 GMT</pubDate>
       <description>Source: Anthropic</description>
       <source url="https://ai-pulse.vercel.app">Anthropic</source>
@@ -413,7 +413,7 @@
       <category>model</category>
     </item>
     <item>
-      <title>Robostral Navigate: single-camera AI navigation</title>
+      <title>Introducing Robostral Navigate</title>
       <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuODdfOFZITFJmb0FyNW00TkZEdUtFYzVxWnV5bWxCY1dRc3hnVjdFUVpqNHRnWDBGVUMzYXViZ1ViVEVCR216YzNOZ0lDbXZHMGNnUW93?oc=5</link>
       <guid isPermaLink="false">cbmivkfvx3lxtfbuoddfofzitfjmb0fynw00tkzedutfyzvxwnv5bwxcy1drc3hnvjdfuvpqnhrnwdbg</guid>
       <pubDate>Wed, 08 Jul 2026 14:15:10 GMT</pubDate>
