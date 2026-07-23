@@ -1,5 +1,171 @@
 [
   {
+    "id": "https-huggingface-co-blog-nunchaku-diffusers",
+    "lab": "Hugging Face",
+    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+    "summary": "",
+    "date": "2026-07-23T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/nunchaku-diffusers",
+    "tags": [
+      "bringing",
+      "nunchaku",
+      "bit",
+      "diffusion"
+    ]
+  },
+  {
+    "id": "cbmic0fvx3lxte1syk1fq3pammnwyurwwwfzq3vdbla3yy05c3f4mxjxtnvhlvlhmdqym2pdq3a0vjnh",
+    "lab": "Anthropic",
+    "title": "The Anthropic Economic Index connector",
+    "summary": "",
+    "date": "2026-07-22T17:13:51.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SYk1FQ3paMmNwYURwWWFZQ3VDblA3Yy05c3F4MXJxTnVHLVlHMDQyM2pDQ3A0VjNhNl90Q2xzNFpyYVlhUkdXb2ZTVUR5MFZnVWpkaFRmdkxPUGZoTGYyakJnTzhBOGJOaDF1Q1ZDa3haVkU?oc=5",
+    "tags": [
+      "anthropic",
+      "economic",
+      "index",
+      "connector"
+    ]
+  },
+  {
+    "id": "cbmid0fvx3lxte1hmldwatvqmzdleertr0fwvgr2ehiwy3lqq3vwm2c5mnvlss14wwfzstlsqmj0rg5e",
+    "lab": "Anthropic",
+    "title": "A research agenda for the Economic Futures Research Fund",
+    "summary": "",
+    "date": "2026-07-22T17:13:46.000Z",
+    "category": "research",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HMldWaTVQMzdleERTR0FWVGR2eHIwY3lqQ3VwM2c5MnVlSS14WWFzSTlSQmJ0RG5ER3VSemFVaUYxVjg4NVE5Q2hqcko5cFgyTGtod2J5MFl6RmNoaGdfdld4aUxrR29IY3QxTDZJUXpTcjlRWXdV?oc=5",
+    "tags": [
+      "research",
+      "agenda",
+      "economic",
+      "futures"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-accelerating-the-frontiers-of-scientific-discovery-go",
+    "lab": "Google DeepMind",
+    "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+    "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+    "date": "2026-07-22T13:38:54.000Z",
+    "category": "feature",
+    "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "tags": [
+      "google",
+      "genesis",
+      "mission",
+      "accelerating"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-building-ai-infrastructure-with-the-effingham-county-comm",
+    "lab": "OpenAI",
+    "title": "Building AI infrastructure with the Effingham County community",
+    "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+    "date": "2026-07-22T13:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "tags": [
+      "effingham",
+      "county",
+      "community",
+      "building"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-how-news-organizations-are-using-ai",
+    "lab": "OpenAI",
+    "title": "How news organizations are using AI to advance their vital missions",
+    "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+    "date": "2026-07-22T13:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "tags": [
+      "organizations",
+      "advance",
+      "vital",
+      "missions"
+    ]
+  },
+  {
+    "id": "https-blog-google-products-and-platforms-platforms-android-galaxy-unpacked-2026",
+    "lab": "Google DeepMind",
+    "title": "3 Google updates from Galaxy Unpacked 2026",
+    "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
+    "date": "2026-07-22T13:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp",
+    "tags": [
+      "google",
+      "galaxy",
+      "unpacked",
+      "shared"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-advancing-the-next-era-of-national-science",
+    "lab": "OpenAI",
+    "title": "Advancing the next era of national science",
+    "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+    "date": "2026-07-22T12:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "tags": [
+      "advancing",
+      "national",
+      "science",
+      "next"
+    ]
+  },
+  {
+    "id": "cbmia0fvx3lxte95vevdymvgvzjxef9roevry0dsmta1lvpvtnotmtvfluv0ofhwt2j4edbjeve5oflq",
+    "lab": "Anthropic",
+    "title": "Donating another $20 million to Public First Action",
+    "summary": "",
+    "date": "2026-07-22T09:07:38.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95VEVDYmVGVzJxeF9rOEVRY0dsMTA1LVpvTnotMTVFLUV0OFhWT2J4eDBJeVE5OFlqWURyUkR3elRvblBWV2F0bmh0M1VuSzNZMHo0aWNMT2Q3dWFYTkFjd2tUWUIwWW53UE40?oc=5",
+    "tags": [
+      "donating",
+      "another",
+      "million",
+      "public"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-introducing-openai-presence",
+    "lab": "OpenAI",
+    "title": "Introducing OpenAI Presence",
+    "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+    "date": "2026-07-22T05:30:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/introducing-openai-presence",
+    "tags": [
+      "openai",
+      "presence",
+      "proven",
+      "enterprise"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-ntt-data",
+    "lab": "OpenAI",
+    "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+    "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+    "date": "2026-07-22T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/ntt-data",
+    "tags": [
+      "ntt",
+      "data",
+      "group",
+      "incident"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-nvidia-state-of-simulation-for-physical-ai",
     "lab": "Hugging Face",
     "title": "The State of Simulation for Physical AI: An Overview",
@@ -19,7 +185,7 @@
     "lab": "DeepSeek",
     "title": "thinking_mode_api_example_streaming",
     "summary": "",
-    "date": "2026-07-21T18:40:24.000Z",
+    "date": "2026-07-21T18:40:25.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMUS1uMktoamVCZHlTcEd2Z1Foanc1bTg3UkZGZ3dFY0pUSlVWN3JDSUtjSEhCWXFRR0hzdjNZanVFMzBhajRXdFhPX0NDamdJUnRpNDA0bV9nQW9ISUJpbjlyUWVUVVRUeTRKZ2JNVFB0ZmJUNlZhQXpGZVJsUQ?oc=5",
     "tags": [
@@ -235,21 +401,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-why-teens-deserve-access-safe-ai",
-    "lab": "OpenAI",
-    "title": "Why teens deserve access to safe AI",
-    "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-    "date": "2026-07-16T16:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-    "tags": [
-      "teens",
-      "deserve",
-      "access",
-      "safe"
-    ]
-  },
-  {
     "id": "https-blog-google-products-and-platforms-products-search-connected-apps",
     "lab": "Google DeepMind",
     "title": "Connect more of your apps to Search",
@@ -353,21 +504,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-cars24",
-    "lab": "OpenAI",
-    "title": "How Cars24 scales conversations and builds faster with OpenAI",
-    "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
-    "date": "2026-07-16T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/cars24",
-    "tags": [
-      "cars24",
-      "openai",
-      "scales",
-      "conversations"
-    ]
-  },
-  {
     "id": "cbmiukfvx3lxte9xn1vyowdwegi1dmnhrdjtc1prdxzktkpxy1jluwhutwtxoddpavvjr0tfwm4ydwjf",
     "lab": "xAI",
     "title": "Grok Build is Now Open Source",
@@ -410,36 +546,6 @@
       "routing",
       "simple",
       "until"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-advancing-ai-safety-through-state-and-federal-action",
-    "lab": "OpenAI",
-    "title": "The US is advancing AI safety through state and federal action",
-    "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-    "date": "2026-07-15T12:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-    "tags": [
-      "state",
-      "advancing",
-      "safety",
-      "through"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-unlocking-self-improvement-gpt-red",
-    "lab": "OpenAI",
-    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-    "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-    "date": "2026-07-15T10:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-    "tags": [
-      "red",
-      "gpt",
-      "self",
-      "robustness"
     ]
   },
   {
@@ -489,36 +595,6 @@
     ]
   },
   {
-    "id": "cbmiyefvx3lxtfb4ejnuawnhdva1ulpenzrgmmdnvwjem3jrbhhiovd5qw95oxnwrhdylw5dbmy4d2xt",
-    "lab": "Anthropic",
-    "title": "Anthropic commits $10 million to Canadian AI research",
-    "summary": "",
-    "date": "2026-07-14T13:07:50.000Z",
-    "category": "research",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4ejNuaWNhdVA1UlpENzRGMmdNVWJEM3JrbHhiOVd5QW95OXNWRHdyLW5DbmY4d2xtemp3UTNheDZoRzZUSEdnVy05SEJtd1J4MWtPeHlmdGFMUXh4UG9LRA?oc=5",
-    "tags": [
-      "anthropic",
-      "commits",
-      "million",
-      "canadian"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-managing-ai-investments-in-agentic-era",
-    "lab": "OpenAI",
-    "title": "How to manage AI investments in the agentic era",
-    "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-    "date": "2026-07-14T10:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-    "tags": [
-      "manage",
-      "investments",
-      "agentic",
-      "era"
-    ]
-  },
-  {
     "id": "cbmix0fvx3lxte5qdmfxwuxkdg9wtlnszxe4zvhfwuu0qjmtmmrvenk1ctvcb1b6dmgzmnr3zwjrngcx",
     "lab": "Anthropic",
     "title": "Introducing Claude for Teachers",
@@ -529,6 +605,21 @@
     "tags": [
       "claude",
       "teachers"
+    ]
+  },
+  {
+    "id": "cbmiyefvx3lxtfb4ejnuawnhdva1ulpenzrgmmdnvwjem3jrbhhiovd5qw95oxnwrhdylw5dbmy4d2xt",
+    "lab": "Anthropic",
+    "title": "Anthropic commits $10 million to Canadian AI research",
+    "summary": "",
+    "date": "2026-07-14T07:00:00.000Z",
+    "category": "research",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4ejNuaWNhdVA1UlpENzRGMmdNVWJEM3JrbHhiOVd5QW95OXNWRHdyLW5DbmY4d2xtemp3UTNheDZoRzZUSEdnVy05SEJtd1J4MWtPeHlmdGFMUXh4UG9LRA?oc=5",
+    "tags": [
+      "anthropic",
+      "commits",
+      "million",
+      "canadian"
     ]
   },
   {
@@ -697,6 +788,20 @@
     ]
   },
   {
+    "id": "cbmiwefvx3lxte0yehlprmsxagnhvgwxreszvzfizhh1t05xs0f2c0jrczvmd3hbawnnmjb0n0xsytdr",
+    "lab": "Anthropic",
+    "title": "Inviting hard questions",
+    "summary": "",
+    "date": "2026-07-09T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yeHlpRmsxaGNhVGwxREszVzFIZHh1T05XS0F2c0JrczVmd3hBaWNnMjB0N0xSYTdRd2hxREp2OGF4SEtDemFEanpLZVNlSFRSSThuQVBXMFY?oc=5",
+    "tags": [
+      "inviting",
+      "hard",
+      "questions"
+    ]
+  },
+  {
     "id": "cbmiu0fvx3lxte9pwmhdajnfv09gx2zrcfprthjucfdwcfzdrdfvmlq5mghpclvkr1dysfi4mllxtwrk",
     "lab": "Anthropic",
     "title": "UST is bringing Claude to physical AI",
@@ -709,20 +814,6 @@
       "bringing",
       "claude",
       "physical"
-    ]
-  },
-  {
-    "id": "cbmiwefvx3lxte0yehlprmsxagnhvgwxreszvzfizhh1t05xs0f2c0jrczvmd3hbawnnmjb0n0xsytdr",
-    "lab": "Anthropic",
-    "title": "Inviting hard questions",
-    "summary": "",
-    "date": "2026-07-09T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yeHlpRmsxaGNhVGwxREszVzFIZHh1T05XS0F2c0JrczVmd3hBaWNnMjB0N0xSYTdRd2hxREp2OGF4SEtDemFEanpLZVNlSFRSSThuQVBXMFY?oc=5",
-    "tags": [
-      "inviting",
-      "hard",
-      "questions"
     ]
   },
   {
@@ -767,21 +858,6 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-native-speed-vllm-transformers-backend",
-    "lab": "Hugging Face",
-    "title": "Native-speed vLLM transformers modeling backend",
-    "summary": "",
-    "date": "2026-07-08T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-    "tags": [
-      "native",
-      "speed",
-      "vllm",
-      "transformers"
-    ]
-  },
-  {
     "id": "https-blog-google-innovation-and-ai-technology-developers-tools-expanding-manage",
     "lab": "Google DeepMind",
     "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
@@ -795,79 +871,6 @@
       "managed",
       "gemini",
       "api"
-    ]
-  },
-  {
-    "id": "cbmicefvx3lxtfblov9wdnuwrw1wtvzjvm9uac1xetv6eefvv1hyotrrmvznv2lscwctc2nor3b5zwne",
-    "lab": "Meta",
-    "title": "Introducing Muse Image and Muse Video",
-    "summary": "",
-    "date": "2026-07-07T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLOV9WdnUwRW1WTVZjVm9UaC1xeTV6eEFVV1hYOTRRMVZNV2lScWctc2NOR3B5ZWNEcmNaMmpNSkFTWHkwYlV1V1ZJejYyRFRqUjJmcW45VGItRXJ1bi1EVlc5R1Z3anFRNzBWM1ZzT2w?oc=5",
-    "tags": [
-      "muse",
-      "image",
-      "video"
-    ]
-  },
-  {
-    "id": "cbmiekfvx3lxte10owxivti4ckf3stdtutizsw9cdfryzfrpuelzyw10ckxoz3vpmwngwjm4vk9pmhll",
-    "lab": "Anthropic",
-    "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
-    "summary": "",
-    "date": "2026-07-06T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10OWxIVTI4ckF3STdtUTIzSW9CdFRYZFRPUElzYW10ckxOZ3VPMWNGWjM4Vk9PMHllYjc1dkNuY1Y2OW5jSHI1eENJek9tcGk4UFhkR1NCSjU3X0lROXREZzhCVUVrTExkTmdCYnBRZHBpS044UXF5RUpn?oc=5",
-    "tags": [
-      "government",
-      "alberta",
-      "uses",
-      "claude"
-    ]
-  },
-  {
-    "id": "cbmitkfvx3lxte1wtnhtqzcyx3uyrmu2u1g5r040yzfhv2hiyks3quvqahleemfpdglutu1pnzixbi1k",
-    "lab": "xAI",
-    "title": "21 New Flagship Grok Voices",
-    "summary": "",
-    "date": "2026-07-06T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wTnhtQzcyX3UyRmU2U1g5R040YzFHV2hIYks3QUVqaHlEemFPdGlUTU1pNzIxbi1kSHI0TFhlTXJ5MVdYbW5MWlhZdWdGZw?oc=5",
-    "tags": [
-      "flagship",
-      "grok",
-      "voices"
-    ]
-  },
-  {
-    "id": "https-deepmind-google-blog-google-deepmind-and-a24-announce-first-of-its-kind-re",
-    "lab": "Google DeepMind",
-    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-    "summary": "",
-    "date": "2026-07-03T14:25:43.000Z",
-    "category": "research",
-    "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-    "tags": [
-      "google",
-      "deepmind",
-      "a24",
-      "first"
-    ]
-  },
-  {
-    "id": "cbmidkfvx3lxte5aumuwaffoegmxbmo1rwtnemm2dfrfs1pczuluwtd6ckjeuc16zzfwvfz4qw5jegdc",
-    "lab": "Anthropic",
-    "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
-    "summary": "",
-    "date": "2026-07-02T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aUmUwaFFoeGMxbmo1RWtnemM2dFRFS1pCZUlUWTd6ckJEUC16ZzFwVFZ4QW5jeGdCa0VzbGpFQW96TmpUTmpYd1pyb1U2X3hRQXRyZG9CY1R4RFo0QnhlWlc0YVVLZjVyTEc2TkUxNnpuZllxUmc?oc=5",
-    "tags": [
-      "details",
-      "fable",
-      "cyber",
-      "safeguards"
     ]
   }
 ]
