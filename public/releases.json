@@ -1,5 +1,47 @@
 [
   {
+    "id": "cbmiqefvx3lxte95re9iqtltmvlargtlsw0xqk1gndfvu2l6umdsmxlyskvmn0d0swvlr2fjzdh0ztrh",
+    "lab": "xAI",
+    "title": "Workflows in Grok Build",
+    "summary": "",
+    "date": "2026-07-23T23:38:27.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE95RE9iQTltMVlaRGtlSW0xQk1GNDFvU2l6UmdsMXlySkVMN0d0SWVlR2FjZDh0ZTRHRS0tbjR3bG8?oc=5",
+    "tags": [
+      "workflows",
+      "grok",
+      "build"
+    ]
+  },
+  {
+    "id": "cbmizefvx3lxte9itc1uvnvmb09vsm5urzdpnjjts3vpzunsvc1velnzew1dbtl0wvvqeg1xtlnjvfvh",
+    "lab": "DeepSeek",
+    "title": "chat_nodejs",
+    "summary": "",
+    "date": "2026-07-23T16:12:23.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iTC1UVnVMb09VSm5URzdpNjJtS3VpZUNsVC1velNzeW1DbTl0WVVqeG1XTlNjVFVHb2JZODJfUGlNTTVDSGZfdmhhRnBUbUhoUTBneGNJclJnOTlncTZUUXZka3Y?oc=5",
+    "tags": [
+      "chat",
+      "nodejs"
+    ]
+  },
+  {
+    "id": "cbmijgfbvv95cuxomnnqrxjfwklcal8wshfgx1rotg5dmdjimuwylw9jmwxwblpxmlj4qm1mzhpyykxq",
+    "lab": "DeepSeek",
+    "title": "thinking_mode_api_example_tool_call_output",
+    "summary": "",
+    "date": "2026-07-23T02:00:17.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMnNqRXJFWklCal8wSHFGX1ROTG5DMDJIMUwyLW9jMWxWblpXMlJ4Qm1mZHpYYkxqMzdGY0RxYVZJbWs0LTM4MGllcTd0ZWdzc2JQTnFlWGxFdTV6UlhHR2I2Rnh0MEhvWEJOR3JFVW11WjhBalFTVUgwdUxUeHhYZzQ1NzRjS0pFV09mVE9R?oc=5",
+    "tags": [
+      "thinking",
+      "mode",
+      "api",
+      "example"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-nunchaku-diffusers",
     "lab": "Hugging Face",
     "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
@@ -12,6 +54,21 @@
       "nunchaku",
       "bit",
       "diffusion"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-health-in-chatgpt",
+    "lab": "OpenAI",
+    "title": "Launching Health in ChatGPT",
+    "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+    "date": "2026-07-23T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/health-in-chatgpt",
+    "tags": [
+      "health",
+      "chatgpt",
+      "lets",
+      "eligible"
     ]
   },
   {
@@ -133,6 +190,21 @@
       "another",
       "million",
       "public"
+    ]
+  },
+  {
+    "id": "cbmitkfvx3lxte14afz4zzlpdgptn0zpqwjcuddhwnlhc2p0qk91wg5jtxzqd3htzujvwmd5tfpan25f",
+    "lab": "xAI",
+    "title": "Bringing Grok 4.5 to iOS, Android, Web, and X",
+    "summary": "",
+    "date": "2026-07-22T07:00:00.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14aFZ4ZzlpdGpTN0ZPQWJCUDdHWnlhc2p0Qk91WG5JTXZqd3htZUJvWmd5TFpaN25fWWlTNmhhaHN3TGtmQTVNSEh2Q3pSUQ?oc=5",
+    "tags": [
+      "bringing",
+      "grok",
+      "ios",
+      "android"
     ]
   },
   {
@@ -370,21 +442,6 @@
       "flash",
       "cyber",
       "google"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-a-scorecard-for-the-ai-age",
-    "lab": "OpenAI",
-    "title": "A scorecard for the AI age",
-    "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-    "date": "2026-07-17T10:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-    "tags": [
-      "scorecard",
-      "age",
-      "sarah",
-      "friar"
     ]
   },
   {
@@ -666,13 +723,13 @@
     ]
   },
   {
-    "id": "cbmiyefvx3lxte9ns3bive1jlxjvsnnpwtj4te0znkcxbmleekrqwmrybhdttxmza09jr2zfwvizrm1w",
+    "id": "cbmix0fvx3lxte05vlzybhpszg5bdtnwudm2ehm4ylq5uxrmuudzwlrsdgvru3zxc1huvwdnry02ogvg",
     "lab": "DeepSeek",
     "title": "Integrate with AI Tools",
     "summary": "",
     "date": "2026-07-11T04:40:36.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NS3BiVE1jLXJVSnNPWTJ4TE0zNkcxbmlEekRqWmRYbHdTTXMza09JR2ZFWVIzRm1weEdHcjdDcnlKdXV2aHJCeUs3MWx2bWxXUTBuY2VZVktKU1JXcGdSNA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05VlZybHpsZG5BdTNwUDM2eHM4YlQ5UXRmUUdzWlRSdGVrU3ZXc1huVWdnRy02OGVGS2Z0TFNaeTNfWUJseTlxaTl1TFNCdjNVcFZleUEyYVQxVzFIdk8w?oc=5",
     "tags": [
       "integrate",
       "tools"
@@ -715,32 +772,6 @@
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1scDY0SHZDYi04ZXlHYVZ1NmpBSE9qUFhQdlo1dUtObm9SSXRUaXRUQl91RHFqU19aUUFtNFJVa21UMGVtNnRaSHBEU2NnbkQ0SDdXLUVvU3NoU2hhR0pzSU9nQkctVGl5eTdTM3h5WlhKRWJ2c3BSSw?oc=5",
     "tags": [
       "integrate"
-    ]
-  },
-  {
-    "id": "cbmieefvx3lxte9ydfy5vuvfwwi3b2o5ndjlc2h0zznrm3mwmlbqlxbnnjlfvxpydvjrxzfwowh5yxza",
-    "lab": "DeepSeek",
-    "title": "Integrating nanobot",
-    "summary": "",
-    "date": "2026-07-10T09:28:05.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YdFY5VUVFWWI3b2o5NDJLc2h0ZzNrM3MwMlBqLXBnNjlfVXpydVJRXzFwOWh5YXZaNGVnbGJiWEgyNGgzMDEtNzZDeldvSVBEVTNmN193MXlEdEk3dW4yVjFPbDg2UWVnODdJUzRLSjI0N1Z6SFhIVQ?oc=5",
-    "tags": [
-      "integrating",
-      "nanobot"
-    ]
-  },
-  {
-    "id": "cbmiekfvx3lxte5wuxe2qwq3zwtsedj4dmhuwg9pbf9psmjqt0q2vld6owy2nxvgzetmofzwaezldtfq",
-    "lab": "DeepSeek",
-    "title": "Integrate with OpenClaw",
-    "summary": "",
-    "date": "2026-07-10T07:32:51.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WUXE2QWQ3ZWtseDJ4dmhuWG9pbF9pSmJQT0Q2Vld6OWY2NXVGZEtMOFZwaEZldTFQcW5pUk5wbGVrNHMzY0wzb1hKVWJmWW1XTzl1cXpnY1hKbXR4NkVseU5aSnRtVWZVZVE2S0xyei1udmpUaU10TGJ3?oc=5",
-    "tags": [
-      "integrate",
-      "openclaw"
     ]
   },
   {
@@ -842,35 +873,6 @@
     "tags": [
       "muse",
       "spark"
-    ]
-  },
-  {
-    "id": "cbmivkfvx3lxtfbuoddfofzitfjmb0fynw00tkzedutfyzvxwnv5bwxcy1drc3hnvjdfuvpqnhrnwdbg",
-    "lab": "Mistral",
-    "title": "Introducing Robostral Navigate",
-    "summary": "",
-    "date": "2026-07-08T14:15:10.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuODdfOFZITFJmb0FyNW00TkZEdUtFYzVxWnV5bWxCY1dRc3hnVjdFUVpqNHRnWDBGVUMzYXViZ1ViVEVCR216YzNOZ0lDbXZHMGNnUW93?oc=5",
-    "tags": [
-      "robostral",
-      "navigate"
-    ]
-  },
-  {
-    "id": "https-blog-google-innovation-and-ai-technology-developers-tools-expanding-manage",
-    "lab": "Google DeepMind",
-    "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
-    "summary": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
-    "date": "2026-07-07T08:54:00.000Z",
-    "category": "api",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp",
-    "tags": [
-      "agents",
-      "managed",
-      "gemini",
-      "api"
     ]
   }
 ]
