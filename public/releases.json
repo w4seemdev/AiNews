@@ -1,5 +1,32 @@
 [
   {
+    "id": "cbmiykfvx3lxte1ayzrsexjla3hhaxvxau5omgdvbjzlvnlds2jsnwhzwndocefjtnc1xzlby01iy0na",
+    "lab": "xAI",
+    "title": "Grok in Google Workspace",
+    "summary": "",
+    "date": "2026-07-24T18:08:34.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aYzRseXJla3hHaXVxaU5OMGdVbjZLVnlDS2JSNWhZWndOcEFJTnc1XzlBY01iY0NabldqZHpUQWE0SjZvSFc4WG1oMWhtVjVrT2lLMDRQN0prVk9Rd2ZpZzJB?oc=5",
+    "tags": [
+      "grok",
+      "google",
+      "workspace"
+    ]
+  },
+  {
+    "id": "cbmiv0fvx3lxte9iczrhduzazwkyq2rxakhsm1visf8wclzfx25kdef6wu1utetmqxjhynpiznjruwd2",
+    "lab": "Anthropic",
+    "title": "Introducing Claude Opus 5",
+    "summary": "",
+    "date": "2026-07-24T17:00:57.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5",
+    "tags": [
+      "claude",
+      "opus"
+    ]
+  },
+  {
     "id": "cbmiqefvx3lxte95re9iqtltmvlargtlsw0xqk1gndfvu2l6umdsmxlyskvmn0d0swvlr2fjzdh0ztrh",
     "lab": "xAI",
     "title": "Workflows in Grok Build",
@@ -144,22 +171,6 @@
       "advance",
       "vital",
       "missions"
-    ]
-  },
-  {
-    "id": "https-blog-google-products-and-platforms-platforms-android-galaxy-unpacked-2026",
-    "lab": "Google DeepMind",
-    "title": "3 Google updates from Galaxy Unpacked 2026",
-    "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
-    "date": "2026-07-22T13:00:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp",
-    "tags": [
-      "google",
-      "galaxy",
-      "unpacked",
-      "shared"
     ]
   },
   {
@@ -445,51 +456,6 @@
     ]
   },
   {
-    "id": "cbmiskfvx3lxte9meu56cunqlxncemduwmhfeffvc0rvm2rcbwmxovlvcy13rensrhvtrgziyurfwnvq",
-    "lab": "xAI",
-    "title": "Automations in Grok",
-    "summary": "",
-    "date": "2026-07-16T21:01:54.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9meU56cUNqLXNCemduWmhFeFFVc0RvM2RCbWMxOVlvcy13RENsRHVtRGZiYURFWnVqaC1rVlNJLXZZN3gtbnhneEZ3?oc=5",
-    "tags": [
-      "automations",
-      "grok"
-    ]
-  },
-  {
-    "id": "https-blog-google-products-and-platforms-products-search-connected-apps",
-    "lab": "Google DeepMind",
-    "title": "Connect more of your apps to Search",
-    "summary": "You’ll be able to securely link and interact with your go-to services directly in AI Mode.",
-    "date": "2026-07-16T16:00:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp",
-    "tags": [
-      "connect",
-      "apps",
-      "search",
-      "able"
-    ]
-  },
-  {
-    "id": "https-blog-google-products-and-platforms-products-workspace-gemini-omni-personal",
-    "lab": "Google DeepMind",
-    "title": "Create, edit and star in videos with two Google Vids updates",
-    "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.",
-    "date": "2026-07-16T16:00:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp",
-    "tags": [
-      "google",
-      "vids",
-      "create",
-      "edit"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-dharma-ai-newer-models-same-advantages",
     "lab": "Hugging Face",
     "title": "Newer Models, Same Advantage",
@@ -529,6 +495,19 @@
     "category": "model",
     "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1ocVZvX1U2SU4zazFwWW5SbTZiaEhlX3FVcGh0Y2lSMXRhc1FyYnBpamVEOWtnLWctYlZjUlByOA?oc=5",
     "tags": [
+      "grok"
+    ]
+  },
+  {
+    "id": "cbmiskfvx3lxte9meu56cunqlxncemduwmhfeffvc0rvm2rcbwmxovlvcy13rensrhvtrgziyurfwnvq",
+    "lab": "xAI",
+    "title": "Automations in Grok",
+    "summary": "",
+    "date": "2026-07-16T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9meU56cUNqLXNCemduWmhFeFFVc0RvM2RCbWMxOVlvcy13RENsRHVtRGZiYURFWnVqaC1rVlNJLXZZN3gtbnhneEZ3?oc=5",
+    "tags": [
+      "automations",
       "grok"
     ]
   },
@@ -636,22 +615,6 @@
     ]
   },
   {
-    "id": "https-blog-google-products-and-platforms-products-search-google-images-25th-anni",
-    "lab": "Google DeepMind",
-    "title": "Celebrating 25 years of visual search innovation",
-    "summary": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.",
-    "date": "2026-07-14T16:00:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp",
-    "tags": [
-      "visual",
-      "celebrating",
-      "years",
-      "search"
-    ]
-  },
-  {
     "id": "cbmix0fvx3lxte5qdmfxwuxkdg9wtlnszxe4zvhfwuu0qjmtmmrvenk1ctvcb1b6dmgzmnr3zwjrngcx",
     "lab": "Anthropic",
     "title": "Introducing Claude for Teachers",
@@ -723,13 +686,13 @@
     ]
   },
   {
-    "id": "cbmix0fvx3lxte05vlzybhpszg5bdtnwudm2ehm4ylq5uxrmuudzwlrsdgvru3zxc1huvwdnry02ogvg",
+    "id": "cbmiyefvx3lxte9ns3bive1jlxjvsnnpwtj4te0znkcxbmleekrqwmrybhdttxmza09jr2zfwvizrm1w",
     "lab": "DeepSeek",
     "title": "Integrate with AI Tools",
     "summary": "",
     "date": "2026-07-11T04:40:36.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05VlZybHpsZG5BdTNwUDM2eHM4YlQ5UXRmUUdzWlRSdGVrU3ZXc1huVWdnRy02OGVGS2Z0TFNaeTNfWUJseTlxaTl1TFNCdjNVcFZleUEyYVQxVzFIdk8w?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NS3BiVE1jLXJVSnNPWTJ4TE0zNkcxbmlEekRqWmRYbHdTTXMza09JR2ZFWVIzRm1weEdHcjdDcnlKdXV2aHJCeUs3MWx2bWxXUTBuY2VZVktKU1JXcGdSNA?oc=5",
     "tags": [
       "integrate",
       "tools"
@@ -848,21 +811,6 @@
     ]
   },
   {
-    "id": "cbmivkfvx3lxte5javloytdbu1u4nhcwcm9wamzxoc14alfsvlbnm0pnc1pxanlmvge2elzfbdlmdwy1",
-    "lab": "Anthropic",
-    "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
-    "summary": "",
-    "date": "2026-07-09T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jaVloYTdBU1U4NHcwcm9wamZXOC14alFSVlBNM0pnc1pxanlMVGE2elZfbDlmdWY1cEpJODVTZ19rdDZkS1lSSmt1WmNtODV2Y215ODBB?oc=5",
-    "tags": [
-      "ben",
-      "bernanke",
-      "appointed",
-      "anthropic"
-    ]
-  },
-  {
     "id": "cbmicefvx3lxte9zagzqs2rfv05tshu3dgrurgfxnfd2uznkykjur2tisug4x3rtt0uxv1vltjnvskzw",
     "lab": "Meta",
     "title": "Introducing Muse Spark 1.1",
@@ -873,6 +821,47 @@
     "tags": [
       "muse",
       "spark"
+    ]
+  },
+  {
+    "id": "cbmivkfvx3lxtfbuoddfofzitfjmb0fynw00tkzedutfyzvxwnv5bwxcy1drc3hnvjdfuvpqnhrnwdbg",
+    "lab": "Mistral",
+    "title": "Introducing Robostral Navigate",
+    "summary": "",
+    "date": "2026-07-08T14:15:10.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuODdfOFZITFJmb0FyNW00TkZEdUtFYzVxWnV5bWxCY1dRc3hnVjdFUVpqNHRnWDBGVUMzYXViZ1ViVEVCR216YzNOZ0lDbXZHMGNnUW93?oc=5",
+    "tags": [
+      "robostral",
+      "navigate"
+    ]
+  },
+  {
+    "id": "cbmicefvx3lxtfblov9wdnuwrw1wtvzjvm9uac1xetv6eefvv1hyotrrmvznv2lscwctc2nor3b5zwne",
+    "lab": "Meta",
+    "title": "Introducing Muse Image and Muse Video",
+    "summary": "",
+    "date": "2026-07-07T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLOV9WdnUwRW1WTVZjVm9UaC1xeTV6eEFVV1hYOTRRMVZNV2lScWctc2NOR3B5ZWNEcmNaMmpNSkFTWHkwYlV1V1ZJejYyRFRqUjJmcW45VGItRXJ1bi1EVlc5R1Z3anFRNzBWM1ZzT2w?oc=5",
+    "tags": [
+      "muse",
+      "image",
+      "video"
+    ]
+  },
+  {
+    "id": "cbmitkfvx3lxte1wtnhtqzcyx3uyrmu2u1g5r040yzfhv2hiyks3quvqahleemfpdglutu1pnzixbi1k",
+    "lab": "xAI",
+    "title": "21 New Flagship Grok Voices",
+    "summary": "",
+    "date": "2026-07-06T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wTnhtQzcyX3UyRmU2U1g5R040YzFHV2hIYks3QUVqaHlEemFPdGlUTU1pNzIxbi1kSHI0TFhlTXJ5MVdYbW5MWlhZdWdGZw?oc=5",
+    "tags": [
+      "flagship",
+      "grok",
+      "voices"
     ]
   }
 ]
