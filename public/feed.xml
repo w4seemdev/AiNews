@@ -5,7 +5,7 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jul 2026 08:01:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 08:21:38 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Grok in Google Workspace</title>
@@ -113,6 +113,15 @@
       <pubDate>Wed, 22 Jul 2026 13:00:00 GMT</pubDate>
       <description>News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide. (Source: OpenAI)</description>
       <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>3 Google updates from Galaxy Unpacked 2026</title>
+      <link>https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/</link>
+      <guid isPermaLink="false">https-blog-google-products-and-platforms-platforms-android-galaxy-unpacked-2026</guid>
+      <pubDate>Wed, 22 Jul 2026 13:00:00 GMT</pubDate>
+      <description>We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon. (Source: Google DeepMind)</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
       <category>feature</category>
     </item>
     <item>
@@ -287,6 +296,24 @@
       <category>model</category>
     </item>
     <item>
+      <title>Connect more of your apps to Search</title>
+      <link>https://blog.google/products-and-platforms/products/search/connected-apps/</link>
+      <guid isPermaLink="false">https-blog-google-products-and-platforms-products-search-connected-apps</guid>
+      <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
+      <description>You’ll be able to securely link and interact with your go-to services directly in AI Mode. (Source: Google DeepMind)</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Create, edit and star in videos with two Google Vids updates</title>
+      <link>https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/</link>
+      <guid isPermaLink="false">https-blog-google-products-and-platforms-products-workspace-gemini-omni-personal</guid>
+      <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
+      <description>Gemini Omni and personal avatars in Google Vids make video creation easier than ever. (Source: Google DeepMind)</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
+      <category>feature</category>
+    </item>
+    <item>
       <title>Newer Models, Same Advantage</title>
       <link>https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages</link>
       <guid isPermaLink="false">https-huggingface-co-blog-dharma-ai-newer-models-same-advantages</guid>
@@ -341,15 +368,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Grok Build is Now Open Source</title>
-      <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xN1VYOWdWeGI1dmNhRDJTc1prdXZkTkpxY1JlUWhUTWtXODdPaVVJR0tFWm4ydWJFaXRVNHo1dVpua3BBNUtERlc2UzBtNEFIU3c?oc=5</link>
-      <guid isPermaLink="false">cbmiukfvx3lxte9xn1vyowdwegi1dmnhrdjtc1prdxzktkpxy1jluwhutwtxoddpavvjr0tfwm4ydwjf</guid>
-      <pubDate>Wed, 15 Jul 2026 20:31:27 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>What building Shippy taught us about building agents</title>
       <link>https://huggingface.co/blog/allenai/shippy-tech-blog</link>
       <guid isPermaLink="false">https-huggingface-co-blog-allenai-shippy-tech-blog</guid>
@@ -368,6 +386,15 @@
       <category>feature</category>
     </item>
     <item>
+      <title>Grok Build is Now Open Source</title>
+      <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xN1VYOWdWeGI1dmNhRDJTc1prdXZkTkpxY1JlUWhUTWtXODdPaVVJR0tFWm4ydWJFaXRVNHo1dVpua3BBNUtERlc2UzBtNEFIU3c?oc=5</link>
+      <guid isPermaLink="false">cbmiukfvx3lxte9xn1vyowdwegi1dmnhrdjtc1prdxzktkpxy1jluwhutwtxoddpavvjr0tfwm4ydwjf</guid>
+      <pubDate>Wed, 15 Jul 2026 07:00:00 GMT</pubDate>
+      <description>Source: xAI</description>
+      <source url="https://ai-pulse.vercel.app">xAI</source>
+      <category>feature</category>
+    </item>
+    <item>
       <title>Welcome Inkling by Thinking Machines</title>
       <link>https://huggingface.co/blog/thinkingmachines-inkling</link>
       <guid isPermaLink="false">https-huggingface-co-blog-thinkingmachines-inkling</guid>
@@ -383,6 +410,15 @@
       <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
       <description>Source: Hugging Face</description>
       <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Celebrating 25 years of visual search innovation</title>
+      <link>https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/</link>
+      <guid isPermaLink="false">https-blog-google-products-and-platforms-products-search-google-images-25th-anni</guid>
+      <pubDate>Tue, 14 Jul 2026 16:00:00 GMT</pubDate>
+      <description>Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content. (Source: Google DeepMind)</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
       <category>feature</category>
     </item>
     <item>
@@ -503,48 +539,12 @@
       <category>feature</category>
     </item>
     <item>
-      <title>UST is bringing Claude to physical AI</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PWmhDajNFV09GX2ZrcFpRTHJUcFdwcFZDRDFvMlQ5MGhpclVkR1dYSFI4MllXTWRkaTR5cEhQN0RvcmFRVTVicXpxbUZkc2lDUTZj?oc=5</link>
-      <guid isPermaLink="false">cbmiu0fvx3lxte9pwmhdajnfv09gx2zrcfprthjucfdwcfzdrdfvmlq5mghpclvkr1dysfi4mllxtwrk</guid>
+      <title>Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust</title>
+      <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jaVloYTdBU1U4NHcwcm9wamZXOC14alFSVlBNM0pnc1pxanlMVGE2elZfbDlmdWY1cEpJODVTZ19rdDZkS1lSSmt1WmNtODV2Y215ODBB?oc=5</link>
+      <guid isPermaLink="false">cbmivkfvx3lxte5javloytdbu1u4nhcwcm9wamzxoc14alfsvlbnm0pnc1pxanlmvge2elzfbdlmdwy1</guid>
       <pubDate>Thu, 09 Jul 2026 07:00:00 GMT</pubDate>
       <description>Source: Anthropic</description>
       <source url="https://ai-pulse.vercel.app">Anthropic</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Introducing Muse Spark 1.1</title>
-      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGZQS2RfV05tSHU3dGRuRGFXNFd2UzNkYkJuR2tiSUg4X3RtT0UxV1VlTjNvSkZWcVUtU0NNUDJPVUo5WW5RMFR6Z055Y0dhZ1EyaG1SeGIxZlMtWFFmZTMyc2paYmxFLXE1TlBlaEg?oc=5</link>
-      <guid isPermaLink="false">cbmicefvx3lxte9zagzqs2rfv05tshu3dgrurgfxnfd2uznkykjur2tisug4x3rtt0uxv1vltjnvskzw</guid>
-      <pubDate>Thu, 09 Jul 2026 07:00:00 GMT</pubDate>
-      <description>Source: Meta</description>
-      <source url="https://ai-pulse.vercel.app">Meta</source>
-      <category>model</category>
-    </item>
-    <item>
-      <title>Introducing Robostral Navigate</title>
-      <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuODdfOFZITFJmb0FyNW00TkZEdUtFYzVxWnV5bWxCY1dRc3hnVjdFUVpqNHRnWDBGVUMzYXViZ1ViVEVCR216YzNOZ0lDbXZHMGNnUW93?oc=5</link>
-      <guid isPermaLink="false">cbmivkfvx3lxtfbuoddfofzitfjmb0fynw00tkzedutfyzvxwnv5bwxcy1drc3hnvjdfuvpqnhrnwdbg</guid>
-      <pubDate>Wed, 08 Jul 2026 14:15:10 GMT</pubDate>
-      <description>Source: Mistral</description>
-      <source url="https://ai-pulse.vercel.app">Mistral</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Introducing Muse Image and Muse Video</title>
-      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTFBLOV9WdnUwRW1WTVZjVm9UaC1xeTV6eEFVV1hYOTRRMVZNV2lScWctc2NOR3B5ZWNEcmNaMmpNSkFTWHkwYlV1V1ZJejYyRFRqUjJmcW45VGItRXJ1bi1EVlc5R1Z3anFRNzBWM1ZzT2w?oc=5</link>
-      <guid isPermaLink="false">cbmicefvx3lxtfblov9wdnuwrw1wtvzjvm9uac1xetv6eefvv1hyotrrmvznv2lscwctc2nor3b5zwne</guid>
-      <pubDate>Tue, 07 Jul 2026 07:00:00 GMT</pubDate>
-      <description>Source: Meta</description>
-      <source url="https://ai-pulse.vercel.app">Meta</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>21 New Flagship Grok Voices</title>
-      <link>https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wTnhtQzcyX3UyRmU2U1g5R040YzFHV2hIYks3QUVqaHlEemFPdGlUTU1pNzIxbi1kSHI0TFhlTXJ5MVdYbW5MWlhZdWdGZw?oc=5</link>
-      <guid isPermaLink="false">cbmitkfvx3lxte1wtnhtqzcyx3uyrmu2u1g5r040yzfhv2hiyks3quvqahleemfpdglutu1pnzixbi1k</guid>
-      <pubDate>Mon, 06 Jul 2026 07:00:00 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
       <category>feature</category>
     </item>
   </channel>
