@@ -5,8 +5,17 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jul 2026 08:21:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 09:43:22 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics</title>
+      <link>https://huggingface.co/blog/nvidia/cosmos-h-dreams</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-nvidia-cosmos-h-dreams</guid>
+      <pubDate>Mon, 27 Jul 2026 09:32:20 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
     <item>
       <title>Grok in Google Workspace</title>
       <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aYzRseXJla3hHaXVxaU5OMGdVbjZLVnlDS2JSNWhZWndOcEFJTnc1XzlBY01iY0NabldqZHpUQWE0SjZvSFc4WG1oMWhtVjVrT2lLMDRQN0prVk9Rd2ZpZzJB?oc=5</link>
@@ -170,15 +179,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>The State of Simulation for Physical AI: An Overview</title>
-      <link>https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-nvidia-state-of-simulation-for-physical-ai</guid>
-      <pubDate>Tue, 21 Jul 2026 20:00:27 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>thinking_mode_api_example_streaming</title>
       <link>https://news.google.com/rss/articles/CBMifkFVX3lxTFBMUS1uMktoamVCZHlTcEd2Z1Foanc1bTg3UkZGZ3dFY0pUSlVWN3JDSUtjSEhCWXFRR0hzdjNZanVFMzBhajRXdFhPX0NDamdJUnRpNDA0bV9nQW9ISUJpbjlyUWVUVVRUeTRKZ2JNVFB0ZmJUNlZhQXpGZVJsUQ?oc=5</link>
       <guid isPermaLink="false">cbmifkfvx3lxtfbmus1umktoamvczhltced2z1foanc1btg3ukzgz3dfy0puslvwn3jdsutjsehcwxfr</guid>
@@ -275,15 +275,6 @@
       <pubDate>Mon, 20 Jul 2026 10:00:00 GMT</pubDate>
       <description>OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment. (Source: OpenAI)</description>
       <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>thinking_mode_api_example_tool_call</title>
-      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxOTnc2eHl3TW9vakRHM2JYSmVNN0xTd2ktZVYtczdRZjdXZUFPRTJaOEFNSGdHLUNxTVlSX2JOWjROWmU4RTFNVWtqTHRJMTA4MnZxM28zSEJLQzBTbFdmQ2Z6eF9oQlZIcFpJV1RFV2FYdlNqcGF6cTNrZWs5OTFZWmFVZ1M?oc=5</link>
-      <guid isPermaLink="false">cbmihafbvv95cuxotnc2ehl3tw9vakrhm2jysmvnn0xtd2ktzvytczdrzjdxzufprtjaoefnsgdhlunx</guid>
-      <pubDate>Sun, 19 Jul 2026 12:06:11 GMT</pubDate>
-      <description>Source: DeepSeek</description>
-      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>feature</category>
     </item>
     <item>
@@ -498,6 +489,15 @@
       <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE1scDY0SHZDYi04ZXlHYVZ1NmpBSE9qUFhQdlo1dUtObm9SSXRUaXRUQl91RHFqU19aUUFtNFJVa21UMGVtNnRaSHBEU2NnbkQ0SDdXLUVvU3NoU2hhR0pzSU9nQkctVGl5eTdTM3h5WlhKRWJ2c3BSSw?oc=5</link>
       <guid isPermaLink="false">cbmieefvx3lxte1scdy0shzdyi04zxlhyvz1nmpbse9qufhqdlo1dutobm9ssxruaxruql91rhfqu19a</guid>
       <pubDate>Fri, 10 Jul 2026 09:56:00 GMT</pubDate>
+      <description>Source: DeepSeek</description>
+      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Integrating nanobot</title>
+      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE9YdFY5VUVFWWI3b2o5NDJLc2h0ZzNrM3MwMlBqLXBnNjlfVXpydVJRXzFwOWh5YXZaNGVnbGJiWEgyNGgzMDEtNzZDeldvSVBEVTNmN193MXlEdEk3dW4yVjFPbDg2UWVnODdJUzRLSjI0N1Z6SFhIVQ?oc=5</link>
+      <guid isPermaLink="false">cbmieefvx3lxte9ydfy5vuvfwwi3b2o5ndjlc2h0zznrm3mwmlbqlxbnnjlfvxpydvjrxzfwowh5yxza</guid>
+      <pubDate>Fri, 10 Jul 2026 09:28:05 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>feature</category>

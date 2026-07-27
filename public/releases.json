@@ -1,5 +1,20 @@
 [
   {
+    "id": "https-huggingface-co-blog-nvidia-cosmos-h-dreams",
+    "lab": "Hugging Face",
+    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "summary": "",
+    "date": "2026-07-27T09:32:20.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "tags": [
+      "nvidia",
+      "cosmos",
+      "dreams",
+      "bringing"
+    ]
+  },
+  {
     "id": "cbmiykfvx3lxte1ayzrsexjla3hhaxvxau5omgdvbjzlvnlds2jsnwhzwndocefjtnc1xzlby01iy0na",
     "lab": "xAI",
     "title": "Grok in Google Workspace",
@@ -265,21 +280,6 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-nvidia-state-of-simulation-for-physical-ai",
-    "lab": "Hugging Face",
-    "title": "The State of Simulation for Physical AI: An Overview",
-    "summary": "",
-    "date": "2026-07-21T20:00:27.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-    "tags": [
-      "state",
-      "simulation",
-      "physical",
-      "overview"
-    ]
-  },
-  {
     "id": "cbmifkfvx3lxtfbmus1umktoamvczhltced2z1foanc1btg3ukzgz3dfy0puslvwn3jdsutjsehcwxfr",
     "lab": "DeepSeek",
     "title": "thinking_mode_api_example_streaming",
@@ -438,21 +438,6 @@
       "long",
       "models",
       "alignment"
-    ]
-  },
-  {
-    "id": "cbmihafbvv95cuxotnc2ehl3tw9vakrhm2jysmvnn0xtd2ktzvytczdrzjdxzufprtjaoefnsgdhlunx",
-    "lab": "DeepSeek",
-    "title": "thinking_mode_api_example_tool_call",
-    "summary": "",
-    "date": "2026-07-19T12:06:11.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTnc2eHl3TW9vakRHM2JYSmVNN0xTd2ktZVYtczdRZjdXZUFPRTJaOEFNSGdHLUNxTVlSX2JOWjROWmU4RTFNVWtqTHRJMTA4MnZxM28zSEJLQzBTbFdmQ2Z6eF9oQlZIcFpJV1RFV2FYdlNqcGF6cTNrZWs5OTFZWmFVZ1M?oc=5",
-    "tags": [
-      "thinking",
-      "mode",
-      "api",
-      "example"
     ]
   },
   {
@@ -799,6 +784,19 @@
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1scDY0SHZDYi04ZXlHYVZ1NmpBSE9qUFhQdlo1dUtObm9SSXRUaXRUQl91RHFqU19aUUFtNFJVa21UMGVtNnRaSHBEU2NnbkQ0SDdXLUVvU3NoU2hhR0pzSU9nQkctVGl5eTdTM3h5WlhKRWJ2c3BSSw?oc=5",
     "tags": [
       "integrate"
+    ]
+  },
+  {
+    "id": "cbmieefvx3lxte9ydfy5vuvfwwi3b2o5ndjlc2h0zznrm3mwmlbqlxbnnjlfvxpydvjrxzfwowh5yxza",
+    "lab": "DeepSeek",
+    "title": "Integrating nanobot",
+    "summary": "",
+    "date": "2026-07-10T09:28:05.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YdFY5VUVFWWI3b2o5NDJLc2h0ZzNrM3MwMlBqLXBnNjlfVXpydVJRXzFwOWh5YXZaNGVnbGJiWEgyNGgzMDEtNzZDeldvSVBEVTNmN193MXlEdEk3dW4yVjFPbDg2UWVnODdJUzRLSjI0N1Z6SFhIVQ?oc=5",
+    "tags": [
+      "integrating",
+      "nanobot"
     ]
   },
   {
