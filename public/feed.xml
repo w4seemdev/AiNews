@@ -5,8 +5,80 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 08:28:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 08:34:32 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Grok 4.5 in GitHub Copilot</title>
+      <link>https://news.google.com/rss/articles/CBMiTkFVX3lxTE00V2FLMy01UGxfaTZXX1BFazFhWUwxVUQwd3NIcjBLblFZblpEYXdXT0tHSXZUVENDQUxOakZCamhBSGVOeURjMTN5aXcxdw?oc=5</link>
+      <guid isPermaLink="false">cbmitkfvx3lxte00v2flmy01ugxfatzxx1bfazfhwuwxvuqwd3nicjblblfzblpeyxdxt0thsxzuvend</guid>
+      <pubDate>Tue, 28 Jul 2026 21:02:32 GMT</pubDate>
+      <description>Source: xAI</description>
+      <source url="https://ai-pulse.vercel.app">xAI</source>
+      <category>model</category>
+    </item>
+    <item>
+      <title>Scientific computing in the age of agentic AI</title>
+      <link>https://openai.com/index/scientific-computing-agentic-ai</link>
+      <guid isPermaLink="false">https-openai-com-index-scientific-computing-agentic-ai</guid>
+      <pubDate>Tue, 28 Jul 2026 17:00:00 GMT</pubDate>
+      <description>A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>The OlmoEarth Platform: Geospatial inference at planetary scale</title>
+      <link>https://huggingface.co/blog/allenai/olmoearth-infrastructure</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-allenai-olmoearth-infrastructure</guid>
+      <pubDate>Tue, 28 Jul 2026 16:27:42 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Gemini API Managed Agents: 3.6 Flash, hooks, and more</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/</link>
+      <guid isPermaLink="false">https-blog-google-innovation-and-ai-technology-developers-tools-expanding-manage</guid>
+      <pubDate>Tue, 28 Jul 2026 16:00:00 GMT</pubDate>
+      <description>We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents. (Source: Google DeepMind)</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
+      <category>api</category>
+    </item>
+    <item>
+      <title>Introducing Build Mode</title>
+      <link>https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaQkI4OHFyOHFoa3BieDhfdE1PYTBzcFhYYjZVenoxblJ3MHFKb3J6RnU2cUE5TFEzZHgtSV9LUnFZYzZSYWhQRQ?oc=5</link>
+      <guid isPermaLink="false">cbmisefvx3lxtfbaqki4ohfyohfoa3biedhfde1pytbzcfhyyjzvenoxblj3mhfkb3j6rnu2cue5tfez</guid>
+      <pubDate>Tue, 28 Jul 2026 15:53:02 GMT</pubDate>
+      <description>Source: xAI</description>
+      <source url="https://ai-pulse.vercel.app">xAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>LFM2.5-Encoders for Fast Long-Context Inference on CPU</title>
+      <link>https://huggingface.co/blog/LiquidAI/lfm2-5-encoders</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-liquidai-lfm2-5-encoders</guid>
+      <pubDate>Tue, 28 Jul 2026 15:01:45 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>5 ways AI Mode in Search helps you enjoy the real world</title>
+      <link>https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/</link>
+      <guid isPermaLink="false">https-blog-google-products-and-platforms-products-search-ai-mode-real-world-tips</guid>
+      <pubDate>Tue, 28 Jul 2026 13:00:00 GMT</pubDate>
+      <description>It might sound counterintuitive, but Search&apos;s AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf… (Source: Google DeepMind)</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>5 ways to host the ultimate dinner party with Google Search</title>
+      <link>https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/</link>
+      <guid isPermaLink="false">https-blog-google-products-and-platforms-products-search-dinner-party-hosting-ti</guid>
+      <pubDate>Tue, 28 Jul 2026 13:00:00 GMT</pubDate>
+      <description>These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks. (Source: Google DeepMind)</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
+      <category>feature</category>
+    </item>
     <item>
       <title>Our position on open-weights models</title>
       <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE1vVU84Xy1NRFVUV1l6QjNvVTl0QncwbVM0bnRpbmNvUFBNSHNaR3lmTlk0cWRHQ3hKVEZkNGNOVVNaMWFfXzVqTVgxeENSdGV0THY2SUF5VjdPS0h5SUZmTzhfdUgyOExsOG5V?oc=5</link>
@@ -51,6 +123,15 @@
       <description>New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries. (Source: OpenAI)</description>
       <source url="https://ai-pulse.vercel.app">OpenAI</source>
       <category>research</category>
+    </item>
+    <item>
+      <title>Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident</title>
+      <link>https://huggingface.co/blog/agent-intrusion-technical-timeline</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-agent-intrusion-technical-timeline</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
     </item>
     <item>
       <title>Grok in Google Workspace</title>
@@ -278,19 +359,10 @@
       <category>feature</category>
     </item>
     <item>
-      <title>David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC</title>
-      <link>https://openai.com/index/david-velez-robin-vince-join-openai-boards</link>
-      <guid isPermaLink="false">https-openai-com-index-david-velez-robin-vince-join-openai-boards</guid>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
-      <description>David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Apply for Anthropic’s AI for Science rare disease research grants</title>
       <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE1STEpkV0VLajlBMFFERkROS2RUVTBjUXJseDctQWhpdFZ2dXRyd0paRTRneTRKMU5XdzBaSjVZeUpiOGQxM3liVzVDNGNUT1NRc1ViMjJqX3ZWYTJBejNPUUZNZXhZa0dkaGk0?oc=5</link>
       <guid isPermaLink="false">cbmia0fvx3lxte1stepkv0vlajlbmfferkros2ruvtbjuxjsedctqwhpdfz2dxryd0partrnetrkmu5x</guid>
-      <pubDate>Mon, 20 Jul 2026 17:11:25 GMT</pubDate>
+      <pubDate>Mon, 20 Jul 2026 07:00:00 GMT</pubDate>
       <description>Source: Anthropic</description>
       <source url="https://ai-pulse.vercel.app">Anthropic</source>
       <category>research</category>
@@ -299,7 +371,7 @@
       <title>Grok for Excel</title>
       <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9URGpsYzdWU0prUUw3MllsVWY1aUZrQVJDQ1owMlZxYjAtRkYybVN5Wm9wbHJtZ2lHX3NXM3lyX1RhUXBvVWl1QUt6SE42SzVYYWdR?oc=5</link>
       <guid isPermaLink="false">cbmiu0fvx3lxte9urgpsyzdwu0pruuw3mllsvwy1auzrqvjdq1owmlzxyjatrkyybvn5wm9wbhjtz2lh</guid>
-      <pubDate>Mon, 20 Jul 2026 15:50:00 GMT</pubDate>
+      <pubDate>Mon, 20 Jul 2026 07:00:00 GMT</pubDate>
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
       <category>feature</category>
@@ -350,15 +422,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Automations in Grok</title>
-      <link>https://news.google.com/rss/articles/CBMiSkFVX3lxTE9meU56cUNqLXNCemduWmhFeFFVc0RvM2RCbWMxOVlvcy13RENsRHVtRGZiYURFWnVqaC1rVlNJLXZZN3gtbnhneEZ3?oc=5</link>
-      <guid isPermaLink="false">cbmiskfvx3lxte9meu56cunqlxncemduwmhfeffvc0rvm2rcbwmxovlvcy13rensrhvtrgziyurfwnvq</guid>
-      <pubDate>Thu, 16 Jul 2026 07:00:00 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Introducing Grok 4.5</title>
       <link>https://news.google.com/rss/articles/CBMiP0FVX3lxTE1ocVZvX1U2SU4zazFwWW5SbTZiaEhlX3FVcGh0Y2lSMXRhc1FyYnBpamVEOWtnLWctYlZjUlByOA?oc=5</link>
       <guid isPermaLink="false">cbmip0fvx3lxte1ocvzvx1u2su4zazfwww5sbtziaehlx3fvcgh0y2lsmxrhc1fyynbpamveowtnlwct</guid>
@@ -366,6 +429,15 @@
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
       <category>model</category>
+    </item>
+    <item>
+      <title>Automations in Grok</title>
+      <link>https://news.google.com/rss/articles/CBMiSkFVX3lxTE9meU56cUNqLXNCemduWmhFeFFVc0RvM2RCbWMxOVlvcy13RENsRHVtRGZiYURFWnVqaC1rVlNJLXZZN3gtbnhneEZ3?oc=5</link>
+      <guid isPermaLink="false">cbmiskfvx3lxte9meu56cunqlxncemduwmhfeffvc0rvm2rcbwmxovlvcy13rensrhvtrgziyurfwnvq</guid>
+      <pubDate>Thu, 16 Jul 2026 07:00:00 GMT</pubDate>
+      <description>Source: xAI</description>
+      <source url="https://ai-pulse.vercel.app">xAI</source>
+      <category>feature</category>
     </item>
     <item>
       <title>Creators of Grok, the AI Chatbot</title>
@@ -386,15 +458,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>What building Shippy taught us about building agents</title>
-      <link>https://huggingface.co/blog/allenai/shippy-tech-blog</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-allenai-shippy-tech-blog</guid>
-      <pubDate>Wed, 15 Jul 2026 17:29:41 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Model Routing Is Simple. Until It Isn’t.</title>
       <link>https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt</link>
       <guid isPermaLink="false">https-huggingface-co-blog-ibm-research-model-routing-is-simple-until-it-isnt</guid>
@@ -404,39 +467,12 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Grok Build is Now Open Source</title>
-      <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xN1VYOWdWeGI1dmNhRDJTc1prdXZkTkpxY1JlUWhUTWtXODdPaVVJR0tFWm4ydWJFaXRVNHo1dVpua3BBNUtERlc2UzBtNEFIU3c?oc=5</link>
-      <guid isPermaLink="false">cbmiukfvx3lxte9xn1vyowdwegi1dmnhrdjtc1prdxzktkpxy1jluwhutwtxoddpavvjr0tfwm4ydwjf</guid>
-      <pubDate>Wed, 15 Jul 2026 07:00:00 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Welcome Inkling by Thinking Machines</title>
       <link>https://huggingface.co/blog/thinkingmachines-inkling</link>
       <guid isPermaLink="false">https-huggingface-co-blog-thinkingmachines-inkling</guid>
       <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
       <description>Source: Hugging Face</description>
       <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Introducing Real World VoiceEQ: Measuring the human quality of voice AI</title>
-      <link>https://huggingface.co/blog/real-world-voiceeq</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-real-world-voiceeq</guid>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Celebrating 25 years of visual search innovation</title>
-      <link>https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/</link>
-      <guid isPermaLink="false">https-blog-google-products-and-platforms-products-search-google-images-25th-anni</guid>
-      <pubDate>Tue, 14 Jul 2026 16:00:00 GMT</pubDate>
-      <description>Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content. (Source: Google DeepMind)</description>
-      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
       <category>feature</category>
     </item>
     <item>
@@ -465,15 +501,6 @@
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>model</category>
-    </item>
-    <item>
-      <title>Empowering India’s next generation of innovators with ATL Saathi</title>
-      <link>https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/</link>
-      <guid isPermaLink="false">https-deepmind-google-blog-empowering-indias-next-generation-of-innovators-with-</guid>
-      <pubDate>Mon, 13 Jul 2026 12:37:28 GMT</pubDate>
-      <description>Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs. (Source: Google DeepMind)</description>
-      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
-      <category>feature</category>
     </item>
     <item>
       <title>chat_python</title>
@@ -518,33 +545,6 @@
       <pubDate>Fri, 10 Jul 2026 09:56:00 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Integrating nanobot</title>
-      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE9YdFY5VUVFWWI3b2o5NDJLc2h0ZzNrM3MwMlBqLXBnNjlfVXpydVJRXzFwOWh5YXZaNGVnbGJiWEgyNGgzMDEtNzZDeldvSVBEVTNmN193MXlEdEk3dW4yVjFPbDg2UWVnODdJUzRLSjI0N1Z6SFhIVQ?oc=5</link>
-      <guid isPermaLink="false">cbmieefvx3lxte9ydfy5vuvfwwi3b2o5ndjlc2h0zznrm3mwmlbqlxbnnjlfvxpydvjrxzfwowh5yxza</guid>
-      <pubDate>Fri, 10 Jul 2026 09:28:05 GMT</pubDate>
-      <description>Source: DeepSeek</description>
-      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Profiling in PyTorch (Part 3): Attention is all you profile</title>
-      <link>https://huggingface.co/blog/torch-attention-profile</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-torch-attention-profile</guid>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Version control for prompts &amp; skills in Studio</title>
-      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE13a2xUeFVrYmVrLVRra2U5UURmSUpzUmM4YmMwc3FLUFFNOVZpZTM3YlZDb2dQS2c4cGNfd2pyc1pMaTJCMHg2ZHlLakwxdlpxT2hobTJ3RGZPTnBnWE1LaktCSTVxZlNfNEQwcw?oc=5</link>
-      <guid isPermaLink="false">cbmibefvx3lxte13a2xuefvrymvrlvrra2u5uurmsupzumm4ymmwc3fluffnovzpztm3ylzdb2dqs2c4</guid>
-      <pubDate>Thu, 09 Jul 2026 14:01:05 GMT</pubDate>
-      <description>Source: Mistral</description>
-      <source url="https://ai-pulse.vercel.app">Mistral</source>
       <category>feature</category>
     </item>
   </channel>

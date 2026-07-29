@@ -1,5 +1,125 @@
 [
   {
+    "id": "cbmitkfvx3lxte00v2flmy01ugxfatzxx1bfazfhwuwxvuqwd3nicjblblfzblpeyxdxt0thsxzuvend",
+    "lab": "xAI",
+    "title": "Grok 4.5 in GitHub Copilot",
+    "summary": "",
+    "date": "2026-07-28T21:02:32.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00V2FLMy01UGxfaTZXX1BFazFhWUwxVUQwd3NIcjBLblFZblpEYXdXT0tHSXZUVENDQUxOakZCamhBSGVOeURjMTN5aXcxdw?oc=5",
+    "tags": [
+      "grok",
+      "github",
+      "copilot"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-scientific-computing-agentic-ai",
+    "lab": "OpenAI",
+    "title": "Scientific computing in the age of agentic AI",
+    "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+    "date": "2026-07-28T17:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/scientific-computing-agentic-ai",
+    "tags": [
+      "scientific",
+      "computing",
+      "age",
+      "agentic"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-allenai-olmoearth-infrastructure",
+    "lab": "Hugging Face",
+    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "summary": "",
+    "date": "2026-07-28T16:27:42.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "tags": [
+      "olmoearth",
+      "platform",
+      "geospatial",
+      "inference"
+    ]
+  },
+  {
+    "id": "https-blog-google-innovation-and-ai-technology-developers-tools-expanding-manage",
+    "lab": "Google DeepMind",
+    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+    "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+    "date": "2026-07-28T16:00:00.000Z",
+    "category": "api",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp",
+    "tags": [
+      "agents",
+      "gemini",
+      "api",
+      "managed"
+    ]
+  },
+  {
+    "id": "cbmisefvx3lxtfbaqki4ohfyohfoa3biedhfde1pytbzcfhyyjzvenoxblj3mhfkb3j6rnu2cue5tfez",
+    "lab": "xAI",
+    "title": "Introducing Build Mode",
+    "summary": "",
+    "date": "2026-07-28T15:53:02.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaQkI4OHFyOHFoa3BieDhfdE1PYTBzcFhYYjZVenoxblJ3MHFKb3J6RnU2cUE5TFEzZHgtSV9LUnFZYzZSYWhQRQ?oc=5",
+    "tags": [
+      "build",
+      "mode"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-liquidai-lfm2-5-encoders",
+    "lab": "Hugging Face",
+    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+    "summary": "",
+    "date": "2026-07-28T15:01:45.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+    "tags": [
+      "lfm2",
+      "encoders",
+      "fast",
+      "long"
+    ]
+  },
+  {
+    "id": "https-blog-google-products-and-platforms-products-search-ai-mode-real-world-tips",
+    "lab": "Google DeepMind",
+    "title": "5 ways AI Mode in Search helps you enjoy the real world",
+    "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
+    "date": "2026-07-28T13:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp",
+    "tags": [
+      "search",
+      "ways",
+      "mode",
+      "helps"
+    ]
+  },
+  {
+    "id": "https-blog-google-products-and-platforms-products-search-dinner-party-hosting-ti",
+    "lab": "Google DeepMind",
+    "title": "5 ways to host the ultimate dinner party with Google Search",
+    "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
+    "date": "2026-07-28T13:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp",
+    "tags": [
+      "party",
+      "ways",
+      "host",
+      "ultimate"
+    ]
+  },
+  {
     "id": "cbmia0fvx3lxte1vvu84xy1nrfvuv1l6qjnvvtl0qncwbvm0bnrpbmnvufbnshnar3lmtlk0cwrhq3hk",
     "lab": "Anthropic",
     "title": "Our position on open-weights models",
@@ -71,6 +191,21 @@
       "people",
       "work",
       "openai"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-agent-intrusion-technical-timeline",
+    "lab": "Hugging Face",
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+    "summary": "",
+    "date": "2026-07-27T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "tags": [
+      "anatomy",
+      "frontier",
+      "lab",
+      "agent"
     ]
   },
   {
@@ -442,26 +577,11 @@
     ]
   },
   {
-    "id": "https-openai-com-index-david-velez-robin-vince-join-openai-boards",
-    "lab": "OpenAI",
-    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-    "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
-    "date": "2026-07-21T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-    "tags": [
-      "openai",
-      "david",
-      "lez",
-      "robin"
-    ]
-  },
-  {
     "id": "cbmia0fvx3lxte1stepkv0vlajlbmfferkros2ruvtbjuxjsedctqwhpdfz2dxryd0partrnetrkmu5x",
     "lab": "Anthropic",
     "title": "Apply for Anthropic’s AI for Science rare disease research grants",
     "summary": "",
-    "date": "2026-07-20T17:11:25.000Z",
+    "date": "2026-07-20T07:00:00.000Z",
     "category": "research",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1STEpkV0VLajlBMFFERkROS2RUVTBjUXJseDctQWhpdFZ2dXRyd0paRTRneTRKMU5XdzBaSjVZeUpiOGQxM3liVzVDNGNUT1NRc1ViMjJqX3ZWYTJBejNPUUZNZXhZa0dkaGk0?oc=5",
     "tags": [
@@ -476,7 +596,7 @@
     "lab": "xAI",
     "title": "Grok for Excel",
     "summary": "",
-    "date": "2026-07-20T15:50:00.000Z",
+    "date": "2026-07-20T07:00:00.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9URGpsYzdWU0prUUw3MllsVWY1aUZrQVJDQ1owMlZxYjAtRkYybVN5Wm9wbHJtZ2lHX3NXM3lyX1RhUXBvVWl1QUt6SE42SzVYYWdR?oc=5",
     "tags": [
@@ -564,6 +684,18 @@
     ]
   },
   {
+    "id": "cbmip0fvx3lxte1ocvzvx1u2su4zazfwww5sbtziaehlx3fvcgh0y2lsmxrhc1fyynbpamveowtnlwct",
+    "lab": "xAI",
+    "title": "Introducing Grok 4.5",
+    "summary": "",
+    "date": "2026-07-16T07:00:00.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1ocVZvX1U2SU4zazFwWW5SbTZiaEhlX3FVcGh0Y2lSMXRhc1FyYnBpamVEOWtnLWctYlZjUlByOA?oc=5",
+    "tags": [
+      "grok"
+    ]
+  },
+  {
     "id": "cbmiskfvx3lxte9meu56cunqlxncemduwmhfeffvc0rvm2rcbwmxovlvcy13rensrhvtrgziyurfwnvq",
     "lab": "xAI",
     "title": "Automations in Grok",
@@ -573,18 +705,6 @@
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9meU56cUNqLXNCemduWmhFeFFVc0RvM2RCbWMxOVlvcy13RENsRHVtRGZiYURFWnVqaC1rVlNJLXZZN3gtbnhneEZ3?oc=5",
     "tags": [
       "automations",
-      "grok"
-    ]
-  },
-  {
-    "id": "cbmip0fvx3lxte1ocvzvx1u2su4zazfwww5sbtziaehlx3fvcgh0y2lsmxrhc1fyynbpamveowtnlwct",
-    "lab": "xAI",
-    "title": "Introducing Grok 4.5",
-    "summary": "",
-    "date": "2026-07-16T07:00:00.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1ocVZvX1U2SU4zazFwWW5SbTZiaEhlX3FVcGh0Y2lSMXRhc1FyYnBpamVEOWtnLWctYlZjUlByOA?oc=5",
-    "tags": [
       "grok"
     ]
   },
@@ -617,21 +737,6 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-allenai-shippy-tech-blog",
-    "lab": "Hugging Face",
-    "title": "What building Shippy taught us about building agents",
-    "summary": "",
-    "date": "2026-07-15T17:29:41.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-    "tags": [
-      "building",
-      "shippy",
-      "taught",
-      "agents"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-ibm-research-model-routing-is-simple-until-it-isnt",
     "lab": "Hugging Face",
     "title": "Model Routing Is Simple. Until It Isn’t.",
@@ -647,21 +752,6 @@
     ]
   },
   {
-    "id": "cbmiukfvx3lxte9xn1vyowdwegi1dmnhrdjtc1prdxzktkpxy1jluwhutwtxoddpavvjr0tfwm4ydwjf",
-    "lab": "xAI",
-    "title": "Grok Build is Now Open Source",
-    "summary": "",
-    "date": "2026-07-15T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xN1VYOWdWeGI1dmNhRDJTc1prdXZkTkpxY1JlUWhUTWtXODdPaVVJR0tFWm4ydWJFaXRVNHo1dVpua3BBNUtERlc2UzBtNEFIU3c?oc=5",
-    "tags": [
-      "grok",
-      "build",
-      "open",
-      "source"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-thinkingmachines-inkling",
     "lab": "Hugging Face",
     "title": "Welcome Inkling by Thinking Machines",
@@ -674,37 +764,6 @@
       "inkling",
       "thinking",
       "machines"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-real-world-voiceeq",
-    "lab": "Hugging Face",
-    "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-    "summary": "",
-    "date": "2026-07-15T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/real-world-voiceeq",
-    "tags": [
-      "real",
-      "world",
-      "voiceeq",
-      "measuring"
-    ]
-  },
-  {
-    "id": "https-blog-google-products-and-platforms-products-search-google-images-25th-anni",
-    "lab": "Google DeepMind",
-    "title": "Celebrating 25 years of visual search innovation",
-    "summary": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.",
-    "date": "2026-07-14T16:00:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp",
-    "tags": [
-      "visual",
-      "celebrating",
-      "years",
-      "search"
     ]
   },
   {
@@ -747,22 +806,6 @@
       "terminus",
       "comparison",
       "testing"
-    ]
-  },
-  {
-    "id": "https-deepmind-google-blog-empowering-indias-next-generation-of-innovators-with-",
-    "lab": "Google DeepMind",
-    "title": "Empowering India’s next generation of innovators with ATL Saathi",
-    "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
-    "date": "2026-07-13T12:37:28.000Z",
-    "category": "feature",
-    "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-    "image": "https://lh3.googleusercontent.com/0BYvIo8ObViyRtRGOYajXHdEGUFX6cKMTQ6lxys98kN0sB6H7rrTo1pdW8M4kCUGnBnidJWbIr6VvcxGKDEDD4YxOVqYRlyxj_a48uqNw_AytF7c-A=w528-h297-n-nu-rw-lo",
-    "tags": [
-      "empowering",
-      "atl",
-      "saathi",
-      "india"
     ]
   },
   {
@@ -828,49 +871,6 @@
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1scDY0SHZDYi04ZXlHYVZ1NmpBSE9qUFhQdlo1dUtObm9SSXRUaXRUQl91RHFqU19aUUFtNFJVa21UMGVtNnRaSHBEU2NnbkQ0SDdXLUVvU3NoU2hhR0pzSU9nQkctVGl5eTdTM3h5WlhKRWJ2c3BSSw?oc=5",
     "tags": [
       "integrate"
-    ]
-  },
-  {
-    "id": "cbmieefvx3lxte9ydfy5vuvfwwi3b2o5ndjlc2h0zznrm3mwmlbqlxbnnjlfvxpydvjrxzfwowh5yxza",
-    "lab": "DeepSeek",
-    "title": "Integrating nanobot",
-    "summary": "",
-    "date": "2026-07-10T09:28:05.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YdFY5VUVFWWI3b2o5NDJLc2h0ZzNrM3MwMlBqLXBnNjlfVXpydVJRXzFwOWh5YXZaNGVnbGJiWEgyNGgzMDEtNzZDeldvSVBEVTNmN193MXlEdEk3dW4yVjFPbDg2UWVnODdJUzRLSjI0N1Z6SFhIVQ?oc=5",
-    "tags": [
-      "integrating",
-      "nanobot"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-torch-attention-profile",
-    "lab": "Hugging Face",
-    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
-    "summary": "",
-    "date": "2026-07-10T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/torch-attention-profile",
-    "tags": [
-      "profiling",
-      "pytorch",
-      "part",
-      "attention"
-    ]
-  },
-  {
-    "id": "cbmibefvx3lxte13a2xuefvrymvrlvrra2u5uurmsupzumm4ymmwc3fluffnovzpztm3ylzdb2dqs2c4",
-    "lab": "Mistral",
-    "title": "Version control for prompts & skills in Studio",
-    "summary": "",
-    "date": "2026-07-09T14:01:05.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13a2xUeFVrYmVrLVRra2U5UURmSUpzUmM4YmMwc3FLUFFNOVZpZTM3YlZDb2dQS2c4cGNfd2pyc1pMaTJCMHg2ZHlLakwxdlpxT2hobTJ3RGZPTnBnWE1LaktCSTVxZlNfNEQwcw?oc=5",
-    "tags": [
-      "version",
-      "control",
-      "prompts",
-      "skills"
     ]
   }
 ]
