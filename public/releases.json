@@ -1,5 +1,80 @@
 [
   {
+    "id": "cbmiu0fvx3lxte1cm2facvnnbxq1medpm0ttyzdosvy0cur1rzhccdbtbjytvu5kwlzszwo5dwy3zvn1",
+    "lab": "xAI",
+    "title": "Introducing Grok Voice Think Fast 2.0",
+    "summary": "",
+    "date": "2026-07-29T17:44:53.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CM2FacVNnbXQ1MEdPM0tTYzdoSVY0cUR1RzhCcDBtbjYtVU5kWlZSZWo5dWY3ZVN1c0RIOE5kLVkwSmVwaVBVenBsMVY4Z21LVy1F?oc=5",
+    "tags": [
+      "grok",
+      "voice",
+      "think",
+      "fast"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-were-launching-lyria-35-in-google-flow-music-with-adv",
+    "lab": "Google DeepMind",
+    "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+    "summary": "",
+    "date": "2026-07-29T16:02:10.000Z",
+    "category": "feature",
+    "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "tags": [
+      "lyria",
+      "google",
+      "flow",
+      "music"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-how-two-settings-tripled-our-arc-agi-3-scores",
+    "lab": "OpenAI",
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+    "date": "2026-07-29T15:00:00.000Z",
+    "category": "api",
+    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "tags": [
+      "enabling",
+      "two",
+      "settings",
+      "scores"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-chatgpt-for-academic-researchers",
+    "lab": "OpenAI",
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+    "date": "2026-07-29T10:00:00.000Z",
+    "category": "research",
+    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "tags": [
+      "scientific",
+      "discovery",
+      "chatgpt",
+      "academic"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-gpt-5-6-frontier-intelligence-efficiency",
+    "lab": "OpenAI",
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+    "date": "2026-07-29T00:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "tags": [
+      "gpt",
+      "frontier",
+      "intelligence",
+      "efficiency"
+    ]
+  },
+  {
     "id": "cbmitkfvx3lxte00v2flmy01ugxfatzxx1bfazfhwuwxvuqwd3nicjblblfzblpeyxdxt0thsxzuvend",
     "lab": "xAI",
     "title": "Grok 4.5 in GitHub Copilot",
@@ -85,6 +160,19 @@
       "encoders",
       "fast",
       "long"
+    ]
+  },
+  {
+    "id": "cbmiggfbvv95cuxqzdjfz3ptws1nq1zxnjv2y01iuedttjdpr0h1ntvewxhqelvtagdly1powgxlvhjd",
+    "lab": "Mistral",
+    "title": "Speaking of Voxtral",
+    "summary": "",
+    "date": "2026-07-28T14:17:49.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZDJfZ3pTWS1nQ1ZxNjV2Y01IUEdtTjdpR0h1NTVEWXhQelVtaGdlY1pOWGxLVHJDYUczYTdrTlQwb2Z5NnBmdWdzeUZ1RldZWmdpYTV2R0RKT24zZGNHYVNqVFRNMG5vRDB5dWgtUm9qeFktbXVxNk9DU0xETi1EWUxB?oc=5",
+    "tags": [
+      "speaking",
+      "voxtral"
     ]
   },
   {
@@ -459,21 +547,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-ntt-data",
-    "lab": "OpenAI",
-    "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-    "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
-    "date": "2026-07-22T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/ntt-data",
-    "tags": [
-      "ntt",
-      "data",
-      "group",
-      "incident"
-    ]
-  },
-  {
     "id": "cbmifkfvx3lxtfbmus1umktoamvczhltced2z1foanc1btg3ukzgz3dfy0puslvwn3jdsutjsehcwxfr",
     "lab": "DeepSeek",
     "title": "thinking_mode_api_example_streaming",
@@ -504,21 +577,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-introducing-chatgpt-small-business-program",
-    "lab": "OpenAI",
-    "title": "Introducing the ChatGPT for small business program",
-    "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-    "date": "2026-07-21T17:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-    "tags": [
-      "chatgpt",
-      "small",
-      "program",
-      "work"
-    ]
-  },
-  {
     "id": "cbmivkfvx3lxtfb6zvjmtzfmb05gm0j4cflhwvetcwhqctfha2hwrnrwmgtprg1otdrty2swtzb2znnt",
     "lab": "xAI",
     "title": "Grok for Outlook",
@@ -544,21 +602,6 @@
       "gemini",
       "lite",
       "cyber"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-hugging-face-model-evaluation-security-incident",
-    "lab": "OpenAI",
-    "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-    "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
-    "date": "2026-07-21T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-    "tags": [
-      "openai",
-      "hugging",
-      "face",
-      "security"
     ]
   },
   {
@@ -668,34 +711,6 @@
     ]
   },
   {
-    "id": "https-deepmind-google-blog-our-approach-to-bioresilience",
-    "lab": "Google DeepMind",
-    "title": "Our approach to bioresilience",
-    "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
-    "date": "2026-07-16T09:30:42.000Z",
-    "category": "feature",
-    "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-    "image": "https://lh3.googleusercontent.com/ZRyQg91pjea8kXXaGSlnZIJF90-VwnKHSBxo22e2RedCvCCszsurR8W9NHw80e1V6HtWXccbU1MI27Rtjjf963rD673XgkWK7cZe_1ekfruPgdHHVEc=w528-h297-n-nu-rw-lo",
-    "tags": [
-      "approach",
-      "bioresilience",
-      "google",
-      "deepmind"
-    ]
-  },
-  {
-    "id": "cbmip0fvx3lxte1ocvzvx1u2su4zazfwww5sbtziaehlx3fvcgh0y2lsmxrhc1fyynbpamveowtnlwct",
-    "lab": "xAI",
-    "title": "Introducing Grok 4.5",
-    "summary": "",
-    "date": "2026-07-16T07:00:00.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1ocVZvX1U2SU4zazFwWW5SbTZiaEhlX3FVcGh0Y2lSMXRhc1FyYnBpamVEOWtnLWctYlZjUlByOA?oc=5",
-    "tags": [
-      "grok"
-    ]
-  },
-  {
     "id": "cbmiskfvx3lxte9meu56cunqlxncemduwmhfeffvc0rvm2rcbwmxovlvcy13rensrhvtrgziyurfwnvq",
     "lab": "xAI",
     "title": "Automations in Grok",
@@ -709,17 +724,15 @@
     ]
   },
   {
-    "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
+    "id": "cbmip0fvx3lxte1ocvzvx1u2su4zazfwww5sbtziaehlx3fvcgh0y2lsmxrhc1fyynbpamveowtnlwct",
     "lab": "xAI",
-    "title": "Creators of Grok, the AI Chatbot",
+    "title": "Introducing Grok 4.5",
     "summary": "",
     "date": "2026-07-16T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1ocVZvX1U2SU4zazFwWW5SbTZiaEhlX3FVcGh0Y2lSMXRhc1FyYnBpamVEOWtnLWctYlZjUlByOA?oc=5",
     "tags": [
-      "creators",
-      "grok",
-      "chatbot"
+      "grok"
     ]
   },
   {
@@ -795,13 +808,13 @@
     ]
   },
   {
-    "id": "cbmiz0fvx3lxte5hrgjiyjdnmepbmu9eavl6mjz1wjnvq1frmdm5qjdsd19vvlpwvkvscxbzq3nnvdf6",
+    "id": "cbmizkfvx3lxte1yz1hsmfvix3vzzghqehd2v1hfzvnvm0zkvhf0blrwlvzqdjvszzn1mfvwmfh0ewxs",
     "lab": "DeepSeek",
     "title": "V3.1-Terminus Comparison Testing",
     "summary": "",
     "date": "2026-07-14T01:41:57.000Z",
     "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hRGJiYjdnMEpBMU9EaVl6MjZ1WjNvQ1FrMDM5Qjdsd19VVlpwVkVscXBZQ3NNVDF6TTU1NXlUOTJCaTYwclNYbV9pNkIyd3BXSmVpaXE1MnQ0c1RrN05DbUdiUktCMlE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YZ1hsMFVIX3VZZGhqeHd2V1hfZVNvM0ZKVHF0blRwLVZqdjVSZzN1MFVwMFh0eWxSeVVUOF9mMHN3cnliLUFxdlBjT0Vud1FtT1lIZEFvZ0tSWVRqaTVWMGJKVzVzdw?oc=5",
     "tags": [
       "terminus",
       "comparison",
@@ -859,18 +872,6 @@
     "tags": [
       "integrate",
       "opencode"
-    ]
-  },
-  {
-    "id": "cbmieefvx3lxte1scdy0shzdyi04zxlhyvz1nmpbse9qufhqdlo1dutobm9ssxruaxruql91rhfqu19a",
-    "lab": "DeepSeek",
-    "title": "Integrate with Pi",
-    "summary": "",
-    "date": "2026-07-10T09:56:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1scDY0SHZDYi04ZXlHYVZ1NmpBSE9qUFhQdlo1dUtObm9SSXRUaXRUQl91RHFqU19aUUFtNFJVa21UMGVtNnRaSHBEU2NnbkQ0SDdXLUVvU3NoU2hhR0pzSU9nQkctVGl5eTdTM3h5WlhKRWJ2c3BSSw?oc=5",
-    "tags": [
-      "integrate"
     ]
   }
 ]
