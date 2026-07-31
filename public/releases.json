@@ -1,5 +1,121 @@
 [
   {
+    "id": "https-openai-com-index-advancing-responsible-ai-across-europe",
+    "lab": "OpenAI",
+    "title": "Advancing responsible AI across Europe",
+    "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+    "date": "2026-07-31T15:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "tags": [
+      "responsible",
+      "europe",
+      "advancing",
+      "across"
+    ]
+  },
+  {
+    "id": "cbmidkfvx3lxte1grghxu2xwyjdrlxzbwe1xlxlsdutbqkprnkfjq2fhtjuysnrhwdryz2vlmvfmsejn",
+    "lab": "DeepSeek",
+    "title": "Integrate with Codex",
+    "summary": "",
+    "date": "2026-07-31T06:19:11.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GRGhxU2xwYjdRLXZBWE1XLXlsdUtBQkpRNkFjQ2FhTjUySnRHWDRyZ2VLMVFmSEJNWGpKUVF1d2lscjBuRHd0ODN2TGpIYkZIdFdVUGJ0OHFXMmJORGZoMktFX0hhMHU5ZmtrZEh0aTFIR3dXaEE?oc=5",
+    "tags": [
+      "integrate",
+      "codex"
+    ]
+  },
+  {
+    "id": "cbmiyefvx3lxte1pmxjdagrdnm1hdgpyyupkngnhmmf5mgreovbkvjdqow1xmklbdk1bc1bgulb6wehf",
+    "lab": "DeepSeek",
+    "title": "Using the Responses API",
+    "summary": "",
+    "date": "2026-07-31T06:03:11.000Z",
+    "category": "api",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PMXJDaGRDNm1HdGpYYUpkNGNHMmF5MGREOVBkVjdQOW1xMklBdk1Bc1BGUlB6WEhFQlp1ZkZNTWRRQ25GRG5JWDBqclpGeS1fWlBvZ3Y5OHFuN0IyUHRiWA?oc=5",
+    "tags": [
+      "responses",
+      "api"
+    ]
+  },
+  {
+    "id": "cbmif0fvx3lxte4zdnphn3vxrhjayjz1t01touzqaxjha1vozc1ttuzarkk4dnhfdkhht2xptupwvxzf",
+    "lab": "Anthropic",
+    "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+    "summary": "",
+    "date": "2026-07-30T23:03:16.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5",
+    "tags": [
+      "investigating",
+      "three",
+      "real",
+      "world"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-dharma-ai-gpu-management",
+    "lab": "Hugging Face",
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "summary": "",
+    "date": "2026-07-30T15:09:09.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "tags": [
+      "gpu",
+      "management",
+      "idle",
+      "gpus"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-gemini-robotics-er-2-powering-robotics-with-video-und",
+    "lab": "Google DeepMind",
+    "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+    "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+    "date": "2026-07-30T15:00:59.000Z",
+    "category": "feature",
+    "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "tags": [
+      "robotics",
+      "gemini",
+      "video",
+      "understanding"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-advancing-the-price-performance-frontier-with-gpt-5-6",
+    "lab": "OpenAI",
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+    "date": "2026-07-30T10:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "tags": [
+      "gpt",
+      "advancing",
+      "price",
+      "performance"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-avatarin",
+    "lab": "OpenAI",
+    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+    "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+    "date": "2026-07-30T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/avatarin",
+    "tags": [
+      "avatarin",
+      "agent",
+      "gpt",
+      "realtime"
+    ]
+  },
+  {
     "id": "cbmiu0fvx3lxte1cm2facvnnbxq1medpm0ttyzdosvy0cur1rzhccdbtbjytvu5kwlzszwo5dwy3zvn1",
     "lab": "xAI",
     "title": "Introducing Grok Voice Think Fast 2.0",
@@ -57,6 +173,20 @@
       "discovery",
       "chatgpt",
       "academic"
+    ]
+  },
+  {
+    "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
+    "lab": "xAI",
+    "title": "Creators of Grok, the AI Chatbot",
+    "summary": "",
+    "date": "2026-07-29T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
+    "tags": [
+      "creators",
+      "grok",
+      "chatbot"
     ]
   },
   {
@@ -173,6 +303,22 @@
     "tags": [
       "speaking",
       "voxtral"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-gemini-robotics-2-brings-whole-body-intelligence-to-r",
+    "lab": "Google DeepMind",
+    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+    "summary": "",
+    "date": "2026-07-28T13:21:37.000Z",
+    "category": "feature",
+    "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "image": "https://lh3.googleusercontent.com/VZ5KwQMxv9xBcQnYipsQB2EUj3oX1yvFYLktIamY8V2a76Y6ctEEuaLF59TuPdnaVn6OAMINDilqnuhju1O-AXc7QlOVmcogjskrWxS7xVQ1mc5S7g=w528-h297-n-nu-rw-lo",
+    "tags": [
+      "gemini",
+      "robotics",
+      "brings",
+      "whole"
     ]
   },
   {
@@ -342,7 +488,7 @@
     "lab": "DeepSeek",
     "title": "chat_nodejs",
     "summary": "",
-    "date": "2026-07-23T16:12:23.000Z",
+    "date": "2026-07-23T16:12:24.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iTC1UVnVMb09VSm5URzdpNjJtS3VpZUNsVC1velNzeW1DbTl0WVVqeG1XTlNjVFVHb2JZODJfUGlNTTVDSGZfdmhhRnBUbUhoUTBneGNJclJnOTlncTZUUXZka3Y?oc=5",
     "tags": [
@@ -411,21 +557,6 @@
     ]
   },
   {
-    "id": "cbmid0fvx3lxte1hmldwatvqmzdleertr0fwvgr2ehiwy3lqq3vwm2c5mnvlss14wwfzstlsqmj0rg5e",
-    "lab": "Anthropic",
-    "title": "A research agenda for the Economic Futures Research Fund",
-    "summary": "",
-    "date": "2026-07-22T17:13:46.000Z",
-    "category": "research",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HMldWaTVQMzdleERTR0FWVGR2eHIwY3lqQ3VwM2c5MnVlSS14WWFzSTlSQmJ0RG5ER3VSemFVaUYxVjg4NVE5Q2hqcko5cFgyTGtod2J5MFl6RmNoaGdfdld4aUxrR29IY3QxTDZJUXpTcjlRWXdV?oc=5",
-    "tags": [
-      "research",
-      "agenda",
-      "economic",
-      "futures"
-    ]
-  },
-  {
     "id": "https-deepmind-google-blog-accelerating-the-frontiers-of-scientific-discovery-go",
     "lab": "Google DeepMind",
     "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
@@ -456,21 +587,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-how-news-organizations-are-using-ai",
-    "lab": "OpenAI",
-    "title": "How news organizations are using AI to advance their vital missions",
-    "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
-    "date": "2026-07-22T13:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-    "tags": [
-      "organizations",
-      "advance",
-      "vital",
-      "missions"
-    ]
-  },
-  {
     "id": "https-blog-google-products-and-platforms-platforms-android-galaxy-unpacked-2026",
     "lab": "Google DeepMind",
     "title": "3 Google updates from Galaxy Unpacked 2026",
@@ -484,21 +600,6 @@
       "galaxy",
       "unpacked",
       "shared"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-advancing-the-next-era-of-national-science",
-    "lab": "OpenAI",
-    "title": "Advancing the next era of national science",
-    "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
-    "date": "2026-07-22T12:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-    "tags": [
-      "advancing",
-      "national",
-      "science",
-      "next"
     ]
   },
   {
@@ -517,6 +618,21 @@
     ]
   },
   {
+    "id": "cbmid0fvx3lxte1hmldwatvqmzdleertr0fwvgr2ehiwy3lqq3vwm2c5mnvlss14wwfzstlsqmj0rg5e",
+    "lab": "Anthropic",
+    "title": "A research agenda for the Economic Futures Research Fund",
+    "summary": "",
+    "date": "2026-07-22T07:00:00.000Z",
+    "category": "research",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HMldWaTVQMzdleERTR0FWVGR2eHIwY3lqQ3VwM2c5MnVlSS14WWFzSTlSQmJ0RG5ER3VSemFVaUYxVjg4NVE5Q2hqcko5cFgyTGtod2J5MFl6RmNoaGdfdld4aUxrR29IY3QxTDZJUXpTcjlRWXdV?oc=5",
+    "tags": [
+      "research",
+      "agenda",
+      "economic",
+      "futures"
+    ]
+  },
+  {
     "id": "cbmitkfvx3lxte14afz4zzlpdgptn0zpqwjcuddhwnlhc2p0qk91wg5jtxzqd3htzujvwmd5tfpan25f",
     "lab": "xAI",
     "title": "Bringing Grok 4.5 to iOS, Android, Web, and X",
@@ -532,33 +648,18 @@
     ]
   },
   {
-    "id": "https-openai-com-index-introducing-openai-presence",
-    "lab": "OpenAI",
-    "title": "Introducing OpenAI Presence",
-    "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-    "date": "2026-07-22T05:30:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/introducing-openai-presence",
+    "id": "https-deepmind-google-blog-introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-f",
+    "lab": "Google DeepMind",
+    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+    "date": "2026-07-21T15:16:30.000Z",
+    "category": "model",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
     "tags": [
-      "openai",
-      "presence",
-      "proven",
-      "enterprise"
-    ]
-  },
-  {
-    "id": "cbmifkfvx3lxtfbmus1umktoamvczhltced2z1foanc1btg3ukzgz3dfy0puslvwn3jdsutjsehcwxfr",
-    "lab": "DeepSeek",
-    "title": "thinking_mode_api_example_streaming",
-    "summary": "",
-    "date": "2026-07-21T18:40:25.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMUS1uMktoamVCZHlTcEd2Z1Foanc1bTg3UkZGZ3dFY0pUSlVWN3JDSUtjSEhCWXFRR0hzdjNZanVFMzBhajRXdFhPX0NDamdJUnRpNDA0bV9nQW9ISUJpbjlyUWVUVVRUeTRKZ2JNVFB0ZmJUNlZhQXpGZVJsUQ?oc=5",
-    "tags": [
-      "thinking",
-      "mode",
-      "api",
-      "example"
+      "flash",
+      "gemini",
+      "lite",
+      "cyber"
     ]
   },
   {
@@ -566,7 +667,7 @@
     "lab": "Meta",
     "title": "How Meta’s AI Models Are Powering the First Wave of Genesis Mission Projects",
     "summary": "",
-    "date": "2026-07-21T17:22:10.000Z",
+    "date": "2026-07-21T07:00:00.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZW9DTHJ3LS1CaUl2WkNOX0NkTmpKQzBtdElNT2FMN1QySGt0RkRnTlc0RTBHZVRjVnFxMHBKRFdoeWV2cEpobE5VVzVDVjk3SEUzR0ZydWVVRnRXaTByb3NIY09Fc29oYmFLWm9QRlpkUDl3MzNxWEV3eThEMlBMcE0yTVYxalpBSENhYVo4MTVMcEZCX2REOE9pejVralJvNEhr?oc=5",
     "tags": [
@@ -581,27 +682,12 @@
     "lab": "xAI",
     "title": "Grok for Outlook",
     "summary": "",
-    "date": "2026-07-21T16:51:35.000Z",
+    "date": "2026-07-21T07:00:00.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6ZVJmTzFmb05GM0J4cFlhWVEtcWhqcTFha2hwRnRwMGtPRG1OTDRTY2swTzB2ZnNtSllpdUFCbmo5MENDNlNPMnhGYXBaTUFlOXp4ZzFB?oc=5",
     "tags": [
       "grok",
       "outlook"
-    ]
-  },
-  {
-    "id": "https-deepmind-google-blog-introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-f",
-    "lab": "Google DeepMind",
-    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-    "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
-    "date": "2026-07-21T15:16:30.000Z",
-    "category": "model",
-    "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-    "tags": [
-      "flash",
-      "gemini",
-      "lite",
-      "cyber"
     ]
   },
   {
@@ -648,6 +734,21 @@
     ]
   },
   {
+    "id": "cbmihafbvv95cuxqc0jmz2tkvm9fu0hxdwxzvkmzmfv3mhlqadrdbhy2nefxegltohjublrgx2ffrg9e",
+    "lab": "DeepSeek",
+    "title": "thinking_mode_api_example_streaming",
+    "summary": "",
+    "date": "2026-07-18T08:41:01.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc0JmZ2tKVm9fU0hxdWxZVkMzMFV3MHlqaDRDbHY2NEFxeGltOHJUblRGX2FFRG9EajZXVm9TVlZKcW5BY1NtTVFPeWh3QXBiaWdZemtteWV1TkVFYTZ3YV83bFVvRWdwTWNtcG9KREV3T2FoUnk0cXk4Z2ptcWlOd28zdG8?oc=5",
+    "tags": [
+      "thinking",
+      "mode",
+      "api",
+      "example"
+    ]
+  },
+  {
     "id": "https-deepmind-google-blog-introducing-gemini-3-5-flash-cyber",
     "lab": "Google DeepMind",
     "title": "Introducing Gemini 3.5 Flash Cyber",
@@ -661,38 +762,6 @@
       "flash",
       "cyber",
       "google"
-    ]
-  },
-  {
-    "id": "https-blog-google-products-and-platforms-products-search-connected-apps",
-    "lab": "Google DeepMind",
-    "title": "Connect more of your apps to Search",
-    "summary": "You’ll be able to securely link and interact with your go-to services directly in AI Mode.",
-    "date": "2026-07-16T16:00:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp",
-    "tags": [
-      "connect",
-      "apps",
-      "search",
-      "able"
-    ]
-  },
-  {
-    "id": "https-blog-google-products-and-platforms-products-workspace-gemini-omni-personal",
-    "lab": "Google DeepMind",
-    "title": "Create, edit and star in videos with two Google Vids updates",
-    "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.",
-    "date": "2026-07-16T16:00:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp",
-    "tags": [
-      "google",
-      "vids",
-      "create",
-      "edit"
     ]
   },
   {
@@ -724,18 +793,6 @@
     ]
   },
   {
-    "id": "cbmip0fvx3lxte1ocvzvx1u2su4zazfwww5sbtziaehlx3fvcgh0y2lsmxrhc1fyynbpamveowtnlwct",
-    "lab": "xAI",
-    "title": "Introducing Grok 4.5",
-    "summary": "",
-    "date": "2026-07-16T07:00:00.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1ocVZvX1U2SU4zazFwWW5SbTZiaEhlX3FVcGh0Y2lSMXRhc1FyYnBpamVEOWtnLWctYlZjUlByOA?oc=5",
-    "tags": [
-      "grok"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-security-incident-july-2026",
     "lab": "Hugging Face",
     "title": "Security incident disclosure — July 2026",
@@ -762,21 +819,6 @@
       "routing",
       "simple",
       "until"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-thinkingmachines-inkling",
-    "lab": "Hugging Face",
-    "title": "Welcome Inkling by Thinking Machines",
-    "summary": "",
-    "date": "2026-07-15T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/thinkingmachines-inkling",
-    "tags": [
-      "welcome",
-      "inkling",
-      "thinking",
-      "machines"
     ]
   },
   {
@@ -832,46 +874,6 @@
     "tags": [
       "chat",
       "python"
-    ]
-  },
-  {
-    "id": "cbmiyefvx3lxte9ns3bive1jlxjvsnnpwtj4te0znkcxbmleekrqwmrybhdttxmza09jr2zfwvizrm1w",
-    "lab": "DeepSeek",
-    "title": "Integrate with AI Tools",
-    "summary": "",
-    "date": "2026-07-11T04:40:36.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NS3BiVE1jLXJVSnNPWTJ4TE0zNkcxbmlEekRqWmRYbHdTTXMza09JR2ZFWVIzRm1weEdHcjdDcnlKdXV2aHJCeUs3MWx2bWxXUTBuY2VZVktKU1JXcGdSNA?oc=5",
-    "tags": [
-      "integrate",
-      "tools"
-    ]
-  },
-  {
-    "id": "cbmie0fvx3lxte1idkz0ceyzegltqndiwnhnsv80unp0ynvitznhvkrrzkztr1mwltg0atdqu05xekfk",
-    "lab": "DeepSeek",
-    "title": "Integrate with Kilo Code",
-    "summary": "",
-    "date": "2026-07-10T18:02:03.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1idkZ0cEYzeGlTQndiWnhnSV80Unp0YnViTzNhVkRRZkZtR1MwLTg0aTdQU05XekFKUzFmTWVCaHQ1OWo2OTRCUHliQXNKencyczNxbUZmR1N2WlNIQzNra0RmdXdGcmlTM0VXeXBhRkxWRzNFSG9LbjlwQQ?oc=5",
-    "tags": [
-      "integrate",
-      "kilo",
-      "code"
-    ]
-  },
-  {
-    "id": "cbmiekfvx3lxte1knjyyze1os2v3tenpbmlfrnkzwdb3s1hswfriag1smufga2dfn2npzxdawezledfu",
-    "lab": "DeepSeek",
-    "title": "Integrate with OpenCode",
-    "summary": "",
-    "date": "2026-07-10T16:10:15.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KNjYyZE1OS2V3TENPbmlFRnkzWDB3S1hsWFRIaG1SMUFGa2dfN2NpZXdaWEZleDFuRlVUZG02MkszdnlmZVdpa3ZEMWduN2I3SVVLT3RyTXlaVEM2UzJEeWg2cGV4WEFnX0dXdHh3TVJwTUpFSTlncGd3?oc=5",
-    "tags": [
-      "integrate",
-      "opencode"
     ]
   }
 ]
