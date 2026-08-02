@@ -5,8 +5,17 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Aug 2026 08:14:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 08:17:09 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Responses API</title>
+      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE01Ri1KMW9OVW9mXzVVd19LWEpXelM3VW5hS3o0SHJhNmt1a2NCX2Y4ajMtMGJtQjBqZVg2cWZ4WktKZi1MeFh4Z2dsT2lkekRURUFySUd2cjhDRlZFOEpZ?oc=5</link>
+      <guid isPermaLink="false">cbmix0fvx3lxte01ri1kmw9ovw9mxzvvd19lwepxelm3vw5hs3o0shjhnmt1a2ncx2y4ajmtmgjtqjbq</guid>
+      <pubDate>Sat, 01 Aug 2026 09:24:22 GMT</pubDate>
+      <description>Source: DeepSeek</description>
+      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
+      <category>api</category>
+    </item>
     <item>
       <title>Imagine Video 1.5 with References</title>
       <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmVmxPS3RRREpNdkktVllNNG5fbENpTFZYcERRaE4wUDMtMjRYOFBnNDNGLXFhVnFuUzNNdzRNMllGT0tSNGY1N2JFSFAxMVFKcGMyOEV1UTNzTWEyRm9BTA?oc=5</link>
@@ -42,15 +51,6 @@
       <description>A full-stack approach to making advanced AI more capable, more affordable, and more widely useful. (Source: OpenAI)</description>
       <source url="https://ai-pulse.vercel.app">OpenAI</source>
       <category>feature</category>
-    </item>
-    <item>
-      <title>Responses API</title>
-      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE01Ri1KMW9OVW9mXzVVd19LWEpXelM3VW5hS3o0SHJhNmt1a2NCX2Y4ajMtMGJtQjBqZVg2cWZ4WktKZi1MeFh4Z2dsT2lkekRURUFySUd2cjhDRlZFOEpZ?oc=5</link>
-      <guid isPermaLink="false">cbmix0fvx3lxte01ri1kmw9ovw9mxzvvd19lwepxelm3vw5hs3o0shjhnmt1a2ncx2y4ajmtmgjtqjbq</guid>
-      <pubDate>Fri, 31 Jul 2026 08:24:09 GMT</pubDate>
-      <description>Source: DeepSeek</description>
-      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
-      <category>api</category>
     </item>
     <item>
       <title>Univé builds an AI-ready workforce</title>

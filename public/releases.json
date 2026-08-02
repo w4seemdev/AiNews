@@ -1,5 +1,18 @@
 [
   {
+    "id": "cbmix0fvx3lxte01ri1kmw9ovw9mxzvvd19lwepxelm3vw5hs3o0shjhnmt1a2ncx2y4ajmtmgjtqjbq",
+    "lab": "DeepSeek",
+    "title": "Responses API",
+    "summary": "",
+    "date": "2026-08-01T09:24:22.000Z",
+    "category": "api",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01Ri1KMW9OVW9mXzVVd19LWEpXelM3VW5hS3o0SHJhNmt1a2NCX2Y4ajMtMGJtQjBqZVg2cWZ4WktKZi1MeFh4Z2dsT2lkekRURUFySUd2cjhDRlZFOEpZ?oc=5",
+    "tags": [
+      "responses",
+      "api"
+    ]
+  },
+  {
     "id": "cbmiyefvx3lxtfbmvmxps3rrrepndkktvllnng5fbenptfzycerrae4wudmtmjryofbnndnglxfhvnfu",
     "lab": "xAI",
     "title": "Imagine Video 1.5 with References",
@@ -56,19 +69,6 @@
       "abundant",
       "intelligence",
       "full"
-    ]
-  },
-  {
-    "id": "cbmix0fvx3lxte01ri1kmw9ovw9mxzvvd19lwepxelm3vw5hs3o0shjhnmt1a2ncx2y4ajmtmgjtqjbq",
-    "lab": "DeepSeek",
-    "title": "Responses API",
-    "summary": "",
-    "date": "2026-07-31T08:24:09.000Z",
-    "category": "api",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01Ri1KMW9OVW9mXzVVd19LWEpXelM3VW5hS3o0SHJhNmt1a2NCX2Y4ajMtMGJtQjBqZVg2cWZ4WktKZi1MeFh4Z2dsT2lkekRURUFySUd2cjhDRlZFOEpZ?oc=5",
-    "tags": [
-      "responses",
-      "api"
     ]
   },
   {
