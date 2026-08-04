@@ -1,10 +1,55 @@
 [
   {
+    "id": "https-openai-com-index-apple-is-getting-this-wrong",
+    "lab": "OpenAI",
+    "title": "Apple is getting this wrong",
+    "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+    "date": "2026-08-03T22:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/apple-is-getting-this-wrong",
+    "tags": [
+      "apple",
+      "getting",
+      "wrong",
+      "openai"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-continuous-voice-interaction-with-gpt-live",
+    "lab": "OpenAI",
+    "title": "How we built a realtime system for responsive voice AI in six months",
+    "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+    "date": "2026-08-03T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "tags": [
+      "voice",
+      "built",
+      "realtime",
+      "system"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-circles",
+    "lab": "OpenAI",
+    "title": "Circles powers telco personalization with OpenAI technology",
+    "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+    "date": "2026-08-03T00:00:00.000Z",
+    "category": "api",
+    "url": "https://openai.com/index/circles",
+    "tags": [
+      "circles",
+      "telco",
+      "openai",
+      "powers"
+    ]
+  },
+  {
     "id": "cbmix0fvx3lxte01ri1kmw9ovw9mxzvvd19lwepxelm3vw5hs3o0shjhnmt1a2ncx2y4ajmtmgjtqjbq",
     "lab": "DeepSeek",
     "title": "Responses API",
     "summary": "",
-    "date": "2026-08-01T09:24:22.000Z",
+    "date": "2026-08-01T09:24:53.000Z",
     "category": "api",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01Ri1KMW9OVW9mXzVVd19LWEpXelM3VW5hS3o0SHJhNmt1a2NCX2Y4ajMtMGJtQjBqZVg2cWZ4WktKZi1MeFh4Z2dsT2lkekRURUFySUd2cjhDRlZFOEpZ?oc=5",
     "tags": [
@@ -84,6 +129,20 @@
       "ready",
       "workforce",
       "builds"
+    ]
+  },
+  {
+    "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
+    "lab": "xAI",
+    "title": "Creators of Grok, the AI Chatbot",
+    "summary": "",
+    "date": "2026-07-31T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
+    "tags": [
+      "creators",
+      "grok",
+      "chatbot"
     ]
   },
   {
@@ -233,51 +292,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-how-two-settings-tripled-our-arc-agi-3-scores",
-    "lab": "OpenAI",
-    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-    "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-    "date": "2026-07-29T15:00:00.000Z",
-    "category": "api",
-    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-    "tags": [
-      "enabling",
-      "two",
-      "settings",
-      "scores"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-chatgpt-for-academic-researchers",
-    "lab": "OpenAI",
-    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-    "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-    "date": "2026-07-29T10:00:00.000Z",
-    "category": "research",
-    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-    "tags": [
-      "scientific",
-      "discovery",
-      "chatgpt",
-      "academic"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-gpt-5-6-frontier-intelligence-efficiency",
-    "lab": "OpenAI",
-    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-    "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-    "date": "2026-07-29T00:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-    "tags": [
-      "gpt",
-      "frontier",
-      "intelligence",
-      "efficiency"
-    ]
-  },
-  {
     "id": "cbmitkfvx3lxte00v2flmy01ugxfatzxx1bfazfhwuwxvuqwd3nicjblblfzblpeyxdxt0thsxzuvend",
     "lab": "xAI",
     "title": "Grok 4.5 in GitHub Copilot",
@@ -412,21 +426,6 @@
     ]
   },
   {
-    "id": "cbmia0fvx3lxte1vvu84xy1nrfvuv1l6qjnvvtl0qncwbvm0bnrpbmnvufbnshnar3lmtlk0cwrhq3hk",
-    "lab": "Anthropic",
-    "title": "Our position on open-weights models",
-    "summary": "",
-    "date": "2026-07-27T22:05:11.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vVU84Xy1NRFVUV1l6QjNvVTl0QncwbVM0bnRpbmNvUFBNSHNaR3lmTlk0cWRHQ3hKVEZkNGNOVVNaMWFfXzVqTVgxeENSdGV0THY2SUF5VjdPS0h5SUZmTzhfdUgyOExsOG5V?oc=5",
-    "tags": [
-      "position",
-      "open",
-      "weights",
-      "models"
-    ]
-  },
-  {
     "id": "cbmix0fvx3lxte9zrv9ftfpyxzjpntztmge1ckuxzwjps01xs2xkn3jxnxbfnkziz3vsswtjmw9swfbz",
     "lab": "Anthropic",
     "title": "Expanding our partnership with Cognizant",
@@ -471,6 +470,21 @@
     ]
   },
   {
+    "id": "cbmia0fvx3lxte1vvu84xy1nrfvuv1l6qjnvvtl0qncwbvm0bnrpbmnvufbnshnar3lmtlk0cwrhq3hk",
+    "lab": "Anthropic",
+    "title": "Our position on open-weights models",
+    "summary": "",
+    "date": "2026-07-27T07:00:00.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vVU84Xy1NRFVUV1l6QjNvVTl0QncwbVM0bnRpbmNvUFBNSHNaR3lmTlk0cWRHQ3hKVEZkNGNOVVNaMWFfXzVqTVgxeENSdGV0THY2SUF5VjdPS0h5SUZmTzhfdUgyOExsOG5V?oc=5",
+    "tags": [
+      "position",
+      "open",
+      "weights",
+      "models"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-agent-intrusion-technical-timeline",
     "lab": "Hugging Face",
     "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
@@ -486,20 +500,6 @@
     ]
   },
   {
-    "id": "cbmiykfvx3lxte1ayzrsexjla3hhaxvxau5omgdvbjzlvnlds2jsnwhzwndocefjtnc1xzlby01iy0na",
-    "lab": "xAI",
-    "title": "Grok in Google Workspace",
-    "summary": "",
-    "date": "2026-07-24T18:08:34.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aYzRseXJla3hHaXVxaU5OMGdVbjZLVnlDS2JSNWhZWndOcEFJTnc1XzlBY01iY0NabldqZHpUQWE0SjZvSFc4WG1oMWhtVjVrT2lLMDRQN0prVk9Rd2ZpZzJB?oc=5",
-    "tags": [
-      "grok",
-      "google",
-      "workspace"
-    ]
-  },
-  {
     "id": "cbmiv0fvx3lxte9iczrhduzazwkyq2rxakhsm1visf8wclzfx25kdef6wu1utetmqxjhynpiznjruwd2",
     "lab": "Anthropic",
     "title": "Introducing Claude Opus 5",
@@ -510,6 +510,20 @@
     "tags": [
       "claude",
       "opus"
+    ]
+  },
+  {
+    "id": "cbmiykfvx3lxte1ayzrsexjla3hhaxvxau5omgdvbjzlvnlds2jsnwhzwndocefjtnc1xzlby01iy0na",
+    "lab": "xAI",
+    "title": "Grok in Google Workspace",
+    "summary": "",
+    "date": "2026-07-24T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aYzRseXJla3hHaXVxaU5OMGdVbjZLVnlDS2JSNWhZWndOcEFJTnc1XzlBY01iY0NabldqZHpUQWE0SjZvSFc4WG1oMWhtVjVrT2lLMDRQN0prVk9Rd2ZpZzJB?oc=5",
+    "tags": [
+      "grok",
+      "google",
+      "workspace"
     ]
   },
   {
@@ -747,21 +761,6 @@
     ]
   },
   {
-    "id": "cbmihafbvv95cuxqc0jmz2tkvm9fu0hxdwxzvkmzmfv3mhlqadrdbhy2nefxegltohjublrgx2ffrg9e",
-    "lab": "DeepSeek",
-    "title": "thinking_mode_api_example_streaming",
-    "summary": "",
-    "date": "2026-07-18T08:41:01.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc0JmZ2tKVm9fU0hxdWxZVkMzMFV3MHlqaDRDbHY2NEFxeGltOHJUblRGX2FFRG9EajZXVm9TVlZKcW5BY1NtTVFPeWh3QXBiaWdZemtteWV1TkVFYTZ3YV83bFVvRWdwTWNtcG9KREV3T2FoUnk0cXk4Z2ptcWlOd28zdG8?oc=5",
-    "tags": [
-      "thinking",
-      "mode",
-      "api",
-      "example"
-    ]
-  },
-  {
     "id": "https-deepmind-google-blog-introducing-gemini-3-5-flash-cyber",
     "lab": "Google DeepMind",
     "title": "Introducing Gemini 3.5 Flash Cyber",
@@ -790,19 +789,6 @@
       "models",
       "same",
       "advantage"
-    ]
-  },
-  {
-    "id": "cbmiskfvx3lxte9meu56cunqlxncemduwmhfeffvc0rvm2rcbwmxovlvcy13rensrhvtrgziyurfwnvq",
-    "lab": "xAI",
-    "title": "Automations in Grok",
-    "summary": "",
-    "date": "2026-07-16T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9meU56cUNqLXNCemduWmhFeFFVc0RvM2RCbWMxOVlvcy13RENsRHVtRGZiYURFWnVqaC1rVlNJLXZZN3gtbnhneEZ3?oc=5",
-    "tags": [
-      "automations",
-      "grok"
     ]
   },
   {
@@ -860,6 +846,20 @@
       "commits",
       "million",
       "canadian"
+    ]
+  },
+  {
+    "id": "cbmiz0fvx3lxte5hrgjiyjdnmepbmu9eavl6mjz1wjnvq1frmdm5qjdsd19vvlpwvkvscxbzq3nnvdf6",
+    "lab": "DeepSeek",
+    "title": "V3.1-Terminus Comparison Testing",
+    "summary": "",
+    "date": "2026-07-14T01:41:57.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hRGJiYjdnMEpBMU9EaVl6MjZ1WjNvQ1FrMDM5Qjdsd19VVlpwVkVscXBZQ3NNVDF6TTU1NXlUOTJCaTYwclNYbV9pNkIyd3BXSmVpaXE1MnQ0c1RrN05DbUdiUktCMlE?oc=5",
+    "tags": [
+      "terminus",
+      "comparison",
+      "testing"
     ]
   },
   {
