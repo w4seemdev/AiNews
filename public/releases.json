@@ -1,5 +1,90 @@
 [
   {
+    "id": "https-openai-com-index-third-party-cyber-evaluations-involving-openai-models",
+    "lab": "OpenAI",
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+    "date": "2026-08-04T19:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "tags": [
+      "third",
+      "party",
+      "openai",
+      "evaluation"
+    ]
+  },
+  {
+    "id": "cbmivkfvx3lxte9vode3repjodf0tzhuztbctfpedtnmnxfsv2qtohhzz0nuvulmtdveszzqm2zhqwl4",
+    "lab": "Anthropic",
+    "title": "Tino Cuellar joins Anthropic as Chief Global Affairs Officer",
+    "summary": "",
+    "date": "2026-08-04T17:05:54.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vODE3REpJODF0TzhuZTBCTFpEdTNMNXFsV2QtOHhzZ0NUVUlmTDVESzZQM2ZHQWl4MkxaSzY1Z0pNSWVUaTB4NzRsX0dUVGxqWWIwVkFB?oc=5",
+    "tags": [
+      "tino",
+      "cuellar",
+      "joins",
+      "anthropic"
+    ]
+  },
+  {
+    "id": "cbmitefvx3lxtfbzdl9bmnznn3pna2rmtvvvslbxvmrhr0tsrwzbqnnts1vnujnauvbscegxwlpizndv",
+    "lab": "Mistral",
+    "title": "Introducing Shieldstral.",
+    "summary": "",
+    "date": "2026-08-04T14:01:45.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzdl9BMnZNN3pna2RmTVVvSlBxVmRHR0tSRWZBQnNtS1VNUjNaUVBscEgxWlpiZndVRHdtVGNlSE0taXRwYjQya192d2U?oc=5",
+    "tags": [
+      "shieldstral"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-liquidai-lfm2-5-2-6b",
+    "lab": "Hugging Face",
+    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "summary": "",
+    "date": "2026-08-04T13:58:29.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "tags": [
+      "deploy",
+      "local",
+      "agents",
+      "everywhere"
+    ]
+  },
+  {
+    "id": "https-blog-google-innovation-and-ai-technology-ai-google-ai-updates-july-2026",
+    "lab": "Google DeepMind",
+    "title": "The latest AI news we announced in July 2026",
+    "summary": "Here are Google’s latest AI updates from July 2026",
+    "date": "2026-08-04T13:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp",
+    "tags": [
+      "google"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-learn-teach-chatgpt-work-codex",
+    "lab": "OpenAI",
+    "title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+    "date": "2026-08-04T00:00:00.000Z",
+    "category": "research",
+    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "tags": [
+      "learn",
+      "teach",
+      "chatgpt",
+      "work"
+    ]
+  },
+  {
     "id": "https-openai-com-index-apple-is-getting-this-wrong",
     "lab": "OpenAI",
     "title": "Apple is getting this wrong",
@@ -12,6 +97,22 @@
       "getting",
       "wrong",
       "openai"
+    ]
+  },
+  {
+    "id": "https-blog-google-innovation-and-ai-technology-developers-tools-ai-agents-intens",
+    "lab": "Google DeepMind",
+    "title": "Inside our 353,000-person vibe coding course",
+    "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
+    "date": "2026-08-03T15:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp",
+    "tags": [
+      "course",
+      "inside",
+      "person",
+      "vibe"
     ]
   },
   {
@@ -232,36 +333,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-advancing-the-price-performance-frontier-with-gpt-5-6",
-    "lab": "OpenAI",
-    "title": "Advancing the price-performance frontier with GPT-5.6",
-    "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
-    "date": "2026-07-30T10:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-    "tags": [
-      "gpt",
-      "advancing",
-      "price",
-      "performance"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-avatarin",
-    "lab": "OpenAI",
-    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-    "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
-    "date": "2026-07-30T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/avatarin",
-    "tags": [
-      "avatarin",
-      "agent",
-      "gpt",
-      "realtime"
-    ]
-  },
-  {
     "id": "cbmiu0fvx3lxte1cm2facvnnbxq1medpm0ttyzdosvy0cur1rzhccdbtbjytvu5kwlzszwo5dwy3zvn1",
     "lab": "xAI",
     "title": "Introducing Grok Voice Think Fast 2.0",
@@ -347,21 +418,6 @@
     "tags": [
       "build",
       "mode"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-liquidai-lfm2-5-encoders",
-    "lab": "Hugging Face",
-    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-    "summary": "",
-    "date": "2026-07-28T15:01:45.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-    "tags": [
-      "lfm2",
-      "encoders",
-      "fast",
-      "long"
     ]
   },
   {
@@ -554,21 +610,6 @@
     ]
   },
   {
-    "id": "cbmijgfbvv95cuxomnnqrxjfwklcal8wshfgx1rotg5dmdjimuwylw9jmwxwblpxmlj4qm1mzhpyykxq",
-    "lab": "DeepSeek",
-    "title": "thinking_mode_api_example_tool_call_output",
-    "summary": "",
-    "date": "2026-07-23T02:00:17.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMnNqRXJFWklCal8wSHFGX1ROTG5DMDJIMUwyLW9jMWxWblpXMlJ4Qm1mZHpYYkxqMzdGY0RxYVZJbWs0LTM4MGllcTd0ZWdzc2JQTnFlWGxFdTV6UlhHR2I2Rnh0MEhvWEJOR3JFVW11WjhBalFTVUgwdUxUeHhYZzQ1NzRjS0pFV09mVE9R?oc=5",
-    "tags": [
-      "thinking",
-      "mode",
-      "api",
-      "example"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-nunchaku-diffusers",
     "lab": "Hugging Face",
     "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
@@ -660,21 +701,6 @@
     ]
   },
   {
-    "id": "https-deepmind-google-blog-introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-f",
-    "lab": "Google DeepMind",
-    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-    "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
-    "date": "2026-07-21T15:16:30.000Z",
-    "category": "model",
-    "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-    "tags": [
-      "flash",
-      "gemini",
-      "lite",
-      "cyber"
-    ]
-  },
-  {
     "id": "cbmia0fvx3lxte95vevdymvgvzjxef9roevry0dsmta1lvpvtnotmtvfluv0ofhwt2j4edbjeve5oflq",
     "lab": "Anthropic",
     "title": "Donating another $20 million to Public First Action",
@@ -761,22 +787,6 @@
     ]
   },
   {
-    "id": "https-deepmind-google-blog-introducing-gemini-3-5-flash-cyber",
-    "lab": "Google DeepMind",
-    "title": "Introducing Gemini 3.5 Flash Cyber",
-    "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
-    "date": "2026-07-17T15:00:11.000Z",
-    "category": "model",
-    "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
-    "image": "https://lh3.googleusercontent.com/esSD0-kSrZ8K07XxNkSKL3OGlcx1Cf3M-qiQut0q_vArHMiK2L1CpUIGVkjuQrhu_m0g8UMVflVQpDp7VFAJSubDdCjSXsPJPDeK-PUtaPbqA8W1=w528-h297-n-nu-rw-lo",
-    "tags": [
-      "gemini",
-      "flash",
-      "cyber",
-      "google"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-dharma-ai-newer-models-same-advantages",
     "lab": "Hugging Face",
     "title": "Newer Models, Same Advantage",
@@ -834,21 +844,6 @@
     ]
   },
   {
-    "id": "cbmiyefvx3lxtfb4ejnuawnhdva1ulpenzrgmmdnvwjem3jrbhhiovd5qw95oxnwrhdylw5dbmy4d2xt",
-    "lab": "Anthropic",
-    "title": "Anthropic commits $10 million to Canadian AI research",
-    "summary": "",
-    "date": "2026-07-14T07:00:00.000Z",
-    "category": "research",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4ejNuaWNhdVA1UlpENzRGMmdNVWJEM3JrbHhiOVd5QW95OXNWRHdyLW5DbmY4d2xtemp3UTNheDZoRzZUSEdnVy05SEJtd1J4MWtPeHlmdGFMUXh4UG9LRA?oc=5",
-    "tags": [
-      "anthropic",
-      "commits",
-      "million",
-      "canadian"
-    ]
-  },
-  {
     "id": "cbmiz0fvx3lxte5hrgjiyjdnmepbmu9eavl6mjz1wjnvq1frmdm5qjdsd19vvlpwvkvscxbzq3nnvdf6",
     "lab": "DeepSeek",
     "title": "V3.1-Terminus Comparison Testing",
@@ -863,16 +858,16 @@
     ]
   },
   {
-    "id": "cbmizefvx3lxte5arznhdgvvbfbhuhrqmwpowvdtejrmoxbgmvphuja5tuj2skczutlpvnvmdufgdhqw",
+    "id": "cbmiyefvx3lxte9ns3bive1jlxjvsnnpwtj4te0znkcxbmleekrqwmrybhdttxmza09jr2zfwvizrm1w",
     "lab": "DeepSeek",
-    "title": "chat_python",
+    "title": "Integrate with AI Tools",
     "summary": "",
-    "date": "2026-07-12T04:12:00.000Z",
+    "date": "2026-07-11T04:40:36.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aRzNhdGVvbFBhUHRqMWpOWVdtejRmOXBGMVpHUjA5TUJ2SkczUTlPVnVMdUFGdHQwX3JWN2VoenI0Qmt2T1B0SjNzcERDX0JNVEtydE1HSWtENzBMRDduTGVMcEg?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NS3BiVE1jLXJVSnNPWTJ4TE0zNkcxbmlEekRqWmRYbHdTTXMza09JR2ZFWVIzRm1weEdHcjdDcnlKdXV2aHJCeUs3MWx2bWxXUTBuY2VZVktKU1JXcGdSNA?oc=5",
     "tags": [
-      "chat",
-      "python"
+      "integrate",
+      "tools"
     ]
   }
 ]
