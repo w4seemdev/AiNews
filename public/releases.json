@@ -408,32 +408,6 @@
     ]
   },
   {
-    "id": "cbmisefvx3lxtfbaqki4ohfyohfoa3biedhfde1pytbzcfhyyjzvenoxblj3mhfkb3j6rnu2cue5tfez",
-    "lab": "xAI",
-    "title": "Introducing Build Mode",
-    "summary": "",
-    "date": "2026-07-28T15:53:02.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaQkI4OHFyOHFoa3BieDhfdE1PYTBzcFhYYjZVenoxblJ3MHFKb3J6RnU2cUE5TFEzZHgtSV9LUnFZYzZSYWhQRQ?oc=5",
-    "tags": [
-      "build",
-      "mode"
-    ]
-  },
-  {
-    "id": "cbmiggfbvv95cuxqzdjfz3ptws1nq1zxnjv2y01iuedttjdpr0h1ntvewxhqelvtagdly1powgxlvhjd",
-    "lab": "Mistral",
-    "title": "Speaking of Voxtral",
-    "summary": "",
-    "date": "2026-07-28T14:17:49.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZDJfZ3pTWS1nQ1ZxNjV2Y01IUEdtTjdpR0h1NTVEWXhQelVtaGdlY1pOWGxLVHJDYUczYTdrTlQwb2Z5NnBmdWdzeUZ1RldZWmdpYTV2R0RKT24zZGNHYVNqVFRNMG5vRDB5dWgtUm9qeFktbXVxNk9DU0xETi1EWUxB?oc=5",
-    "tags": [
-      "speaking",
-      "voxtral"
-    ]
-  },
-  {
     "id": "https-deepmind-google-blog-gemini-robotics-2-brings-whole-body-intelligence-to-r",
     "lab": "Google DeepMind",
     "title": "Gemini Robotics 2 brings whole body intelligence to robots",
@@ -482,17 +456,16 @@
     ]
   },
   {
-    "id": "cbmix0fvx3lxte9zrv9ftfpyxzjpntztmge1ckuxzwjps01xs2xkn3jxnxbfnkziz3vsswtjmw9swfbz",
-    "lab": "Anthropic",
-    "title": "Expanding our partnership with Cognizant",
+    "id": "cbmisefvx3lxtfbaqki4ohfyohfoa3biedhfde1pytbzcfhyyjzvenoxblj3mhfkb3j6rnu2cue5tfez",
+    "lab": "xAI",
+    "title": "Introducing Build Mode",
     "summary": "",
-    "date": "2026-07-27T15:39:43.000Z",
+    "date": "2026-07-28T07:00:00.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zRV9FTFpYXzJpNTZtMGE1ckUxZWJPS01XS2xkN3JXNXBFNkZIZ3VSSWtjMW9sWFBzU1dPVFNrT0ZBZEt3SHhrQldMX3lvdnliRlpmZ2x1VngtR3NyUndR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaQkI4OHFyOHFoa3BieDhfdE1PYTBzcFhYYjZVenoxblJ3MHFKb3J6RnU2cUE5TFEzZHgtSV9LUnFZYzZSYWhQRQ?oc=5",
     "tags": [
-      "expanding",
-      "partnership",
-      "cognizant"
+      "build",
+      "mode"
     ]
   },
   {
@@ -538,6 +511,20 @@
       "open",
       "weights",
       "models"
+    ]
+  },
+  {
+    "id": "cbmix0fvx3lxte9zrv9ftfpyxzjpntztmge1ckuxzwjps01xs2xkn3jxnxbfnkziz3vsswtjmw9swfbz",
+    "lab": "Anthropic",
+    "title": "Expanding our partnership with Cognizant",
+    "summary": "",
+    "date": "2026-07-27T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zRV9FTFpYXzJpNTZtMGE1ckUxZWJPS01XS2xkN3JXNXBFNkZIZ3VSSWtjMW9sWFBzU1dPVFNrT0ZBZEt3SHhrQldMX3lvdnliRlpmZ2x1VngtR3NyUndR?oc=5",
+    "tags": [
+      "expanding",
+      "partnership",
+      "cognizant"
     ]
   },
   {
@@ -787,6 +774,21 @@
     ]
   },
   {
+    "id": "cbmihafbvv95cuxqc0jmz2tkvm9fu0hxdwxzvkmzmfv3mhlqadrdbhy2nefxegltohjublrgx2ffrg9e",
+    "lab": "DeepSeek",
+    "title": "thinking_mode_api_example_streaming",
+    "summary": "",
+    "date": "2026-07-18T08:41:01.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc0JmZ2tKVm9fU0hxdWxZVkMzMFV3MHlqaDRDbHY2NEFxeGltOHJUblRGX2FFRG9EajZXVm9TVlZKcW5BY1NtTVFPeWh3QXBiaWdZemtteWV1TkVFYTZ3YV83bFVvRWdwTWNtcG9KREV3T2FoUnk0cXk4Z2ptcWlOd28zdG8?oc=5",
+    "tags": [
+      "thinking",
+      "mode",
+      "api",
+      "example"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-dharma-ai-newer-models-same-advantages",
     "lab": "Hugging Face",
     "title": "Newer Models, Same Advantage",
@@ -858,16 +860,16 @@
     ]
   },
   {
-    "id": "cbmiyefvx3lxte9ns3bive1jlxjvsnnpwtj4te0znkcxbmleekrqwmrybhdttxmza09jr2zfwvizrm1w",
+    "id": "cbmizefvx3lxte5arznhdgvvbfbhuhrqmwpowvdtejrmoxbgmvphuja5tuj2skczutlpvnvmdufgdhqw",
     "lab": "DeepSeek",
-    "title": "Integrate with AI Tools",
+    "title": "chat_python",
     "summary": "",
-    "date": "2026-07-11T04:40:36.000Z",
+    "date": "2026-07-12T04:12:00.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NS3BiVE1jLXJVSnNPWTJ4TE0zNkcxbmlEekRqWmRYbHdTTXMza09JR2ZFWVIzRm1weEdHcjdDcnlKdXV2aHJCeUs3MWx2bWxXUTBuY2VZVktKU1JXcGdSNA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aRzNhdGVvbFBhUHRqMWpOWVdtejRmOXBGMVpHUjA5TUJ2SkczUTlPVnVMdUFGdHQwX3JWN2VoenI0Qmt2T1B0SjNzcERDX0JNVEtydE1HSWtENzBMRDduTGVMcEg?oc=5",
     "tags": [
-      "integrate",
-      "tools"
+      "chat",
+      "python"
     ]
   }
 ]
