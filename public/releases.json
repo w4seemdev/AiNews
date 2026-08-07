@@ -1,5 +1,123 @@
 [
   {
+    "id": "cbmieefvx3lxte95rxutcvfir1hibmvdrk5srdzevwzsrtlxnxrmu1rxqk1jde1krzbmr3ruoghzovrz",
+    "lab": "Anthropic",
+    "title": "Improving Fable 5's biology safeguards",
+    "summary": "",
+    "date": "2026-08-07T02:22:29.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95RXUtcVFIR1hIbmVDRk5sRDZEVWZSRTlXNXRMU1RXQk1JdE1kRzBMR3RuOGhzOVRZdEs2bGRIX3JIa1ZZbjlCbGx5RzlZRGdQZ3RwLXVidjZyZUpXeU1sM0hYeTQ2QW0zOXlCWnJQenFhZ0dEUFNFUA?oc=5",
+    "tags": [
+      "improving",
+      "fable",
+      "biology",
+      "safeguards"
+    ]
+  },
+  {
+    "id": "cbmiv0fvx3lxtfbsde82eg9qz1jpskpwrknnv2x4yvvbau4ym0lyeep2dmowmvdhagpjb1jaskp5u2f2",
+    "lab": "DeepSeek",
+    "title": "Markdown page example",
+    "summary": "",
+    "date": "2026-08-06T22:33:04.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSdE82eG9QZ1JpSkpwRkNNV2x4YVVBaU4yM0lyeEp2dmowMVdHaGpJb1JaSkp5U2F2RlgyREZvMDIzcXA2S2h1aUtrYnhhOGNreFp3aG82UQ?oc=5",
+    "tags": [
+      "markdown",
+      "page",
+      "example"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-weathernext-ai-model-achieves-breakthrough-in-forecas",
+    "lab": "Google DeepMind",
+    "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+    "summary": "",
+    "date": "2026-08-06T15:06:15.000Z",
+    "category": "feature",
+    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "image": "https://lh3.googleusercontent.com/Mj8GyJnsjROScr1hYl7PL_QCAaLGukliPCTMUlpKiQtZuVkmh2ouydYh80ibejg9vWgKkg2dYPx2jCJOOohKid5P-dLzwvIyB4-fZjWXYIx0ImZd=w528-h297-n-nu-rw-lo",
+    "tags": [
+      "weathernext",
+      "model",
+      "achieves",
+      "breakthrough"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-improving-gpt-5-6-sol-in-chatgpt",
+    "lab": "OpenAI",
+    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+    "date": "2026-08-06T10:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "tags": [
+      "gpt",
+      "sol",
+      "chatgpt",
+      "access"
+    ]
+  },
+  {
+    "id": "cbmix0fvx3lxte01ri1kmw9ovw9mxzvvd19lwepxelm3vw5hs3o0shjhnmt1a2ncx2y4ajmtmgjtqjbq",
+    "lab": "DeepSeek",
+    "title": "Responses API",
+    "summary": "",
+    "date": "2026-08-06T06:31:59.000Z",
+    "category": "api",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01Ri1KMW9OVW9mXzVVd19LWEpXelM3VW5hS3o0SHJhNmt1a2NCX2Y4ajMtMGJtQjBqZVg2cWZ4WktKZi1MeFh4Z2dsT2lkekRURUFySUd2cjhDRlZFOEpZ?oc=5",
+    "tags": [
+      "responses",
+      "api"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-openai-and-apa-partner-to-advance-responsible-ai",
+    "lab": "OpenAI",
+    "title": "Working with the American Psychological Association on youth mental health and AI",
+    "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+    "date": "2026-08-06T06:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+    "tags": [
+      "american",
+      "psychological",
+      "association",
+      "youth"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-baseten",
+    "lab": "Hugging Face",
+    "title": "Baseten on Hugging Face Inference Providers 🔥",
+    "summary": "",
+    "date": "2026-08-06T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/baseten",
+    "tags": [
+      "baseten",
+      "hugging",
+      "face",
+      "inference"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-how-the-world-is-putting-chatgpt-to-work",
+    "lab": "OpenAI",
+    "title": "From asking to doing: How the world is putting ChatGPT to work",
+    "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+    "date": "2026-08-06T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "tags": [
+      "chatgpt",
+      "asking",
+      "doing",
+      "world"
+    ]
+  },
+  {
     "id": "https-openai-com-index-third-party-cyber-evaluations-involving-openai-models",
     "lab": "OpenAI",
     "title": "Third-party cyber evaluations involving OpenAI models",
@@ -146,19 +264,6 @@
     ]
   },
   {
-    "id": "cbmix0fvx3lxte01ri1kmw9ovw9mxzvvd19lwepxelm3vw5hs3o0shjhnmt1a2ncx2y4ajmtmgjtqjbq",
-    "lab": "DeepSeek",
-    "title": "Responses API",
-    "summary": "",
-    "date": "2026-08-01T09:24:53.000Z",
-    "category": "api",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01Ri1KMW9OVW9mXzVVd19LWEpXelM3VW5hS3o0SHJhNmt1a2NCX2Y4ajMtMGJtQjBqZVg2cWZ4WktKZi1MeFh4Z2dsT2lkekRURUFySUd2cjhDRlZFOEpZ?oc=5",
-    "tags": [
-      "responses",
-      "api"
-    ]
-  },
-  {
     "id": "cbmiyefvx3lxtfbmvmxps3rrrepndkktvllnng5fbenptfzycerrae4wudmtmjryofbnndnglxfhvnfu",
     "lab": "xAI",
     "title": "Imagine Video 1.5 with References",
@@ -203,36 +308,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-building-abundant-intelligence",
-    "lab": "OpenAI",
-    "title": "Building abundant intelligence",
-    "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
-    "date": "2026-07-31T15:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/building-abundant-intelligence",
-    "tags": [
-      "building",
-      "abundant",
-      "intelligence",
-      "full"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-unive",
-    "lab": "OpenAI",
-    "title": "Univé builds an AI-ready workforce",
-    "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-    "date": "2026-07-31T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/unive",
-    "tags": [
-      "univ",
-      "ready",
-      "workforce",
-      "builds"
-    ]
-  },
-  {
     "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
     "lab": "xAI",
     "title": "Creators of Grok, the AI Chatbot",
@@ -273,36 +348,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-disrupting-malicious-uses-of-ai-criminal-scam-operation",
-    "lab": "OpenAI",
-    "title": "Disrupting a Criminal Scam Operation",
-    "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-    "date": "2026-07-31T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-    "tags": [
-      "scam",
-      "operation",
-      "disrupting",
-      "criminal"
-    ]
-  },
-  {
-    "id": "cbmif0fvx3lxte4zdnphn3vxrhjayjz1t01touzqaxjha1vozc1ttuzarkk4dnhfdkhht2xptupwvxzf",
-    "lab": "Anthropic",
-    "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-    "summary": "",
-    "date": "2026-07-30T23:03:16.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5",
-    "tags": [
-      "investigating",
-      "three",
-      "real",
-      "world"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-dharma-ai-gpu-management",
     "lab": "Hugging Face",
     "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
@@ -333,18 +378,18 @@
     ]
   },
   {
-    "id": "cbmiu0fvx3lxte1cm2facvnnbxq1medpm0ttyzdosvy0cur1rzhccdbtbjytvu5kwlzszwo5dwy3zvn1",
-    "lab": "xAI",
-    "title": "Introducing Grok Voice Think Fast 2.0",
+    "id": "cbmif0fvx3lxte4zdnphn3vxrhjayjz1t01touzqaxjha1vozc1ttuzarkk4dnhfdkhht2xptupwvxzf",
+    "lab": "Anthropic",
+    "title": "Investigating three real-world incidents in our cybersecurity evaluations",
     "summary": "",
-    "date": "2026-07-29T17:44:53.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CM2FacVNnbXQ1MEdPM0tTYzdoSVY0cUR1RzhCcDBtbjYtVU5kWlZSZWo5dWY3ZVN1c0RIOE5kLVkwSmVwaVBVenBsMVY4Z21LVy1F?oc=5",
+    "date": "2026-07-30T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5",
     "tags": [
-      "grok",
-      "voice",
-      "think",
-      "fast"
+      "investigating",
+      "three",
+      "real",
+      "world"
     ]
   },
   {
@@ -363,17 +408,18 @@
     ]
   },
   {
-    "id": "cbmitkfvx3lxte00v2flmy01ugxfatzxx1bfazfhwuwxvuqwd3nicjblblfzblpeyxdxt0thsxzuvend",
+    "id": "cbmiu0fvx3lxte1cm2facvnnbxq1medpm0ttyzdosvy0cur1rzhccdbtbjytvu5kwlzszwo5dwy3zvn1",
     "lab": "xAI",
-    "title": "Grok 4.5 in GitHub Copilot",
+    "title": "Introducing Grok Voice Think Fast 2.0",
     "summary": "",
-    "date": "2026-07-28T21:02:32.000Z",
+    "date": "2026-07-29T07:00:00.000Z",
     "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00V2FLMy01UGxfaTZXX1BFazFhWUwxVUQwd3NIcjBLblFZblpEYXdXT0tHSXZUVENDQUxOakZCamhBSGVOeURjMTN5aXcxdw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CM2FacVNnbXQ1MEdPM0tTYzdoSVY0cUR1RzhCcDBtbjYtVU5kWlZSZWo5dWY3ZVN1c0RIOE5kLVkwSmVwaVBVenBsMVY4Z21LVy1F?oc=5",
     "tags": [
       "grok",
-      "github",
-      "copilot"
+      "voice",
+      "think",
+      "fast"
     ]
   },
   {
@@ -456,6 +502,20 @@
     ]
   },
   {
+    "id": "cbmitkfvx3lxte00v2flmy01ugxfatzxx1bfazfhwuwxvuqwd3nicjblblfzblpeyxdxt0thsxzuvend",
+    "lab": "xAI",
+    "title": "Grok 4.5 in GitHub Copilot",
+    "summary": "",
+    "date": "2026-07-28T07:00:00.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00V2FLMy01UGxfaTZXX1BFazFhWUwxVUQwd3NIcjBLblFZblpEYXdXT0tHSXZUVENDQUxOakZCamhBSGVOeURjMTN5aXcxdw?oc=5",
+    "tags": [
+      "grok",
+      "github",
+      "copilot"
+    ]
+  },
+  {
     "id": "cbmisefvx3lxtfbaqki4ohfyohfoa3biedhfde1pytbzcfhyyjzvenoxblj3mhfkb3j6rnu2cue5tfez",
     "lab": "xAI",
     "title": "Introducing Build Mode",
@@ -466,21 +526,6 @@
     "tags": [
       "build",
       "mode"
-    ]
-  },
-  {
-    "id": "cbmihafbvv95cuxqrezqdkrabwx0znpom2z0dzdewuitu0fsd2qwsfq2zu05lurwmzrjwenuquy5bfdl",
-    "lab": "Meta",
-    "title": "Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
-    "summary": "",
-    "date": "2026-07-27T13:19:07.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQREZqdkRabWx0ZnpoM2Z0dzdEWUItU0Fsd2QwSFQ2ZU05LURwMzRJWENUQUY5bFdlUmJCd1ZiOGFQUFpTY1FtRnlJUHZDZnpja1dESGtLTmMzVFB6Zm50UFFDUGF6WDByb2NndUgyejRkendFdlVidFE3bEFwbFBfaUs1QjY?oc=5",
-    "tags": [
-      "reimagining",
-      "independence",
-      "meta",
-      "models"
     ]
   },
   {
@@ -525,6 +570,21 @@
       "expanding",
       "partnership",
       "cognizant"
+    ]
+  },
+  {
+    "id": "cbmihafbvv95cuxqrezqdkrabwx0znpom2z0dzdewuitu0fsd2qwsfq2zu05lurwmzrjwenuquy5bfdl",
+    "lab": "Meta",
+    "title": "Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
+    "summary": "",
+    "date": "2026-07-27T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQREZqdkRabWx0ZnpoM2Z0dzdEWUItU0Fsd2QwSFQ2ZU05LURwMzRJWENUQUY5bFdlUmJCd1ZiOGFQUFpTY1FtRnlJUHZDZnpja1dESGtLTmMzVFB6Zm50UFFDUGF6WDByb2NndUgyejRkendFdlVidFE3bEFwbFBfaUs1QjY?oc=5",
+    "tags": [
+      "reimagining",
+      "independence",
+      "meta",
+      "models"
     ]
   },
   {
@@ -624,22 +684,6 @@
       "genesis",
       "mission",
       "accelerating"
-    ]
-  },
-  {
-    "id": "https-blog-google-products-and-platforms-platforms-android-galaxy-unpacked-2026",
-    "lab": "Google DeepMind",
-    "title": "3 Google updates from Galaxy Unpacked 2026",
-    "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
-    "date": "2026-07-22T13:00:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp",
-    "tags": [
-      "google",
-      "galaxy",
-      "unpacked",
-      "shared"
     ]
   },
   {
@@ -774,21 +818,6 @@
     ]
   },
   {
-    "id": "cbmihafbvv95cuxqc0jmz2tkvm9fu0hxdwxzvkmzmfv3mhlqadrdbhy2nefxegltohjublrgx2ffrg9e",
-    "lab": "DeepSeek",
-    "title": "thinking_mode_api_example_streaming",
-    "summary": "",
-    "date": "2026-07-18T08:41:01.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc0JmZ2tKVm9fU0hxdWxZVkMzMFV3MHlqaDRDbHY2NEFxeGltOHJUblRGX2FFRG9EajZXVm9TVlZKcW5BY1NtTVFPeWh3QXBiaWdZemtteWV1TkVFYTZ3YV83bFVvRWdwTWNtcG9KREV3T2FoUnk0cXk4Z2ptcWlOd28zdG8?oc=5",
-    "tags": [
-      "thinking",
-      "mode",
-      "api",
-      "example"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-dharma-ai-newer-models-same-advantages",
     "lab": "Hugging Face",
     "title": "Newer Models, Same Advantage",
@@ -815,34 +844,6 @@
       "security",
       "incident",
       "disclosure"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-ibm-research-model-routing-is-simple-until-it-isnt",
-    "lab": "Hugging Face",
-    "title": "Model Routing Is Simple. Until It Isn’t.",
-    "summary": "",
-    "date": "2026-07-15T17:27:01.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-    "tags": [
-      "model",
-      "routing",
-      "simple",
-      "until"
-    ]
-  },
-  {
-    "id": "cbmix0fvx3lxte5qdmfxwuxkdg9wtlnszxe4zvhfwuu0qjmtmmrvenk1ctvcb1b6dmgzmnr3zwjrngcx",
-    "lab": "Anthropic",
-    "title": "Introducing Claude for Teachers",
-    "summary": "",
-    "date": "2026-07-14T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qdmFxWUxkdG9wTlNsZXE4ZVhfWUU0QjMtMmRvenk1cTVCb1B6dmgzMnR3ZWJRNGcxUWRiRDRGbVdzTkdWUUNIUF91Ml9ZZzVmTjRtc3dzNHdIWklWREUw?oc=5",
-    "tags": [
-      "claude",
-      "teachers"
     ]
   },
   {
