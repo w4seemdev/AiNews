@@ -1,5 +1,77 @@
 [
   {
+    "id": "cbmit0fvx3lxte9htvhhddlteujbzhdutwhqs0u5mw1nafvpekdtzjnbbud3vnnqaflnd0fnyvlstdvk",
+    "lab": "xAI",
+    "title": "Imagine Image 2.0",
+    "summary": "",
+    "date": "2026-08-08T03:21:04.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HTVhhdDlteUJBZHduTWhqS0U5MW1NaFVPekdTZjNBbUd3VnNqaFlnd0FNYVlSTDVkSm9zdHJNdkVOR0kyaFlwUlpoaFh4aEU?oc=5",
+    "tags": [
+      "imagine",
+      "image"
+    ]
+  },
+  {
+    "id": "cbmix0fvx3lxtfa4cfnywk9yckhor3hnstb4t3dkx1nlywi1nfbergnrvkpwtlozauzjogpemkxxbm1y",
+    "lab": "DeepSeek",
+    "title": "Markdown page example",
+    "summary": "",
+    "date": "2026-08-08T01:47:10.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4cFNYWk9yckhoR3hNSTB4T3dKX1NLYWI1NFBERGNrVkpWTlozaUZjOGpEMkxxbm1yZ0dFTlM3SmpIQlVFM3B5LVRPRkpKZDYzdWhPSUNMRkVFLS04T3VN?oc=5",
+    "tags": [
+      "markdown",
+      "page",
+      "example"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-allenai-tutormoments",
+    "lab": "Hugging Face",
+    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+    "summary": "",
+    "date": "2026-08-07T17:53:32.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/allenai/tutormoments",
+    "tags": [
+      "tutormoments",
+      "tutors",
+      "know",
+      "help"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-responding-next-frontier-critical-cyber-capabilities",
+    "lab": "OpenAI",
+    "title": "Responding to the next frontier of critical cyber capabilities",
+    "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+    "date": "2026-08-07T15:20:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "tags": [
+      "responding",
+      "next",
+      "frontier",
+      "critical"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-hsp-gruppe",
+    "lab": "OpenAI",
+    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+    "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+    "date": "2026-08-07T09:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/hsp-gruppe",
+    "tags": [
+      "hsp",
+      "gruppe",
+      "tax",
+      "advisory"
+    ]
+  },
+  {
     "id": "cbmieefvx3lxte95rxutcvfir1hibmvdrk5srdzevwzsrtlxnxrmu1rxqk1jde1krzbmr3ruoghzovrz",
     "lab": "Anthropic",
     "title": "Improving Fable 5's biology safeguards",
@@ -135,16 +207,16 @@
   {
     "id": "cbmivkfvx3lxte9vode3repjodf0tzhuztbctfpedtnmnxfsv2qtohhzz0nuvulmtdveszzqm2zhqwl4",
     "lab": "Anthropic",
-    "title": "Tino Cuellar joins Anthropic as Chief Global Affairs Officer",
+    "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
     "summary": "",
     "date": "2026-08-04T17:05:54.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vODE3REpJODF0TzhuZTBCTFpEdTNMNXFsV2QtOHhzZ0NUVUlmTDVESzZQM2ZHQWl4MkxaSzY1Z0pNSWVUaTB4NzRsX0dUVGxqWWIwVkFB?oc=5",
     "tags": [
+      "mariano",
+      "florentino",
       "tino",
-      "cuellar",
-      "joins",
-      "anthropic"
+      "llar"
     ]
   },
   {
@@ -278,36 +350,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-ten-advances-in-mathematics",
-    "lab": "OpenAI",
-    "title": "Ten advances in mathematics and theoretical computer science",
-    "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-    "date": "2026-08-01T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/ten-advances-in-mathematics",
-    "tags": [
-      "advances",
-      "mathematics",
-      "theoretical",
-      "computer"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-advancing-responsible-ai-across-europe",
-    "lab": "OpenAI",
-    "title": "Advancing responsible AI across Europe",
-    "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-    "date": "2026-07-31T15:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-    "tags": [
-      "responsible",
-      "europe",
-      "advancing",
-      "across"
-    ]
-  },
-  {
     "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
     "lab": "xAI",
     "title": "Creators of Grok, the AI Chatbot",
@@ -326,7 +368,7 @@
     "lab": "DeepSeek",
     "title": "Integrate with Codex",
     "summary": "",
-    "date": "2026-07-31T06:19:12.000Z",
+    "date": "2026-07-31T06:19:11.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GRGhxU2xwYjdRLXZBWE1XLXlsdUtBQkpRNkFjQ2FhTjUySnRHWDRyZ2VLMVFmSEJNWGpKUVF1d2lscjBuRHd0ODN2TGpIYkZIdFdVUGJ0OHFXMmJORGZoMktFX0hhMHU5ZmtrZEh0aTFIR3dXaEE?oc=5",
     "tags": [
@@ -420,21 +462,6 @@
       "voice",
       "think",
       "fast"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-allenai-olmoearth-infrastructure",
-    "lab": "Hugging Face",
-    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-    "summary": "",
-    "date": "2026-07-28T16:27:42.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-    "tags": [
-      "olmoearth",
-      "platform",
-      "geospatial",
-      "inference"
     ]
   },
   {
@@ -687,21 +714,6 @@
     ]
   },
   {
-    "id": "cbmid0fvx3lxte1hmldwatvqmzdleertr0fwvgr2ehiwy3lqq3vwm2c5mnvlss14wwfzstlsqmj0rg5e",
-    "lab": "Anthropic",
-    "title": "A research agenda for the Economic Futures Research Fund",
-    "summary": "",
-    "date": "2026-07-22T07:00:00.000Z",
-    "category": "research",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HMldWaTVQMzdleERTR0FWVGR2eHIwY3lqQ3VwM2c5MnVlSS14WWFzSTlSQmJ0RG5ER3VSemFVaUYxVjg4NVE5Q2hqcko5cFgyTGtod2J5MFl6RmNoaGdfdld4aUxrR29IY3QxTDZJUXpTcjlRWXdV?oc=5",
-    "tags": [
-      "research",
-      "agenda",
-      "economic",
-      "futures"
-    ]
-  },
-  {
     "id": "cbmic0fvx3lxte1syk1fq3pammnwyurwwwfzq3vdbla3yy05c3f4mxjxtnvhlvlhmdqym2pdq3a0vjnh",
     "lab": "Anthropic",
     "title": "The Anthropic Economic Index connector",
@@ -714,6 +726,21 @@
       "economic",
       "index",
       "connector"
+    ]
+  },
+  {
+    "id": "cbmid0fvx3lxte1hmldwatvqmzdleertr0fwvgr2ehiwy3lqq3vwm2c5mnvlss14wwfzstlsqmj0rg5e",
+    "lab": "Anthropic",
+    "title": "A research agenda for the Economic Futures Research Fund",
+    "summary": "",
+    "date": "2026-07-22T07:00:00.000Z",
+    "category": "research",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HMldWaTVQMzdleERTR0FWVGR2eHIwY3lqQ3VwM2c5MnVlSS14WWFzSTlSQmJ0RG5ER3VSemFVaUYxVjg4NVE5Q2hqcko5cFgyTGtod2J5MFl6RmNoaGdfdld4aUxrR29IY3QxTDZJUXpTcjlRWXdV?oc=5",
+    "tags": [
+      "research",
+      "agenda",
+      "economic",
+      "futures"
     ]
   },
   {
@@ -805,19 +832,6 @@
     ]
   },
   {
-    "id": "cbmiu0fvx3lxte9urgpsyzdwu0pruuw3mllsvwy1auzrqvjdq1owmlzxyjatrkyybvn5wm9wbhjtz2lh",
-    "lab": "xAI",
-    "title": "Grok for Excel",
-    "summary": "",
-    "date": "2026-07-20T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9URGpsYzdWU0prUUw3MllsVWY1aUZrQVJDQ1owMlZxYjAtRkYybVN5Wm9wbHJtZ2lHX3NXM3lyX1RhUXBvVWl1QUt6SE42SzVYYWdR?oc=5",
-    "tags": [
-      "grok",
-      "excel"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-dharma-ai-newer-models-same-advantages",
     "lab": "Hugging Face",
     "title": "Newer Models, Same Advantage",
@@ -858,19 +872,6 @@
       "terminus",
       "comparison",
       "testing"
-    ]
-  },
-  {
-    "id": "cbmizefvx3lxte5arznhdgvvbfbhuhrqmwpowvdtejrmoxbgmvphuja5tuj2skczutlpvnvmdufgdhqw",
-    "lab": "DeepSeek",
-    "title": "chat_python",
-    "summary": "",
-    "date": "2026-07-12T04:12:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aRzNhdGVvbFBhUHRqMWpOWVdtejRmOXBGMVpHUjA5TUJ2SkczUTlPVnVMdUFGdHQwX3JWN2VoenI0Qmt2T1B0SjNzcERDX0JNVEtydE1HSWtENzBMRDduTGVMcEg?oc=5",
-    "tags": [
-      "chat",
-      "python"
     ]
   }
 ]
