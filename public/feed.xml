@@ -5,7 +5,7 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Aug 2026 06:44:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 06:49:59 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Imagine Image 2.0</title>
@@ -218,15 +218,6 @@
       <title>Imagine Video 1.5 with References</title>
       <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmVmxPS3RRREpNdkktVllNNG5fbENpTFZYcERRaE4wUDMtMjRYOFBnNDNGLXFhVnFuUzNNdzRNMllGT0tSNGY1N2JFSFAxMVFKcGMyOEV1UTNzTWEyRm9BTA?oc=5</link>
       <guid isPermaLink="false">cbmiyefvx3lxtfbmvmxps3rrrepndkktvllnng5fbenptfzycerrae4wudmtmjryofbnndnglxfhvnfu</guid>
-      <pubDate>Sat, 01 Aug 2026 00:14:57 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Creators of Grok, the AI Chatbot</title>
-      <link>https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5</link>
-      <guid isPermaLink="false">cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq</guid>
       <pubDate>Fri, 31 Jul 2026 07:00:00 GMT</pubDate>
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
@@ -521,6 +512,24 @@
       <category>research</category>
     </item>
     <item>
+      <title>Grok for Excel</title>
+      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9URGpsYzdWU0prUUw3MllsVWY1aUZrQVJDQ1owMlZxYjAtRkYybVN5Wm9wbHJtZ2lHX3NXM3lyX1RhUXBvVWl1QUt6SE42SzVYYWdR?oc=5</link>
+      <guid isPermaLink="false">cbmiu0fvx3lxte9urgpsyzdwu0pruuw3mllsvwy1auzrqvjdq1owmlzxyjatrkyybvn5wm9wbhjtz2lh</guid>
+      <pubDate>Mon, 20 Jul 2026 07:00:00 GMT</pubDate>
+      <description>Source: xAI</description>
+      <source url="https://ai-pulse.vercel.app">xAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>thinking_mode_api_example_streaming</title>
+      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQc0JmZ2tKVm9fU0hxdWxZVkMzMFV3MHlqaDRDbHY2NEFxeGltOHJUblRGX2FFRG9EajZXVm9TVlZKcW5BY1NtTVFPeWh3QXBiaWdZemtteWV1TkVFYTZ3YV83bFVvRWdwTWNtcG9KREV3T2FoUnk0cXk4Z2ptcWlOd28zdG8?oc=5</link>
+      <guid isPermaLink="false">cbmihafbvv95cuxqc0jmz2tkvm9fu0hxdwxzvkmzmfv3mhlqadrdbhy2nefxegltohjublrgx2ffrg9e</guid>
+      <pubDate>Sat, 18 Jul 2026 08:41:01 GMT</pubDate>
+      <description>Source: DeepSeek</description>
+      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
+      <category>feature</category>
+    </item>
+    <item>
       <title>Newer Models, Same Advantage</title>
       <link>https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages</link>
       <guid isPermaLink="false">https-huggingface-co-blog-dharma-ai-newer-models-same-advantages</guid>
@@ -537,15 +546,6 @@
       <description>Source: Hugging Face</description>
       <source url="https://ai-pulse.vercel.app">Hugging Face</source>
       <category>feature</category>
-    </item>
-    <item>
-      <title>V3.1-Terminus Comparison Testing</title>
-      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hRGJiYjdnMEpBMU9EaVl6MjZ1WjNvQ1FrMDM5Qjdsd19VVlpwVkVscXBZQ3NNVDF6TTU1NXlUOTJCaTYwclNYbV9pNkIyd3BXSmVpaXE1MnQ0c1RrN05DbUdiUktCMlE?oc=5</link>
-      <guid isPermaLink="false">cbmiz0fvx3lxte5hrgjiyjdnmepbmu9eavl6mjz1wjnvq1frmdm5qjdsd19vvlpwvkvscxbzq3nnvdf6</guid>
-      <pubDate>Tue, 14 Jul 2026 01:41:57 GMT</pubDate>
-      <description>Source: DeepSeek</description>
-      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
-      <category>model</category>
     </item>
   </channel>
 </rss>

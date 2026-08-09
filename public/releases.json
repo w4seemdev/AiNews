@@ -340,27 +340,13 @@
     "lab": "xAI",
     "title": "Imagine Video 1.5 with References",
     "summary": "",
-    "date": "2026-08-01T00:14:57.000Z",
+    "date": "2026-07-31T07:00:00.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmVmxPS3RRREpNdkktVllNNG5fbENpTFZYcERRaE4wUDMtMjRYOFBnNDNGLXFhVnFuUzNNdzRNMllGT0tSNGY1N2JFSFAxMVFKcGMyOEV1UTNzTWEyRm9BTA?oc=5",
     "tags": [
       "imagine",
       "video",
       "references"
-    ]
-  },
-  {
-    "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
-    "lab": "xAI",
-    "title": "Creators of Grok, the AI Chatbot",
-    "summary": "",
-    "date": "2026-07-31T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
-    "tags": [
-      "creators",
-      "grok",
-      "chatbot"
     ]
   },
   {
@@ -832,6 +818,34 @@
     ]
   },
   {
+    "id": "cbmiu0fvx3lxte9urgpsyzdwu0pruuw3mllsvwy1auzrqvjdq1owmlzxyjatrkyybvn5wm9wbhjtz2lh",
+    "lab": "xAI",
+    "title": "Grok for Excel",
+    "summary": "",
+    "date": "2026-07-20T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9URGpsYzdWU0prUUw3MllsVWY1aUZrQVJDQ1owMlZxYjAtRkYybVN5Wm9wbHJtZ2lHX3NXM3lyX1RhUXBvVWl1QUt6SE42SzVYYWdR?oc=5",
+    "tags": [
+      "grok",
+      "excel"
+    ]
+  },
+  {
+    "id": "cbmihafbvv95cuxqc0jmz2tkvm9fu0hxdwxzvkmzmfv3mhlqadrdbhy2nefxegltohjublrgx2ffrg9e",
+    "lab": "DeepSeek",
+    "title": "thinking_mode_api_example_streaming",
+    "summary": "",
+    "date": "2026-07-18T08:41:01.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc0JmZ2tKVm9fU0hxdWxZVkMzMFV3MHlqaDRDbHY2NEFxeGltOHJUblRGX2FFRG9EajZXVm9TVlZKcW5BY1NtTVFPeWh3QXBiaWdZemtteWV1TkVFYTZ3YV83bFVvRWdwTWNtcG9KREV3T2FoUnk0cXk4Z2ptcWlOd28zdG8?oc=5",
+    "tags": [
+      "thinking",
+      "mode",
+      "api",
+      "example"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-dharma-ai-newer-models-same-advantages",
     "lab": "Hugging Face",
     "title": "Newer Models, Same Advantage",
@@ -858,20 +872,6 @@
       "security",
       "incident",
       "disclosure"
-    ]
-  },
-  {
-    "id": "cbmiz0fvx3lxte5hrgjiyjdnmepbmu9eavl6mjz1wjnvq1frmdm5qjdsd19vvlpwvkvscxbzq3nnvdf6",
-    "lab": "DeepSeek",
-    "title": "V3.1-Terminus Comparison Testing",
-    "summary": "",
-    "date": "2026-07-14T01:41:57.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hRGJiYjdnMEpBMU9EaVl6MjZ1WjNvQ1FrMDM5Qjdsd19VVlpwVkVscXBZQ3NNVDF6TTU1NXlUOTJCaTYwclNYbV9pNkIyd3BXSmVpaXE1MnQ0c1RrN05DbUdiUktCMlE?oc=5",
-    "tags": [
-      "terminus",
-      "comparison",
-      "testing"
     ]
   }
 ]
