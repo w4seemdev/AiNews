@@ -5,8 +5,125 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Aug 2026 06:49:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 07:00:12 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>What building an AI-native finance function taught me</title>
+      <link>https://openai.com/index/building-an-ai-native-finance-function</link>
+      <guid isPermaLink="false">https-openai-com-index-building-an-ai-native-finance-function</guid>
+      <pubDate>Mon, 10 Aug 2026 17:00:00 GMT</pubDate>
+      <description>OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Build Low-Latency Multilingual Voice Agents: Open Weights &amp; Full Deployment Control with NVIDIA Magpie TTS</title>
+      <link>https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-nvidia-magpie-tts-multilingual-voice-agents</guid>
+      <pubDate>Mon, 10 Aug 2026 16:25:36 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>model</category>
+    </item>
+    <item>
+      <title>Evolve your marketing with new AI tools</title>
+      <link>https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/</link>
+      <guid isPermaLink="false">https-blog-google-products-ads-commerce-google-ads-analytics-ai-updates</guid>
+      <pubDate>Mon, 10 Aug 2026 14:30:00 GMT</pubDate>
+      <description>Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow. (Source: Google DeepMind)</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas</title>
+      <link>https://openai.com/index/responsible-ai-infrastructure-texas</link>
+      <guid isPermaLink="false">https-openai-com-index-responsible-ai-infrastructure-texas</guid>
+      <pubDate>Mon, 10 Aug 2026 14:00:00 GMT</pubDate>
+      <description>OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Model ML completes finance work more efficiently with GPT-5.6 Sol</title>
+      <link>https://openai.com/index/model-ml</link>
+      <guid isPermaLink="false">https-openai-com-index-model-ml</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+      <description>Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>research</category>
+    </item>
+    <item>
+      <title>Making Knowledge Distillation Cheap Enough to Run at Scale</title>
+      <link>https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-multiversecomputingcai-efficient-knowledge-distillatio</guid>
+      <pubDate>Mon, 10 Aug 2026 10:05:36 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Expanding Daybreak as the Cyber Defense Window Narrows</title>
+      <link>https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows</link>
+      <guid isPermaLink="false">https-openai-com-index-expanding-daybreak-as-the-cyber-defense-window-narrows</guid>
+      <pubDate>Mon, 10 Aug 2026 10:00:00 GMT</pubDate>
+      <description>Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>research</category>
+    </item>
+    <item>
+      <title>Putting frontier cyber models in more trusted hands</title>
+      <link>https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands</link>
+      <guid isPermaLink="false">https-openai-com-index-putting-frontier-cyber-models-in-more-trusted-hands</guid>
+      <pubDate>Mon, 10 Aug 2026 10:00:00 GMT</pubDate>
+      <description>Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Meta is back with Muse Glimmer: local, agentic, multimodal, and open source</title>
+      <link>https://huggingface.co/blog/muse-glimmer</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-muse-glimmer</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Premium seats are coming to ChatGPT Business</title>
+      <link>https://openai.com/index/premium-seats-chatgpt-business</link>
+      <guid isPermaLink="false">https-openai-com-index-premium-seats-chatgpt-business</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team&apos;s most demanding work. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>How Zapier transformed core marketing processes with ChatGPT Work</title>
+      <link>https://openai.com/index/zapier</link>
+      <guid isPermaLink="false">https-openai-com-index-zapier</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <description>The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Virgin Atlantic sharpens customer journeys with ChatGPT Work</title>
+      <link>https://openai.com/index/virgin-atlantic/chatgpt-work</link>
+      <guid isPermaLink="false">https-openai-com-index-virgin-atlantic-chatgpt-work</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>research</category>
+    </item>
+    <item>
+      <title>Responses API</title>
+      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE01Ri1KMW9OVW9mXzVVd19LWEpXelM3VW5hS3o0SHJhNmt1a2NCX2Y4ajMtMGJtQjBqZVg2cWZ4WktKZi1MeFh4Z2dsT2lkekRURUFySUd2cjhDRlZFOEpZ?oc=5</link>
+      <guid isPermaLink="false">cbmix0fvx3lxte01ri1kmw9ovw9mxzvvd19lwepxelm3vw5hs3o0shjhnmt1a2ncx2y4ajmtmgjtqjbq</guid>
+      <pubDate>Sat, 08 Aug 2026 09:37:50 GMT</pubDate>
+      <description>Source: DeepSeek</description>
+      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
+      <category>api</category>
+    </item>
     <item>
       <title>Imagine Image 2.0</title>
       <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HTVhhdDlteUJBZHduTWhqS0U5MW1NaFVPekdTZjNBbUd3VnNqaFlnd0FNYVlSTDVkSm9zdHJNdkVOR0kyaFlwUlpoaFh4aEU?oc=5</link>
@@ -53,6 +170,15 @@
       <category>feature</category>
     </item>
     <item>
+      <title>Creators of Grok, the AI Chatbot</title>
+      <link>https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5</link>
+      <guid isPermaLink="false">cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq</guid>
+      <pubDate>Fri, 07 Aug 2026 07:00:00 GMT</pubDate>
+      <description>Source: xAI</description>
+      <source url="https://ai-pulse.vercel.app">xAI</source>
+      <category>feature</category>
+    </item>
+    <item>
       <title>Improving Fable 5&apos;s biology safeguards</title>
       <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE95RXUtcVFIR1hIbmVDRk5sRDZEVWZSRTlXNXRMU1RXQk1JdE1kRzBMR3RuOGhzOVRZdEs2bGRIX3JIa1ZZbjlCbGx5RzlZRGdQZ3RwLXVidjZyZUpXeU1sM0hYeTQ2QW0zOXlCWnJQenFhZ0dEUFNFUA?oc=5</link>
       <guid isPermaLink="false">cbmieefvx3lxte95rxutcvfir1hibmvdrk5srdzevwzsrtlxnxrmu1rxqk1jde1krzbmr3ruoghzovrz</guid>
@@ -80,57 +206,12 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users</title>
-      <link>https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt</link>
-      <guid isPermaLink="false">https-openai-com-index-improving-gpt-5-6-sol-in-chatgpt</guid>
-      <pubDate>Thu, 06 Aug 2026 10:00:00 GMT</pubDate>
-      <description>ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>model</category>
-    </item>
-    <item>
-      <title>Responses API</title>
-      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE01Ri1KMW9OVW9mXzVVd19LWEpXelM3VW5hS3o0SHJhNmt1a2NCX2Y4ajMtMGJtQjBqZVg2cWZ4WktKZi1MeFh4Z2dsT2lkekRURUFySUd2cjhDRlZFOEpZ?oc=5</link>
-      <guid isPermaLink="false">cbmix0fvx3lxte01ri1kmw9ovw9mxzvvd19lwepxelm3vw5hs3o0shjhnmt1a2ncx2y4ajmtmgjtqjbq</guid>
-      <pubDate>Thu, 06 Aug 2026 06:31:59 GMT</pubDate>
-      <description>Source: DeepSeek</description>
-      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
-      <category>api</category>
-    </item>
-    <item>
-      <title>Working with the American Psychological Association on youth mental health and AI</title>
-      <link>https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai</link>
-      <guid isPermaLink="false">https-openai-com-index-openai-and-apa-partner-to-advance-responsible-ai</guid>
-      <pubDate>Thu, 06 Aug 2026 06:00:00 GMT</pubDate>
-      <description>OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Baseten on Hugging Face Inference Providers 🔥</title>
       <link>https://huggingface.co/blog/baseten</link>
       <guid isPermaLink="false">https-huggingface-co-blog-baseten</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
       <description>Source: Hugging Face</description>
       <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>From asking to doing: How the world is putting ChatGPT to work</title>
-      <link>https://openai.com/index/how-the-world-is-putting-chatgpt-to-work</link>
-      <guid isPermaLink="false">https-openai-com-index-how-the-world-is-putting-chatgpt-to-work</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
-      <description>New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Third-party cyber evaluations involving OpenAI models</title>
-      <link>https://openai.com/index/third-party-cyber-evaluations-involving-openai-models</link>
-      <guid isPermaLink="false">https-openai-com-index-third-party-cyber-evaluations-involving-openai-models</guid>
-      <pubDate>Tue, 04 Aug 2026 19:00:00 GMT</pubDate>
-      <description>OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
       <category>feature</category>
     </item>
     <item>
@@ -170,24 +251,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>New ways to learn and teach with ChatGPT Work and Codex</title>
-      <link>https://openai.com/index/learn-teach-chatgpt-work-codex</link>
-      <guid isPermaLink="false">https-openai-com-index-learn-teach-chatgpt-work-codex</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
-      <description>Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>research</category>
-    </item>
-    <item>
-      <title>Apple is getting this wrong</title>
-      <link>https://openai.com/index/apple-is-getting-this-wrong</link>
-      <guid isPermaLink="false">https-openai-com-index-apple-is-getting-this-wrong</guid>
-      <pubDate>Mon, 03 Aug 2026 22:00:00 GMT</pubDate>
-      <description>OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Inside our 353,000-person vibe coding course</title>
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/</link>
       <guid isPermaLink="false">https-blog-google-innovation-and-ai-technology-developers-tools-ai-agents-intens</guid>
@@ -195,24 +258,6 @@
       <description>Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI. (Source: Google DeepMind)</description>
       <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
       <category>feature</category>
-    </item>
-    <item>
-      <title>How we built a realtime system for responsive voice AI in six months</title>
-      <link>https://openai.com/index/continuous-voice-interaction-with-gpt-live</link>
-      <guid isPermaLink="false">https-openai-com-index-continuous-voice-interaction-with-gpt-live</guid>
-      <pubDate>Mon, 03 Aug 2026 07:00:00 GMT</pubDate>
-      <description>GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Circles powers telco personalization with OpenAI technology</title>
-      <link>https://openai.com/index/circles</link>
-      <guid isPermaLink="false">https-openai-com-index-circles</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
-      <description>Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>api</category>
     </item>
     <item>
       <title>Imagine Video 1.5 with References</title>
@@ -227,7 +272,7 @@
       <title>Integrate with Codex</title>
       <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE1GRGhxU2xwYjdRLXZBWE1XLXlsdUtBQkpRNkFjQ2FhTjUySnRHWDRyZ2VLMVFmSEJNWGpKUVF1d2lscjBuRHd0ODN2TGpIYkZIdFdVUGJ0OHFXMmJORGZoMktFX0hhMHU5ZmtrZEh0aTFIR3dXaEE?oc=5</link>
       <guid isPermaLink="false">cbmidkfvx3lxte1grghxu2xwyjdrlxzbwe1xlxlsdutbqkprnkfjq2fhtjuysnrhwdryz2vlmvfmsejn</guid>
-      <pubDate>Fri, 31 Jul 2026 06:19:11 GMT</pubDate>
+      <pubDate>Fri, 31 Jul 2026 06:19:12 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>feature</category>
@@ -431,15 +476,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission</title>
-      <link>https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/</link>
-      <guid isPermaLink="false">https-deepmind-google-blog-accelerating-the-frontiers-of-scientific-discovery-go</guid>
-      <pubDate>Wed, 22 Jul 2026 13:38:54 GMT</pubDate>
-      <description>Google commits $40M in AI tokens and credits for the Genesis Mission (Source: Google DeepMind)</description>
-      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>The Anthropic Economic Index connector</title>
       <link>https://news.google.com/rss/articles/CBMic0FVX3lxTE1SYk1FQ3paMmNwYURwWWFZQ3VDblA3Yy05c3F4MXJxTnVHLVlHMDQyM2pDQ3A0VjNhNl90Q2xzNFpyYVlhUkdXb2ZTVUR5MFZnVWpkaFRmdkxPUGZoTGYyakJnTzhBOGJOaDF1Q1ZDa3haVkU?oc=5</link>
       <guid isPermaLink="false">cbmic0fvx3lxte1syk1fq3pammnwyurwwwfzq3vdbla3yy05c3f4mxjxtnvhlvlhmdqym2pdq3a0vjnh</guid>
@@ -465,6 +501,15 @@
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
       <category>model</category>
+    </item>
+    <item>
+      <title>thinking_mode_api_example_streaming</title>
+      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTFBMUS1uMktoamVCZHlTcEd2Z1Foanc1bTg3UkZGZ3dFY0pUSlVWN3JDSUtjSEhCWXFRR0hzdjNZanVFMzBhajRXdFhPX0NDamdJUnRpNDA0bV9nQW9ISUJpbjlyUWVUVVRUeTRKZ2JNVFB0ZmJUNlZhQXpGZVJsUQ?oc=5</link>
+      <guid isPermaLink="false">cbmifkfvx3lxtfbmus1umktoamvczhltced2z1foanc1btg3ukzgz3dfy0puslvwn3jdsutjsehcwxfr</guid>
+      <pubDate>Tue, 21 Jul 2026 18:40:25 GMT</pubDate>
+      <description>Source: DeepSeek</description>
+      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
+      <category>feature</category>
     </item>
     <item>
       <title>Donating another $20 million to Public First Action</title>
@@ -494,15 +539,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Grabette: an open system to record robot-manipulation data</title>
-      <link>https://huggingface.co/blog/grabette</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-grabette</guid>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Apply for Anthropic’s AI for Science rare disease research grants</title>
       <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE1STEpkV0VLajlBMFFERkROS2RUVTBjUXJseDctQWhpdFZ2dXRyd0paRTRneTRKMU5XdzBaSjVZeUpiOGQxM3liVzVDNGNUT1NRc1ViMjJqX3ZWYTJBejNPUUZNZXhZa0dkaGk0?oc=5</link>
       <guid isPermaLink="false">cbmia0fvx3lxte1stepkv0vlajlbmfferkros2ruvtbjuxjsedctqwhpdfz2dxryd0partrnetrkmu5x</guid>
@@ -510,42 +546,6 @@
       <description>Source: Anthropic</description>
       <source url="https://ai-pulse.vercel.app">Anthropic</source>
       <category>research</category>
-    </item>
-    <item>
-      <title>Grok for Excel</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9URGpsYzdWU0prUUw3MllsVWY1aUZrQVJDQ1owMlZxYjAtRkYybVN5Wm9wbHJtZ2lHX3NXM3lyX1RhUXBvVWl1QUt6SE42SzVYYWdR?oc=5</link>
-      <guid isPermaLink="false">cbmiu0fvx3lxte9urgpsyzdwu0pruuw3mllsvwy1auzrqvjdq1owmlzxyjatrkyybvn5wm9wbhjtz2lh</guid>
-      <pubDate>Mon, 20 Jul 2026 07:00:00 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>thinking_mode_api_example_streaming</title>
-      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQc0JmZ2tKVm9fU0hxdWxZVkMzMFV3MHlqaDRDbHY2NEFxeGltOHJUblRGX2FFRG9EajZXVm9TVlZKcW5BY1NtTVFPeWh3QXBiaWdZemtteWV1TkVFYTZ3YV83bFVvRWdwTWNtcG9KREV3T2FoUnk0cXk4Z2ptcWlOd28zdG8?oc=5</link>
-      <guid isPermaLink="false">cbmihafbvv95cuxqc0jmz2tkvm9fu0hxdwxzvkmzmfv3mhlqadrdbhy2nefxegltohjublrgx2ffrg9e</guid>
-      <pubDate>Sat, 18 Jul 2026 08:41:01 GMT</pubDate>
-      <description>Source: DeepSeek</description>
-      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Newer Models, Same Advantage</title>
-      <link>https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-dharma-ai-newer-models-same-advantages</guid>
-      <pubDate>Thu, 16 Jul 2026 11:49:48 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Security incident disclosure — July 2026</title>
-      <link>https://huggingface.co/blog/security-incident-july-2026</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-security-incident-july-2026</guid>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
     </item>
   </channel>
 </rss>
