@@ -5,8 +5,80 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2026 07:18:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 07:20:58 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis</title>
+      <link>https://huggingface.co/blog/allenai/olmoearth-embeddings</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-allenai-olmoearth-embeddings</guid>
+      <pubDate>Wed, 12 Aug 2026 16:14:36 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Introducing Grok 4.6</title>
+      <link>https://news.google.com/rss/articles/CBMiP0FVX3lxTE4zcG91Z21nQjM5X2JqWDBlVkdjRndCXzkxbnFWYmVua0dDTWxkQWZCMzNyajY0YWNUWGhjcmo5UQ?oc=5</link>
+      <guid isPermaLink="false">cbmip0fvx3lxte4zcg91z21nqjm5x2jqwdblvkdjrndcxzkxbnfwymvua0ddtwxkqwzcmznyajy0ywnu</guid>
+      <pubDate>Wed, 12 Aug 2026 15:29:33 GMT</pubDate>
+      <description>Source: xAI</description>
+      <source url="https://ai-pulse.vercel.app">xAI</source>
+      <category>model</category>
+    </item>
+    <item>
+      <title>Putting sign language AI into users’ hands</title>
+      <link>https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/</link>
+      <guid isPermaLink="false">https-deepmind-google-blog-putting-sign-language-ai-into-users-hands</guid>
+      <pubDate>Wed, 12 Aug 2026 14:01:59 GMT</pubDate>
+      <description>Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users. (Source: Google DeepMind)</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
+      <category>model</category>
+    </item>
+    <item>
+      <title>LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge</title>
+      <link>https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-liquidai-lfm2-5-vl-3b</guid>
+      <pubDate>Wed, 12 Aug 2026 14:00:51 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>From assistance to execution: How enterprises put AI to work</title>
+      <link>https://openai.com/index/how-enterprises-put-ai-to-work</link>
+      <guid isPermaLink="false">https-openai-com-index-how-enterprises-put-ai-to-work</guid>
+      <pubDate>Wed, 12 Aug 2026 06:00:00 GMT</pubDate>
+      <description>OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>research</category>
+    </item>
+    <item>
+      <title>How RingCentral builds AI-native work from engineering to ops</title>
+      <link>https://openai.com/index/ringcentral</link>
+      <guid isPermaLink="false">https-openai-com-index-ringcentral</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+      <description>See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>In-region inference, open models, and new European infrastructure for sovereign AI.</title>
+      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE9zbGlwUWhiRC1udXFGMzJHeGZkUmN6bHk4T3UxWE5uM2trY2xhUUdTeXZzQ1ZSTXlvc3AzMWREczBUcjg0N1g4ZWdaSkJkVldfYWJ0SjR5cGFGMlFpdUpFTGNTS0EyVm45dllmc21TckJwT05IalE?oc=5</link>
+      <guid isPermaLink="false">cbmidkfvx3lxte9zbglwuwhirc1udxfgmzjhegzkumn6bhk4t3uxwe5um2try2xhuudtexzzq1zstxlv</guid>
+      <pubDate>Tue, 11 Aug 2026 23:37:50 GMT</pubDate>
+      <description>Source: Mistral</description>
+      <source url="https://ai-pulse.vercel.app">Mistral</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Introducing Grok Bot</title>
+      <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CZnlxMXRUUXNoeEMwOGZIcjVOLW9JODJFTTRSV21XV2FvU3Q5ZUJpS2FOcTNoay1ud056cG5tcEJGV05uVE5lWlFFeVpDUXc?oc=5</link>
+      <guid isPermaLink="false">cbmit0fvx3lxte9cznlxmxruuxnoeemwogzicjvolw9jodjfttrsv21xv2fvu3q5zujps2foctnoay1u</guid>
+      <pubDate>Tue, 11 Aug 2026 23:05:39 GMT</pubDate>
+      <description>Source: xAI</description>
+      <source url="https://ai-pulse.vercel.app">xAI</source>
+      <category>feature</category>
+    </item>
     <item>
       <title>AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/</link>
@@ -15,24 +87,6 @@
       <description>Google introduces AMIE for real-time clinical video consultations in simulated settings. (Source: Google DeepMind)</description>
       <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
       <category>research</category>
-    </item>
-    <item>
-      <title>Introducing Grok Bot</title>
-      <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CZnlxMXRUUXNoeEMwOGZIcjVOLW9JODJFTTRSV21XV2FvU3Q5ZUJpS2FOcTNoay1ud056cG5tcEJGV05uVE5lWlFFeVpDUXc?oc=5</link>
-      <guid isPermaLink="false">cbmit0fvx3lxte9cznlxmxruuxnoeemwogzicjvolw9jodjfttrsv21xv2fvu3q5zujps2foctnoay1u</guid>
-      <pubDate>Tue, 11 Aug 2026 16:59:33 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>In-region inference, open models, and new European infrastructure for sovereign AI.</title>
-      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE9zbGlwUWhiRC1udXFGMzJHeGZkUmN6bHk4T3UxWE5uM2trY2xhUUdTeXZzQ1ZSTXlvc3AzMWREczBUcjg0N1g4ZWdaSkJkVldfYWJ0SjR5cGFGMlFpdUpFTGNTS0EyVm45dllmc21TckJwT05IalE?oc=5</link>
-      <guid isPermaLink="false">cbmidkfvx3lxte9zbglwuwhirc1udxfgmzjhegzkumn6bhk4t3uxwe5um2try2xhuudtexzzq1zstxlv</guid>
-      <pubDate>Tue, 11 Aug 2026 16:23:37 GMT</pubDate>
-      <description>Source: Mistral</description>
-      <source url="https://ai-pulse.vercel.app">Mistral</source>
-      <category>feature</category>
     </item>
     <item>
       <title>Thinking of ACE? We Can Do It with Fewer Tokens</title>
@@ -116,15 +170,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Expanding Daybreak as the Cyber Defense Window Narrows</title>
-      <link>https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows</link>
-      <guid isPermaLink="false">https-openai-com-index-expanding-daybreak-as-the-cyber-defense-window-narrows</guid>
-      <pubDate>Mon, 10 Aug 2026 10:00:00 GMT</pubDate>
-      <description>Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>research</category>
-    </item>
-    <item>
       <title>Putting frontier cyber models in more trusted hands</title>
       <link>https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands</link>
       <guid isPermaLink="false">https-openai-com-index-putting-frontier-cyber-models-in-more-trusted-hands</guid>
@@ -134,30 +179,21 @@
       <category>feature</category>
     </item>
     <item>
+      <title>Expanding Daybreak as the Cyber Defense Window Narrows</title>
+      <link>https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows</link>
+      <guid isPermaLink="false">https-openai-com-index-expanding-daybreak-as-the-cyber-defense-window-narrows</guid>
+      <pubDate>Mon, 10 Aug 2026 10:00:00 GMT</pubDate>
+      <description>Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>research</category>
+    </item>
+    <item>
       <title>Meta is back with Muse Glimmer: local, agentic, multimodal, and open source</title>
       <link>https://huggingface.co/blog/muse-glimmer</link>
       <guid isPermaLink="false">https-huggingface-co-blog-muse-glimmer</guid>
       <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
       <description>Source: Hugging Face</description>
       <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Premium seats are coming to ChatGPT Business</title>
-      <link>https://openai.com/index/premium-seats-chatgpt-business</link>
-      <guid isPermaLink="false">https-openai-com-index-premium-seats-chatgpt-business</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-      <description>Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team&apos;s most demanding work. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>How Zapier transformed core marketing processes with ChatGPT Work</title>
-      <link>https://openai.com/index/zapier</link>
-      <guid isPermaLink="false">https-openai-com-index-zapier</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-      <description>The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
       <category>feature</category>
     </item>
     <item>
@@ -185,15 +221,6 @@
       <pubDate>Sat, 08 Aug 2026 01:47:10 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>TutorMoments: Do AI tutors know when to help and when to hold back?</title>
-      <link>https://huggingface.co/blog/allenai/tutormoments</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-allenai-tutormoments</guid>
-      <pubDate>Fri, 07 Aug 2026 17:53:32 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
       <category>feature</category>
     </item>
     <item>
@@ -233,10 +260,19 @@
       <category>feature</category>
     </item>
     <item>
+      <title>The latest AI news we announced in July 2026</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/</link>
+      <guid isPermaLink="false">https-blog-google-innovation-and-ai-technology-ai-google-ai-updates-july-2026</guid>
+      <pubDate>Tue, 04 Aug 2026 13:00:00 GMT</pubDate>
+      <description>Here are Google’s latest AI updates from July 2026 (Source: Google DeepMind)</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
+      <category>feature</category>
+    </item>
+    <item>
       <title>Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer</title>
       <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vODE3REpJODF0TzhuZTBCTFpEdTNMNXFsV2QtOHhzZ0NUVUlmTDVESzZQM2ZHQWl4MkxaSzY1Z0pNSWVUaTB4NzRsX0dUVGxqWWIwVkFB?oc=5</link>
       <guid isPermaLink="false">cbmivkfvx3lxte9vode3repjodf0tzhuztbctfpedtnmnxfsv2qtohhzz0nuvulmtdveszzqm2zhqwl4</guid>
-      <pubDate>Tue, 04 Aug 2026 17:05:54 GMT</pubDate>
+      <pubDate>Tue, 04 Aug 2026 07:00:00 GMT</pubDate>
       <description>Source: Anthropic</description>
       <source url="https://ai-pulse.vercel.app">Anthropic</source>
       <category>feature</category>
@@ -245,27 +281,9 @@
       <title>Introducing Shieldstral.</title>
       <link>https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzdl9BMnZNN3pna2RmTVVvSlBxVmRHR0tSRWZBQnNtS1VNUjNaUVBscEgxWlpiZndVRHdtVGNlSE0taXRwYjQya192d2U?oc=5</link>
       <guid isPermaLink="false">cbmitefvx3lxtfbzdl9bmnznn3pna2rmtvvvslbxvmrhr0tsrwzbqnnts1vnujnauvbscegxwlpizndv</guid>
-      <pubDate>Tue, 04 Aug 2026 14:01:45 GMT</pubDate>
+      <pubDate>Tue, 04 Aug 2026 07:00:00 GMT</pubDate>
       <description>Source: Mistral</description>
       <source url="https://ai-pulse.vercel.app">Mistral</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Deploy local agents everywhere with LFM2.5-2.6B</title>
-      <link>https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-liquidai-lfm2-5-2-6b</guid>
-      <pubDate>Tue, 04 Aug 2026 13:58:29 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>The latest AI news we announced in July 2026</title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/</link>
-      <guid isPermaLink="false">https-blog-google-innovation-and-ai-technology-ai-google-ai-updates-july-2026</guid>
-      <pubDate>Tue, 04 Aug 2026 13:00:00 GMT</pubDate>
-      <description>Here are Google’s latest AI updates from July 2026 (Source: Google DeepMind)</description>
-      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
       <category>feature</category>
     </item>
     <item>
@@ -297,8 +315,8 @@
     </item>
     <item>
       <title>Integrate with Codex</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE0xcWozYmphdjl1T01HT2pnV0IwU3RWcWI4OGh6WWV0YU5sRnRfWkxCVm5STGU3bzFiWC1MTmY4dDJ6R1JDUTFLSVI3VmhDZFhkUVB5V1Rjd2tPS25VTWcwaHFwdHNnaHIzRkhZb0NQaTNPQXFE?oc=5</link>
-      <guid isPermaLink="false">cbmidefvx3lxte0xcwozymphdjl1t01ht2pnv0iwu3rwcwi4ogh6wwv0yu5srnrfwkxcvm5stgu3bzfi</guid>
+      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE1GRGhxU2xwYjdRLXZBWE1XLXlsdUtBQkpRNkFjQ2FhTjUySnRHWDRyZ2VLMVFmSEJNWGpKUVF1d2lscjBuRHd0ODN2TGpIYkZIdFdVUGJ0OHFXMmJORGZoMktFX0hhMHU5ZmtrZEh0aTFIR3dXaEE?oc=5</link>
+      <guid isPermaLink="false">cbmidkfvx3lxte1grghxu2xwyjdrlxzbwe1xlxlsdutbqkprnkfjq2fhtjuysnrhwdryz2vlmvfmsejn</guid>
       <pubDate>Fri, 31 Jul 2026 06:19:12 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
@@ -373,15 +391,6 @@
       <guid isPermaLink="false">https-deepmind-google-blog-gemini-robotics-2-brings-whole-body-intelligence-to-r</guid>
       <pubDate>Tue, 28 Jul 2026 13:21:37 GMT</pubDate>
       <description>Source: Google DeepMind</description>
-      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>5 ways AI Mode in Search helps you enjoy the real world</title>
-      <link>https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/</link>
-      <guid isPermaLink="false">https-blog-google-products-and-platforms-products-search-ai-mode-real-world-tips</guid>
-      <pubDate>Tue, 28 Jul 2026 13:00:00 GMT</pubDate>
-      <description>It might sound counterintuitive, but Search&apos;s AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf… (Source: Google DeepMind)</description>
       <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
       <category>feature</category>
     </item>
@@ -536,15 +545,6 @@
       <pubDate>Tue, 21 Jul 2026 07:00:00 GMT</pubDate>
       <description>Source: Meta</description>
       <source url="https://ai-pulse.vercel.app">Meta</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Grok for Outlook</title>
-      <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6ZVJmTzFmb05GM0J4cFlhWVEtcWhqcTFha2hwRnRwMGtPRG1OTDRTY2swTzB2ZnNtSllpdUFCbmo5MENDNlNPMnhGYXBaTUFlOXp4ZzFB?oc=5</link>
-      <guid isPermaLink="false">cbmivkfvx3lxtfb6zvjmtzfmb05gm0j4cflhwvetcwhqctfha2hwrnrwmgtprg1otdrty2swtzb2znnt</guid>
-      <pubDate>Tue, 21 Jul 2026 07:00:00 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
       <category>feature</category>
     </item>
   </channel>
