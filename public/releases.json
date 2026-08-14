@@ -1,5 +1,134 @@
 [
   {
+    "id": "https-huggingface-co-blog-amazon-strands-lerobot-streaming-data-loop",
+    "lab": "Hugging Face",
+    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "summary": "",
+    "date": "2026-08-13T17:16:04.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "tags": [
+      "record",
+      "train",
+      "deploy",
+      "one"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-introducing-gemini-3-7-flash",
+    "lab": "Google DeepMind",
+    "title": "Introducing Gemini 3.7 Flash",
+    "summary": "",
+    "date": "2026-08-13T17:04:18.000Z",
+    "category": "model",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "tags": [
+      "gemini",
+      "flash"
+    ]
+  },
+  {
+    "id": "https-blog-google-products-and-platforms-products-workspace-sheets-canvas-for-go",
+    "lab": "Google DeepMind",
+    "title": "Bring your spreadsheet data to life with Sheets canvas",
+    "summary": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.",
+    "date": "2026-08-13T16:45:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp",
+    "tags": [
+      "data",
+      "sheets",
+      "canvas",
+      "bring"
+    ]
+  },
+  {
+    "id": "cbmiwkfvx3lxte1imwppqxq2qjbmcuwttlnfdtfky1nvqjv1ywcyennhajvnqm1uvuw0ni1vd1zmdti4",
+    "lab": "DeepSeek",
+    "title": "DeepSeek-V4-Pro GA Release",
+    "summary": "",
+    "date": "2026-08-13T13:40:38.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iMWppQXQ2QjBmcUwtTlNFdTFKY1NvQjV1YWcyenNHajVnQm1UVUw0Ni1Vd1ZMdTI4eUlEUDBOeEdPMlNTdVQteVpOQUdEZ1V6QVBEbjhvRXpuZw?oc=5",
+    "tags": [
+      "deepseek",
+      "pro"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-builders-guide-to-gpt-5-6",
+    "lab": "OpenAI",
+    "title": "The builder’s guide to GPT‑5.6",
+    "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+    "date": "2026-08-13T11:00:00.000Z",
+    "category": "api",
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "tags": [
+      "gpt",
+      "builder",
+      "guide",
+      "learn"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-previewing-ultrafast",
+    "lab": "OpenAI",
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+    "date": "2026-08-13T10:00:00.000Z",
+    "category": "api",
+    "url": "https://openai.com/index/previewing-ultrafast",
+    "tags": [
+      "ultrafast",
+      "gpt",
+      "sol",
+      "previewing"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-dali-rajic-chief-revenue-officer",
+    "lab": "OpenAI",
+    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+    "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+    "date": "2026-08-13T09:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+    "tags": [
+      "revenue",
+      "openai",
+      "appoints",
+      "dali"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-icml-2026-open-reproductions",
+    "lab": "Hugging Face",
+    "title": "What We Learned by Reproducing 2,200 papers from ICML",
+    "summary": "",
+    "date": "2026-08-13T00:00:00.000Z",
+    "category": "research",
+    "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+    "tags": [
+      "learned",
+      "reproducing",
+      "papers",
+      "icml"
+    ]
+  },
+  {
+    "id": "cbmip0fvx3lxte4zcg91z21nqjm5x2jqwdblvkdjrndcxzkxbnfwymvua0ddtwxkqwzcmznyajy0ywnu",
+    "lab": "xAI",
+    "title": "Introducing Grok 4.6",
+    "summary": "",
+    "date": "2026-08-12T23:04:14.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE4zcG91Z21nQjM5X2JqWDBlVkdjRndCXzkxbnFWYmVua0dDTWxkQWZCMzNyajY0YWNUWGhjcmo5UQ?oc=5",
+    "tags": [
+      "grok"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-allenai-olmoearth-embeddings",
     "lab": "Hugging Face",
     "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
@@ -12,18 +141,6 @@
       "embeddings",
       "custom",
       "embedding"
-    ]
-  },
-  {
-    "id": "cbmip0fvx3lxte4zcg91z21nqjm5x2jqwdblvkdjrndcxzkxbnfwymvua0ddtwxkqwzcmznyajy0ywnu",
-    "lab": "xAI",
-    "title": "Introducing Grok 4.6",
-    "summary": "",
-    "date": "2026-08-12T15:29:33.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE4zcG91Z21nQjM5X2JqWDBlVkdjRndCXzkxbnFWYmVua0dDTWxkQWZCMzNyajY0YWNUWGhjcmo5UQ?oc=5",
-    "tags": [
-      "grok"
     ]
   },
   {
@@ -268,36 +385,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-putting-frontier-cyber-models-in-more-trusted-hands",
-    "lab": "OpenAI",
-    "title": "Putting frontier cyber models in more trusted hands",
-    "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-    "date": "2026-08-10T10:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-    "tags": [
-      "frontier",
-      "cyber",
-      "models",
-      "putting"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-expanding-daybreak-as-the-cyber-defense-window-narrows",
-    "lab": "OpenAI",
-    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-    "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-    "date": "2026-08-10T10:00:00.000Z",
-    "category": "research",
-    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-    "tags": [
-      "daybreak",
-      "cyber",
-      "expanding",
-      "defense"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-muse-glimmer",
     "lab": "Hugging Face",
     "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
@@ -313,21 +400,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-virgin-atlantic-chatgpt-work",
-    "lab": "OpenAI",
-    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-    "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
-    "date": "2026-08-10T00:00:00.000Z",
-    "category": "research",
-    "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-    "tags": [
-      "virgin",
-      "atlantic",
-      "customer",
-      "chatgpt"
-    ]
-  },
-  {
     "id": "cbmit0fvx3lxte9htvhhddlteujbzhdutwhqs0u5mw1nafvpekdtzjnbbud3vnnqaflnd0fnyvlstdvk",
     "lab": "xAI",
     "title": "Imagine Image 2.0",
@@ -338,20 +410,6 @@
     "tags": [
       "imagine",
       "image"
-    ]
-  },
-  {
-    "id": "cbmix0fvx3lxtfa4cfnywk9yckhor3hnstb4t3dkx1nlywi1nfbergnrvkpwtlozauzjogpemkxxbm1y",
-    "lab": "DeepSeek",
-    "title": "Markdown page example",
-    "summary": "",
-    "date": "2026-08-08T01:47:10.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4cFNYWk9yckhoR3hNSTB4T3dKX1NLYWI1NFBERGNrVkpWTlozaUZjOGpEMkxxbm1yZ0dFTlM3SmpIQlVFM3B5LVRPRkpKZDYzdWhPSUNMRkVFLS04T3VN?oc=5",
-    "tags": [
-      "markdown",
-      "page",
-      "example"
     ]
   },
   {
@@ -471,13 +529,13 @@
     ]
   },
   {
-    "id": "cbmix0fvx3lxte01ri1kmw9ovw9mxzvvd19lwepxelm3vw5hs3o0shjhnmt1a2ncx2y4ajmtmgjtqjbq",
+    "id": "cbmixkfvx3lxtfazodbss3nuzi1dbxj0cvdwsvvpszfkrexrnmu2vjdubhpcukrcudbnmmjnvxdxckjz",
     "lab": "DeepSeek",
     "title": "Responses API",
     "summary": "",
     "date": "2026-07-31T09:06:06.000Z",
     "category": "api",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01Ri1KMW9OVW9mXzVVd19LWEpXelM3VW5hS3o0SHJhNmt1a2NCX2Y4ajMtMGJtQjBqZVg2cWZ4WktKZi1MeFh4Z2dsT2lkekRURUFySUd2cjhDRlZFOEpZ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzODBSS3NuZi1DbXJ0cVdwSVVPSzFkRExRNmU2VjdUbHpCUkRCUDBNMmJNVXdXckJZMXRSMFRJOFlqT0gwZkFsVTdhSjl4TzhBaXVjbGlOT2ozNXE2MGc?oc=5",
     "tags": [
       "responses",
       "api"
@@ -511,13 +569,13 @@
     ]
   },
   {
-    "id": "cbmiyefvx3lxte1pmxjdagrdnm1hdgpyyupkngnhmmf5mgreovbkvjdqow1xmklbdk1bc1bgulb6wehf",
+    "id": "cbmix0fvx3lxte16mllnumxld2fhnve4smhkwfbkcetrakxjbzh5b1nyc0fxsvfotetqzfzymhlvz3nf",
     "lab": "DeepSeek",
     "title": "Using the Responses API",
     "summary": "",
-    "date": "2026-07-31T06:03:12.000Z",
+    "date": "2026-07-31T06:03:11.000Z",
     "category": "api",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PMXJDaGRDNm1HdGpYYUpkNGNHMmF5MGREOVBkVjdQOW1xMklBdk1Bc1BGUlB6WEhFQlp1ZkZNTWRRQ25GRG5JWDBqclpGeS1fWlBvZ3Y5OHFuN0IyUHRiWA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16MllNUmxLd2FhNVE4SmhkWFBKcEtRakxJbzh5b1NYc0FxSVFoTEtqZFZYMHlVZ3NFbmNOY3lrb2FJeXFNeGVMTUJ6azNHVjNlUjVvclU4b2UyQVNjRk9v?oc=5",
     "tags": [
       "responses",
       "api"
@@ -599,38 +657,6 @@
     ]
   },
   {
-    "id": "https-blog-google-innovation-and-ai-technology-developers-tools-expanding-manage",
-    "lab": "Google DeepMind",
-    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-    "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
-    "date": "2026-07-28T16:00:00.000Z",
-    "category": "api",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp",
-    "tags": [
-      "agents",
-      "gemini",
-      "api",
-      "managed"
-    ]
-  },
-  {
-    "id": "https-deepmind-google-blog-gemini-robotics-2-brings-whole-body-intelligence-to-r",
-    "lab": "Google DeepMind",
-    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-    "summary": "",
-    "date": "2026-07-28T13:21:37.000Z",
-    "category": "feature",
-    "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-    "image": "https://lh3.googleusercontent.com/VZ5KwQMxv9xBcQnYipsQB2EUj3oX1yvFYLktIamY8V2a76Y6ctEEuaLF59TuPdnaVn6OAMINDilqnuhju1O-AXc7QlOVmcogjskrWxS7xVQ1mc5S7g=w528-h297-n-nu-rw-lo",
-    "tags": [
-      "gemini",
-      "robotics",
-      "brings",
-      "whole"
-    ]
-  },
-  {
     "id": "cbmitkfvx3lxte00v2flmy01ugxfatzxx1bfazfhwuwxvuqwd3nicjblblfzblpeyxdxt0thsxzuvend",
     "lab": "xAI",
     "title": "Grok 4.5 in GitHub Copilot",
@@ -655,21 +681,6 @@
     "tags": [
       "build",
       "mode"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-nvidia-cosmos-h-dreams",
-    "lab": "Hugging Face",
-    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-    "summary": "",
-    "date": "2026-07-27T09:32:20.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-    "tags": [
-      "nvidia",
-      "cosmos",
-      "dreams",
-      "bringing"
     ]
   },
   {
@@ -714,21 +725,6 @@
       "independence",
       "meta",
       "models"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-agent-intrusion-technical-timeline",
-    "lab": "Hugging Face",
-    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-    "summary": "",
-    "date": "2026-07-27T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-    "tags": [
-      "anatomy",
-      "frontier",
-      "lab",
-      "agent"
     ]
   },
   {

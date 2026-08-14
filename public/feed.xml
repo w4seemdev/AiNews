@@ -5,8 +5,89 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2026 07:20:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 07:18:42 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets</title>
+      <link>https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-amazon-strands-lerobot-streaming-data-loop</guid>
+      <pubDate>Thu, 13 Aug 2026 17:16:04 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Introducing Gemini 3.7 Flash</title>
+      <link>https://deepmind.google/blog/introducing-gemini-3-7-flash/</link>
+      <guid isPermaLink="false">https-deepmind-google-blog-introducing-gemini-3-7-flash</guid>
+      <pubDate>Thu, 13 Aug 2026 17:04:18 GMT</pubDate>
+      <description>Source: Google DeepMind</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
+      <category>model</category>
+    </item>
+    <item>
+      <title>Bring your spreadsheet data to life with Sheets canvas</title>
+      <link>https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/</link>
+      <guid isPermaLink="false">https-blog-google-products-and-platforms-products-workspace-sheets-canvas-for-go</guid>
+      <pubDate>Thu, 13 Aug 2026 16:45:00 GMT</pubDate>
+      <description>Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt. (Source: Google DeepMind)</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>DeepSeek-V4-Pro GA Release</title>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iMWppQXQ2QjBmcUwtTlNFdTFKY1NvQjV1YWcyenNHajVnQm1UVUw0Ni1Vd1ZMdTI4eUlEUDBOeEdPMlNTdVQteVpOQUdEZ1V6QVBEbjhvRXpuZw?oc=5</link>
+      <guid isPermaLink="false">cbmiwkfvx3lxte1imwppqxq2qjbmcuwttlnfdtfky1nvqjv1ywcyennhajvnqm1uvuw0ni1vd1zmdti4</guid>
+      <pubDate>Thu, 13 Aug 2026 13:40:38 GMT</pubDate>
+      <description>Source: DeepSeek</description>
+      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
+      <category>model</category>
+    </item>
+    <item>
+      <title>The builder’s guide to GPT‑5.6</title>
+      <link>https://openai.com/index/builders-guide-to-gpt-5-6</link>
+      <guid isPermaLink="false">https-openai-com-index-builders-guide-to-gpt-5-6</guid>
+      <pubDate>Thu, 13 Aug 2026 11:00:00 GMT</pubDate>
+      <description>Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>api</category>
+    </item>
+    <item>
+      <title>Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed</title>
+      <link>https://openai.com/index/previewing-ultrafast</link>
+      <guid isPermaLink="false">https-openai-com-index-previewing-ultrafast</guid>
+      <pubDate>Thu, 13 Aug 2026 10:00:00 GMT</pubDate>
+      <description>Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>api</category>
+    </item>
+    <item>
+      <title>OpenAI appoints Dali Rajic as Chief Revenue Officer</title>
+      <link>https://openai.com/index/dali-rajic-chief-revenue-officer</link>
+      <guid isPermaLink="false">https-openai-com-index-dali-rajic-chief-revenue-officer</guid>
+      <pubDate>Thu, 13 Aug 2026 09:00:00 GMT</pubDate>
+      <description>OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>What We Learned by Reproducing 2,200 papers from ICML</title>
+      <link>https://huggingface.co/blog/icml-2026-open-reproductions</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-icml-2026-open-reproductions</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>research</category>
+    </item>
+    <item>
+      <title>Introducing Grok 4.6</title>
+      <link>https://news.google.com/rss/articles/CBMiP0FVX3lxTE4zcG91Z21nQjM5X2JqWDBlVkdjRndCXzkxbnFWYmVua0dDTWxkQWZCMzNyajY0YWNUWGhjcmo5UQ?oc=5</link>
+      <guid isPermaLink="false">cbmip0fvx3lxte4zcg91z21nqjm5x2jqwdblvkdjrndcxzkxbnfwymvua0ddtwxkqwzcmznyajy0ywnu</guid>
+      <pubDate>Wed, 12 Aug 2026 23:04:14 GMT</pubDate>
+      <description>Source: xAI</description>
+      <source url="https://ai-pulse.vercel.app">xAI</source>
+      <category>model</category>
+    </item>
     <item>
       <title>Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis</title>
       <link>https://huggingface.co/blog/allenai/olmoearth-embeddings</link>
@@ -15,15 +96,6 @@
       <description>Source: Hugging Face</description>
       <source url="https://ai-pulse.vercel.app">Hugging Face</source>
       <category>feature</category>
-    </item>
-    <item>
-      <title>Introducing Grok 4.6</title>
-      <link>https://news.google.com/rss/articles/CBMiP0FVX3lxTE4zcG91Z21nQjM5X2JqWDBlVkdjRndCXzkxbnFWYmVua0dDTWxkQWZCMzNyajY0YWNUWGhjcmo5UQ?oc=5</link>
-      <guid isPermaLink="false">cbmip0fvx3lxte4zcg91z21nqjm5x2jqwdblvkdjrndcxzkxbnfwymvua0ddtwxkqwzcmznyajy0ywnu</guid>
-      <pubDate>Wed, 12 Aug 2026 15:29:33 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>model</category>
     </item>
     <item>
       <title>Putting sign language AI into users’ hands</title>
@@ -170,24 +242,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Putting frontier cyber models in more trusted hands</title>
-      <link>https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands</link>
-      <guid isPermaLink="false">https-openai-com-index-putting-frontier-cyber-models-in-more-trusted-hands</guid>
-      <pubDate>Mon, 10 Aug 2026 10:00:00 GMT</pubDate>
-      <description>Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Expanding Daybreak as the Cyber Defense Window Narrows</title>
-      <link>https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows</link>
-      <guid isPermaLink="false">https-openai-com-index-expanding-daybreak-as-the-cyber-defense-window-narrows</guid>
-      <pubDate>Mon, 10 Aug 2026 10:00:00 GMT</pubDate>
-      <description>Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>research</category>
-    </item>
-    <item>
       <title>Meta is back with Muse Glimmer: local, agentic, multimodal, and open source</title>
       <link>https://huggingface.co/blog/muse-glimmer</link>
       <guid isPermaLink="false">https-huggingface-co-blog-muse-glimmer</guid>
@@ -197,30 +251,12 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Virgin Atlantic sharpens customer journeys with ChatGPT Work</title>
-      <link>https://openai.com/index/virgin-atlantic/chatgpt-work</link>
-      <guid isPermaLink="false">https-openai-com-index-virgin-atlantic-chatgpt-work</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-      <description>Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>research</category>
-    </item>
-    <item>
       <title>Imagine Image 2.0</title>
       <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HTVhhdDlteUJBZHduTWhqS0U5MW1NaFVPekdTZjNBbUd3VnNqaFlnd0FNYVlSTDVkSm9zdHJNdkVOR0kyaFlwUlpoaFh4aEU?oc=5</link>
       <guid isPermaLink="false">cbmit0fvx3lxte9htvhhddlteujbzhdutwhqs0u5mw1nafvpekdtzjnbbud3vnnqaflnd0fnyvlstdvk</guid>
       <pubDate>Sat, 08 Aug 2026 03:21:04 GMT</pubDate>
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Markdown page example</title>
-      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4cFNYWk9yckhoR3hNSTB4T3dKX1NLYWI1NFBERGNrVkpWTlozaUZjOGpEMkxxbm1yZ0dFTlM3SmpIQlVFM3B5LVRPRkpKZDYzdWhPSUNMRkVFLS04T3VN?oc=5</link>
-      <guid isPermaLink="false">cbmix0fvx3lxtfa4cfnywk9yckhor3hnstb4t3dkx1nlywi1nfbergnrvkpwtlozauzjogpemkxxbm1y</guid>
-      <pubDate>Sat, 08 Aug 2026 01:47:10 GMT</pubDate>
-      <description>Source: DeepSeek</description>
-      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>feature</category>
     </item>
     <item>
@@ -297,8 +333,8 @@
     </item>
     <item>
       <title>Responses API</title>
-      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE01Ri1KMW9OVW9mXzVVd19LWEpXelM3VW5hS3o0SHJhNmt1a2NCX2Y4ajMtMGJtQjBqZVg2cWZ4WktKZi1MeFh4Z2dsT2lkekRURUFySUd2cjhDRlZFOEpZ?oc=5</link>
-      <guid isPermaLink="false">cbmix0fvx3lxte01ri1kmw9ovw9mxzvvd19lwepxelm3vw5hs3o0shjhnmt1a2ncx2y4ajmtmgjtqjbq</guid>
+      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzODBSS3NuZi1DbXJ0cVdwSVVPSzFkRExRNmU2VjdUbHpCUkRCUDBNMmJNVXdXckJZMXRSMFRJOFlqT0gwZkFsVTdhSjl4TzhBaXVjbGlOT2ozNXE2MGc?oc=5</link>
+      <guid isPermaLink="false">cbmixkfvx3lxtfazodbss3nuzi1dbxj0cvdwsvvpszfkrexrnmu2vjdubhpcukrcudbnmmjnvxdxckjz</guid>
       <pubDate>Fri, 31 Jul 2026 09:06:06 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
@@ -324,9 +360,9 @@
     </item>
     <item>
       <title>Using the Responses API</title>
-      <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PMXJDaGRDNm1HdGpYYUpkNGNHMmF5MGREOVBkVjdQOW1xMklBdk1Bc1BGUlB6WEhFQlp1ZkZNTWRRQ25GRG5JWDBqclpGeS1fWlBvZ3Y5OHFuN0IyUHRiWA?oc=5</link>
-      <guid isPermaLink="false">cbmiyefvx3lxte1pmxjdagrdnm1hdgpyyupkngnhmmf5mgreovbkvjdqow1xmklbdk1bc1bgulb6wehf</guid>
-      <pubDate>Fri, 31 Jul 2026 06:03:12 GMT</pubDate>
+      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE16MllNUmxLd2FhNVE4SmhkWFBKcEtRakxJbzh5b1NYc0FxSVFoTEtqZFZYMHlVZ3NFbmNOY3lrb2FJeXFNeGVMTUJ6azNHVjNlUjVvclU4b2UyQVNjRk9v?oc=5</link>
+      <guid isPermaLink="false">cbmix0fvx3lxte16mllnumxld2fhnve4smhkwfbkcetrakxjbzh5b1nyc0fxsvfotetqzfzymhlvz3nf</guid>
+      <pubDate>Fri, 31 Jul 2026 06:03:11 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>api</category>
@@ -377,24 +413,6 @@
       <category>model</category>
     </item>
     <item>
-      <title>Gemini API Managed Agents: 3.6 Flash, hooks, and more</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/</link>
-      <guid isPermaLink="false">https-blog-google-innovation-and-ai-technology-developers-tools-expanding-manage</guid>
-      <pubDate>Tue, 28 Jul 2026 16:00:00 GMT</pubDate>
-      <description>We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents. (Source: Google DeepMind)</description>
-      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
-      <category>api</category>
-    </item>
-    <item>
-      <title>Gemini Robotics 2 brings whole body intelligence to robots</title>
-      <link>https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/</link>
-      <guid isPermaLink="false">https-deepmind-google-blog-gemini-robotics-2-brings-whole-body-intelligence-to-r</guid>
-      <pubDate>Tue, 28 Jul 2026 13:21:37 GMT</pubDate>
-      <description>Source: Google DeepMind</description>
-      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Grok 4.5 in GitHub Copilot</title>
       <link>https://news.google.com/rss/articles/CBMiTkFVX3lxTE00V2FLMy01UGxfaTZXX1BFazFhWUwxVUQwd3NIcjBLblFZblpEYXdXT0tHSXZUVENDQUxOakZCamhBSGVOeURjMTN5aXcxdw?oc=5</link>
       <guid isPermaLink="false">cbmitkfvx3lxte00v2flmy01ugxfatzxx1bfazfhwuwxvuqwd3nicjblblfzblpeyxdxt0thsxzuvend</guid>
@@ -410,15 +428,6 @@
       <pubDate>Tue, 28 Jul 2026 07:00:00 GMT</pubDate>
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics</title>
-      <link>https://huggingface.co/blog/nvidia/cosmos-h-dreams</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-nvidia-cosmos-h-dreams</guid>
-      <pubDate>Mon, 27 Jul 2026 09:32:20 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
       <category>feature</category>
     </item>
     <item>
@@ -446,15 +455,6 @@
       <pubDate>Mon, 27 Jul 2026 07:00:00 GMT</pubDate>
       <description>Source: Meta</description>
       <source url="https://ai-pulse.vercel.app">Meta</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident</title>
-      <link>https://huggingface.co/blog/agent-intrusion-technical-timeline</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-agent-intrusion-technical-timeline</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
       <category>feature</category>
     </item>
     <item>
