@@ -1,5 +1,49 @@
 [
   {
+    "id": "cbmiykfvx3lxte8xmjz5ynd3tkptcuftrgzxaln0vuxktwrxsktrtkhsa1llv0w0ouphlxrywdkyagjv",
+    "lab": "Anthropic",
+    "title": "How Claude's text watermarking works",
+    "summary": "",
+    "date": "2026-08-14T19:22:20.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
+    "tags": [
+      "claude",
+      "text",
+      "watermarking",
+      "works"
+    ]
+  },
+  {
+    "id": "cbmiu0fvx3lxtfb3cc1twldmmkhweuffm1a3lu1juhjxdnjubkjrwm5rwurhsmpxc1pasedymv9kawm4",
+    "lab": "xAI",
+    "title": "Grok 4.6 in GitHub Copilot",
+    "summary": "",
+    "date": "2026-08-14T17:41:56.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3cC1tWldMMkhweUFFM1A3LU1jUHJXdnJubkJRWm5rWURHSmpxc1paSEdyMV9KaWM4T0tHQTB6ZkNicGs5WGhXQ091QWZ6MUlRaTdV?oc=5",
+    "tags": [
+      "grok",
+      "github",
+      "copilot"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-state-of-open-models-summer-2026",
+    "lab": "Hugging Face",
+    "title": "State of Open Models: Summer 2026 Observations",
+    "summary": "",
+    "date": "2026-08-14T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "tags": [
+      "state",
+      "open",
+      "models",
+      "summer"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-amazon-strands-lerobot-streaming-data-loop",
     "lab": "Hugging Face",
     "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
@@ -44,13 +88,13 @@
     ]
   },
   {
-    "id": "cbmiwkfvx3lxte1imwppqxq2qjbmcuwttlnfdtfky1nvqjv1ywcyennhajvnqm1uvuw0ni1vd1zmdti4",
+    "id": "cbmiwefvx3lxte5wym9xr3hlrvljamy2y3fmdgpvcdhlnel5zmqxrhhlltjibepjai1tngi5wtflqwq2",
     "lab": "DeepSeek",
     "title": "DeepSeek-V4-Pro GA Release",
     "summary": "",
     "date": "2026-08-13T13:40:38.000Z",
     "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iMWppQXQ2QjBmcUwtTlNFdTFKY1NvQjV1YWcyenNHajVnQm1UVUw0Ni1Vd1ZMdTI4eUlEUDBOeEdPMlNTdVQteVpOQUdEZ1V6QVBEbjhvRXpuZw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wYm9XR3hLRVljamY2Y3FMdGpVcDhlNEl5ZmQxRHhlLTJIbEpjai1tNGI5WTFLQWQ2LTJ6X3RJZVd5WWhia2ZTWEl1NlJsOGV2UldkRUxfVXM?oc=5",
     "tags": [
       "deepseek",
       "pro"
@@ -172,6 +216,20 @@
       "better",
       "faster",
       "vision"
+    ]
+  },
+  {
+    "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
+    "lab": "xAI",
+    "title": "Creators of Grok, the AI Chatbot",
+    "summary": "",
+    "date": "2026-08-12T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
+    "tags": [
+      "creators",
+      "grok",
+      "chatbot"
     ]
   },
   {
@@ -432,7 +490,7 @@
     "lab": "DeepSeek",
     "title": "Markdown page example",
     "summary": "",
-    "date": "2026-08-06T22:33:04.000Z",
+    "date": "2026-08-06T22:33:05.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSdE82eG9QZ1JpSkpwRkNNV2x4YVVBaU4yM0lyeEp2dmowMVdHaGpJb1JaSkp5U2F2RlgyREZvMDIzcXA2S2h1aUtrYnhhOGNreFp3aG82UQ?oc=5",
     "tags": [
@@ -529,13 +587,13 @@
     ]
   },
   {
-    "id": "cbmixkfvx3lxtfazodbss3nuzi1dbxj0cvdwsvvpszfkrexrnmu2vjdubhpcukrcudbnmmjnvxdxckjz",
+    "id": "cbmix0fvx3lxte01ri1kmw9ovw9mxzvvd19lwepxelm3vw5hs3o0shjhnmt1a2ncx2y4ajmtmgjtqjbq",
     "lab": "DeepSeek",
     "title": "Responses API",
     "summary": "",
     "date": "2026-07-31T09:06:06.000Z",
     "category": "api",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzODBSS3NuZi1DbXJ0cVdwSVVPSzFkRExRNmU2VjdUbHpCUkRCUDBNMmJNVXdXckJZMXRSMFRJOFlqT0gwZkFsVTdhSjl4TzhBaXVjbGlOT2ozNXE2MGc?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01Ri1KMW9OVW9mXzVVd19LWEpXelM3VW5hS3o0SHJhNmt1a2NCX2Y4ajMtMGJtQjBqZVg2cWZ4WktKZi1MeFh4Z2dsT2lkekRURUFySUd2cjhDRlZFOEpZ?oc=5",
     "tags": [
       "responses",
       "api"
@@ -556,13 +614,13 @@
     ]
   },
   {
-    "id": "cbmidkfvx3lxte1grghxu2xwyjdrlxzbwe1xlxlsdutbqkprnkfjq2fhtjuysnrhwdryz2vlmvfmsejn",
+    "id": "cbmidefvx3lxte0xcwozymphdjl1t01ht2pnv0iwu3rwcwi4ogh6wwv0yu5srnrfwkxcvm5stgu3bzfi",
     "lab": "DeepSeek",
     "title": "Integrate with Codex",
     "summary": "",
-    "date": "2026-07-31T06:19:12.000Z",
+    "date": "2026-07-31T06:19:11.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GRGhxU2xwYjdRLXZBWE1XLXlsdUtBQkpRNkFjQ2FhTjUySnRHWDRyZ2VLMVFmSEJNWGpKUVF1d2lscjBuRHd0ODN2TGpIYkZIdFdVUGJ0OHFXMmJORGZoMktFX0hhMHU5ZmtrZEh0aTFIR3dXaEE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xcWozYmphdjl1T01HT2pnV0IwU3RWcWI4OGh6WWV0YU5sRnRfWkxCVm5STGU3bzFiWC1MTmY4dDJ6R1JDUTFLSVI3VmhDZFhkUVB5V1Rjd2tPS25VTWcwaHFwdHNnaHIzRkhZb0NQaTNPQXFE?oc=5",
     "tags": [
       "integrate",
       "codex"
@@ -579,21 +637,6 @@
     "tags": [
       "responses",
       "api"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-dharma-ai-gpu-management",
-    "lab": "Hugging Face",
-    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-    "summary": "",
-    "date": "2026-07-30T15:09:09.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-    "tags": [
-      "gpu",
-      "management",
-      "idle",
-      "gpus"
     ]
   },
   {
@@ -684,6 +727,20 @@
     ]
   },
   {
+    "id": "cbmix0fvx3lxte9zrv9ftfpyxzjpntztmge1ckuxzwjps01xs2xkn3jxnxbfnkziz3vsswtjmw9swfbz",
+    "lab": "Anthropic",
+    "title": "Expanding our partnership with Cognizant",
+    "summary": "",
+    "date": "2026-07-27T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zRV9FTFpYXzJpNTZtMGE1ckUxZWJPS01XS2xkN3JXNXBFNkZIZ3VSSWtjMW9sWFBzU1dPVFNrT0ZBZEt3SHhrQldMX3lvdnliRlpmZ2x1VngtR3NyUndR?oc=5",
+    "tags": [
+      "expanding",
+      "partnership",
+      "cognizant"
+    ]
+  },
+  {
     "id": "cbmia0fvx3lxte1vvu84xy1nrfvuv1l6qjnvvtl0qncwbvm0bnrpbmnvufbnshnar3lmtlk0cwrhq3hk",
     "lab": "Anthropic",
     "title": "Our position on open-weights models",
@@ -696,20 +753,6 @@
       "open",
       "weights",
       "models"
-    ]
-  },
-  {
-    "id": "cbmix0fvx3lxte9zrv9ftfpyxzjpntztmge1ckuxzwjps01xs2xkn3jxnxbfnkziz3vsswtjmw9swfbz",
-    "lab": "Anthropic",
-    "title": "Expanding our partnership with Cognizant",
-    "summary": "",
-    "date": "2026-07-27T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zRV9FTFpYXzJpNTZtMGE1ckUxZWJPS01XS2xkN3JXNXBFNkZIZ3VSSWtjMW9sWFBzU1dPVFNrT0ZBZEt3SHhrQldMX3lvdnliRlpmZ2x1VngtR3NyUndR?oc=5",
-    "tags": [
-      "expanding",
-      "partnership",
-      "cognizant"
     ]
   },
   {
@@ -768,20 +811,6 @@
     ]
   },
   {
-    "id": "cbmiqefvx3lxte95re9iqtltmvlargtlsw0xqk1gndfvu2l6umdsmxlyskvmn0d0swvlr2fjzdh0ztrh",
-    "lab": "xAI",
-    "title": "Workflows in Grok Build",
-    "summary": "",
-    "date": "2026-07-23T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE95RE9iQTltMVlaRGtlSW0xQk1GNDFvU2l6UmdsMXlySkVMN0d0SWVlR2FjZDh0ZTRHRS0tbjR3bG8?oc=5",
-    "tags": [
-      "workflows",
-      "grok",
-      "build"
-    ]
-  },
-  {
     "id": "cbmic0fvx3lxte1syk1fq3pammnwyurwwwfzq3vdbla3yy05c3f4mxjxtnvhlvlhmdqym2pdq3a0vjnh",
     "lab": "Anthropic",
     "title": "The Anthropic Economic Index connector",
@@ -812,21 +841,6 @@
     ]
   },
   {
-    "id": "cbmitkfvx3lxte14afz4zzlpdgptn0zpqwjcuddhwnlhc2p0qk91wg5jtxzqd3htzujvwmd5tfpan25f",
-    "lab": "xAI",
-    "title": "Bringing Grok 4.5 to iOS, Android, Web, and X",
-    "summary": "",
-    "date": "2026-07-22T07:00:00.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14aFZ4ZzlpdGpTN0ZPQWJCUDdHWnlhc2p0Qk91WG5JTXZqd3htZUJvWmd5TFpaN25fWWlTNmhhaHN3TGtmQTVNSEh2Q3pSUQ?oc=5",
-    "tags": [
-      "bringing",
-      "grok",
-      "ios",
-      "android"
-    ]
-  },
-  {
     "id": "cbmifkfvx3lxtfbmus1umktoamvczhltced2z1foanc1btg3ukzgz3dfy0puslvwn3jdsutjsehcwxfr",
     "lab": "DeepSeek",
     "title": "thinking_mode_api_example_streaming",
@@ -854,21 +868,6 @@
       "another",
       "million",
       "public"
-    ]
-  },
-  {
-    "id": "cbmiowfbvv95cuxqzw9dthj3ls1caul2wknox0nktmpkqzbtdelnt2fmn1qysgt0rkrntlc0rtbhzvrj",
-    "lab": "Meta",
-    "title": "How Meta’s AI Models Are Powering the First Wave of Genesis Mission Projects",
-    "summary": "",
-    "date": "2026-07-21T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZW9DTHJ3LS1CaUl2WkNOX0NkTmpKQzBtdElNT2FMN1QySGt0RkRnTlc0RTBHZVRjVnFxMHBKRFdoeWV2cEpobE5VVzVDVjk3SEUzR0ZydWVVRnRXaTByb3NIY09Fc29oYmFLWm9QRlpkUDl3MzNxWEV3eThEMlBMcE0yTVYxalpBSENhYVo4MTVMcEZCX2REOE9pejVralJvNEhr?oc=5",
-    "tags": [
-      "meta",
-      "models",
-      "powering",
-      "first"
     ]
   }
 ]
