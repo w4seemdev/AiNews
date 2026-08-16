@@ -5,7 +5,7 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2026 06:31:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 06:33:14 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>How Claude&apos;s text watermarking works</title>
@@ -287,21 +287,21 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Imagine Image 2.0</title>
-      <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HTVhhdDlteUJBZHduTWhqS0U5MW1NaFVPekdTZjNBbUd3VnNqaFlnd0FNYVlSTDVkSm9zdHJNdkVOR0kyaFlwUlpoaFh4aEU?oc=5</link>
-      <guid isPermaLink="false">cbmit0fvx3lxte9htvhhddlteujbzhdutwhqs0u5mw1nafvpekdtzjnbbud3vnnqaflnd0fnyvlstdvk</guid>
-      <pubDate>Sat, 08 Aug 2026 03:21:04 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Improving Fable 5&apos;s biology safeguards</title>
       <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE95RXUtcVFIR1hIbmVDRk5sRDZEVWZSRTlXNXRMU1RXQk1JdE1kRzBMR3RuOGhzOVRZdEs2bGRIX3JIa1ZZbjlCbGx5RzlZRGdQZ3RwLXVidjZyZUpXeU1sM0hYeTQ2QW0zOXlCWnJQenFhZ0dEUFNFUA?oc=5</link>
       <guid isPermaLink="false">cbmieefvx3lxte95rxutcvfir1hibmvdrk5srdzevwzsrtlxnxrmu1rxqk1jde1krzbmr3ruoghzovrz</guid>
-      <pubDate>Fri, 07 Aug 2026 02:22:29 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 07:00:00 GMT</pubDate>
       <description>Source: Anthropic</description>
       <source url="https://ai-pulse.vercel.app">Anthropic</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Imagine Image 2.0</title>
+      <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HTVhhdDlteUJBZHduTWhqS0U5MW1NaFVPekdTZjNBbUd3VnNqaFlnd0FNYVlSTDVkSm9zdHJNdkVOR0kyaFlwUlpoaFh4aEU?oc=5</link>
+      <guid isPermaLink="false">cbmit0fvx3lxte9htvhhddlteujbzhdutwhqs0u5mw1nafvpekdtzjnbbud3vnnqaflnd0fnyvlstdvk</guid>
+      <pubDate>Fri, 07 Aug 2026 07:00:00 GMT</pubDate>
+      <description>Source: xAI</description>
+      <source url="https://ai-pulse.vercel.app">xAI</source>
       <category>feature</category>
     </item>
     <item>
@@ -440,15 +440,6 @@
       <category>model</category>
     </item>
     <item>
-      <title>Grok 4.5 in GitHub Copilot</title>
-      <link>https://news.google.com/rss/articles/CBMiTkFVX3lxTE00V2FLMy01UGxfaTZXX1BFazFhWUwxVUQwd3NIcjBLblFZblpEYXdXT0tHSXZUVENDQUxOakZCamhBSGVOeURjMTN5aXcxdw?oc=5</link>
-      <guid isPermaLink="false">cbmitkfvx3lxte00v2flmy01ugxfatzxx1bfazfhwuwxvuqwd3nicjblblfzblpeyxdxt0thsxzuvend</guid>
-      <pubDate>Tue, 28 Jul 2026 07:00:00 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>model</category>
-    </item>
-    <item>
       <title>Introducing Build Mode</title>
       <link>https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaQkI4OHFyOHFoa3BieDhfdE1PYTBzcFhYYjZVenoxblJ3MHFKb3J6RnU2cUE5TFEzZHgtSV9LUnFZYzZSYWhQRQ?oc=5</link>
       <guid isPermaLink="false">cbmisefvx3lxtfbaqki4ohfyohfoa3biedhfde1pytbzcfhyyjzvenoxblj3mhfkb3j6rnu2cue5tfez</guid>
@@ -456,6 +447,15 @@
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
       <category>feature</category>
+    </item>
+    <item>
+      <title>Grok 4.5 in GitHub Copilot</title>
+      <link>https://news.google.com/rss/articles/CBMiTkFVX3lxTE00V2FLMy01UGxfaTZXX1BFazFhWUwxVUQwd3NIcjBLblFZblpEYXdXT0tHSXZUVENDQUxOakZCamhBSGVOeURjMTN5aXcxdw?oc=5</link>
+      <guid isPermaLink="false">cbmitkfvx3lxte00v2flmy01ugxfatzxx1bfazfhwuwxvuqwd3nicjblblfzblpeyxdxt0thsxzuvend</guid>
+      <pubDate>Tue, 28 Jul 2026 07:00:00 GMT</pubDate>
+      <description>Source: xAI</description>
+      <source url="https://ai-pulse.vercel.app">xAI</source>
+      <category>model</category>
     </item>
     <item>
       <title>Expanding our partnership with Cognizant</title>
@@ -503,15 +503,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>chat_nodejs</title>
-      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SdGJkc1pVNHI2RUdoYVhpc2o5aUExZ0NhSzQ2RXU0blIzLXFLNV9NQUxMaUNKWS1kY3FuaUhGUlZsMk42X0RMS0xUQUp4X3EyUkxEcW9XaGZTbmxFOWtpZXducw?oc=5</link>
-      <guid isPermaLink="false">cbmiy0fvx3lxte5sdgjkc1pvnhi2rudoyvhpc2o5auexz0nhszq2rxu0blizlxflnv9nquxmaunkws1k</guid>
-      <pubDate>Thu, 23 Jul 2026 16:12:24 GMT</pubDate>
-      <description>Source: DeepSeek</description>
-      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>The Anthropic Economic Index connector</title>
       <link>https://news.google.com/rss/articles/CBMic0FVX3lxTE1SYk1FQ3paMmNwYURwWWFZQ3VDblA3Yy05c3F4MXJxTnVHLVlHMDQyM2pDQ3A0VjNhNl90Q2xzNFpyYVlhUkdXb2ZTVUR5MFZnVWpkaFRmdkxPUGZoTGYyakJnTzhBOGJOaDF1Q1ZDa3haVkU?oc=5</link>
       <guid isPermaLink="false">cbmic0fvx3lxte1syk1fq3pammnwyurwwwfzq3vdbla3yy05c3f4mxjxtnvhlvlhmdqym2pdq3a0vjnh</guid>
@@ -545,6 +536,15 @@
       <pubDate>Tue, 21 Jul 2026 07:00:00 GMT</pubDate>
       <description>Source: Anthropic</description>
       <source url="https://ai-pulse.vercel.app">Anthropic</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>How Meta’s AI Models Are Powering the First Wave of Genesis Mission Projects</title>
+      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQZW9DTHJ3LS1CaUl2WkNOX0NkTmpKQzBtdElNT2FMN1QySGt0RkRnTlc0RTBHZVRjVnFxMHBKRFdoeWV2cEpobE5VVzVDVjk3SEUzR0ZydWVVRnRXaTByb3NIY09Fc29oYmFLWm9QRlpkUDl3MzNxWEV3eThEMlBMcE0yTVYxalpBSENhYVo4MTVMcEZCX2REOE9pejVralJvNEhr?oc=5</link>
+      <guid isPermaLink="false">cbmiowfbvv95cuxqzw9dthj3ls1caul2wknox0nktmpkqzbtdelnt2fmn1qysgt0rkrntlc0rtbhzvrj</guid>
+      <pubDate>Tue, 21 Jul 2026 07:00:00 GMT</pubDate>
+      <description>Source: Meta</description>
+      <source url="https://ai-pulse.vercel.app">Meta</source>
       <category>feature</category>
     </item>
   </channel>

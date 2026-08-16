@@ -458,24 +458,11 @@
     ]
   },
   {
-    "id": "cbmit0fvx3lxte9htvhhddlteujbzhdutwhqs0u5mw1nafvpekdtzjnbbud3vnnqaflnd0fnyvlstdvk",
-    "lab": "xAI",
-    "title": "Imagine Image 2.0",
-    "summary": "",
-    "date": "2026-08-08T03:21:04.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HTVhhdDlteUJBZHduTWhqS0U5MW1NaFVPekdTZjNBbUd3VnNqaFlnd0FNYVlSTDVkSm9zdHJNdkVOR0kyaFlwUlpoaFh4aEU?oc=5",
-    "tags": [
-      "imagine",
-      "image"
-    ]
-  },
-  {
     "id": "cbmieefvx3lxte95rxutcvfir1hibmvdrk5srdzevwzsrtlxnxrmu1rxqk1jde1krzbmr3ruoghzovrz",
     "lab": "Anthropic",
     "title": "Improving Fable 5's biology safeguards",
     "summary": "",
-    "date": "2026-08-07T02:22:29.000Z",
+    "date": "2026-08-07T07:00:00.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95RXUtcVFIR1hIbmVDRk5sRDZEVWZSRTlXNXRMU1RXQk1JdE1kRzBMR3RuOGhzOVRZdEs2bGRIX3JIa1ZZbjlCbGx5RzlZRGdQZ3RwLXVidjZyZUpXeU1sM0hYeTQ2QW0zOXlCWnJQenFhZ0dEUFNFUA?oc=5",
     "tags": [
@@ -483,6 +470,19 @@
       "fable",
       "biology",
       "safeguards"
+    ]
+  },
+  {
+    "id": "cbmit0fvx3lxte9htvhhddlteujbzhdutwhqs0u5mw1nafvpekdtzjnbbud3vnnqaflnd0fnyvlstdvk",
+    "lab": "xAI",
+    "title": "Imagine Image 2.0",
+    "summary": "",
+    "date": "2026-08-07T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HTVhhdDlteUJBZHduTWhqS0U5MW1NaFVPekdTZjNBbUd3VnNqaFlnd0FNYVlSTDVkSm9zdHJNdkVOR0kyaFlwUlpoaFh4aEU?oc=5",
+    "tags": [
+      "imagine",
+      "image"
     ]
   },
   {
@@ -700,6 +700,19 @@
     ]
   },
   {
+    "id": "cbmisefvx3lxtfbaqki4ohfyohfoa3biedhfde1pytbzcfhyyjzvenoxblj3mhfkb3j6rnu2cue5tfez",
+    "lab": "xAI",
+    "title": "Introducing Build Mode",
+    "summary": "",
+    "date": "2026-07-28T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaQkI4OHFyOHFoa3BieDhfdE1PYTBzcFhYYjZVenoxblJ3MHFKb3J6RnU2cUE5TFEzZHgtSV9LUnFZYzZSYWhQRQ?oc=5",
+    "tags": [
+      "build",
+      "mode"
+    ]
+  },
+  {
     "id": "cbmitkfvx3lxte00v2flmy01ugxfatzxx1bfazfhwuwxvuqwd3nicjblblfzblpeyxdxt0thsxzuvend",
     "lab": "xAI",
     "title": "Grok 4.5 in GitHub Copilot",
@@ -711,19 +724,6 @@
       "grok",
       "github",
       "copilot"
-    ]
-  },
-  {
-    "id": "cbmisefvx3lxtfbaqki4ohfyohfoa3biedhfde1pytbzcfhyyjzvenoxblj3mhfkb3j6rnu2cue5tfez",
-    "lab": "xAI",
-    "title": "Introducing Build Mode",
-    "summary": "",
-    "date": "2026-07-28T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaQkI4OHFyOHFoa3BieDhfdE1PYTBzcFhYYjZVenoxblJ3MHFKb3J6RnU2cUE5TFEzZHgtSV9LUnFZYzZSYWhQRQ?oc=5",
-    "tags": [
-      "build",
-      "mode"
     ]
   },
   {
@@ -798,19 +798,6 @@
     ]
   },
   {
-    "id": "cbmiy0fvx3lxte5sdgjkc1pvnhi2rudoyvhpc2o5auexz0nhszq2rxu0blizlxflnv9nquxmaunkws1k",
-    "lab": "DeepSeek",
-    "title": "chat_nodejs",
-    "summary": "",
-    "date": "2026-07-23T16:12:24.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SdGJkc1pVNHI2RUdoYVhpc2o5aUExZ0NhSzQ2RXU0blIzLXFLNV9NQUxMaUNKWS1kY3FuaUhGUlZsMk42X0RMS0xUQUp4X3EyUkxEcW9XaGZTbmxFOWtpZXducw?oc=5",
-    "tags": [
-      "chat",
-      "nodejs"
-    ]
-  },
-  {
     "id": "cbmic0fvx3lxte1syk1fq3pammnwyurwwwfzq3vdbla3yy05c3f4mxjxtnvhlvlhmdqym2pdq3a0vjnh",
     "lab": "Anthropic",
     "title": "The Anthropic Economic Index connector",
@@ -868,6 +855,21 @@
       "another",
       "million",
       "public"
+    ]
+  },
+  {
+    "id": "cbmiowfbvv95cuxqzw9dthj3ls1caul2wknox0nktmpkqzbtdelnt2fmn1qysgt0rkrntlc0rtbhzvrj",
+    "lab": "Meta",
+    "title": "How Meta’s AI Models Are Powering the First Wave of Genesis Mission Projects",
+    "summary": "",
+    "date": "2026-07-21T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZW9DTHJ3LS1CaUl2WkNOX0NkTmpKQzBtdElNT2FMN1QySGt0RkRnTlc0RTBHZVRjVnFxMHBKRFdoeWV2cEpobE5VVzVDVjk3SEUzR0ZydWVVRnRXaTByb3NIY09Fc29oYmFLWm9QRlpkUDl3MzNxWEV3eThEMlBMcE0yTVYxalpBSENhYVo4MTVMcEZCX2REOE9pejVralJvNEhr?oc=5",
+    "tags": [
+      "meta",
+      "models",
+      "powering",
+      "first"
     ]
   }
 ]
