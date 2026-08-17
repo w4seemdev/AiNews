@@ -458,6 +458,20 @@
     ]
   },
   {
+    "id": "cbmix0fvx3lxtfa4cfnywk9yckhor3hnstb4t3dkx1nlywi1nfbergnrvkpwtlozauzjogpemkxxbm1y",
+    "lab": "DeepSeek",
+    "title": "Markdown page example",
+    "summary": "",
+    "date": "2026-08-08T01:47:10.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4cFNYWk9yckhoR3hNSTB4T3dKX1NLYWI1NFBERGNrVkpWTlozaUZjOGpEMkxxbm1yZ0dFTlM3SmpIQlVFM3B5LVRPRkpKZDYzdWhPSUNMRkVFLS04T3VN?oc=5",
+    "tags": [
+      "markdown",
+      "page",
+      "example"
+    ]
+  },
+  {
     "id": "cbmieefvx3lxte95rxutcvfir1hibmvdrk5srdzevwzsrtlxnxrmu1rxqk1jde1krzbmr3ruoghzovrz",
     "lab": "Anthropic",
     "title": "Improving Fable 5's biology safeguards",
@@ -614,26 +628,26 @@
     ]
   },
   {
-    "id": "cbmidefvx3lxte0xcwozymphdjl1t01ht2pnv0iwu3rwcwi4ogh6wwv0yu5srnrfwkxcvm5stgu3bzfi",
+    "id": "cbmidkfvx3lxte1grghxu2xwyjdrlxzbwe1xlxlsdutbqkprnkfjq2fhtjuysnrhwdryz2vlmvfmsejn",
     "lab": "DeepSeek",
     "title": "Integrate with Codex",
     "summary": "",
-    "date": "2026-07-31T06:19:11.000Z",
+    "date": "2026-07-31T06:19:12.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xcWozYmphdjl1T01HT2pnV0IwU3RWcWI4OGh6WWV0YU5sRnRfWkxCVm5STGU3bzFiWC1MTmY4dDJ6R1JDUTFLSVI3VmhDZFhkUVB5V1Rjd2tPS25VTWcwaHFwdHNnaHIzRkhZb0NQaTNPQXFE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GRGhxU2xwYjdRLXZBWE1XLXlsdUtBQkpRNkFjQ2FhTjUySnRHWDRyZ2VLMVFmSEJNWGpKUVF1d2lscjBuRHd0ODN2TGpIYkZIdFdVUGJ0OHFXMmJORGZoMktFX0hhMHU5ZmtrZEh0aTFIR3dXaEE?oc=5",
     "tags": [
       "integrate",
       "codex"
     ]
   },
   {
-    "id": "cbmix0fvx3lxte16mllnumxld2fhnve4smhkwfbkcetrakxjbzh5b1nyc0fxsvfotetqzfzymhlvz3nf",
+    "id": "cbmiyefvx3lxte1pmxjdagrdnm1hdgpyyupkngnhmmf5mgreovbkvjdqow1xmklbdk1bc1bgulb6wehf",
     "lab": "DeepSeek",
     "title": "Using the Responses API",
     "summary": "",
-    "date": "2026-07-31T06:03:11.000Z",
+    "date": "2026-07-31T06:03:12.000Z",
     "category": "api",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16MllNUmxLd2FhNVE4SmhkWFBKcEtRakxJbzh5b1NYc0FxSVFoTEtqZFZYMHlVZ3NFbmNOY3lrb2FJeXFNeGVMTUJ6azNHVjNlUjVvclU4b2UyQVNjRk9v?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PMXJDaGRDNm1HdGpYYUpkNGNHMmF5MGREOVBkVjdQOW1xMklBdk1Bc1BGUlB6WEhFQlp1ZkZNTWRRQ25GRG5JWDBqclpGeS1fWlBvZ3Y5OHFuN0IyUHRiWA?oc=5",
     "tags": [
       "responses",
       "api"
@@ -727,20 +741,6 @@
     ]
   },
   {
-    "id": "cbmix0fvx3lxte9zrv9ftfpyxzjpntztmge1ckuxzwjps01xs2xkn3jxnxbfnkziz3vsswtjmw9swfbz",
-    "lab": "Anthropic",
-    "title": "Expanding our partnership with Cognizant",
-    "summary": "",
-    "date": "2026-07-27T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zRV9FTFpYXzJpNTZtMGE1ckUxZWJPS01XS2xkN3JXNXBFNkZIZ3VSSWtjMW9sWFBzU1dPVFNrT0ZBZEt3SHhrQldMX3lvdnliRlpmZ2x1VngtR3NyUndR?oc=5",
-    "tags": [
-      "expanding",
-      "partnership",
-      "cognizant"
-    ]
-  },
-  {
     "id": "cbmia0fvx3lxte1vvu84xy1nrfvuv1l6qjnvvtl0qncwbvm0bnrpbmnvufbnshnar3lmtlk0cwrhq3hk",
     "lab": "Anthropic",
     "title": "Our position on open-weights models",
@@ -753,6 +753,20 @@
       "open",
       "weights",
       "models"
+    ]
+  },
+  {
+    "id": "cbmix0fvx3lxte9zrv9ftfpyxzjpntztmge1ckuxzwjps01xs2xkn3jxnxbfnkziz3vsswtjmw9swfbz",
+    "lab": "Anthropic",
+    "title": "Expanding our partnership with Cognizant",
+    "summary": "",
+    "date": "2026-07-27T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zRV9FTFpYXzJpNTZtMGE1ckUxZWJPS01XS2xkN3JXNXBFNkZIZ3VSSWtjMW9sWFBzU1dPVFNrT0ZBZEt3SHhrQldMX3lvdnliRlpmZ2x1VngtR3NyUndR?oc=5",
+    "tags": [
+      "expanding",
+      "partnership",
+      "cognizant"
     ]
   },
   {
@@ -855,21 +869,6 @@
       "another",
       "million",
       "public"
-    ]
-  },
-  {
-    "id": "cbmiowfbvv95cuxqzw9dthj3ls1caul2wknox0nktmpkqzbtdelnt2fmn1qysgt0rkrntlc0rtbhzvrj",
-    "lab": "Meta",
-    "title": "How Meta’s AI Models Are Powering the First Wave of Genesis Mission Projects",
-    "summary": "",
-    "date": "2026-07-21T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZW9DTHJ3LS1CaUl2WkNOX0NkTmpKQzBtdElNT2FMN1QySGt0RkRnTlc0RTBHZVRjVnFxMHBKRFdoeWV2cEpobE5VVzVDVjk3SEUzR0ZydWVVRnRXaTByb3NIY09Fc29oYmFLWm9QRlpkUDl3MzNxWEV3eThEMlBMcE0yTVYxalpBSENhYVo4MTVMcEZCX2REOE9pejVralJvNEhr?oc=5",
-    "tags": [
-      "meta",
-      "models",
-      "powering",
-      "first"
     ]
   }
 ]
