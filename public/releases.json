@@ -1,5 +1,140 @@
 [
   {
+    "id": "https-openai-com-index-chatgpt-ads-expands-across-europe",
+    "lab": "OpenAI",
+    "title": "ChatGPT Ads expands across Europe",
+    "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+    "date": "2026-08-18T22:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "tags": [
+      "chatgpt",
+      "ads",
+      "expands",
+      "across"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-strengthening-democratic-oversight-in-national-security",
+    "lab": "OpenAI",
+    "title": "Strengthening democratic oversight in national security",
+    "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+    "date": "2026-08-18T19:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "tags": [
+      "democratic",
+      "oversight",
+      "national",
+      "security"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-ibm-research-altk-evolve-hmm",
+    "lab": "Hugging Face",
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "summary": "",
+    "date": "2026-08-18T18:09:38.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "tags": [
+      "much",
+      "memory",
+      "does",
+      "agent"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-partnering-with-codeai",
+    "lab": "OpenAI",
+    "title": "Partnering with CodeAI to prepare the first AI generation",
+    "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+    "date": "2026-08-18T11:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/partnering-with-codeai",
+    "tags": [
+      "partnering",
+      "codeai",
+      "prepare",
+      "first"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-pacing-model-development-cyber-capabilities",
+    "lab": "OpenAI",
+    "title": "Pacing model development in an era of cyber-critical capabilities",
+    "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+    "date": "2026-08-18T11:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+    "tags": [
+      "model",
+      "development",
+      "pacing",
+      "era"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-chatgpt-for-teens",
+    "lab": "OpenAI",
+    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+    "date": "2026-08-18T11:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/chatgpt-for-teens",
+    "tags": [
+      "teens",
+      "chatgpt",
+      "built",
+      "protections"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-asana",
+    "lab": "OpenAI",
+    "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+    "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
+    "date": "2026-08-18T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/asana",
+    "tags": [
+      "asana",
+      "years",
+      "work",
+      "weeks"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-multi-vector-encoder",
+    "lab": "Hugging Face",
+    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+    "summary": "",
+    "date": "2026-08-18T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/multi-vector-encoder",
+    "tags": [
+      "multi",
+      "vector",
+      "late",
+      "interaction"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-nvidia-chatgpt-work",
+    "lab": "OpenAI",
+    "title": "How NVIDIA scales expertise with ChatGPT Work",
+    "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
+    "date": "2026-08-18T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/nvidia/chatgpt-work",
+    "tags": [
+      "nvidia",
+      "chatgpt",
+      "work",
+      "scales"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-dharma-ai-gpu-management-pt2",
     "lab": "Hugging Face",
     "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
@@ -177,51 +312,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-builders-guide-to-gpt-5-6",
-    "lab": "OpenAI",
-    "title": "The builder’s guide to GPT‑5.6",
-    "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-    "date": "2026-08-13T11:00:00.000Z",
-    "category": "api",
-    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-    "tags": [
-      "gpt",
-      "builder",
-      "guide",
-      "learn"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-previewing-ultrafast",
-    "lab": "OpenAI",
-    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-    "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-    "date": "2026-08-13T10:00:00.000Z",
-    "category": "api",
-    "url": "https://openai.com/index/previewing-ultrafast",
-    "tags": [
-      "ultrafast",
-      "gpt",
-      "sol",
-      "previewing"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-dali-rajic-chief-revenue-officer",
-    "lab": "OpenAI",
-    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-    "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-    "date": "2026-08-13T09:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-    "tags": [
-      "revenue",
-      "openai",
-      "appoints",
-      "dali"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-icml-2026-open-reproductions",
     "lab": "Hugging Face",
     "title": "What We Learned by Reproducing 2,200 papers from ICML",
@@ -309,36 +399,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-how-enterprises-put-ai-to-work",
-    "lab": "OpenAI",
-    "title": "From assistance to execution: How enterprises put AI to work",
-    "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-    "date": "2026-08-12T06:00:00.000Z",
-    "category": "research",
-    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-    "tags": [
-      "enterprises",
-      "assistance",
-      "execution",
-      "put"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-ringcentral",
-    "lab": "OpenAI",
-    "title": "How RingCentral builds AI-native work from engineering to ops",
-    "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-    "date": "2026-08-12T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/ringcentral",
-    "tags": [
-      "ringcentral",
-      "work",
-      "engineering",
-      "builds"
-    ]
-  },
-  {
     "id": "cbmidkfvx3lxte9zbglwuwhirc1udxfgmzjhegzkumn6bhk4t3uxwe5um2try2xhuudtexzzq1zstxlv",
     "lab": "Mistral",
     "title": "In-region inference, open models, and new European infrastructure for sovereign AI.",
@@ -380,51 +440,6 @@
       "real",
       "time",
       "clinical"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-ibm-research-altk-evolve-sldd",
-    "lab": "Hugging Face",
-    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-    "summary": "",
-    "date": "2026-08-11T13:37:10.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-    "tags": [
-      "thinking",
-      "ace",
-      "fewer",
-      "tokens"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-testing-ads-in-chatgpt",
-    "lab": "OpenAI",
-    "title": "Testing ads in ChatGPT",
-    "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-    "date": "2026-08-11T10:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "tags": [
-      "testing",
-      "ads",
-      "chatgpt",
-      "openai"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-daybreak-models-are-now-available-on-aws",
-    "lab": "OpenAI",
-    "title": "Daybreak models are now available on AWS",
-    "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-    "date": "2026-08-11T10:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-    "tags": [
-      "daybreak",
-      "aws",
-      "models",
-      "openai"
     ]
   },
   {
@@ -471,21 +486,6 @@
       "knowledge",
       "distillation",
       "cheap"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-muse-glimmer",
-    "lab": "Hugging Face",
-    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-    "summary": "",
-    "date": "2026-08-10T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/muse-glimmer",
-    "tags": [
-      "meta",
-      "back",
-      "muse",
-      "glimmer"
     ]
   },
   {
