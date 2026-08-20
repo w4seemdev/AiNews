@@ -1,5 +1,80 @@
 [
   {
+    "id": "https-openai-com-index-offering-zero-data-retention-for-frontier-models",
+    "lab": "OpenAI",
+    "title": "Offering Zero Data Retention for frontier models",
+    "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+    "date": "2026-08-19T19:00:00.000Z",
+    "category": "api",
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "tags": [
+      "data",
+      "zero",
+      "retention",
+      "safety"
+    ]
+  },
+  {
+    "id": "https-blog-google-products-and-platforms-products-search-back-to-school-study-to",
+    "lab": "Google DeepMind",
+    "title": "5 new ways to level up your learning with Search",
+    "summary": "Here’s how you can use Google Search tools to study for classes and standardized tests.",
+    "date": "2026-08-19T19:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp",
+    "tags": [
+      "search",
+      "ways",
+      "level",
+      "learning"
+    ]
+  },
+  {
+    "id": "cbmiu0fvx3lxte1qtmxwmtbnm015a1rpy25geuvay0dkq3budkzqveltmejqtuzryzlhr2vynkvotfhs",
+    "lab": "xAI",
+    "title": "Grok 4.6 on Amazon Bedrock",
+    "summary": "",
+    "date": "2026-08-19T15:12:24.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QTmxWMTBnM015a1RPY25GeUVaY0dkQ3BudkZQVEltMEJqTUZrYzlHR2VYNkVoTFhsTmZ1RjBvMXRZa3p1QnpNTDd3eVk1VW93aW1J?oc=5",
+    "tags": [
+      "grok",
+      "amazon",
+      "bedrock"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-liquidai-qad",
+    "lab": "Hugging Face",
+    "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+    "summary": "",
+    "date": "2026-08-19T13:48:49.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/LiquidAI/qad",
+    "tags": [
+      "lfm2",
+      "checkpoints",
+      "quantization",
+      "aware"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-replit",
+    "lab": "OpenAI",
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+    "date": "2026-08-19T07:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/replit",
+    "tags": [
+      "replit",
+      "software",
+      "gpt",
+      "luna"
+    ]
+  },
+  {
     "id": "https-openai-com-index-chatgpt-ads-expands-across-europe",
     "lab": "OpenAI",
     "title": "ChatGPT Ads expands across Europe",
@@ -181,36 +256,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-openai-joins-ports-pike-project",
-    "lab": "OpenAI",
-    "title": "OpenAI joins PORTS-Pike project",
-    "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
-    "date": "2026-08-17T05:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/openai-joins-ports-pike-project",
-    "tags": [
-      "openai",
-      "joins",
-      "ports",
-      "pike"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-new-policy-ideas-for-the-intelligence-age",
-    "lab": "OpenAI",
-    "title": "New policy ideas for the Intelligence Age",
-    "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
-    "date": "2026-08-17T03:15:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-    "tags": [
-      "policy",
-      "ideas",
-      "intelligence",
-      "age"
-    ]
-  },
-  {
     "id": "cbmiykfvx3lxte8xmjz5ynd3tkptcuftrgzxaln0vuxktwrxsktrtkhsa1llv0w0ouphlxrywdkyagjv",
     "lab": "Anthropic",
     "title": "How Claude's text watermarking works",
@@ -370,21 +415,6 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-liquidai-lfm2-5-vl-3b",
-    "lab": "Hugging Face",
-    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-    "summary": "",
-    "date": "2026-08-12T14:00:51.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-    "tags": [
-      "lfm2",
-      "better",
-      "faster",
-      "vision"
-    ]
-  },
-  {
     "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
     "lab": "xAI",
     "title": "Creators of Grok, the AI Chatbot",
@@ -396,34 +426,6 @@
       "creators",
       "grok",
       "chatbot"
-    ]
-  },
-  {
-    "id": "cbmidkfvx3lxte9zbglwuwhirc1udxfgmzjhegzkumn6bhk4t3uxwe5um2try2xhuudtexzzq1zstxlv",
-    "lab": "Mistral",
-    "title": "In-region inference, open models, and new European infrastructure for sovereign AI.",
-    "summary": "",
-    "date": "2026-08-11T23:37:50.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zbGlwUWhiRC1udXFGMzJHeGZkUmN6bHk4T3UxWE5uM2trY2xhUUdTeXZzQ1ZSTXlvc3AzMWREczBUcjg0N1g4ZWdaSkJkVldfYWJ0SjR5cGFGMlFpdUpFTGNTS0EyVm45dllmc21TckJwT05IalE?oc=5",
-    "tags": [
-      "region",
-      "inference",
-      "open",
-      "models"
-    ]
-  },
-  {
-    "id": "cbmit0fvx3lxte9cznlxmxruuxnoeemwogzicjvolw9jodjfttrsv21xv2fvu3q5zujps2foctnoay1u",
-    "lab": "xAI",
-    "title": "Introducing Grok Bot",
-    "summary": "",
-    "date": "2026-08-11T23:05:39.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CZnlxMXRUUXNoeEMwOGZIcjVOLW9JODJFTTRSV21XV2FvU3Q5ZUJpS2FOcTNoay1ud056cG5tcEJGV05uVE5lWlFFeVpDUXc?oc=5",
-    "tags": [
-      "grok",
-      "bot"
     ]
   },
   {
@@ -440,6 +442,34 @@
       "real",
       "time",
       "clinical"
+    ]
+  },
+  {
+    "id": "cbmidkfvx3lxte9zbglwuwhirc1udxfgmzjhegzkumn6bhk4t3uxwe5um2try2xhuudtexzzq1zstxlv",
+    "lab": "Mistral",
+    "title": "In-region inference, open models, and new European infrastructure for sovereign AI.",
+    "summary": "",
+    "date": "2026-08-11T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zbGlwUWhiRC1udXFGMzJHeGZkUmN6bHk4T3UxWE5uM2trY2xhUUdTeXZzQ1ZSTXlvc3AzMWREczBUcjg0N1g4ZWdaSkJkVldfYWJ0SjR5cGFGMlFpdUpFTGNTS0EyVm45dllmc21TckJwT05IalE?oc=5",
+    "tags": [
+      "region",
+      "inference",
+      "open",
+      "models"
+    ]
+  },
+  {
+    "id": "cbmit0fvx3lxte9cznlxmxruuxnoeemwogzicjvolw9jodjfttrsv21xv2fvu3q5zujps2foctnoay1u",
+    "lab": "xAI",
+    "title": "Introducing Grok Bot",
+    "summary": "",
+    "date": "2026-08-11T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CZnlxMXRUUXNoeEMwOGZIcjVOLW9JODJFTTRSV21XV2FvU3Q5ZUJpS2FOcTNoay1ud056cG5tcEJGV05uVE5lWlFFeVpDUXc?oc=5",
+    "tags": [
+      "grok",
+      "bot"
     ]
   },
   {
@@ -670,21 +700,6 @@
     ]
   },
   {
-    "id": "https-deepmind-google-blog-gemini-robotics-er-2-powering-robotics-with-video-und",
-    "lab": "Google DeepMind",
-    "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-    "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
-    "date": "2026-07-30T15:00:59.000Z",
-    "category": "feature",
-    "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-    "tags": [
-      "robotics",
-      "gemini",
-      "video",
-      "understanding"
-    ]
-  },
-  {
     "id": "cbmif0fvx3lxte4zdnphn3vxrhjayjz1t01touzqaxjha1vozc1ttuzarkk4dnhfdkhht2xptupwvxzf",
     "lab": "Anthropic",
     "title": "Investigating three real-world incidents in our cybersecurity evaluations",
@@ -742,6 +757,20 @@
     ]
   },
   {
+    "id": "cbmix0fvx3lxte9zrv9ftfpyxzjpntztmge1ckuxzwjps01xs2xkn3jxnxbfnkziz3vsswtjmw9swfbz",
+    "lab": "Anthropic",
+    "title": "Expanding our partnership with Cognizant",
+    "summary": "",
+    "date": "2026-07-27T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zRV9FTFpYXzJpNTZtMGE1ckUxZWJPS01XS2xkN3JXNXBFNkZIZ3VSSWtjMW9sWFBzU1dPVFNrT0ZBZEt3SHhrQldMX3lvdnliRlpmZ2x1VngtR3NyUndR?oc=5",
+    "tags": [
+      "expanding",
+      "partnership",
+      "cognizant"
+    ]
+  },
+  {
     "id": "cbmia0fvx3lxte1vvu84xy1nrfvuv1l6qjnvvtl0qncwbvm0bnrpbmnvufbnshnar3lmtlk0cwrhq3hk",
     "lab": "Anthropic",
     "title": "Our position on open-weights models",
@@ -754,20 +783,6 @@
       "open",
       "weights",
       "models"
-    ]
-  },
-  {
-    "id": "cbmix0fvx3lxte9zrv9ftfpyxzjpntztmge1ckuxzwjps01xs2xkn3jxnxbfnkziz3vsswtjmw9swfbz",
-    "lab": "Anthropic",
-    "title": "Expanding our partnership with Cognizant",
-    "summary": "",
-    "date": "2026-07-27T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zRV9FTFpYXzJpNTZtMGE1ckUxZWJPS01XS2xkN3JXNXBFNkZIZ3VSSWtjMW9sWFBzU1dPVFNrT0ZBZEt3SHhrQldMX3lvdnliRlpmZ2x1VngtR3NyUndR?oc=5",
-    "tags": [
-      "expanding",
-      "partnership",
-      "cognizant"
     ]
   },
   {
@@ -796,20 +811,6 @@
     "tags": [
       "claude",
       "opus"
-    ]
-  },
-  {
-    "id": "cbmiykfvx3lxte1ayzrsexjla3hhaxvxau5omgdvbjzlvnlds2jsnwhzwndocefjtnc1xzlby01iy0na",
-    "lab": "xAI",
-    "title": "Grok in Google Workspace",
-    "summary": "",
-    "date": "2026-07-24T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aYzRseXJla3hHaXVxaU5OMGdVbjZLVnlDS2JSNWhZWndOcEFJTnc1XzlBY01iY0NabldqZHpUQWE0SjZvSFc4WG1oMWhtVjVrT2lLMDRQN0prVk9Rd2ZpZzJB?oc=5",
-    "tags": [
-      "grok",
-      "google",
-      "workspace"
     ]
   },
   {
