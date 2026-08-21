@@ -1,5 +1,65 @@
 [
   {
+    "id": "https-huggingface-co-blog-liquidai-lfm25-dspark",
+    "lab": "Hugging Face",
+    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+    "summary": "",
+    "date": "2026-08-20T16:52:57.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "tags": [
+      "faster",
+      "inference",
+      "lfm2",
+      "dspark"
+    ]
+  },
+  {
+    "id": "cbmiuefvx3lxte5pwulinnhhz3b2dnu0dng5c2jqz01fmjk0ukn5vm8xnlzmvhaycs1svmznb3u2rdd1",
+    "lab": "Mistral",
+    "title": "Agentic Search. More accurate and efficient results from your AI systems.",
+    "summary": "",
+    "date": "2026-08-20T14:11:33.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PWUlINnhhZ3B2dnU0dng5c2JQZ01fMjk0UkN5Vm8xNlZmVHAycS1SVmZnb3U2RDd1Mm1SaGdvcVUxYzE4SDk0bjlRVWxVazF3?oc=5",
+    "tags": [
+      "agentic",
+      "search",
+      "accurate",
+      "efficient"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-introducing-ai-futures",
+    "lab": "OpenAI",
+    "title": "Introducing AI Futures",
+    "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+    "date": "2026-08-20T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/introducing-ai-futures",
+    "tags": [
+      "futures",
+      "openai",
+      "blog",
+      "exploring"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-stampli",
+    "lab": "OpenAI",
+    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+    "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+    "date": "2026-08-20T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/stampli",
+    "tags": [
+      "stampli",
+      "chatgpt",
+      "work",
+      "cuts"
+    ]
+  },
+  {
     "id": "https-openai-com-index-offering-zero-data-retention-for-frontier-models",
     "lab": "OpenAI",
     "title": "Offering Zero Data Retention for frontier models",
@@ -45,21 +105,6 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-liquidai-qad",
-    "lab": "Hugging Face",
-    "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
-    "summary": "",
-    "date": "2026-08-19T13:48:49.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/LiquidAI/qad",
-    "tags": [
-      "lfm2",
-      "checkpoints",
-      "quantization",
-      "aware"
-    ]
-  },
-  {
     "id": "https-openai-com-index-replit",
     "lab": "OpenAI",
     "title": "Replit expands access to software creation with GPT-5.6 Luna",
@@ -72,6 +117,21 @@
       "software",
       "gpt",
       "luna"
+    ]
+  },
+  {
+    "id": "cbmiu0fvx3lxte5ebxyyww90bmzsvw0wvdzcejjjtgrdy0lytxqyzmvyzu9evwnqczbzotzgqlnqww5l",
+    "lab": "xAI",
+    "title": "Grok Build on web and mobile",
+    "summary": "",
+    "date": "2026-08-19T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EbXYyWW90bmZsVW0wVDZCejJJTGRDY0lYTXQyZmVYZU9EVWNQczBZOTZGQlNQWW5lV1pxYUFsNWdZV0haaFJXMkVfaVhPd2U5OVFB?oc=5",
+    "tags": [
+      "grok",
+      "build",
+      "web",
+      "mobile"
     ]
   },
   {
@@ -195,21 +255,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-nvidia-chatgpt-work",
-    "lab": "OpenAI",
-    "title": "How NVIDIA scales expertise with ChatGPT Work",
-    "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
-    "date": "2026-08-18T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/nvidia/chatgpt-work",
-    "tags": [
-      "nvidia",
-      "chatgpt",
-      "work",
-      "scales"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-dharma-ai-gpu-management-pt2",
     "lab": "Hugging Face",
     "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
@@ -238,21 +283,6 @@
       "pixel",
       "get",
       "closer"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-the-defenders-window",
-    "lab": "OpenAI",
-    "title": "The Defender’s Window",
-    "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-    "date": "2026-08-17T05:30:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/the-defenders-window",
-    "tags": [
-      "defender",
-      "window",
-      "reshaping",
-      "cybersecurity"
     ]
   },
   {
@@ -344,13 +374,13 @@
     ]
   },
   {
-    "id": "cbmiwefvx3lxte5wym9xr3hlrvljamy2y3fmdgpvcdhlnel5zmqxrhhlltjibepjai1tngi5wtflqwq2",
+    "id": "cbmiwkfvx3lxte1imwppqxq2qjbmcuwttlnfdtfky1nvqjv1ywcyennhajvnqm1uvuw0ni1vd1zmdti4",
     "lab": "DeepSeek",
     "title": "DeepSeek-V4-Pro GA Release",
     "summary": "",
-    "date": "2026-08-13T13:40:38.000Z",
+    "date": "2026-08-13T13:40:39.000Z",
     "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wYm9XR3hLRVljamY2Y3FMdGpVcDhlNEl5ZmQxRHhlLTJIbEpjai1tNGI5WTFLQWQ2LTJ6X3RJZVd5WWhia2ZTWEl1NlJsOGV2UldkRUxfVXM?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iMWppQXQ2QjBmcUwtTlNFdTFKY1NvQjV1YWcyenNHajVnQm1UVUw0Ni1Vd1ZMdTI4eUlEUDBOeEdPMlNTdVQteVpOQUdEZ1V6QVBEbjhvRXpuZw?oc=5",
     "tags": [
       "deepseek",
       "pro"
@@ -369,18 +399,6 @@
       "reproducing",
       "papers",
       "icml"
-    ]
-  },
-  {
-    "id": "cbmip0fvx3lxte4zcg91z21nqjm5x2jqwdblvkdjrndcxzkxbnfwymvua0ddtwxkqwzcmznyajy0ywnu",
-    "lab": "xAI",
-    "title": "Introducing Grok 4.6",
-    "summary": "",
-    "date": "2026-08-12T23:04:14.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE4zcG91Z21nQjM5X2JqWDBlVkdjRndCXzkxbnFWYmVua0dDTWxkQWZCMzNyajY0YWNUWGhjcmo5UQ?oc=5",
-    "tags": [
-      "grok"
     ]
   },
   {
@@ -415,17 +433,15 @@
     ]
   },
   {
-    "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
+    "id": "cbmip0fvx3lxte4zcg91z21nqjm5x2jqwdblvkdjrndcxzkxbnfwymvua0ddtwxkqwzcmznyajy0ywnu",
     "lab": "xAI",
-    "title": "Creators of Grok, the AI Chatbot",
+    "title": "Introducing Grok 4.6",
     "summary": "",
     "date": "2026-08-12T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE4zcG91Z21nQjM5X2JqWDBlVkdjRndCXzkxbnFWYmVua0dDTWxkQWZCMzNyajY0YWNUWGhjcmo5UQ?oc=5",
     "tags": [
-      "creators",
-      "grok",
-      "chatbot"
+      "grok"
     ]
   },
   {
@@ -442,6 +458,21 @@
       "real",
       "time",
       "clinical"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-ibm-research-altk-evolve-sldd",
+    "lab": "Hugging Face",
+    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+    "summary": "",
+    "date": "2026-08-11T13:37:10.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+    "tags": [
+      "thinking",
+      "ace",
+      "fewer",
+      "tokens"
     ]
   },
   {
@@ -501,35 +532,6 @@
       "google",
       "evolve",
       "tools"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-multiversecomputingcai-efficient-knowledge-distillatio",
-    "lab": "Hugging Face",
-    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-    "summary": "",
-    "date": "2026-08-10T10:05:36.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-    "tags": [
-      "making",
-      "knowledge",
-      "distillation",
-      "cheap"
-    ]
-  },
-  {
-    "id": "cbmix0fvx3lxtfa4cfnywk9yckhor3hnstb4t3dkx1nlywi1nfbergnrvkpwtlozauzjogpemkxxbm1y",
-    "lab": "DeepSeek",
-    "title": "Markdown page example",
-    "summary": "",
-    "date": "2026-08-08T01:47:10.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4cFNYWk9yckhoR3hNSTB4T3dKX1NLYWI1NFBERGNrVkpWTlozaUZjOGpEMkxxbm1yZ0dFTlM3SmpIQlVFM3B5LVRPRkpKZDYzdWhPSUNMRkVFLS04T3VN?oc=5",
-    "tags": [
-      "markdown",
-      "page",
-      "example"
     ]
   },
   {
@@ -730,19 +732,6 @@
     ]
   },
   {
-    "id": "cbmisefvx3lxtfbaqki4ohfyohfoa3biedhfde1pytbzcfhyyjzvenoxblj3mhfkb3j6rnu2cue5tfez",
-    "lab": "xAI",
-    "title": "Introducing Build Mode",
-    "summary": "",
-    "date": "2026-07-28T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaQkI4OHFyOHFoa3BieDhfdE1PYTBzcFhYYjZVenoxblJ3MHFKb3J6RnU2cUE5TFEzZHgtSV9LUnFZYzZSYWhQRQ?oc=5",
-    "tags": [
-      "build",
-      "mode"
-    ]
-  },
-  {
     "id": "cbmitkfvx3lxte00v2flmy01ugxfatzxx1bfazfhwuwxvuqwd3nicjblblfzblpeyxdxt0thsxzuvend",
     "lab": "xAI",
     "title": "Grok 4.5 in GitHub Copilot",
@@ -754,6 +743,19 @@
       "grok",
       "github",
       "copilot"
+    ]
+  },
+  {
+    "id": "cbmisefvx3lxtfbaqki4ohfyohfoa3biedhfde1pytbzcfhyyjzvenoxblj3mhfkb3j6rnu2cue5tfez",
+    "lab": "xAI",
+    "title": "Introducing Build Mode",
+    "summary": "",
+    "date": "2026-07-28T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaQkI4OHFyOHFoa3BieDhfdE1PYTBzcFhYYjZVenoxblJ3MHFKb3J6RnU2cUE5TFEzZHgtSV9LUnFZYzZSYWhQRQ?oc=5",
+    "tags": [
+      "build",
+      "mode"
     ]
   },
   {
@@ -844,21 +846,6 @@
     ]
   },
   {
-    "id": "cbmifkfvx3lxtfbmus1umktoamvczhltced2z1foanc1btg3ukzgz3dfy0puslvwn3jdsutjsehcwxfr",
-    "lab": "DeepSeek",
-    "title": "thinking_mode_api_example_streaming",
-    "summary": "",
-    "date": "2026-07-21T18:40:25.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMUS1uMktoamVCZHlTcEd2Z1Foanc1bTg3UkZGZ3dFY0pUSlVWN3JDSUtjSEhCWXFRR0hzdjNZanVFMzBhajRXdFhPX0NDamdJUnRpNDA0bV9nQW9ISUJpbjlyUWVUVVRUeTRKZ2JNVFB0ZmJUNlZhQXpGZVJsUQ?oc=5",
-    "tags": [
-      "thinking",
-      "mode",
-      "api",
-      "example"
-    ]
-  },
-  {
     "id": "cbmia0fvx3lxte95vevdymvgvzjxef9roevry0dsmta1lvpvtnotmtvfluv0ofhwt2j4edbjeve5oflq",
     "lab": "Anthropic",
     "title": "Donating another $20 million to Public First Action",
@@ -871,6 +858,21 @@
       "another",
       "million",
       "public"
+    ]
+  },
+  {
+    "id": "cbmiowfbvv95cuxqzw9dthj3ls1caul2wknox0nktmpkqzbtdelnt2fmn1qysgt0rkrntlc0rtbhzvrj",
+    "lab": "Meta",
+    "title": "How Meta’s AI Models Are Powering the First Wave of Genesis Mission Projects",
+    "summary": "",
+    "date": "2026-07-21T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZW9DTHJ3LS1CaUl2WkNOX0NkTmpKQzBtdElNT2FMN1QySGt0RkRnTlc0RTBHZVRjVnFxMHBKRFdoeWV2cEpobE5VVzVDVjk3SEUzR0ZydWVVRnRXaTByb3NIY09Fc29oYmFLWm9QRlpkUDl3MzNxWEV3eThEMlBMcE0yTVYxalpBSENhYVo4MTVMcEZCX2REOE9pejVralJvNEhr?oc=5",
+    "tags": [
+      "meta",
+      "models",
+      "powering",
+      "first"
     ]
   }
 ]
