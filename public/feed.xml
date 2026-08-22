@@ -5,8 +5,98 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2026 06:38:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 06:33:01 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Grok 4.6 on Google Enterprise Agent Platform</title>
+      <link>https://news.google.com/rss/articles/CBMiTEFVX3lxTE45VkJvRlBPSEdIQUt5VmNpT3k5cU1kNkQyblByT2lHTDlDLUVsanVFV0hGM0NQTDcwMGZyalYwZWI1bHRYUS03NDZ2NVA?oc=5</link>
+      <guid isPermaLink="false">cbmitefvx3lxte45vkjvrlbpsediqut5vmnpt3k5cu1knkqyblbyt2lhtdldluvsanvfv0hgm0nqtdcw</guid>
+      <pubDate>Sat, 22 Aug 2026 01:42:54 GMT</pubDate>
+      <description>Source: xAI</description>
+      <source url="https://ai-pulse.vercel.app">xAI</source>
+      <category>model</category>
+    </item>
+    <item>
+      <title>Grok Bot is now included with more plans</title>
+      <link>https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wWkEtS2NGZ19UTFo2SGt3TEhKNmNtZ3plYUJIS1JzcXFkSWpKQldqRFM3TWpHa25ZVFZzR3RqR252aFhoeE9Jd1FUNm9jZw?oc=5</link>
+      <guid isPermaLink="false">cbmitkfvx3lxte9wwkets2ngz19utfo2sgt3tehknmntz3plyujis1jzcxfkswpkqldqrfm3twpha25z</guid>
+      <pubDate>Fri, 21 Aug 2026 17:22:54 GMT</pubDate>
+      <description>Source: xAI</description>
+      <source url="https://ai-pulse.vercel.app">xAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Delete File</title>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vbGRQZXpMYXd3eV9NMGx6Z2VqNVVhSG9HQmdnY2JqRmRlREw5R05XNUxKc3c2Y1pmUENIeWRNa2VRdmRmN1hTWUhaNVBUM2JYclJPRGd1SVNEUQ?oc=5</link>
+      <guid isPermaLink="false">cbmiwkfvx3lxte9vbgrqzxpmyxd3ev9nmgx6z2vqnvvhsg9hqmdny2jqrmrlrew5r05xnuxkc3c2y1pm</guid>
+      <pubDate>Fri, 21 Aug 2026 16:02:42 GMT</pubDate>
+      <description>Source: DeepSeek</description>
+      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Upload File</title>
+      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xM0FUdDM3VUlsR0YySXg0ZllFdkRvYzVrM0l5U0dIR29xeWFlTi01S1RwUjltVFMycl9lc2dsVko0N2VPOTJRZlE1YmZzQ2J5eUw4NzBtR2w?oc=5</link>
+      <guid isPermaLink="false">cbmiwefvx3lxte0xm0fuddm3vulsr0yysxg0zllfdkrvyzvrm0l5u0dir29xewflti01s1rwujltvfmy</guid>
+      <pubDate>Fri, 21 Aug 2026 12:46:45 GMT</pubDate>
+      <description>Source: DeepSeek</description>
+      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>List Files</title>
+      <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5TzlHbVhYcXN3ZDV6dmdYUE1KUHRaS29qSDZCVl9jN2NiUDJwRVBNa3hPTHBjdl9jeDVmcF94UE9ybUJTMnRtOEg2Z2Q3R1haWHNTbUNrQQ?oc=5</link>
+      <guid isPermaLink="false">cbmiv0fvx3lxtfb5tzlhbvhycxn3zdv6dmdyue1kuhras29qsdzcvl9jn2niudjwrvbna3hpthbjdl9j</guid>
+      <pubDate>Fri, 21 Aug 2026 12:18:12 GMT</pubDate>
+      <description>Source: DeepSeek</description>
+      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>From Atari to EVE Online: Building on 15 Years of AI Research in Games</title>
+      <link>https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/</link>
+      <guid isPermaLink="false">https-deepmind-google-blog-from-atari-to-eve-online-building-on-15-years-of-ai-r</guid>
+      <pubDate>Fri, 21 Aug 2026 11:59:48 GMT</pubDate>
+      <description>Google DeepMind partners with game studios to prototype breakthrough AI gameplay. (Source: Google DeepMind)</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
+      <category>research</category>
+    </item>
+    <item>
+      <title>DeepSeek-V4-Flash-Vision-Exp Release: Multimodal API Now Live</title>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxdUl6dnJOdEJIRGNHSmdqWlcydkVqa2xDTEJwdkdUS2pMT1loRTY1NktVT3lrRkJJcUV3LUh0ZUxEWklSc0NuZ1cyQksxRzJiZFpqOVRQV3lzZw?oc=5</link>
+      <guid isPermaLink="false">cbmiwkfvx3lxtfbxdul6dnjodejirgnhsmdqwlcydkvqa2xdtejwdkdus2pmt1lorty1nktvt3lrrkjj</guid>
+      <pubDate>Fri, 21 Aug 2026 11:25:45 GMT</pubDate>
+      <description>Source: DeepSeek</description>
+      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
+      <category>api</category>
+    </item>
+    <item>
+      <title>Files API</title>
+      <link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ueGpXalhJQWZUbUJpZEJFaFQ0RU13ZzNJRG9rb0QyUzUxeWFpM1h5NVpCb0hDQjBVVWMwbzRIYWdUczFnVEw3RjVQbVVnMWVNd2ZLM0VCYUdVRWM?oc=5</link>
+      <guid isPermaLink="false">cbmiw0fvx3lxte9uegpxalhjqwzubujpzejfafq0ru13zznjrg9rb0qyuzuxewfpm1h5nvpcb0hdqjbv</guid>
+      <pubDate>Fri, 21 Aug 2026 09:33:02 GMT</pubDate>
+      <description>Source: DeepSeek</description>
+      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
+      <category>api</category>
+    </item>
+    <item>
+      <title>Vision</title>
+      <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wNG4wMkFScllTMVNDbGg5VVdhbEVINEEwODdWalZ3N2Q2aERYLXI5SnFxWUc5MTFobzdlRTViWGlFbHBoVHE0MmpjX0hRUDRndTZkT2x6Zw?oc=5</link>
+      <guid isPermaLink="false">cbmiv0fvx3lxte8wng4wmkfsclltmvndbgg5vvdhbevineewoddwalz3n2q2aerylxi5snfxwuc5mtfo</guid>
+      <pubDate>Fri, 21 Aug 2026 09:32:57 GMT</pubDate>
+      <description>Source: DeepSeek</description>
+      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Measuring benchmark optimization in speech recognition</title>
+      <link>https://huggingface.co/blog/asr-benchmark-optimization</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-asr-benchmark-optimization</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
     <item>
       <title>Up to 3.2x Faster Inference with LFM2.5-DSpark</title>
       <link>https://huggingface.co/blog/LiquidAI/lfm25-dspark</link>
@@ -236,7 +326,7 @@
       <title>DeepSeek-V4-Pro GA Release</title>
       <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iMWppQXQ2QjBmcUwtTlNFdTFKY1NvQjV1YWcyenNHajVnQm1UVUw0Ni1Vd1ZMdTI4eUlEUDBOeEdPMlNTdVQteVpOQUdEZ1V6QVBEbjhvRXpuZw?oc=5</link>
       <guid isPermaLink="false">cbmiwkfvx3lxte1imwppqxq2qjbmcuwttlnfdtfky1nvqjv1ywcyennhajvnqm1uvuw0ni1vd1zmdti4</guid>
-      <pubDate>Thu, 13 Aug 2026 13:40:39 GMT</pubDate>
+      <pubDate>Thu, 13 Aug 2026 07:00:00 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>model</category>
@@ -314,15 +404,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Build Low-Latency Multilingual Voice Agents: Open Weights &amp; Full Deployment Control with NVIDIA Magpie TTS</title>
-      <link>https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-nvidia-magpie-tts-multilingual-voice-agents</guid>
-      <pubDate>Mon, 10 Aug 2026 16:25:36 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>model</category>
-    </item>
-    <item>
       <title>Evolve your marketing with new AI tools</title>
       <link>https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/</link>
       <guid isPermaLink="false">https-blog-google-products-ads-commerce-google-ads-analytics-ai-updates</guid>
@@ -395,15 +476,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Inside our 353,000-person vibe coding course</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/</link>
-      <guid isPermaLink="false">https-blog-google-innovation-and-ai-technology-developers-tools-ai-agents-intens</guid>
-      <pubDate>Mon, 03 Aug 2026 15:00:00 GMT</pubDate>
-      <description>Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI. (Source: Google DeepMind)</description>
-      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Responses API</title>
       <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE01Ri1KMW9OVW9mXzVVd19LWEpXelM3VW5hS3o0SHJhNmt1a2NCX2Y4ajMtMGJtQjBqZVg2cWZ4WktKZi1MeFh4Z2dsT2lkekRURUFySUd2cjhDRlZFOEpZ?oc=5</link>
       <guid isPermaLink="false">cbmix0fvx3lxte01ri1kmw9ovw9mxzvvd19lwepxelm3vw5hs3o0shjhnmt1a2ncx2y4ajmtmgjtqjbq</guid>
@@ -431,15 +503,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Using the Responses API</title>
-      <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PMXJDaGRDNm1HdGpYYUpkNGNHMmF5MGREOVBkVjdQOW1xMklBdk1Bc1BGUlB6WEhFQlp1ZkZNTWRRQ25GRG5JWDBqclpGeS1fWlBvZ3Y5OHFuN0IyUHRiWA?oc=5</link>
-      <guid isPermaLink="false">cbmiyefvx3lxte1pmxjdagrdnm1hdgpyyupkngnhmmf5mgreovbkvjdqow1xmklbdk1bc1bgulb6wehf</guid>
-      <pubDate>Fri, 31 Jul 2026 06:03:12 GMT</pubDate>
-      <description>Source: DeepSeek</description>
-      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
-      <category>api</category>
-    </item>
-    <item>
       <title>Investigating three real-world incidents in our cybersecurity evaluations</title>
       <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5</link>
       <guid isPermaLink="false">cbmif0fvx3lxte4zdnphn3vxrhjayjz1t01touzqaxjha1vozc1ttuzarkk4dnhfdkhht2xptupwvxzf</guid>
@@ -456,24 +519,6 @@
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
       <category>model</category>
-    </item>
-    <item>
-      <title>Grok 4.5 in GitHub Copilot</title>
-      <link>https://news.google.com/rss/articles/CBMiTkFVX3lxTE00V2FLMy01UGxfaTZXX1BFazFhWUwxVUQwd3NIcjBLblFZblpEYXdXT0tHSXZUVENDQUxOakZCamhBSGVOeURjMTN5aXcxdw?oc=5</link>
-      <guid isPermaLink="false">cbmitkfvx3lxte00v2flmy01ugxfatzxx1bfazfhwuwxvuqwd3nicjblblfzblpeyxdxt0thsxzuvend</guid>
-      <pubDate>Tue, 28 Jul 2026 07:00:00 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>model</category>
-    </item>
-    <item>
-      <title>Introducing Build Mode</title>
-      <link>https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaQkI4OHFyOHFoa3BieDhfdE1PYTBzcFhYYjZVenoxblJ3MHFKb3J6RnU2cUE5TFEzZHgtSV9LUnFZYzZSYWhQRQ?oc=5</link>
-      <guid isPermaLink="false">cbmisefvx3lxtfbaqki4ohfyohfoa3biedhfde1pytbzcfhyyjzvenoxblj3mhfkb3j6rnu2cue5tfez</guid>
-      <pubDate>Tue, 28 Jul 2026 07:00:00 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>feature</category>
     </item>
     <item>
       <title>Expanding our partnership with Cognizant</title>
@@ -498,51 +543,6 @@
       <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQREZqdkRabWx0ZnpoM2Z0dzdEWUItU0Fsd2QwSFQ2ZU05LURwMzRJWENUQUY5bFdlUmJCd1ZiOGFQUFpTY1FtRnlJUHZDZnpja1dESGtLTmMzVFB6Zm50UFFDUGF6WDByb2NndUgyejRkendFdlVidFE3bEFwbFBfaUs1QjY?oc=5</link>
       <guid isPermaLink="false">cbmihafbvv95cuxqrezqdkrabwx0znpom2z0dzdewuitu0fsd2qwsfq2zu05lurwmzrjwenuquy5bfdl</guid>
       <pubDate>Mon, 27 Jul 2026 07:00:00 GMT</pubDate>
-      <description>Source: Meta</description>
-      <source url="https://ai-pulse.vercel.app">Meta</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Introducing Claude Opus 5</title>
-      <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5</link>
-      <guid isPermaLink="false">cbmiv0fvx3lxte9iczrhduzazwkyq2rxakhsm1visf8wclzfx25kdef6wu1utetmqxjhynpiznjruwd2</guid>
-      <pubDate>Fri, 24 Jul 2026 07:00:00 GMT</pubDate>
-      <description>Source: Anthropic</description>
-      <source url="https://ai-pulse.vercel.app">Anthropic</source>
-      <category>model</category>
-    </item>
-    <item>
-      <title>The Anthropic Economic Index connector</title>
-      <link>https://news.google.com/rss/articles/CBMic0FVX3lxTE1SYk1FQ3paMmNwYURwWWFZQ3VDblA3Yy05c3F4MXJxTnVHLVlHMDQyM2pDQ3A0VjNhNl90Q2xzNFpyYVlhUkdXb2ZTVUR5MFZnVWpkaFRmdkxPUGZoTGYyakJnTzhBOGJOaDF1Q1ZDa3haVkU?oc=5</link>
-      <guid isPermaLink="false">cbmic0fvx3lxte1syk1fq3pammnwyurwwwfzq3vdbla3yy05c3f4mxjxtnvhlvlhmdqym2pdq3a0vjnh</guid>
-      <pubDate>Wed, 22 Jul 2026 07:00:00 GMT</pubDate>
-      <description>Source: Anthropic</description>
-      <source url="https://ai-pulse.vercel.app">Anthropic</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>A research agenda for the Economic Futures Research Fund</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1HMldWaTVQMzdleERTR0FWVGR2eHIwY3lqQ3VwM2c5MnVlSS14WWFzSTlSQmJ0RG5ER3VSemFVaUYxVjg4NVE5Q2hqcko5cFgyTGtod2J5MFl6RmNoaGdfdld4aUxrR29IY3QxTDZJUXpTcjlRWXdV?oc=5</link>
-      <guid isPermaLink="false">cbmid0fvx3lxte1hmldwatvqmzdleertr0fwvgr2ehiwy3lqq3vwm2c5mnvlss14wwfzstlsqmj0rg5e</guid>
-      <pubDate>Wed, 22 Jul 2026 07:00:00 GMT</pubDate>
-      <description>Source: Anthropic</description>
-      <source url="https://ai-pulse.vercel.app">Anthropic</source>
-      <category>research</category>
-    </item>
-    <item>
-      <title>Donating another $20 million to Public First Action</title>
-      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE95VEVDYmVGVzJxeF9rOEVRY0dsMTA1LVpvTnotMTVFLUV0OFhWT2J4eDBJeVE5OFlqWURyUkR3elRvblBWV2F0bmh0M1VuSzNZMHo0aWNMT2Q3dWFYTkFjd2tUWUIwWW53UE40?oc=5</link>
-      <guid isPermaLink="false">cbmia0fvx3lxte95vevdymvgvzjxef9roevry0dsmta1lvpvtnotmtvfluv0ofhwt2j4edbjeve5oflq</guid>
-      <pubDate>Tue, 21 Jul 2026 07:00:00 GMT</pubDate>
-      <description>Source: Anthropic</description>
-      <source url="https://ai-pulse.vercel.app">Anthropic</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>How Meta’s AI Models Are Powering the First Wave of Genesis Mission Projects</title>
-      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQZW9DTHJ3LS1CaUl2WkNOX0NkTmpKQzBtdElNT2FMN1QySGt0RkRnTlc0RTBHZVRjVnFxMHBKRFdoeWV2cEpobE5VVzVDVjk3SEUzR0ZydWVVRnRXaTByb3NIY09Fc29oYmFLWm9QRlpkUDl3MzNxWEV3eThEMlBMcE0yTVYxalpBSENhYVo4MTVMcEZCX2REOE9pejVralJvNEhr?oc=5</link>
-      <guid isPermaLink="false">cbmiowfbvv95cuxqzw9dthj3ls1caul2wknox0nktmpkqzbtdelnt2fmn1qysgt0rkrntlc0rtbhzvrj</guid>
-      <pubDate>Tue, 21 Jul 2026 07:00:00 GMT</pubDate>
       <description>Source: Meta</description>
       <source url="https://ai-pulse.vercel.app">Meta</source>
       <category>feature</category>
