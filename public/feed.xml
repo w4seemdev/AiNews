@@ -5,7 +5,7 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2026 06:33:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 06:34:16 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Grok 4.6 on Google Enterprise Agent Platform</title>
@@ -72,9 +72,9 @@
     </item>
     <item>
       <title>Files API</title>
-      <link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ueGpXalhJQWZUbUJpZEJFaFQ0RU13ZzNJRG9rb0QyUzUxeWFpM1h5NVpCb0hDQjBVVWMwbzRIYWdUczFnVEw3RjVQbVVnMWVNd2ZLM0VCYUdVRWM?oc=5</link>
-      <guid isPermaLink="false">cbmiw0fvx3lxte9uegpxalhjqwzubujpzejfafq0ru13zznjrg9rb0qyuzuxewfpm1h5nvpcb0hdqjbv</guid>
-      <pubDate>Fri, 21 Aug 2026 09:33:02 GMT</pubDate>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE42YnNoOWxTNGZCR0JHOWJMLUVzSzJGelZmdVVfdldsS0FHUTRjbjlwbm9MSlRqUUU1NEZyZFBZejdaOEdKdFRTNlMyaDJJbVRoTXpGbDBDd05Kdw?oc=5</link>
+      <guid isPermaLink="false">cbmiwkfvx3lxte42ynnoowxtngzcr0jhowjmluvzszjgelzmdvvfdldss0fhutrjbjlwbm9mslrquuu1</guid>
+      <pubDate>Fri, 21 Aug 2026 09:33:01 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>api</category>
@@ -269,15 +269,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>How Claude&apos;s text watermarking works</title>
-      <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5</link>
-      <guid isPermaLink="false">cbmiykfvx3lxte8xmjz5ynd3tkptcuftrgzxaln0vuxktwrxsktrtkhsa1llv0w0ouphlxrywdkyagjv</guid>
-      <pubDate>Fri, 14 Aug 2026 19:22:20 GMT</pubDate>
-      <description>Source: Anthropic</description>
-      <source url="https://ai-pulse.vercel.app">Anthropic</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Grok 4.6 in GitHub Copilot</title>
       <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3cC1tWldMMkhweUFFM1A3LU1jUHJXdnJubkJRWm5rWURHSmpxc1paSEdyMV9KaWM4T0tHQTB6ZkNicGs5WGhXQ091QWZ6MUlRaTdV?oc=5</link>
       <guid isPermaLink="false">cbmiu0fvx3lxtfb3cc1twldmmkhweuffm1a3lu1juhjxdnjubkjrwm5rwurhsmpxc1pasedymv9kawm4</guid>
@@ -285,6 +276,15 @@
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
       <category>model</category>
+    </item>
+    <item>
+      <title>How Claude&apos;s text watermarking works</title>
+      <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5</link>
+      <guid isPermaLink="false">cbmiykfvx3lxte8xmjz5ynd3tkptcuftrgzxaln0vuxktwrxsktrtkhsa1llv0w0ouphlxrywdkyagjv</guid>
+      <pubDate>Fri, 14 Aug 2026 07:00:00 GMT</pubDate>
+      <description>Source: Anthropic</description>
+      <source url="https://ai-pulse.vercel.app">Anthropic</source>
+      <category>feature</category>
     </item>
     <item>
       <title>State of Open Models: Summer 2026 Observations</title>
@@ -413,6 +413,15 @@
       <category>feature</category>
     </item>
     <item>
+      <title>Markdown page example</title>
+      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4cFNYWk9yckhoR3hNSTB4T3dKX1NLYWI1NFBERGNrVkpWTlozaUZjOGpEMkxxbm1yZ0dFTlM3SmpIQlVFM3B5LVRPRkpKZDYzdWhPSUNMRkVFLS04T3VN?oc=5</link>
+      <guid isPermaLink="false">cbmix0fvx3lxtfa4cfnywk9yckhor3hnstb4t3dkx1nlywi1nfbergnrvkpwtlozauzjogpemkxxbm1y</guid>
+      <pubDate>Sat, 08 Aug 2026 01:47:10 GMT</pubDate>
+      <description>Source: DeepSeek</description>
+      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
+      <category>feature</category>
+    </item>
+    <item>
       <title>Improving Fable 5&apos;s biology safeguards</title>
       <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE95RXUtcVFIR1hIbmVDRk5sRDZEVWZSRTlXNXRMU1RXQk1JdE1kRzBMR3RuOGhzOVRZdEs2bGRIX3JIa1ZZbjlCbGx5RzlZRGdQZ3RwLXVidjZyZUpXeU1sM0hYeTQ2QW0zOXlCWnJQenFhZ0dEUFNFUA?oc=5</link>
       <guid isPermaLink="false">cbmieefvx3lxte95rxutcvfir1hibmvdrk5srdzevwzsrtlxnxrmu1rxqk1jde1krzbmr3ruoghzovrz</guid>
@@ -458,7 +467,7 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer</title>
+      <title>Tino Cuellar joins Anthropic as Chief Global Affairs Officer</title>
       <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vODE3REpJODF0TzhuZTBCTFpEdTNMNXFsV2QtOHhzZ0NUVUlmTDVESzZQM2ZHQWl4MkxaSzY1Z0pNSWVUaTB4NzRsX0dUVGxqWWIwVkFB?oc=5</link>
       <guid isPermaLink="false">cbmivkfvx3lxte9vode3repjodf0tzhuztbctfpedtnmnxfsv2qtohhzz0nuvulmtdveszzqm2zhqwl4</guid>
       <pubDate>Tue, 04 Aug 2026 07:00:00 GMT</pubDate>
@@ -491,15 +500,6 @@
       <pubDate>Fri, 31 Jul 2026 07:00:00 GMT</pubDate>
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Integrate with Codex</title>
-      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE1GRGhxU2xwYjdRLXZBWE1XLXlsdUtBQkpRNkFjQ2FhTjUySnRHWDRyZ2VLMVFmSEJNWGpKUVF1d2lscjBuRHd0ODN2TGpIYkZIdFdVUGJ0OHFXMmJORGZoMktFX0hhMHU5ZmtrZEh0aTFIR3dXaEE?oc=5</link>
-      <guid isPermaLink="false">cbmidkfvx3lxte1grghxu2xwyjdrlxzbwe1xlxlsdutbqkprnkfjq2fhtjuysnrhwdryz2vlmvfmsejn</guid>
-      <pubDate>Fri, 31 Jul 2026 06:19:12 GMT</pubDate>
-      <description>Source: DeepSeek</description>
-      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>feature</category>
     </item>
     <item>

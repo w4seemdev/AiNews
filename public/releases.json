@@ -100,13 +100,13 @@
     ]
   },
   {
-    "id": "cbmiw0fvx3lxte9uegpxalhjqwzubujpzejfafq0ru13zznjrg9rb0qyuzuxewfpm1h5nvpcb0hdqjbv",
+    "id": "cbmiwkfvx3lxte42ynnoowxtngzcr0jhowjmluvzszjgelzmdvvfdldss0fhutrjbjlwbm9mslrquuu1",
     "lab": "DeepSeek",
     "title": "Files API",
     "summary": "",
-    "date": "2026-08-21T09:33:02.000Z",
+    "date": "2026-08-21T09:33:01.000Z",
     "category": "api",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ueGpXalhJQWZUbUJpZEJFaFQ0RU13ZzNJRG9rb0QyUzUxeWFpM1h5NVpCb0hDQjBVVWMwbzRIYWdUczFnVEw3RjVQbVVnMWVNd2ZLM0VCYUdVRWM?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42YnNoOWxTNGZCR0JHOWJMLUVzSzJGelZmdVVfdldsS0FHUTRjbjlwbm9MSlRqUUU1NEZyZFBZejdaOEdKdFRTNlMyaDJJbVRoTXpGbDBDd05Kdw?oc=5",
     "tags": [
       "files",
       "api"
@@ -426,21 +426,6 @@
     ]
   },
   {
-    "id": "cbmiykfvx3lxte8xmjz5ynd3tkptcuftrgzxaln0vuxktwrxsktrtkhsa1llv0w0ouphlxrywdkyagjv",
-    "lab": "Anthropic",
-    "title": "How Claude's text watermarking works",
-    "summary": "",
-    "date": "2026-08-14T19:22:20.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
-    "tags": [
-      "claude",
-      "text",
-      "watermarking",
-      "works"
-    ]
-  },
-  {
     "id": "cbmiu0fvx3lxtfb3cc1twldmmkhweuffm1a3lu1juhjxdnjubkjrwm5rwurhsmpxc1pasedymv9kawm4",
     "lab": "xAI",
     "title": "Grok 4.6 in GitHub Copilot",
@@ -452,6 +437,21 @@
       "grok",
       "github",
       "copilot"
+    ]
+  },
+  {
+    "id": "cbmiykfvx3lxte8xmjz5ynd3tkptcuftrgzxaln0vuxktwrxsktrtkhsa1llv0w0ouphlxrywdkyagjv",
+    "lab": "Anthropic",
+    "title": "How Claude's text watermarking works",
+    "summary": "",
+    "date": "2026-08-14T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
+    "tags": [
+      "claude",
+      "text",
+      "watermarking",
+      "works"
     ]
   },
   {
@@ -660,6 +660,20 @@
     ]
   },
   {
+    "id": "cbmix0fvx3lxtfa4cfnywk9yckhor3hnstb4t3dkx1nlywi1nfbergnrvkpwtlozauzjogpemkxxbm1y",
+    "lab": "DeepSeek",
+    "title": "Markdown page example",
+    "summary": "",
+    "date": "2026-08-08T01:47:10.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4cFNYWk9yckhoR3hNSTB4T3dKX1NLYWI1NFBERGNrVkpWTlozaUZjOGpEMkxxbm1yZ0dFTlM3SmpIQlVFM3B5LVRPRkpKZDYzdWhPSUNMRkVFLS04T3VN?oc=5",
+    "tags": [
+      "markdown",
+      "page",
+      "example"
+    ]
+  },
+  {
     "id": "cbmieefvx3lxte95rxutcvfir1hibmvdrk5srdzevwzsrtlxnxrmu1rxqk1jde1krzbmr3ruoghzovrz",
     "lab": "Anthropic",
     "title": "Improving Fable 5's biology safeguards",
@@ -733,16 +747,16 @@
   {
     "id": "cbmivkfvx3lxte9vode3repjodf0tzhuztbctfpedtnmnxfsv2qtohhzz0nuvulmtdveszzqm2zhqwl4",
     "lab": "Anthropic",
-    "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+    "title": "Tino Cuellar joins Anthropic as Chief Global Affairs Officer",
     "summary": "",
     "date": "2026-08-04T07:00:00.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vODE3REpJODF0TzhuZTBCTFpEdTNMNXFsV2QtOHhzZ0NUVUlmTDVESzZQM2ZHQWl4MkxaSzY1Z0pNSWVUaTB4NzRsX0dUVGxqWWIwVkFB?oc=5",
     "tags": [
-      "mariano",
-      "florentino",
       "tino",
-      "llar"
+      "cuellar",
+      "joins",
+      "anthropic"
     ]
   },
   {
@@ -782,19 +796,6 @@
       "imagine",
       "video",
       "references"
-    ]
-  },
-  {
-    "id": "cbmidkfvx3lxte1grghxu2xwyjdrlxzbwe1xlxlsdutbqkprnkfjq2fhtjuysnrhwdryz2vlmvfmsejn",
-    "lab": "DeepSeek",
-    "title": "Integrate with Codex",
-    "summary": "",
-    "date": "2026-07-31T06:19:12.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GRGhxU2xwYjdRLXZBWE1XLXlsdUtBQkpRNkFjQ2FhTjUySnRHWDRyZ2VLMVFmSEJNWGpKUVF1d2lscjBuRHd0ODN2TGpIYkZIdFdVUGJ0OHFXMmJORGZoMktFX0hhMHU5ZmtrZEh0aTFIR3dXaEE?oc=5",
-    "tags": [
-      "integrate",
-      "codex"
     ]
   },
   {
