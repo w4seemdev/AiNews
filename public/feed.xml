@@ -5,7 +5,7 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2026 06:34:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 06:50:40 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Grok 4.6 on Google Enterprise Agent Platform</title>
@@ -86,6 +86,15 @@
       <pubDate>Fri, 21 Aug 2026 09:32:57 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Creators of Grok, the AI Chatbot</title>
+      <link>https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5</link>
+      <guid isPermaLink="false">cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq</guid>
+      <pubDate>Fri, 21 Aug 2026 07:00:00 GMT</pubDate>
+      <description>Source: xAI</description>
+      <source url="https://ai-pulse.vercel.app">xAI</source>
       <category>feature</category>
     </item>
     <item>
@@ -269,15 +278,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Grok 4.6 in GitHub Copilot</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3cC1tWldMMkhweUFFM1A3LU1jUHJXdnJubkJRWm5rWURHSmpxc1paSEdyMV9KaWM4T0tHQTB6ZkNicGs5WGhXQ091QWZ6MUlRaTdV?oc=5</link>
-      <guid isPermaLink="false">cbmiu0fvx3lxtfb3cc1twldmmkhweuffm1a3lu1juhjxdnjubkjrwm5rwurhsmpxc1pasedymv9kawm4</guid>
-      <pubDate>Fri, 14 Aug 2026 17:41:56 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>model</category>
-    </item>
-    <item>
       <title>How Claude&apos;s text watermarking works</title>
       <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5</link>
       <guid isPermaLink="false">cbmiykfvx3lxte8xmjz5ynd3tkptcuftrgzxaln0vuxktwrxsktrtkhsa1llv0w0ouphlxrywdkyagjv</guid>
@@ -285,6 +285,15 @@
       <description>Source: Anthropic</description>
       <source url="https://ai-pulse.vercel.app">Anthropic</source>
       <category>feature</category>
+    </item>
+    <item>
+      <title>Grok 4.6 in GitHub Copilot</title>
+      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3cC1tWldMMkhweUFFM1A3LU1jUHJXdnJubkJRWm5rWURHSmpxc1paSEdyMV9KaWM4T0tHQTB6ZkNicGs5WGhXQ091QWZ6MUlRaTdV?oc=5</link>
+      <guid isPermaLink="false">cbmiu0fvx3lxtfb3cc1twldmmkhweuffm1a3lu1juhjxdnjubkjrwm5rwurhsmpxc1pasedymv9kawm4</guid>
+      <pubDate>Fri, 14 Aug 2026 07:00:00 GMT</pubDate>
+      <description>Source: xAI</description>
+      <source url="https://ai-pulse.vercel.app">xAI</source>
+      <category>model</category>
     </item>
     <item>
       <title>State of Open Models: Summer 2026 Observations</title>
@@ -467,7 +476,7 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Tino Cuellar joins Anthropic as Chief Global Affairs Officer</title>
+      <title>Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer</title>
       <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vODE3REpJODF0TzhuZTBCTFpEdTNMNXFsV2QtOHhzZ0NUVUlmTDVESzZQM2ZHQWl4MkxaSzY1Z0pNSWVUaTB4NzRsX0dUVGxqWWIwVkFB?oc=5</link>
       <guid isPermaLink="false">cbmivkfvx3lxte9vode3repjodf0tzhuztbctfpedtnmnxfsv2qtohhzz0nuvulmtdveszzqm2zhqwl4</guid>
       <pubDate>Tue, 04 Aug 2026 07:00:00 GMT</pubDate>
@@ -510,15 +519,6 @@
       <description>Source: Anthropic</description>
       <source url="https://ai-pulse.vercel.app">Anthropic</source>
       <category>feature</category>
-    </item>
-    <item>
-      <title>Introducing Grok Voice Think Fast 2.0</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CM2FacVNnbXQ1MEdPM0tTYzdoSVY0cUR1RzhCcDBtbjYtVU5kWlZSZWo5dWY3ZVN1c0RIOE5kLVkwSmVwaVBVenBsMVY4Z21LVy1F?oc=5</link>
-      <guid isPermaLink="false">cbmiu0fvx3lxte1cm2facvnnbxq1medpm0ttyzdosvy0cur1rzhccdbtbjytvu5kwlzszwo5dwy3zvn1</guid>
-      <pubDate>Wed, 29 Jul 2026 07:00:00 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>model</category>
     </item>
     <item>
       <title>Expanding our partnership with Cognizant</title>

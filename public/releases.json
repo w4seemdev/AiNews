@@ -125,6 +125,20 @@
     ]
   },
   {
+    "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
+    "lab": "xAI",
+    "title": "Creators of Grok, the AI Chatbot",
+    "summary": "",
+    "date": "2026-08-21T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
+    "tags": [
+      "creators",
+      "grok",
+      "chatbot"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-asr-benchmark-optimization",
     "lab": "Hugging Face",
     "title": "Measuring benchmark optimization in speech recognition",
@@ -426,20 +440,6 @@
     ]
   },
   {
-    "id": "cbmiu0fvx3lxtfb3cc1twldmmkhweuffm1a3lu1juhjxdnjubkjrwm5rwurhsmpxc1pasedymv9kawm4",
-    "lab": "xAI",
-    "title": "Grok 4.6 in GitHub Copilot",
-    "summary": "",
-    "date": "2026-08-14T17:41:56.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3cC1tWldMMkhweUFFM1A3LU1jUHJXdnJubkJRWm5rWURHSmpxc1paSEdyMV9KaWM4T0tHQTB6ZkNicGs5WGhXQ091QWZ6MUlRaTdV?oc=5",
-    "tags": [
-      "grok",
-      "github",
-      "copilot"
-    ]
-  },
-  {
     "id": "cbmiykfvx3lxte8xmjz5ynd3tkptcuftrgzxaln0vuxktwrxsktrtkhsa1llv0w0ouphlxrywdkyagjv",
     "lab": "Anthropic",
     "title": "How Claude's text watermarking works",
@@ -452,6 +452,20 @@
       "text",
       "watermarking",
       "works"
+    ]
+  },
+  {
+    "id": "cbmiu0fvx3lxtfb3cc1twldmmkhweuffm1a3lu1juhjxdnjubkjrwm5rwurhsmpxc1pasedymv9kawm4",
+    "lab": "xAI",
+    "title": "Grok 4.6 in GitHub Copilot",
+    "summary": "",
+    "date": "2026-08-14T07:00:00.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3cC1tWldMMkhweUFFM1A3LU1jUHJXdnJubkJRWm5rWURHSmpxc1paSEdyMV9KaWM4T0tHQTB6ZkNicGs5WGhXQ091QWZ6MUlRaTdV?oc=5",
+    "tags": [
+      "grok",
+      "github",
+      "copilot"
     ]
   },
   {
@@ -747,16 +761,16 @@
   {
     "id": "cbmivkfvx3lxte9vode3repjodf0tzhuztbctfpedtnmnxfsv2qtohhzz0nuvulmtdveszzqm2zhqwl4",
     "lab": "Anthropic",
-    "title": "Tino Cuellar joins Anthropic as Chief Global Affairs Officer",
+    "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
     "summary": "",
     "date": "2026-08-04T07:00:00.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vODE3REpJODF0TzhuZTBCTFpEdTNMNXFsV2QtOHhzZ0NUVUlmTDVESzZQM2ZHQWl4MkxaSzY1Z0pNSWVUaTB4NzRsX0dUVGxqWWIwVkFB?oc=5",
     "tags": [
+      "mariano",
+      "florentino",
       "tino",
-      "cuellar",
-      "joins",
-      "anthropic"
+      "llar"
     ]
   },
   {
@@ -811,21 +825,6 @@
       "three",
       "real",
       "world"
-    ]
-  },
-  {
-    "id": "cbmiu0fvx3lxte1cm2facvnnbxq1medpm0ttyzdosvy0cur1rzhccdbtbjytvu5kwlzszwo5dwy3zvn1",
-    "lab": "xAI",
-    "title": "Introducing Grok Voice Think Fast 2.0",
-    "summary": "",
-    "date": "2026-07-29T07:00:00.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CM2FacVNnbXQ1MEdPM0tTYzdoSVY0cUR1RzhCcDBtbjYtVU5kWlZSZWo5dWY3ZVN1c0RIOE5kLVkwSmVwaVBVenBsMVY4Z21LVy1F?oc=5",
-    "tags": [
-      "grok",
-      "voice",
-      "think",
-      "fast"
     ]
   },
   {
