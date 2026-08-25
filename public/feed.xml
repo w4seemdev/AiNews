@@ -5,8 +5,35 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 06:50:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 06:39:35 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Wire It, Run It, Deploy It: AI Workflows in Gradio</title>
+      <link>https://huggingface.co/blog/gradio-workflow-guide</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-gradio-workflow-guide</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Mistral x HUMAIN</title>
+      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoM215alpsRHFKLTB6NUJ1cmRubHpweTlaczlWaTAyeWRfaTAtWUVZZGZpU0thZGNlWnRRUnRMLTVtYzcyZEx3d0FwWFFJeTk5cDZv?oc=5</link>
+      <guid isPermaLink="false">cbmiu0fvx3lxtfbom215alpsrhfkltb6nuj1cmrubhpwetlaczlwatayewrfatatwuvzzgzpu0thzgnl</guid>
+      <pubDate>Mon, 24 Aug 2026 19:06:44 GMT</pubDate>
+      <description>Source: Mistral</description>
+      <source url="https://ai-pulse.vercel.app">Mistral</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Advancing price-performance for developers with GPT‑5.6 in Kiro</title>
+      <link>https://openai.com/index/gpt-5-6-in-kiro</link>
+      <guid isPermaLink="false">https-openai-com-index-gpt-5-6-in-kiro</guid>
+      <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
+      <description>GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
     <item>
       <title>Grok 4.6 on Google Enterprise Agent Platform</title>
       <link>https://news.google.com/rss/articles/CBMiTEFVX3lxTE45VkJvRlBPSEdIQUt5VmNpT3k5cU1kNkQyblByT2lHTDlDLUVsanVFV0hGM0NQTDcwMGZyalYwZWI1bHRYUS03NDZ2NVA?oc=5</link>
@@ -72,9 +99,9 @@
     </item>
     <item>
       <title>Files API</title>
-      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE42YnNoOWxTNGZCR0JHOWJMLUVzSzJGelZmdVVfdldsS0FHUTRjbjlwbm9MSlRqUUU1NEZyZFBZejdaOEdKdFRTNlMyaDJJbVRoTXpGbDBDd05Kdw?oc=5</link>
-      <guid isPermaLink="false">cbmiwkfvx3lxte42ynnoowxtngzcr0jhowjmluvzszjgelzmdvvfdldss0fhutrjbjlwbm9mslrquuu1</guid>
-      <pubDate>Fri, 21 Aug 2026 09:33:01 GMT</pubDate>
+      <link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ueGpXalhJQWZUbUJpZEJFaFQ0RU13ZzNJRG9rb0QyUzUxeWFpM1h5NVpCb0hDQjBVVWMwbzRIYWdUczFnVEw3RjVQbVVnMWVNd2ZLM0VCYUdVRWM?oc=5</link>
+      <guid isPermaLink="false">cbmiw0fvx3lxte9uegpxalhjqwzubujpzejfafq0ru13zznjrg9rb0qyuzuxewfpm1h5nvpcb0hdqjbv</guid>
+      <pubDate>Fri, 21 Aug 2026 09:33:02 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>api</category>
@@ -242,15 +269,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Asana cleared 5 years of engineering work in 2 weeks with Codex</title>
-      <link>https://openai.com/index/asana</link>
-      <guid isPermaLink="false">https-openai-com-index-asana</guid>
-      <pubDate>Tue, 18 Aug 2026 07:00:00 GMT</pubDate>
-      <description>Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers</title>
       <link>https://huggingface.co/blog/multi-vector-encoder</link>
       <guid isPermaLink="false">https-huggingface-co-blog-multi-vector-encoder</guid>
@@ -386,15 +404,6 @@
       <category>research</category>
     </item>
     <item>
-      <title>Thinking of ACE? We Can Do It with Fewer Tokens</title>
-      <link>https://huggingface.co/blog/ibm-research/altk-evolve-sldd</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-ibm-research-altk-evolve-sldd</guid>
-      <pubDate>Tue, 11 Aug 2026 13:37:10 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>In-region inference, open models, and new European infrastructure for sovereign AI.</title>
       <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE9zbGlwUWhiRC1udXFGMzJHeGZkUmN6bHk4T3UxWE5uM2trY2xhUUdTeXZzQ1ZSTXlvc3AzMWREczBUcjg0N1g4ZWdaSkJkVldfYWJ0SjR5cGFGMlFpdUpFTGNTS0EyVm45dllmc21TckJwT05IalE?oc=5</link>
       <guid isPermaLink="false">cbmidkfvx3lxte9zbglwuwhirc1udxfgmzjhegzkumn6bhk4t3uxwe5um2try2xhuudtexzzq1zstxlv</guid>
@@ -476,7 +485,7 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer</title>
+      <title>Tino Cuellar joins Anthropic as Chief Global Affairs Officer</title>
       <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vODE3REpJODF0TzhuZTBCTFpEdTNMNXFsV2QtOHhzZ0NUVUlmTDVESzZQM2ZHQWl4MkxaSzY1Z0pNSWVUaTB4NzRsX0dUVGxqWWIwVkFB?oc=5</link>
       <guid isPermaLink="false">cbmivkfvx3lxte9vode3repjodf0tzhuztbctfpedtnmnxfsv2qtohhzz0nuvulmtdveszzqm2zhqwl4</guid>
       <pubDate>Tue, 04 Aug 2026 07:00:00 GMT</pubDate>
@@ -537,15 +546,6 @@
       <description>Source: Anthropic</description>
       <source url="https://ai-pulse.vercel.app">Anthropic</source>
       <category>model</category>
-    </item>
-    <item>
-      <title>Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics</title>
-      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQREZqdkRabWx0ZnpoM2Z0dzdEWUItU0Fsd2QwSFQ2ZU05LURwMzRJWENUQUY5bFdlUmJCd1ZiOGFQUFpTY1FtRnlJUHZDZnpja1dESGtLTmMzVFB6Zm50UFFDUGF6WDByb2NndUgyejRkendFdlVidFE3bEFwbFBfaUs1QjY?oc=5</link>
-      <guid isPermaLink="false">cbmihafbvv95cuxqrezqdkrabwx0znpom2z0dzdewuitu0fsd2qwsfq2zu05lurwmzrjwenuquy5bfdl</guid>
-      <pubDate>Mon, 27 Jul 2026 07:00:00 GMT</pubDate>
-      <description>Source: Meta</description>
-      <source url="https://ai-pulse.vercel.app">Meta</source>
-      <category>feature</category>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,48 @@
 [
   {
+    "id": "https-huggingface-co-blog-gradio-workflow-guide",
+    "lab": "Hugging Face",
+    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "summary": "",
+    "date": "2026-08-25T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/gradio-workflow-guide",
+    "tags": [
+      "wire",
+      "run",
+      "deploy",
+      "workflows"
+    ]
+  },
+  {
+    "id": "cbmiu0fvx3lxtfbom215alpsrhfkltb6nuj1cmrubhpwetlaczlwatayewrfatatwuvzzgzpu0thzgnl",
+    "lab": "Mistral",
+    "title": "Mistral x HUMAIN",
+    "summary": "",
+    "date": "2026-08-24T19:06:44.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoM215alpsRHFKLTB6NUJ1cmRubHpweTlaczlWaTAyeWRfaTAtWUVZZGZpU0thZGNlWnRRUnRMLTVtYzcyZEx3d0FwWFFJeTk5cDZv?oc=5",
+    "tags": [
+      "mistral",
+      "humain"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-gpt-5-6-in-kiro",
+    "lab": "OpenAI",
+    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+    "date": "2026-08-24T12:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/gpt-5-6-in-kiro",
+    "tags": [
+      "price",
+      "performance",
+      "developers",
+      "gpt"
+    ]
+  },
+  {
     "id": "cbmitefvx3lxte45vkjvrlbpsediqut5vmnpt3k5cu1knkqyblbyt2lhtdldluvsanvfv0hgm0nqtdcw",
     "lab": "xAI",
     "title": "Grok 4.6 on Google Enterprise Agent Platform",
@@ -100,13 +143,13 @@
     ]
   },
   {
-    "id": "cbmiwkfvx3lxte42ynnoowxtngzcr0jhowjmluvzszjgelzmdvvfdldss0fhutrjbjlwbm9mslrquuu1",
+    "id": "cbmiw0fvx3lxte9uegpxalhjqwzubujpzejfafq0ru13zznjrg9rb0qyuzuxewfpm1h5nvpcb0hdqjbv",
     "lab": "DeepSeek",
     "title": "Files API",
     "summary": "",
-    "date": "2026-08-21T09:33:01.000Z",
+    "date": "2026-08-21T09:33:02.000Z",
     "category": "api",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42YnNoOWxTNGZCR0JHOWJMLUVzSzJGelZmdVVfdldsS0FHUTRjbjlwbm9MSlRqUUU1NEZyZFBZejdaOEdKdFRTNlMyaDJJbVRoTXpGbDBDd05Kdw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ueGpXalhJQWZUbUJpZEJFaFQ0RU13ZzNJRG9rb0QyUzUxeWFpM1h5NVpCb0hDQjBVVWMwbzRIYWdUczFnVEw3RjVQbVVnMWVNd2ZLM0VCYUdVRWM?oc=5",
     "tags": [
       "files",
       "api"
@@ -379,21 +422,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-asana",
-    "lab": "OpenAI",
-    "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-    "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
-    "date": "2026-08-18T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/asana",
-    "tags": [
-      "asana",
-      "years",
-      "work",
-      "weeks"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-multi-vector-encoder",
     "lab": "Hugging Face",
     "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
@@ -615,21 +643,6 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-ibm-research-altk-evolve-sldd",
-    "lab": "Hugging Face",
-    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-    "summary": "",
-    "date": "2026-08-11T13:37:10.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-    "tags": [
-      "thinking",
-      "ace",
-      "fewer",
-      "tokens"
-    ]
-  },
-  {
     "id": "cbmidkfvx3lxte9zbglwuwhirc1udxfgmzjhegzkumn6bhk4t3uxwe5um2try2xhuudtexzzq1zstxlv",
     "lab": "Mistral",
     "title": "In-region inference, open models, and new European infrastructure for sovereign AI.",
@@ -761,16 +774,16 @@
   {
     "id": "cbmivkfvx3lxte9vode3repjodf0tzhuztbctfpedtnmnxfsv2qtohhzz0nuvulmtdveszzqm2zhqwl4",
     "lab": "Anthropic",
-    "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+    "title": "Tino Cuellar joins Anthropic as Chief Global Affairs Officer",
     "summary": "",
     "date": "2026-08-04T07:00:00.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vODE3REpJODF0TzhuZTBCTFpEdTNMNXFsV2QtOHhzZ0NUVUlmTDVESzZQM2ZHQWl4MkxaSzY1Z0pNSWVUaTB4NzRsX0dUVGxqWWIwVkFB?oc=5",
     "tags": [
-      "mariano",
-      "florentino",
       "tino",
-      "llar"
+      "cuellar",
+      "joins",
+      "anthropic"
     ]
   },
   {
@@ -853,21 +866,6 @@
       "position",
       "open",
       "weights",
-      "models"
-    ]
-  },
-  {
-    "id": "cbmihafbvv95cuxqrezqdkrabwx0znpom2z0dzdewuitu0fsd2qwsfq2zu05lurwmzrjwenuquy5bfdl",
-    "lab": "Meta",
-    "title": "Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
-    "summary": "",
-    "date": "2026-07-27T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQREZqdkRabWx0ZnpoM2Z0dzdEWUItU0Fsd2QwSFQ2ZU05LURwMzRJWENUQUY5bFdlUmJCd1ZiOGFQUFpTY1FtRnlJUHZDZnpja1dESGtLTmMzVFB6Zm50UFFDUGF6WDByb2NndUgyejRkendFdlVidFE3bEFwbFBfaUs1QjY?oc=5",
-    "tags": [
-      "reimagining",
-      "independence",
-      "meta",
       "models"
     ]
   }
