@@ -1,5 +1,95 @@
 [
   {
+    "id": "cbmiz0fvx3lxte5dnelzcs10wnj1nhjedmtynkxut1jqz3pladhzeja4uengvlliuzrqm19sejjyoefz",
+    "lab": "Anthropic",
+    "title": "Funding better evaluations of AI’s impact on wellbeing",
+    "summary": "",
+    "date": "2026-08-25T16:10:44.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DNElZcS10WnJ1NHJEdmtYNkxUT1JQZ3plaDhZejA4UENGVlliUzRqM19sejJyOEFZbW9zbTZyZmpsZGpmOGYtaDc2T1pFTThXUG9wQi1nUFl3cVhIVDJyQVd6QnBsa2M?oc=5",
+    "tags": [
+      "funding",
+      "better",
+      "evaluations",
+      "impact"
+    ]
+  },
+  {
+    "id": "https-blog-google-products-and-platforms-products-search-home-decor-tips",
+    "lab": "Google DeepMind",
+    "title": "5 ways to upgrade your home decor with Google Search",
+    "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
+    "date": "2026-08-25T16:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp",
+    "tags": [
+      "home",
+      "decor",
+      "google",
+      "search"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-ibm-granite-granite-4-2",
+    "lab": "Hugging Face",
+    "title": "Granite 4.2 LLMs: How They're Built",
+    "summary": "",
+    "date": "2026-08-25T15:14:14.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "tags": [
+      "granite",
+      "llms",
+      "built"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-multiversecomputingcai-quantization-aware-healing",
+    "lab": "Hugging Face",
+    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "summary": "",
+    "date": "2026-08-25T11:39:24.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "tags": [
+      "quantization",
+      "aware",
+      "healing",
+      "compressed"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-the-full-stack-behind-abundant-intelligence",
+    "lab": "OpenAI",
+    "title": "The full stack behind abundant intelligence",
+    "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+    "date": "2026-08-25T07:05:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "tags": [
+      "intelligence",
+      "full",
+      "stack",
+      "behind"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-jalapeno-first-results",
+    "lab": "OpenAI",
+    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+    "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+    "date": "2026-08-25T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/jalapeno-first-results",
+    "tags": [
+      "inference",
+      "jalape",
+      "first",
+      "results"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-gradio-workflow-guide",
     "lab": "Hugging Face",
     "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
@@ -12,6 +102,36 @@
       "run",
       "deploy",
       "workflows"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "lab": "OpenAI",
+    "title": "Disrupting a new covert influence campaign from Russia",
+    "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+    "date": "2026-08-25T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "tags": [
+      "russia",
+      "disrupting",
+      "covert",
+      "influence"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-introducing-admin-plugin",
+    "lab": "OpenAI",
+    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+    "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+    "date": "2026-08-25T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/introducing-admin-plugin",
+    "tags": [
+      "admin",
+      "plugin",
+      "chatgpt",
+      "work"
     ]
   },
   {
@@ -45,14 +165,14 @@
   {
     "id": "cbmitefvx3lxte45vkjvrlbpsediqut5vmnpt3k5cu1knkqyblbyt2lhtdldluvsanvfv0hgm0nqtdcw",
     "lab": "xAI",
-    "title": "Grok 4.6 on Google Enterprise Agent Platform",
+    "title": "Grok 4.6 on Gemini Enterprise Agent Platform",
     "summary": "",
     "date": "2026-08-22T01:42:54.000Z",
     "category": "model",
     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE45VkJvRlBPSEdIQUt5VmNpT3k5cU1kNkQyblByT2lHTDlDLUVsanVFV0hGM0NQTDcwMGZyalYwZWI1bHRYUS03NDZ2NVA?oc=5",
     "tags": [
       "grok",
-      "google",
+      "gemini",
       "enterprise",
       "agent"
     ]
@@ -86,13 +206,13 @@
     ]
   },
   {
-    "id": "cbmiwefvx3lxte0xm0fuddm3vulsr0yysxg0zllfdkrvyzvrm0l5u0dir29xewflti01s1rwujltvfmy",
+    "id": "cbmiwkfvx3lxte9zcljlsmdzz0std1y1sjrgtlhkmmhwaux0yxhxt2zrwunysgjebxm5wglobu1rdi1p",
     "lab": "DeepSeek",
     "title": "Upload File",
     "summary": "",
-    "date": "2026-08-21T12:46:45.000Z",
+    "date": "2026-08-21T12:46:46.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xM0FUdDM3VUlsR0YySXg0ZllFdkRvYzVrM0l5U0dIR29xeWFlTi01S1RwUjltVFMycl9lc2dsVko0N2VPOTJRZlE1YmZzQ2J5eUw4NzBtR2w?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zclJLSmdzZ0std1Y1SjRGTlhKMmhWaUx0YXhxT2ZRWUNySGJEbXM5WGlObU1Rdi1pZVUyS3R1Q1JIaHE1NjE5b2owVlo0YkQ1eFhuMXI4dm12UQ?oc=5",
     "tags": [
       "upload",
       "file"
@@ -179,6 +299,21 @@
       "creators",
       "grok",
       "chatbot"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-pwc-search",
+    "lab": "Hugging Face",
+    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+    "summary": "",
+    "date": "2026-08-21T00:00:00.000Z",
+    "category": "research",
+    "url": "https://huggingface.co/blog/pwc-search",
+    "tags": [
+      "hugging",
+      "face",
+      "inference",
+      "endpoints"
     ]
   },
   {
@@ -347,21 +482,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-strengthening-democratic-oversight-in-national-security",
-    "lab": "OpenAI",
-    "title": "Strengthening democratic oversight in national security",
-    "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-    "date": "2026-08-18T19:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-    "tags": [
-      "democratic",
-      "oversight",
-      "national",
-      "security"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-ibm-research-altk-evolve-hmm",
     "lab": "Hugging Face",
     "title": "How Much Memory Does Your Agent Actually Need?",
@@ -374,51 +494,6 @@
       "memory",
       "does",
       "agent"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-partnering-with-codeai",
-    "lab": "OpenAI",
-    "title": "Partnering with CodeAI to prepare the first AI generation",
-    "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
-    "date": "2026-08-18T11:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/partnering-with-codeai",
-    "tags": [
-      "partnering",
-      "codeai",
-      "prepare",
-      "first"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-pacing-model-development-cyber-capabilities",
-    "lab": "OpenAI",
-    "title": "Pacing model development in an era of cyber-critical capabilities",
-    "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
-    "date": "2026-08-18T11:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-    "tags": [
-      "model",
-      "development",
-      "pacing",
-      "era"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-chatgpt-for-teens",
-    "lab": "OpenAI",
-    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-    "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-    "date": "2026-08-18T11:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/chatgpt-for-teens",
-    "tags": [
-      "teens",
-      "chatgpt",
-      "built",
-      "protections"
     ]
   },
   {
@@ -512,21 +587,6 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-amazon-strands-lerobot-streaming-data-loop",
-    "lab": "Hugging Face",
-    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-    "summary": "",
-    "date": "2026-08-13T17:16:04.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-    "tags": [
-      "record",
-      "train",
-      "deploy",
-      "one"
-    ]
-  },
-  {
     "id": "https-deepmind-google-blog-introducing-gemini-3-7-flash",
     "lab": "Google DeepMind",
     "title": "Introducing Gemini 3.7 Flash",
@@ -566,36 +626,6 @@
     "tags": [
       "deepseek",
       "pro"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-icml-2026-open-reproductions",
-    "lab": "Hugging Face",
-    "title": "What We Learned by Reproducing 2,200 papers from ICML",
-    "summary": "",
-    "date": "2026-08-13T00:00:00.000Z",
-    "category": "research",
-    "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-    "tags": [
-      "learned",
-      "reproducing",
-      "papers",
-      "icml"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-allenai-olmoearth-embeddings",
-    "lab": "Hugging Face",
-    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-    "summary": "",
-    "date": "2026-08-12T16:14:36.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-    "tags": [
-      "olmoearth",
-      "embeddings",
-      "custom",
-      "embedding"
     ]
   },
   {
@@ -759,19 +789,6 @@
     ]
   },
   {
-    "id": "https-blog-google-innovation-and-ai-technology-ai-google-ai-updates-july-2026",
-    "lab": "Google DeepMind",
-    "title": "The latest AI news we announced in July 2026",
-    "summary": "Here are Google’s latest AI updates from July 2026",
-    "date": "2026-08-04T13:00:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp",
-    "tags": [
-      "google"
-    ]
-  },
-  {
     "id": "cbmivkfvx3lxte9vode3repjodf0tzhuztbctfpedtnmnxfsv2qtohhzz0nuvulmtdveszzqm2zhqwl4",
     "lab": "Anthropic",
     "title": "Tino Cuellar joins Anthropic as Chief Global Affairs Officer",
@@ -852,21 +869,6 @@
       "expanding",
       "partnership",
       "cognizant"
-    ]
-  },
-  {
-    "id": "cbmia0fvx3lxte1vvu84xy1nrfvuv1l6qjnvvtl0qncwbvm0bnrpbmnvufbnshnar3lmtlk0cwrhq3hk",
-    "lab": "Anthropic",
-    "title": "Our position on open-weights models",
-    "summary": "",
-    "date": "2026-07-27T07:00:00.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vVU84Xy1NRFVUV1l6QjNvVTl0QncwbVM0bnRpbmNvUFBNSHNaR3lmTlk0cWRHQ3hKVEZkNGNOVVNaMWFfXzVqTVgxeENSdGV0THY2SUF5VjdPS0h5SUZmTzhfdUgyOExsOG5V?oc=5",
-    "tags": [
-      "position",
-      "open",
-      "weights",
-      "models"
     ]
   }
 ]
