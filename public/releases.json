@@ -1,5 +1,201 @@
 [
   {
+    "id": "https-deepmind-google-blog-gemini-omni-1-1-flash-lets-you-build-with-more-contro",
+    "lab": "Google DeepMind",
+    "title": "Gemini Omni 1.1 Flash lets you build with more control",
+    "summary": "",
+    "date": "2026-08-27T16:11:32.000Z",
+    "category": "feature",
+    "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+    "tags": [
+      "gemini",
+      "omni",
+      "flash",
+      "lets"
+    ]
+  },
+  {
+    "id": "https-blog-google-products-and-platforms-products-search-book-travel-ai-mode",
+    "lab": "Google DeepMind",
+    "title": "3 new ways to plan and book travel in Search",
+    "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
+    "date": "2026-08-27T16:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp",
+    "tags": [
+      "book",
+      "search",
+      "ways",
+      "plan"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-piloting-the-worlds-first-double-blind-ai-evaluations",
+    "lab": "Google DeepMind",
+    "title": "Piloting the world's first double-blind AI evaluations",
+    "summary": "Piloting the world's first double-blind AI evaluations",
+    "date": "2026-08-27T12:59:16.000Z",
+    "category": "feature",
+    "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+    "image": "https://lh3.googleusercontent.com/fHN8sOK3p7BTKR4s-3lpYYnq5IEadmVKnqssJO4OmfL6remdC7E8voV-IEue8NPviKWUR7WtCtNTfsKZpld6y2jjwVhNAiqYL9-9EQzj5OURGXCCuug=w528-h297-n-nu-rw-lo",
+    "tags": [
+      "piloting",
+      "world",
+      "first",
+      "double"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-what-students-gain-from-chatgpt-critical-thinking-trainin",
+    "lab": "OpenAI",
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+    "date": "2026-08-27T09:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "tags": [
+      "thinking",
+      "students",
+      "chatgpt",
+      "critical"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-expanding-our-presence-in-brazil",
+    "lab": "OpenAI",
+    "title": "Expanding OpenAI’s presence in Brazil",
+    "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+    "date": "2026-08-27T03:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "tags": [
+      "expanding",
+      "openai",
+      "presence",
+      "brazil"
+    ]
+  },
+  {
+    "id": "cbmiv0fvx3lxte50eljwy0rlx2n5wvdeymfbvxy4d2vua0zzaxf4tjhnmzmxvdrssuhprvlilu9sqzvr",
+    "lab": "xAI",
+    "title": "Grok 4.6 on Microsoft Foundry",
+    "summary": "",
+    "date": "2026-08-27T01:16:13.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50elJwY0RLX2N5WVdEYmFBVXY4d2Vua0ZzaXF4TjhnMzMxVDRSSUhPRVlILU9sQzVRSU12d3Y5SlFyV3htZ29qUFc0S1I0VDVpMjVJZkVtaw?oc=5",
+    "tags": [
+      "grok",
+      "microsoft",
+      "foundry"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-intelligent-transcription-with-gemini-3-5-transcribe",
+    "lab": "Google DeepMind",
+    "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+    "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+    "date": "2026-08-26T17:01:00.000Z",
+    "category": "model",
+    "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+    "tags": [
+      "intelligent",
+      "transcription",
+      "gemini",
+      "transcribe"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "lab": "OpenAI",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+    "date": "2026-08-26T10:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "tags": [
+      "bringing",
+      "chatgpt",
+      "teachers",
+      "school"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-learning-never-stops",
+    "lab": "OpenAI",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+    "date": "2026-08-26T10:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/learning-never-stops",
+    "tags": [
+      "learning",
+      "continuous",
+      "never",
+      "stops"
+    ]
+  },
+  {
+    "id": "cbmitkfvx3lxte9wwkets2ngz19utfo2sgt3tehknmntz3plyujis1jzcxfkswpkqldqrfm3twpha25z",
+    "lab": "xAI",
+    "title": "Grok Bot is now included with more plans",
+    "summary": "",
+    "date": "2026-08-26T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wWkEtS2NGZ19UTFo2SGt3TEhKNmNtZ3plYUJIS1JzcXFkSWpKQldqRFM3TWpHa25ZVFZzR3RqR252aFhoeE9Jd1FUNm9jZw?oc=5",
+    "tags": [
+      "grok",
+      "bot",
+      "included",
+      "plans"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-train-multi-vector-encoder",
+    "lab": "Hugging Face",
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "summary": "",
+    "date": "2026-08-26T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "tags": [
+      "training",
+      "finetuning",
+      "multi",
+      "vector"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-hugging-face-incident-and-the-road-ahead",
+    "lab": "OpenAI",
+    "title": "The Hugging Face incident and the road ahead",
+    "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+    "date": "2026-08-26T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+    "tags": [
+      "hugging",
+      "face",
+      "incident",
+      "security"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-loveholidays",
+    "lab": "OpenAI",
+    "title": "How loveholidays is making everyone a builder with Codex",
+    "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+    "date": "2026-08-26T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/loveholidays",
+    "tags": [
+      "loveholidays",
+      "codex",
+      "making",
+      "everyone"
+    ]
+  },
+  {
     "id": "cbmiz0fvx3lxte5dnelzcs10wnj1nhjedmtynkxut1jqz3pladhzeja4uengvlliuzrqm19sejjyoefz",
     "lab": "Anthropic",
     "title": "Funding better evaluations of AI’s impact on wellbeing",
@@ -148,21 +344,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-gpt-5-6-in-kiro",
-    "lab": "OpenAI",
-    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-    "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-    "date": "2026-08-24T12:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/gpt-5-6-in-kiro",
-    "tags": [
-      "price",
-      "performance",
-      "developers",
-      "gpt"
-    ]
-  },
-  {
     "id": "cbmitefvx3lxte45vkjvrlbpsediqut5vmnpt3k5cu1knkqyblbyt2lhtdldluvsanvfv0hgm0nqtdcw",
     "lab": "xAI",
     "title": "Grok 4.6 on Gemini Enterprise Agent Platform",
@@ -175,21 +356,6 @@
       "gemini",
       "enterprise",
       "agent"
-    ]
-  },
-  {
-    "id": "cbmitkfvx3lxte9wwkets2ngz19utfo2sgt3tehknmntz3plyujis1jzcxfkswpkqldqrfm3twpha25z",
-    "lab": "xAI",
-    "title": "Grok Bot is now included with more plans",
-    "summary": "",
-    "date": "2026-08-21T17:22:54.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wWkEtS2NGZ19UTFo2SGt3TEhKNmNtZ3plYUJIS1JzcXFkSWpKQldqRFM3TWpHa25ZVFZzR3RqR252aFhoeE9Jd1FUNm9jZw?oc=5",
-    "tags": [
-      "grok",
-      "bot",
-      "included",
-      "plans"
     ]
   },
   {
@@ -206,13 +372,13 @@
     ]
   },
   {
-    "id": "cbmiwkfvx3lxte9zcljlsmdzz0std1y1sjrgtlhkmmhwaux0yxhxt2zrwunysgjebxm5wglobu1rdi1p",
+    "id": "cbmiwefvx3lxte0xm0fuddm3vulsr0yysxg0zllfdkrvyzvrm0l5u0dir29xewflti01s1rwujltvfmy",
     "lab": "DeepSeek",
     "title": "Upload File",
     "summary": "",
-    "date": "2026-08-21T12:46:46.000Z",
+    "date": "2026-08-21T12:46:45.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zclJLSmdzZ0std1Y1SjRGTlhKMmhWaUx0YXhxT2ZRWUNySGJEbXM5WGlObU1Rdi1pZVUyS3R1Q1JIaHE1NjE5b2owVlo0YkQ1eFhuMXI4dm12UQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xM0FUdDM3VUlsR0YySXg0ZllFdkRvYzVrM0l5U0dIR29xeWFlTi01S1RwUjltVFMycl9lc2dsVko0N2VPOTJRZlE1YmZzQ2J5eUw4NzBtR2w?oc=5",
     "tags": [
       "upload",
       "file"
@@ -263,13 +429,13 @@
     ]
   },
   {
-    "id": "cbmiw0fvx3lxte9uegpxalhjqwzubujpzejfafq0ru13zznjrg9rb0qyuzuxewfpm1h5nvpcb0hdqjbv",
+    "id": "cbmiwkfvx3lxte42ynnoowxtngzcr0jhowjmluvzszjgelzmdvvfdldss0fhutrjbjlwbm9mslrquuu1",
     "lab": "DeepSeek",
     "title": "Files API",
     "summary": "",
-    "date": "2026-08-21T09:33:02.000Z",
+    "date": "2026-08-21T09:33:01.000Z",
     "category": "api",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ueGpXalhJQWZUbUJpZEJFaFQ0RU13ZzNJRG9rb0QyUzUxeWFpM1h5NVpCb0hDQjBVVWMwbzRIYWdUczFnVEw3RjVQbVVnMWVNd2ZLM0VCYUdVRWM?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42YnNoOWxTNGZCR0JHOWJMLUVzSzJGelZmdVVfdldsS0FHUTRjbjlwbm9MSlRqUUU1NEZyZFBZejdaOEdKdFRTNlMyaDJJbVRoTXpGbDBDd05Kdw?oc=5",
     "tags": [
       "files",
       "api"
@@ -285,20 +451,6 @@
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wNG4wMkFScllTMVNDbGg5VVdhbEVINEEwODdWalZ3N2Q2aERYLXI5SnFxWUc5MTFobzdlRTViWGlFbHBoVHE0MmpjX0hRUDRndTZkT2x6Zw?oc=5",
     "tags": [
       "vision"
-    ]
-  },
-  {
-    "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
-    "lab": "xAI",
-    "title": "Creators of Grok, the AI Chatbot",
-    "summary": "",
-    "date": "2026-08-21T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
-    "tags": [
-      "creators",
-      "grok",
-      "chatbot"
     ]
   },
   {
@@ -362,51 +514,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-introducing-ai-futures",
-    "lab": "OpenAI",
-    "title": "Introducing AI Futures",
-    "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-    "date": "2026-08-20T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/introducing-ai-futures",
-    "tags": [
-      "futures",
-      "openai",
-      "blog",
-      "exploring"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-stampli",
-    "lab": "OpenAI",
-    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-    "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-    "date": "2026-08-20T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/stampli",
-    "tags": [
-      "stampli",
-      "chatgpt",
-      "work",
-      "cuts"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-offering-zero-data-retention-for-frontier-models",
-    "lab": "OpenAI",
-    "title": "Offering Zero Data Retention for frontier models",
-    "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-    "date": "2026-08-19T19:00:00.000Z",
-    "category": "api",
-    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-    "tags": [
-      "data",
-      "zero",
-      "retention",
-      "safety"
-    ]
-  },
-  {
     "id": "https-blog-google-products-and-platforms-products-search-back-to-school-study-to",
     "lab": "Google DeepMind",
     "title": "5 new ways to level up your learning with Search",
@@ -427,28 +534,13 @@
     "lab": "xAI",
     "title": "Grok 4.6 on Amazon Bedrock",
     "summary": "",
-    "date": "2026-08-19T15:12:24.000Z",
+    "date": "2026-08-19T07:00:00.000Z",
     "category": "model",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QTmxWMTBnM015a1RPY25GeUVaY0dkQ3BudkZQVEltMEJqTUZrYzlHR2VYNkVoTFhsTmZ1RjBvMXRZa3p1QnpNTDd3eVk1VW93aW1J?oc=5",
     "tags": [
       "grok",
       "amazon",
       "bedrock"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-replit",
-    "lab": "OpenAI",
-    "title": "Replit expands access to software creation with GPT-5.6 Luna",
-    "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-    "date": "2026-08-19T07:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/replit",
-    "tags": [
-      "replit",
-      "software",
-      "gpt",
-      "luna"
     ]
   },
   {
@@ -464,21 +556,6 @@
       "build",
       "web",
       "mobile"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-chatgpt-ads-expands-across-europe",
-    "lab": "OpenAI",
-    "title": "ChatGPT Ads expands across Europe",
-    "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
-    "date": "2026-08-18T22:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-    "tags": [
-      "chatgpt",
-      "ads",
-      "expands",
-      "across"
     ]
   },
   {
@@ -572,21 +649,6 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-state-of-open-models-summer-2026",
-    "lab": "Hugging Face",
-    "title": "State of Open Models: Summer 2026 Observations",
-    "summary": "",
-    "date": "2026-08-14T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-    "tags": [
-      "state",
-      "open",
-      "models",
-      "summer"
-    ]
-  },
-  {
     "id": "https-deepmind-google-blog-introducing-gemini-3-7-flash",
     "lab": "Google DeepMind",
     "title": "Introducing Gemini 3.7 Flash",
@@ -629,22 +691,6 @@
     ]
   },
   {
-    "id": "https-deepmind-google-blog-putting-sign-language-ai-into-users-hands",
-    "lab": "Google DeepMind",
-    "title": "Putting sign language AI into users’ hands",
-    "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
-    "date": "2026-08-12T14:01:59.000Z",
-    "category": "model",
-    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-    "image": "https://lh3.googleusercontent.com/8RcynTx1ujudyw8Fs05Pv8WJahe2FQ3z1Y7gNHm-xvOTJLdMp9hNDsIIoQbJsnav6evNLgY1iT9B9ercsyIn0U1N51pzScvSfe6IHk2SjDJx-MaVzQ=w528-h297-n-nu-rw-lo",
-    "tags": [
-      "sign",
-      "language",
-      "users",
-      "putting"
-    ]
-  },
-  {
     "id": "cbmip0fvx3lxte4zcg91z21nqjm5x2jqwdblvkdjrndcxzkxbnfwymvua0ddtwxkqwzcmznyajy0ywnu",
     "lab": "xAI",
     "title": "Introducing Grok 4.6",
@@ -654,22 +700,6 @@
     "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE4zcG91Z21nQjM5X2JqWDBlVkdjRndCXzkxbnFWYmVua0dDTWxkQWZCMzNyajY0YWNUWGhjcmo5UQ?oc=5",
     "tags": [
       "grok"
-    ]
-  },
-  {
-    "id": "https-blog-google-innovation-and-ai-models-and-research-google-research-amie-vid",
-    "lab": "Google DeepMind",
-    "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-    "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
-    "date": "2026-08-11T17:00:00.000Z",
-    "category": "research",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp",
-    "tags": [
-      "amie",
-      "real",
-      "time",
-      "clinical"
     ]
   },
   {
@@ -698,22 +728,6 @@
     "tags": [
       "grok",
       "bot"
-    ]
-  },
-  {
-    "id": "https-blog-google-products-ads-commerce-google-ads-analytics-ai-updates",
-    "lab": "Google DeepMind",
-    "title": "Evolve your marketing with new AI tools",
-    "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
-    "date": "2026-08-10T14:30:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp",
-    "tags": [
-      "marketing",
-      "google",
-      "evolve",
-      "tools"
     ]
   },
   {
@@ -770,22 +784,6 @@
       "markdown",
       "page",
       "example"
-    ]
-  },
-  {
-    "id": "https-deepmind-google-blog-weathernext-ai-model-achieves-breakthrough-in-forecas",
-    "lab": "Google DeepMind",
-    "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-    "summary": "",
-    "date": "2026-08-06T15:06:15.000Z",
-    "category": "feature",
-    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-    "image": "https://lh3.googleusercontent.com/Mj8GyJnsjROScr1hYl7PL_QCAaLGukliPCTMUlpKiQtZuVkmh2ouydYh80ibejg9vWgKkg2dYPx2jCJOOohKid5P-dLzwvIyB4-fZjWXYIx0ImZd=w528-h297-n-nu-rw-lo",
-    "tags": [
-      "weathernext",
-      "model",
-      "achieves",
-      "breakthrough"
     ]
   },
   {
