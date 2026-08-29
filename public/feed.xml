@@ -5,8 +5,17 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2026 18:09:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:13:10 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Our decision on Cursor following its acquisition by SpaceX</title>
+      <link>https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex</link>
+      <guid isPermaLink="false">https-openai-com-index-our-decision-on-cursor-following-its-acquisition-by-space</guid>
+      <pubDate>Fri, 28 Aug 2026 06:00:00 GMT</pubDate>
+      <description>Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
     <item>
       <title>Supporting Thailand’s next generation of AI startups</title>
       <link>https://openai.com/index/supporting-next-generation-ai-startups-thailand</link>
@@ -14,6 +23,15 @@
       <pubDate>Fri, 28 Aug 2026 02:00:00 GMT</pubDate>
       <description>OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products. (Source: OpenAI)</description>
       <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>The Open ASR Leaderboard Adds Its First Global South Language</title>
+      <link>https://huggingface.co/blog/open-asr-leaderboard-global-south</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-open-asr-leaderboard-global-south</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
       <category>feature</category>
     </item>
     <item>
@@ -98,20 +116,20 @@
       <category>model</category>
     </item>
     <item>
-      <title>Bringing ChatGPT for Teachers to more U.S. school districts</title>
-      <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
-      <guid isPermaLink="false">https-openai-com-index-bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
-      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
-      <description>ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Learning never stops: How AI makes learning continuous</title>
       <link>https://openai.com/index/learning-never-stops</link>
       <guid isPermaLink="false">https-openai-com-index-learning-never-stops</guid>
       <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
       <description>OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Bringing ChatGPT for Teachers to more U.S. school districts</title>
+      <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
+      <guid isPermaLink="false">https-openai-com-index-bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
+      <description>ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff. (Source: OpenAI)</description>
       <source url="https://ai-pulse.vercel.app">OpenAI</source>
       <category>feature</category>
     </item>
@@ -224,15 +242,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Disrupting a new covert influence campaign from Russia</title>
-      <link>https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia</link>
-      <guid isPermaLink="false">https-openai-com-index-disrupting-malicious-uses-of-ai-influence-campaign-russia</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-      <description>OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Mistral x HUMAIN</title>
       <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoM215alpsRHFKLTB6NUJ1cmRubHpweTlaczlWaTAyeWRfaTAtWUVZZGZpU0thZGNlWnRRUnRMLTVtYzcyZEx3d0FwWFFJeTk5cDZv?oc=5</link>
       <guid isPermaLink="false">cbmiu0fvx3lxtfbom215alpsrhfkltb6nuj1cmrubhpwetlaczlwatayewrfatatwuvzzgzpu0thzgnl</guid>
@@ -252,8 +261,8 @@
     </item>
     <item>
       <title>Delete File</title>
-      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wYU92ckFmVENxektpTVZNVmF0dDlWaHhNTlVBamdHX3FwbVQ1N2FKX2VVSjJLQmxaOG5XaEdFM0xHX1JYQWhuTDZZY2tXVHQtVU8zbTJfcTQ?oc=5</link>
-      <guid isPermaLink="false">cbmiwefvx3lxte1wyu92ckfmvenxektptvznvmf0ddlwahhntlvbamdhx3fwbvq1n2fkx2vvsjjlqmxa</guid>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vbGRQZXpMYXd3eV9NMGx6Z2VqNVVhSG9HQmdnY2JqRmRlREw5R05XNUxKc3c2Y1pmUENIeWRNa2VRdmRmN1hTWUhaNVBUM2JYclJPRGd1SVNEUQ?oc=5</link>
+      <guid isPermaLink="false">cbmiwkfvx3lxte9vbgrqzxpmyxd3ev9nmgx6z2vqnvvhsg9hqmdny2jqrmrlrew5r05xnuxkc3c2y1pm</guid>
       <pubDate>Fri, 21 Aug 2026 16:02:43 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
@@ -290,7 +299,7 @@
       <title>DeepSeek-V4-Flash-Vision-Exp Release: Multimodal API Now Live</title>
       <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxdUl6dnJOdEJIRGNHSmdqWlcydkVqa2xDTEJwdkdUS2pMT1loRTY1NktVT3lrRkJJcUV3LUh0ZUxEWklSc0NuZ1cyQksxRzJiZFpqOVRQV3lzZw?oc=5</link>
       <guid isPermaLink="false">cbmiwkfvx3lxtfbxdul6dnjodejirgnhsmdqwlcydkvqa2xdtejwdkdus2pmt1lorty1nktvt3lrrkjj</guid>
-      <pubDate>Fri, 21 Aug 2026 11:25:45 GMT</pubDate>
+      <pubDate>Fri, 21 Aug 2026 11:25:44 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>api</category>
@@ -390,15 +399,6 @@
       <link>https://huggingface.co/blog/multi-vector-encoder</link>
       <guid isPermaLink="false">https-huggingface-co-blog-multi-vector-encoder</guid>
       <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Same Cluster, 33 Points More Utilization: What Changed Was the Order</title>
-      <link>https://huggingface.co/blog/Dharma-AI/gpu-management-pt2</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-dharma-ai-gpu-management-pt2</guid>
-      <pubDate>Mon, 17 Aug 2026 19:46:21 GMT</pubDate>
       <description>Source: Hugging Face</description>
       <source url="https://ai-pulse.vercel.app">Hugging Face</source>
       <category>feature</category>

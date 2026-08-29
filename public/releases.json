@@ -1,5 +1,20 @@
 [
   {
+    "id": "https-openai-com-index-our-decision-on-cursor-following-its-acquisition-by-space",
+    "lab": "OpenAI",
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+    "date": "2026-08-28T06:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "tags": [
+      "decision",
+      "cursor",
+      "following",
+      "acquisition"
+    ]
+  },
+  {
     "id": "https-openai-com-index-supporting-next-generation-ai-startups-thailand",
     "lab": "OpenAI",
     "title": "Supporting Thailand’s next generation of AI startups",
@@ -12,6 +27,21 @@
       "startups",
       "supporting",
       "next"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-open-asr-leaderboard-global-south",
+    "lab": "Hugging Face",
+    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+    "summary": "",
+    "date": "2026-08-28T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "tags": [
+      "open",
+      "asr",
+      "leaderboard",
+      "adds"
     ]
   },
   {
@@ -150,21 +180,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "lab": "OpenAI",
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-    "date": "2026-08-26T10:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "tags": [
-      "bringing",
-      "chatgpt",
-      "teachers",
-      "school"
-    ]
-  },
-  {
     "id": "https-openai-com-index-learning-never-stops",
     "lab": "OpenAI",
     "title": "Learning never stops: How AI makes learning continuous",
@@ -177,6 +192,21 @@
       "continuous",
       "never",
       "stops"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "lab": "OpenAI",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+    "date": "2026-08-26T10:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "tags": [
+      "bringing",
+      "chatgpt",
+      "teachers",
+      "school"
     ]
   },
   {
@@ -359,21 +389,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-disrupting-malicious-uses-of-ai-influence-campaign-russia",
-    "lab": "OpenAI",
-    "title": "Disrupting a new covert influence campaign from Russia",
-    "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
-    "date": "2026-08-25T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-    "tags": [
-      "russia",
-      "disrupting",
-      "covert",
-      "influence"
-    ]
-  },
-  {
     "id": "cbmiu0fvx3lxtfbom215alpsrhfkltb6nuj1cmrubhpwetlaczlwatayewrfatatwuvzzgzpu0thzgnl",
     "lab": "Mistral",
     "title": "Mistral x HUMAIN",
@@ -402,13 +417,13 @@
     ]
   },
   {
-    "id": "cbmiwefvx3lxte1wyu92ckfmvenxektptvznvmf0ddlwahhntlvbamdhx3fwbvq1n2fkx2vvsjjlqmxa",
+    "id": "cbmiwkfvx3lxte9vbgrqzxpmyxd3ev9nmgx6z2vqnvvhsg9hqmdny2jqrmrlrew5r05xnuxkc3c2y1pm",
     "lab": "DeepSeek",
     "title": "Delete File",
     "summary": "",
     "date": "2026-08-21T16:02:43.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wYU92ckFmVENxektpTVZNVmF0dDlWaHhNTlVBamdHX3FwbVQ1N2FKX2VVSjJLQmxaOG5XaEdFM0xHX1JYQWhuTDZZY2tXVHQtVU8zbTJfcTQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vbGRQZXpMYXd3eV9NMGx6Z2VqNVVhSG9HQmdnY2JqRmRlREw5R05XNUxKc3c2Y1pmUENIeWRNa2VRdmRmN1hTWUhaNVBUM2JYclJPRGd1SVNEUQ?oc=5",
     "tags": [
       "delete",
       "file"
@@ -461,7 +476,7 @@
     "lab": "DeepSeek",
     "title": "DeepSeek-V4-Flash-Vision-Exp Release: Multimodal API Now Live",
     "summary": "",
-    "date": "2026-08-21T11:25:45.000Z",
+    "date": "2026-08-21T11:25:44.000Z",
     "category": "api",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxdUl6dnJOdEJIRGNHSmdqWlcydkVqa2xDTEJwdkdUS2pMT1loRTY1NktVT3lrRkJJcUV3LUh0ZUxEWklSc0NuZ1cyQksxRzJiZFpqOVRQV3lzZw?oc=5",
     "tags": [
@@ -629,21 +644,6 @@
       "vector",
       "late",
       "interaction"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-dharma-ai-gpu-management-pt2",
-    "lab": "Hugging Face",
-    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-    "summary": "",
-    "date": "2026-08-17T19:46:21.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-    "tags": [
-      "same",
-      "cluster",
-      "points",
-      "utilization"
     ]
   },
   {
