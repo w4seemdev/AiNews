@@ -1,5 +1,19 @@
 [
   {
+    "id": "cbmir0fvx3lxte9fmghorfhhrlromxbtd3vft21temtkmgtmrtlhaxuzvm1tzlldmtffd0nkvkh2mg53",
+    "lab": "xAI",
+    "title": "Grok Bot now works with X",
+    "summary": "",
+    "date": "2026-08-29T22:13:11.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9FMGhoRFhhRlROMXBTd3VfT21temtkMGtMRTlHaXUzVm1tZllDMTFFd0NkVkh2MG53R285Nk8xZ2FacHVOVHJB?oc=5",
+    "tags": [
+      "grok",
+      "bot",
+      "works"
+    ]
+  },
+  {
     "id": "https-openai-com-index-our-decision-on-cursor-following-its-acquisition-by-space",
     "lab": "OpenAI",
     "title": "Our decision on Cursor following its acquisition by SpaceX",
@@ -225,20 +239,6 @@
     ]
   },
   {
-    "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
-    "lab": "xAI",
-    "title": "Creators of Grok, the AI Chatbot",
-    "summary": "",
-    "date": "2026-08-26T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
-    "tags": [
-      "creators",
-      "grok",
-      "chatbot"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-train-multi-vector-encoder",
     "lab": "Hugging Face",
     "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
@@ -402,6 +402,19 @@
     ]
   },
   {
+    "id": "cbmixefvx3lxtfbmcgxsrhlfuvj1tdvhrvrbanmxukxla2zzzi0xcllwclg3lxrqz2vjlvdjbw9vrwdu",
+    "lab": "DeepSeek",
+    "title": "Retrieve File",
+    "summary": "",
+    "date": "2026-08-22T19:33:06.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmcGxSRHlFUVJ1TDVHRVRBanMxUkxla2ZzZi0xcllwclg3LXRQZ2VjLVdjbW9VRWdUM3p2bC1hMFd5TEZrakpINVNqaFRUSW9maVBpYTlnNkpMb3Rv?oc=5",
+    "tags": [
+      "retrieve",
+      "file"
+    ]
+  },
+  {
     "id": "cbmitefvx3lxte45vkjvrlbpsediqut5vmnpt3k5cu1knkqyblbyt2lhtdldluvsanvfv0hgm0nqtdcw",
     "lab": "xAI",
     "title": "Grok 4.6 on Gemini Enterprise Agent Platform",
@@ -472,21 +485,6 @@
     ]
   },
   {
-    "id": "cbmiwkfvx3lxtfbxdul6dnjodejirgnhsmdqwlcydkvqa2xdtejwdkdus2pmt1lorty1nktvt3lrrkjj",
-    "lab": "DeepSeek",
-    "title": "DeepSeek-V4-Flash-Vision-Exp Release: Multimodal API Now Live",
-    "summary": "",
-    "date": "2026-08-21T11:25:44.000Z",
-    "category": "api",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxdUl6dnJOdEJIRGNHSmdqWlcydkVqa2xDTEJwdkdUS2pMT1loRTY1NktVT3lrRkJJcUV3LUh0ZUxEWklSc0NuZ1cyQksxRzJiZFpqOVRQV3lzZw?oc=5",
-    "tags": [
-      "deepseek",
-      "flash",
-      "vision",
-      "exp"
-    ]
-  },
-  {
     "id": "cbmiw0fvx3lxte9uegpxalhjqwzubujpzejfafq0ru13zznjrg9rb0qyuzuxewfpm1h5nvpcb0hdqjbv",
     "lab": "DeepSeek",
     "title": "Files API",
@@ -500,15 +498,30 @@
     ]
   },
   {
-    "id": "cbmiv0fvx3lxte8wng4wmkfsclltmvndbgg5vvdhbevineewoddwalz3n2q2aerylxi5snfxwuc5mtfo",
+    "id": "cbmivkfvx3lxte1lc3dfdl92aktxawx3ys1idmrtdm5yanjzxzb1q2z1adlreehfmfhfvw9nc2rwq0hs",
     "lab": "DeepSeek",
     "title": "Vision",
     "summary": "",
     "date": "2026-08-21T09:32:57.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wNG4wMkFScllTMVNDbGg5VVdhbEVINEEwODdWalZ3N2Q2aERYLXI5SnFxWUc5MTFobzdlRTViWGlFbHBoVHE0MmpjX0hRUDRndTZkT2x6Zw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lc3dfdl92aktxaWx3YS1IdmRtdm5YanJzXzB1Q2Z1aDlreEhfMFhfVW9nc2RWQ0hSNGVpOG5NTHYyaDdDbUxMZ296a0JuU1NCRE91d2VB?oc=5",
     "tags": [
       "vision"
+    ]
+  },
+  {
+    "id": "cbmiwkfvx3lxtfbxdul6dnjodejirgnhsmdqwlcydkvqa2xdtejwdkdus2pmt1lorty1nktvt3lrrkjj",
+    "lab": "DeepSeek",
+    "title": "DeepSeek-V4-Flash-Vision-Exp Release: Multimodal API Now Live",
+    "summary": "",
+    "date": "2026-08-21T07:00:00.000Z",
+    "category": "api",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxdUl6dnJOdEJIRGNHSmdqWlcydkVqa2xDTEJwdkdUS2pMT1loRTY1NktVT3lrRkJJcUV3LUh0ZUxEWklSc0NuZ1cyQksxRzJiZFpqOVRQV3lzZw?oc=5",
+    "tags": [
+      "deepseek",
+      "flash",
+      "vision",
+      "exp"
     ]
   },
   {
@@ -854,19 +867,6 @@
     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzdl9BMnZNN3pna2RmTVVvSlBxVmRHR0tSRWZBQnNtS1VNUjNaUVBscEgxWlpiZndVRHdtVGNlSE0taXRwYjQya192d2U?oc=5",
     "tags": [
       "shieldstral"
-    ]
-  },
-  {
-    "id": "cbmix0fvx3lxte01ri1kmw9ovw9mxzvvd19lwepxelm3vw5hs3o0shjhnmt1a2ncx2y4ajmtmgjtqjbq",
-    "lab": "DeepSeek",
-    "title": "Responses API",
-    "summary": "",
-    "date": "2026-07-31T09:06:06.000Z",
-    "category": "api",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01Ri1KMW9OVW9mXzVVd19LWEpXelM3VW5hS3o0SHJhNmt1a2NCX2Y4ajMtMGJtQjBqZVg2cWZ4WktKZi1MeFh4Z2dsT2lkekRURUFySUd2cjhDRlZFOEpZ?oc=5",
-    "tags": [
-      "responses",
-      "api"
     ]
   }
 ]
