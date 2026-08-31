@@ -5,13 +5,22 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Aug 2026 11:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 12:35:03 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Grok Bot now works with X</title>
       <link>https://news.google.com/rss/articles/CBMiR0FVX3lxTE9FMGhoRFhhRlROMXBTd3VfT21temtkMGtMRTlHaXUzVm1tZllDMTFFd0NkVkh2MG53R285Nk8xZ2FacHVOVHJB?oc=5</link>
       <guid isPermaLink="false">cbmir0fvx3lxte9fmghorfhhrlromxbtd3vft21temtkmgtmrtlhaxuzvm1tzlldmtffd0nkvkh2mg53</guid>
       <pubDate>Sat, 29 Aug 2026 22:13:11 GMT</pubDate>
+      <description>Source: xAI</description>
+      <source url="https://ai-pulse.vercel.app">xAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Creators of Grok, the AI Chatbot</title>
+      <link>https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5</link>
+      <guid isPermaLink="false">cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq</guid>
+      <pubDate>Sat, 29 Aug 2026 07:00:00 GMT</pubDate>
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
       <category>feature</category>
@@ -260,15 +269,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Grok 4.6 on Gemini Enterprise Agent Platform</title>
-      <link>https://news.google.com/rss/articles/CBMiTEFVX3lxTE45VkJvRlBPSEdIQUt5VmNpT3k5cU1kNkQyblByT2lHTDlDLUVsanVFV0hGM0NQTDcwMGZyalYwZWI1bHRYUS03NDZ2NVA?oc=5</link>
-      <guid isPermaLink="false">cbmitefvx3lxte45vkjvrlbpsediqut5vmnpt3k5cu1knkqyblbyt2lhtdldluvsanvfv0hgm0nqtdcw</guid>
-      <pubDate>Sat, 22 Aug 2026 01:42:54 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>model</category>
-    </item>
-    <item>
       <title>Delete File</title>
       <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vbGRQZXpMYXd3eV9NMGx6Z2VqNVVhSG9HQmdnY2JqRmRlREw5R05XNUxKc3c2Y1pmUENIeWRNa2VRdmRmN1hTWUhaNVBUM2JYclJPRGd1SVNEUQ?oc=5</link>
       <guid isPermaLink="false">cbmiwkfvx3lxte9vbgrqzxpmyxd3ev9nmgx6z2vqnvvhsg9hqmdny2jqrmrlrew5r05xnuxkc3c2y1pm</guid>
@@ -315,12 +315,21 @@
     </item>
     <item>
       <title>Vision</title>
-      <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lc3dfdl92aktxaWx3YS1IdmRtdm5YanJzXzB1Q2Z1aDlreEhfMFhfVW9nc2RWQ0hSNGVpOG5NTHYyaDdDbUxMZ296a0JuU1NCRE91d2VB?oc=5</link>
-      <guid isPermaLink="false">cbmivkfvx3lxte1lc3dfdl92aktxawx3ys1idmrtdm5yanjzxzb1q2z1adlreehfmfhfvw9nc2rwq0hs</guid>
+      <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wNG4wMkFScllTMVNDbGg5VVdhbEVINEEwODdWalZ3N2Q2aERYLXI5SnFxWUc5MTFobzdlRTViWGlFbHBoVHE0MmpjX0hRUDRndTZkT2x6Zw?oc=5</link>
+      <guid isPermaLink="false">cbmiv0fvx3lxte8wng4wmkfsclltmvndbgg5vvdhbevineewoddwalz3n2q2aerylxi5snfxwuc5mtfo</guid>
       <pubDate>Fri, 21 Aug 2026 09:32:57 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>feature</category>
+    </item>
+    <item>
+      <title>Grok 4.6 on Gemini Enterprise Agent Platform</title>
+      <link>https://news.google.com/rss/articles/CBMiTEFVX3lxTE45VkJvRlBPSEdIQUt5VmNpT3k5cU1kNkQyblByT2lHTDlDLUVsanVFV0hGM0NQTDcwMGZyalYwZWI1bHRYUS03NDZ2NVA?oc=5</link>
+      <guid isPermaLink="false">cbmitefvx3lxte45vkjvrlbpsediqut5vmnpt3k5cu1knkqyblbyt2lhtdldluvsanvfv0hgm0nqtdcw</guid>
+      <pubDate>Fri, 21 Aug 2026 07:00:00 GMT</pubDate>
+      <description>Source: xAI</description>
+      <source url="https://ai-pulse.vercel.app">xAI</source>
+      <category>model</category>
     </item>
     <item>
       <title>DeepSeek-V4-Flash-Vision-Exp Release: Multimodal API Now Live</title>
@@ -377,15 +386,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Grok Build on web and mobile</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EbXYyWW90bmZsVW0wVDZCejJJTGRDY0lYTXQyZmVYZU9EVWNQczBZOTZGQlNQWW5lV1pxYUFsNWdZV0haaFJXMkVfaVhPd2U5OVFB?oc=5</link>
-      <guid isPermaLink="false">cbmiu0fvx3lxte5ebxyyww90bmzsvw0wvdzcejjjtgrdy0lytxqyzmvyzu9evwnqczbzotzgqlnqww5l</guid>
-      <pubDate>Wed, 19 Aug 2026 07:00:00 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Grok 4.6 on Amazon Bedrock</title>
       <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QTmxWMTBnM015a1RPY25GeUVaY0dkQ3BudkZQVEltMEJqTUZrYzlHR2VYNkVoTFhsTmZ1RjBvMXRZa3p1QnpNTDd3eVk1VW93aW1J?oc=5</link>
       <guid isPermaLink="false">cbmiu0fvx3lxte1qtmxwmtbnm015a1rpy25geuvay0dkq3budkzqveltmejqtuzryzlhr2vynkvotfhs</guid>
@@ -393,6 +393,15 @@
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
       <category>model</category>
+    </item>
+    <item>
+      <title>Grok Build on web and mobile</title>
+      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EbXYyWW90bmZsVW0wVDZCejJJTGRDY0lYTXQyZmVYZU9EVWNQczBZOTZGQlNQWW5lV1pxYUFsNWdZV0haaFJXMkVfaVhPd2U5OVFB?oc=5</link>
+      <guid isPermaLink="false">cbmiu0fvx3lxte5ebxyyww90bmzsvw0wvdzcejjjtgrdy0lytxqyzmvyzu9evwnqczbzotzgqlnqww5l</guid>
+      <pubDate>Wed, 19 Aug 2026 07:00:00 GMT</pubDate>
+      <description>Source: xAI</description>
+      <source url="https://ai-pulse.vercel.app">xAI</source>
+      <category>feature</category>
     </item>
     <item>
       <title>How Much Memory Does Your Agent Actually Need?</title>
@@ -509,15 +518,6 @@
       <pubDate>Fri, 07 Aug 2026 07:00:00 GMT</pubDate>
       <description>Source: Anthropic</description>
       <source url="https://ai-pulse.vercel.app">Anthropic</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Imagine Image 2.0</title>
-      <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HTVhhdDlteUJBZHduTWhqS0U5MW1NaFVPekdTZjNBbUd3VnNqaFlnd0FNYVlSTDVkSm9zdHJNdkVOR0kyaFlwUlpoaFh4aEU?oc=5</link>
-      <guid isPermaLink="false">cbmit0fvx3lxte9htvhhddlteujbzhdutwhqs0u5mw1nafvpekdtzjnbbud3vnnqaflnd0fnyvlstdvk</guid>
-      <pubDate>Fri, 07 Aug 2026 07:00:00 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
       <category>feature</category>
     </item>
     <item>

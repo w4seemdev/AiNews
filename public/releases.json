@@ -14,6 +14,20 @@
     ]
   },
   {
+    "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
+    "lab": "xAI",
+    "title": "Creators of Grok, the AI Chatbot",
+    "summary": "",
+    "date": "2026-08-29T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
+    "tags": [
+      "creators",
+      "grok",
+      "chatbot"
+    ]
+  },
+  {
     "id": "https-openai-com-index-our-decision-on-cursor-following-its-acquisition-by-space",
     "lab": "OpenAI",
     "title": "Our decision on Cursor following its acquisition by SpaceX",
@@ -415,21 +429,6 @@
     ]
   },
   {
-    "id": "cbmitefvx3lxte45vkjvrlbpsediqut5vmnpt3k5cu1knkqyblbyt2lhtdldluvsanvfv0hgm0nqtdcw",
-    "lab": "xAI",
-    "title": "Grok 4.6 on Gemini Enterprise Agent Platform",
-    "summary": "",
-    "date": "2026-08-22T01:42:54.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE45VkJvRlBPSEdIQUt5VmNpT3k5cU1kNkQyblByT2lHTDlDLUVsanVFV0hGM0NQTDcwMGZyalYwZWI1bHRYUS03NDZ2NVA?oc=5",
-    "tags": [
-      "grok",
-      "gemini",
-      "enterprise",
-      "agent"
-    ]
-  },
-  {
     "id": "cbmiwkfvx3lxte9vbgrqzxpmyxd3ev9nmgx6z2vqnvvhsg9hqmdny2jqrmrlrew5r05xnuxkc3c2y1pm",
     "lab": "DeepSeek",
     "title": "Delete File",
@@ -498,15 +497,30 @@
     ]
   },
   {
-    "id": "cbmivkfvx3lxte1lc3dfdl92aktxawx3ys1idmrtdm5yanjzxzb1q2z1adlreehfmfhfvw9nc2rwq0hs",
+    "id": "cbmiv0fvx3lxte8wng4wmkfsclltmvndbgg5vvdhbevineewoddwalz3n2q2aerylxi5snfxwuc5mtfo",
     "lab": "DeepSeek",
     "title": "Vision",
     "summary": "",
     "date": "2026-08-21T09:32:57.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lc3dfdl92aktxaWx3YS1IdmRtdm5YanJzXzB1Q2Z1aDlreEhfMFhfVW9nc2RWQ0hSNGVpOG5NTHYyaDdDbUxMZ296a0JuU1NCRE91d2VB?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wNG4wMkFScllTMVNDbGg5VVdhbEVINEEwODdWalZ3N2Q2aERYLXI5SnFxWUc5MTFobzdlRTViWGlFbHBoVHE0MmpjX0hRUDRndTZkT2x6Zw?oc=5",
     "tags": [
       "vision"
+    ]
+  },
+  {
+    "id": "cbmitefvx3lxte45vkjvrlbpsediqut5vmnpt3k5cu1knkqyblbyt2lhtdldluvsanvfv0hgm0nqtdcw",
+    "lab": "xAI",
+    "title": "Grok 4.6 on Gemini Enterprise Agent Platform",
+    "summary": "",
+    "date": "2026-08-21T07:00:00.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE45VkJvRlBPSEdIQUt5VmNpT3k5cU1kNkQyblByT2lHTDlDLUVsanVFV0hGM0NQTDcwMGZyalYwZWI1bHRYUS03NDZ2NVA?oc=5",
+    "tags": [
+      "grok",
+      "gemini",
+      "enterprise",
+      "agent"
     ]
   },
   {
@@ -601,6 +615,20 @@
     ]
   },
   {
+    "id": "cbmiu0fvx3lxte1qtmxwmtbnm015a1rpy25geuvay0dkq3budkzqveltmejqtuzryzlhr2vynkvotfhs",
+    "lab": "xAI",
+    "title": "Grok 4.6 on Amazon Bedrock",
+    "summary": "",
+    "date": "2026-08-19T07:00:00.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QTmxWMTBnM015a1RPY25GeUVaY0dkQ3BudkZQVEltMEJqTUZrYzlHR2VYNkVoTFhsTmZ1RjBvMXRZa3p1QnpNTDd3eVk1VW93aW1J?oc=5",
+    "tags": [
+      "grok",
+      "amazon",
+      "bedrock"
+    ]
+  },
+  {
     "id": "cbmiu0fvx3lxte5ebxyyww90bmzsvw0wvdzcejjjtgrdy0lytxqyzmvyzu9evwnqczbzotzgqlnqww5l",
     "lab": "xAI",
     "title": "Grok Build on web and mobile",
@@ -613,20 +641,6 @@
       "build",
       "web",
       "mobile"
-    ]
-  },
-  {
-    "id": "cbmiu0fvx3lxte1qtmxwmtbnm015a1rpy25geuvay0dkq3budkzqveltmejqtuzryzlhr2vynkvotfhs",
-    "lab": "xAI",
-    "title": "Grok 4.6 on Amazon Bedrock",
-    "summary": "",
-    "date": "2026-08-19T07:00:00.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QTmxWMTBnM015a1RPY25GeUVaY0dkQ3BudkZQVEltMEJqTUZrYzlHR2VYNkVoTFhsTmZ1RjBvMXRZa3p1QnpNTDd3eVk1VW93aW1J?oc=5",
-    "tags": [
-      "grok",
-      "amazon",
-      "bedrock"
     ]
   },
   {
@@ -813,19 +827,6 @@
       "fable",
       "biology",
       "safeguards"
-    ]
-  },
-  {
-    "id": "cbmit0fvx3lxte9htvhhddlteujbzhdutwhqs0u5mw1nafvpekdtzjnbbud3vnnqaflnd0fnyvlstdvk",
-    "lab": "xAI",
-    "title": "Imagine Image 2.0",
-    "summary": "",
-    "date": "2026-08-07T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HTVhhdDlteUJBZHduTWhqS0U5MW1NaFVPekdTZjNBbUd3VnNqaFlnd0FNYVlSTDVkSm9zdHJNdkVOR0kyaFlwUlpoaFh4aEU?oc=5",
-    "tags": [
-      "imagine",
-      "image"
     ]
   },
   {
