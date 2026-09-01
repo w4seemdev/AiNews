@@ -5,22 +5,49 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2026 12:35:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:01:34 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Improving our alignment and security practices</title>
+      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE00LWY0NEplRlIyRFlGZENXb0VQc0ZNb3BuSjlZeTB3OWdqWEh5eEFxbzJMa0hFTkhrYy03NjZ5MGdsMnNKbHJsXzVpVENSb014eXdXaEkzOXFHWUVRa1U3TXhpVWZCb0FJaHFqWTJhLW9JbGtYWGc?oc=5</link>
+      <guid isPermaLink="false">cbmidkfvx3lxte00lwy0neplrliyrflgzenxb0vqc0znb3busjlzetb3owdqweh5eefxbzjma0hftkhr</guid>
+      <pubDate>Mon, 31 Aug 2026 22:43:26 GMT</pubDate>
+      <description>Source: Anthropic</description>
+      <source url="https://ai-pulse.vercel.app">Anthropic</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>OpenAI supports California’s bill to advance youth AI safety</title>
+      <link>https://openai.com/index/supporting-california-bill-advance-ai-youth-safety</link>
+      <guid isPermaLink="false">https-openai-com-index-supporting-california-bill-advance-ai-youth-safety</guid>
+      <pubDate>Mon, 31 Aug 2026 07:00:00 GMT</pubDate>
+      <description>OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Polimill builds Japan&apos;s next-generation public AI infrastructure</title>
+      <link>https://openai.com/index/polimill</link>
+      <guid isPermaLink="false">https-openai-com-index-polimill</guid>
+      <pubDate>Mon, 31 Aug 2026 07:00:00 GMT</pubDate>
+      <description>Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>A milestone in expanding access to AI</title>
+      <link>https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</link>
+      <guid isPermaLink="false">https-openai-com-index-expanding-access-to-ai-with-chatgpt-ads</guid>
+      <pubDate>Mon, 31 Aug 2026 04:00:00 GMT</pubDate>
+      <description>ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
     <item>
       <title>Grok Bot now works with X</title>
       <link>https://news.google.com/rss/articles/CBMiR0FVX3lxTE9FMGhoRFhhRlROMXBTd3VfT21temtkMGtMRTlHaXUzVm1tZllDMTFFd0NkVkh2MG53R285Nk8xZ2FacHVOVHJB?oc=5</link>
       <guid isPermaLink="false">cbmir0fvx3lxte9fmghorfhhrlromxbtd3vft21temtkmgtmrtlhaxuzvm1tzlldmtffd0nkvkh2mg53</guid>
-      <pubDate>Sat, 29 Aug 2026 22:13:11 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Creators of Grok, the AI Chatbot</title>
-      <link>https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5</link>
-      <guid isPermaLink="false">cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq</guid>
-      <pubDate>Sat, 29 Aug 2026 07:00:00 GMT</pubDate>
+      <pubDate>Sat, 29 Aug 2026 21:52:32 GMT</pubDate>
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
       <category>feature</category>
@@ -134,6 +161,15 @@
       <category>model</category>
     </item>
     <item>
+      <title>Bringing ChatGPT for Teachers to more U.S. school districts</title>
+      <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
+      <guid isPermaLink="false">https-openai-com-index-bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
+      <description>ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
+    <item>
       <title>Learning never stops: How AI makes learning continuous</title>
       <link>https://openai.com/index/learning-never-stops</link>
       <guid isPermaLink="false">https-openai-com-index-learning-never-stops</guid>
@@ -143,12 +179,12 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Bringing ChatGPT for Teachers to more U.S. school districts</title>
-      <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
-      <guid isPermaLink="false">https-openai-com-index-bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
-      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
-      <description>ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <title>Creators of Grok, the AI Chatbot</title>
+      <link>https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5</link>
+      <guid isPermaLink="false">cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq</guid>
+      <pubDate>Wed, 26 Aug 2026 07:00:00 GMT</pubDate>
+      <description>Source: xAI</description>
+      <source url="https://ai-pulse.vercel.app">xAI</source>
       <category>feature</category>
     </item>
     <item>
@@ -175,15 +211,6 @@
       <guid isPermaLink="false">https-openai-com-index-hugging-face-incident-and-the-road-ahead</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
       <description>OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>How loveholidays is making everyone a builder with Codex</title>
-      <link>https://openai.com/index/loveholidays</link>
-      <guid isPermaLink="false">https-openai-com-index-loveholidays</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-      <description>Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster. (Source: OpenAI)</description>
       <source url="https://ai-pulse.vercel.app">OpenAI</source>
       <category>feature</category>
     </item>
@@ -221,24 +248,6 @@
       <pubDate>Tue, 25 Aug 2026 11:39:24 GMT</pubDate>
       <description>Source: Hugging Face</description>
       <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>The full stack behind abundant intelligence</title>
-      <link>https://openai.com/index/the-full-stack-behind-abundant-intelligence</link>
-      <guid isPermaLink="false">https-openai-com-index-the-full-stack-behind-abundant-intelligence</guid>
-      <pubDate>Tue, 25 Aug 2026 07:05:00 GMT</pubDate>
-      <description>OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Jalapeño’s first results show industry-leading speed and efficiency in AI inference</title>
-      <link>https://openai.com/index/jalapeno-first-results</link>
-      <guid isPermaLink="false">https-openai-com-index-jalapeno-first-results</guid>
-      <pubDate>Tue, 25 Aug 2026 07:00:00 GMT</pubDate>
-      <description>Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
       <category>feature</category>
     </item>
     <item>
@@ -536,15 +545,6 @@
       <pubDate>Tue, 04 Aug 2026 07:00:00 GMT</pubDate>
       <description>Source: Anthropic</description>
       <source url="https://ai-pulse.vercel.app">Anthropic</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Introducing Shieldstral.</title>
-      <link>https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzdl9BMnZNN3pna2RmTVVvSlBxVmRHR0tSRWZBQnNtS1VNUjNaUVBscEgxWlpiZndVRHdtVGNlSE0taXRwYjQya192d2U?oc=5</link>
-      <guid isPermaLink="false">cbmitefvx3lxtfbzdl9bmnznn3pna2rmtvvvslbxvmrhr0tsrwzbqnnts1vnujnauvbscegxwlpizndv</guid>
-      <pubDate>Tue, 04 Aug 2026 07:00:00 GMT</pubDate>
-      <description>Source: Mistral</description>
-      <source url="https://ai-pulse.vercel.app">Mistral</source>
       <category>feature</category>
     </item>
   </channel>
