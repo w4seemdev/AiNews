@@ -5,8 +5,116 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2026 11:01:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:32:22 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>BenchMIRT: What are LLM benchmarks actually measuring?</title>
+      <link>https://huggingface.co/blog/allenai/benchmirt</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-allenai-benchmirt</guid>
+      <pubDate>Tue, 01 Sep 2026 21:39:07 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>The latest AI news we announced in August 2026</title>
+      <link>https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/</link>
+      <guid isPermaLink="false">https-blog-google-innovation-and-ai-technology-google-ai-updates-august-2026</guid>
+      <pubDate>Tue, 01 Sep 2026 20:45:00 GMT</pubDate>
+      <description>Here are Google’s latest AI updates from August 2026 (Source: Google DeepMind)</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Developing Enterprise Frontier Safeguards with our customers</title>
+      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE8yV1o0ckNzLXpGbEVxUTZqMF96dGlPUXpseUdheWpDS1lrNjRfV2I2aXFOYTJqM2hkSTNrNHU1UTJhZHU5d3hscUlkdGpyajBENkZQbmt3RzFVWEZUSzhWTkxqZ3oxb1FpLTRPOGlB?oc=5</link>
+      <guid isPermaLink="false">cbmibkfvx3lxte8yv1o0cknzlxpgbevxutzqmf96dglpuxpseudhewpds1lrnjrfv2i2axfoytjqm2hk</guid>
+      <pubDate>Tue, 01 Sep 2026 18:05:11 GMT</pubDate>
+      <description>Source: Anthropic</description>
+      <source url="https://ai-pulse.vercel.app">Anthropic</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Introducing agentic video understanding with Gemini</title>
+      <link>https://deepmind.google/blog/introducing-agentic-video-in-gemini/</link>
+      <guid isPermaLink="false">https-deepmind-google-blog-introducing-agentic-video-in-gemini</guid>
+      <pubDate>Tue, 01 Sep 2026 17:08:51 GMT</pubDate>
+      <description>Source: Google DeepMind</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>How AI-native companies turn workflows into operating capability</title>
+      <link>https://openai.com/index/ai-native-company-workflows</link>
+      <guid isPermaLink="false">https-openai-com-index-ai-native-company-workflows</guid>
+      <pubDate>Tue, 01 Sep 2026 17:00:00 GMT</pubDate>
+      <description>Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Biosecurity at the frontier</title>
+      <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HcGwzQnZHUW4tMzRqNUpBMHJLSXVjT1VNSTVpRjhuSURLX29ZNkVnTmdRSGNpQV9vdkwyMEh2NV95enI4VHdWeVpicjVDRG1UZUU1aWt3?oc=5</link>
+      <guid isPermaLink="false">cbmivkfvx3lxte5hcgwzqnzhuw4tmzrqnupbmhjlsxvjt1vnstvprjhusurlx29znkvntmdrsgnpqv9v</guid>
+      <pubDate>Tue, 01 Sep 2026 16:11:32 GMT</pubDate>
+      <description>Source: xAI</description>
+      <source url="https://ai-pulse.vercel.app">xAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Try Google Pics: Easy image creation and editing in Google Workspace</title>
+      <link>https://blog.google/products-and-platforms/products/workspace/google-pics/</link>
+      <guid isPermaLink="false">https-blog-google-products-and-platforms-products-workspace-google-pics</guid>
+      <pubDate>Tue, 01 Sep 2026 16:00:00 GMT</pubDate>
+      <description>Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available. (Source: Google DeepMind)</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Path to Astra: critical capabilities and frontier safeguards</title>
+      <link>https://openai.com/index/path-to-astra</link>
+      <guid isPermaLink="false">https-openai-com-index-path-to-astra</guid>
+      <pubDate>Tue, 01 Sep 2026 13:00:00 GMT</pubDate>
+      <description>Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Healthcare organizations can now connect EHR and additional industry data to ChatGPT</title>
+      <link>https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</link>
+      <guid isPermaLink="false">https-openai-com-index-chatgpt-connects-health-records-and-healthcare-sources</guid>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+      <description>ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>research</category>
+    </item>
+    <item>
+      <title>Claude Fable 5 and Claude Mythos 5</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNcGIwaG56UlVPbC1ZYTUyT0JrQ25OdDNXdGVGY0hBQ2x3RjEwcHVQVlFWX0RxUlVrYlhsU29WaTgyczNiM1V4amxwV3duaXgwVXhVM2hpUHVIdF9oSkkteUhDM0hOaF9FbVMzay1pQ1ltOGZGM2ZPM002djBTYzI4TG9WOGZHcGR3Z2gzZmFuVEd6QnBnQ3pSODdVVVlnQ2lfcmFhNXRn?oc=5</link>
+      <guid isPermaLink="false">cbmipgfbvv95cuxncgiwag56ulvpbc1zytuyt0jrq25oddnxdgvgy0hbq2x3rjewchvqvlfwx0rxulvr</guid>
+      <pubDate>Tue, 01 Sep 2026 02:56:02 GMT</pubDate>
+      <description>Source: Anthropic</description>
+      <source url="https://ai-pulse.vercel.app">Anthropic</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>How law firm Gilbert + Tobin governs and scales AI with OpenAI</title>
+      <link>https://openai.com/index/gilbert-tobin</link>
+      <guid isPermaLink="false">https-openai-com-index-gilbert-tobin</guid>
+      <pubDate>Tue, 01 Sep 2026 01:00:00 GMT</pubDate>
+      <description>See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI</title>
+      <link>https://huggingface.co/blog/webgpu-kernels</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-webgpu-kernels</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
     <item>
       <title>Improving our alignment and security practices</title>
       <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE00LWY0NEplRlIyRFlGZENXb0VQc0ZNb3BuSjlZeTB3OWdqWEh5eEFxbzJMa0hFTkhrYy03NjZ5MGdsMnNKbHJsXzVpVENSb014eXdXaEkzOXFHWUVRa1U3TXhpVWZCb0FJaHFqWTJhLW9JbGtYWGc?oc=5</link>
@@ -134,15 +242,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Expanding OpenAI’s presence in Brazil</title>
-      <link>https://openai.com/index/expanding-our-presence-in-brazil</link>
-      <guid isPermaLink="false">https-openai-com-index-expanding-our-presence-in-brazil</guid>
-      <pubDate>Thu, 27 Aug 2026 03:00:00 GMT</pubDate>
-      <description>OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Grok 4.6 on Microsoft Foundry</title>
       <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE50elJwY0RLX2N5WVdEYmFBVXY4d2Vua0ZzaXF4TjhnMzMxVDRSSUhPRVlILU9sQzVRSU12d3Y5SlFyV3htZ29qUFc0S1I0VDVpMjVJZkVtaw?oc=5</link>
       <guid isPermaLink="false">cbmiv0fvx3lxte50eljwy0rlx2n5wvdeymfbvxy4d2vua0zzaxf4tjhnmzmxvdrssuhprvlilu9sqzvr</guid>
@@ -159,24 +258,6 @@
       <description>Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe. (Source: Google DeepMind)</description>
       <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
       <category>model</category>
-    </item>
-    <item>
-      <title>Bringing ChatGPT for Teachers to more U.S. school districts</title>
-      <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
-      <guid isPermaLink="false">https-openai-com-index-bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
-      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
-      <description>ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Learning never stops: How AI makes learning continuous</title>
-      <link>https://openai.com/index/learning-never-stops</link>
-      <guid isPermaLink="false">https-openai-com-index-learning-never-stops</guid>
-      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
-      <description>OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
     </item>
     <item>
       <title>Creators of Grok, the AI Chatbot</title>
@@ -203,24 +284,6 @@
       <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
       <description>Source: Hugging Face</description>
       <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>The Hugging Face incident and the road ahead</title>
-      <link>https://openai.com/index/hugging-face-incident-and-the-road-ahead</link>
-      <guid isPermaLink="false">https-openai-com-index-hugging-face-incident-and-the-road-ahead</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-      <description>OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Funding better evaluations of AI’s impact on wellbeing</title>
-      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DNElZcS10WnJ1NHJEdmtYNkxUT1JQZ3plaDhZejA4UENGVlliUzRqM19sejJyOEFZbW9zbTZyZmpsZGpmOGYtaDc2T1pFTThXUG9wQi1nUFl3cVhIVDJyQVd6QnBsa2M?oc=5</link>
-      <guid isPermaLink="false">cbmiz0fvx3lxte5dnelzcs10wnj1nhjedmtynkxut1jqz3pladhzeja4uengvlliuzrqm19sejjyoefz</guid>
-      <pubDate>Tue, 25 Aug 2026 16:10:44 GMT</pubDate>
-      <description>Source: Anthropic</description>
-      <source url="https://ai-pulse.vercel.app">Anthropic</source>
       <category>feature</category>
     </item>
     <item>
@@ -251,6 +314,15 @@
       <category>feature</category>
     </item>
     <item>
+      <title>Funding better evaluations of AI’s impact on wellbeing</title>
+      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DNElZcS10WnJ1NHJEdmtYNkxUT1JQZ3plaDhZejA4UENGVlliUzRqM19sejJyOEFZbW9zbTZyZmpsZGpmOGYtaDc2T1pFTThXUG9wQi1nUFl3cVhIVDJyQVd6QnBsa2M?oc=5</link>
+      <guid isPermaLink="false">cbmiz0fvx3lxte5dnelzcs10wnj1nhjedmtynkxut1jqz3pladhzeja4uengvlliuzrqm19sejjyoefz</guid>
+      <pubDate>Tue, 25 Aug 2026 07:00:00 GMT</pubDate>
+      <description>Source: Anthropic</description>
+      <source url="https://ai-pulse.vercel.app">Anthropic</source>
+      <category>feature</category>
+    </item>
+    <item>
       <title>Wire It, Run It, Deploy It: AI Workflows in Gradio</title>
       <link>https://huggingface.co/blog/gradio-workflow-guide</link>
       <guid isPermaLink="false">https-huggingface-co-blog-gradio-workflow-guide</guid>
@@ -263,7 +335,7 @@
       <title>Mistral x HUMAIN</title>
       <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoM215alpsRHFKLTB6NUJ1cmRubHpweTlaczlWaTAyeWRfaTAtWUVZZGZpU0thZGNlWnRRUnRMLTVtYzcyZEx3d0FwWFFJeTk5cDZv?oc=5</link>
       <guid isPermaLink="false">cbmiu0fvx3lxtfbom215alpsrhfkltb6nuj1cmrubhpwetlaczlwatayewrfatatwuvzzgzpu0thzgnl</guid>
-      <pubDate>Mon, 24 Aug 2026 19:06:44 GMT</pubDate>
+      <pubDate>Mon, 24 Aug 2026 07:00:00 GMT</pubDate>
       <description>Source: Mistral</description>
       <source url="https://ai-pulse.vercel.app">Mistral</source>
       <category>feature</category>
@@ -413,33 +485,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>How Much Memory Does Your Agent Actually Need?</title>
-      <link>https://huggingface.co/blog/ibm-research/altk-evolve-hmm</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-ibm-research-altk-evolve-hmm</guid>
-      <pubDate>Tue, 18 Aug 2026 18:09:38 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers</title>
-      <link>https://huggingface.co/blog/multi-vector-encoder</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-multi-vector-encoder</guid>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Get closer to the game with Gemini and Pixel</title>
-      <link>https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/</link>
-      <guid isPermaLink="false">https-blog-google-products-and-platforms-products-gemini-google-gemini-pixel-foo</guid>
-      <pubDate>Mon, 17 Aug 2026 08:00:00 GMT</pubDate>
-      <description>Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and  Smartphone Technology. (Source: Google DeepMind)</description>
-      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>How Claude&apos;s text watermarking works</title>
       <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5</link>
       <guid isPermaLink="false">cbmiykfvx3lxte8xmjz5ynd3tkptcuftrgzxaln0vuxktwrxsktrtkhsa1llv0w0ouphlxrywdkyagjv</guid>
@@ -456,24 +501,6 @@
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
       <category>model</category>
-    </item>
-    <item>
-      <title>Introducing Gemini 3.7 Flash</title>
-      <link>https://deepmind.google/blog/introducing-gemini-3-7-flash/</link>
-      <guid isPermaLink="false">https-deepmind-google-blog-introducing-gemini-3-7-flash</guid>
-      <pubDate>Thu, 13 Aug 2026 17:04:18 GMT</pubDate>
-      <description>Source: Google DeepMind</description>
-      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
-      <category>model</category>
-    </item>
-    <item>
-      <title>Bring your spreadsheet data to life with Sheets canvas</title>
-      <link>https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/</link>
-      <guid isPermaLink="false">https-blog-google-products-and-platforms-products-workspace-sheets-canvas-for-go</guid>
-      <pubDate>Thu, 13 Aug 2026 16:45:00 GMT</pubDate>
-      <description>Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt. (Source: Google DeepMind)</description>
-      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
-      <category>feature</category>
     </item>
     <item>
       <title>DeepSeek-V4-Pro GA Release</title>
@@ -503,15 +530,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Introducing Grok Bot</title>
-      <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CZnlxMXRUUXNoeEMwOGZIcjVOLW9JODJFTTRSV21XV2FvU3Q5ZUJpS2FOcTNoay1ud056cG5tcEJGV05uVE5lWlFFeVpDUXc?oc=5</link>
-      <guid isPermaLink="false">cbmit0fvx3lxte9cznlxmxruuxnoeemwogzicjvolw9jodjfttrsv21xv2fvu3q5zujps2foctnoay1u</guid>
-      <pubDate>Tue, 11 Aug 2026 07:00:00 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Markdown page example</title>
       <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4cFNYWk9yckhoR3hNSTB4T3dKX1NLYWI1NFBERGNrVkpWTlozaUZjOGpEMkxxbm1yZ0dFTlM3SmpIQlVFM3B5LVRPRkpKZDYzdWhPSUNMRkVFLS04T3VN?oc=5</link>
       <guid isPermaLink="false">cbmix0fvx3lxtfa4cfnywk9yckhor3hnstb4t3dkx1nlywi1nfbergnrvkpwtlozauzjogpemkxxbm1y</guid>
@@ -525,24 +543,6 @@
       <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE95RXUtcVFIR1hIbmVDRk5sRDZEVWZSRTlXNXRMU1RXQk1JdE1kRzBMR3RuOGhzOVRZdEs2bGRIX3JIa1ZZbjlCbGx5RzlZRGdQZ3RwLXVidjZyZUpXeU1sM0hYeTQ2QW0zOXlCWnJQenFhZ0dEUFNFUA?oc=5</link>
       <guid isPermaLink="false">cbmieefvx3lxte95rxutcvfir1hibmvdrk5srdzevwzsrtlxnxrmu1rxqk1jde1krzbmr3ruoghzovrz</guid>
       <pubDate>Fri, 07 Aug 2026 07:00:00 GMT</pubDate>
-      <description>Source: Anthropic</description>
-      <source url="https://ai-pulse.vercel.app">Anthropic</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Markdown page example</title>
-      <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSdE82eG9QZ1JpSkpwRkNNV2x4YVVBaU4yM0lyeEp2dmowMVdHaGpJb1JaSkp5U2F2RlgyREZvMDIzcXA2S2h1aUtrYnhhOGNreFp3aG82UQ?oc=5</link>
-      <guid isPermaLink="false">cbmiv0fvx3lxtfbsde82eg9qz1jpskpwrknnv2x4yvvbau4ym0lyeep2dmowmvdhagpjb1jaskp5u2f2</guid>
-      <pubDate>Thu, 06 Aug 2026 22:33:05 GMT</pubDate>
-      <description>Source: DeepSeek</description>
-      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Tino Cuellar joins Anthropic as Chief Global Affairs Officer</title>
-      <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vODE3REpJODF0TzhuZTBCTFpEdTNMNXFsV2QtOHhzZ0NUVUlmTDVESzZQM2ZHQWl4MkxaSzY1Z0pNSWVUaTB4NzRsX0dUVGxqWWIwVkFB?oc=5</link>
-      <guid isPermaLink="false">cbmivkfvx3lxte9vode3repjodf0tzhuztbctfpedtnmnxfsv2qtohhzz0nuvulmtdveszzqm2zhqwl4</guid>
-      <pubDate>Tue, 04 Aug 2026 07:00:00 GMT</pubDate>
       <description>Source: Anthropic</description>
       <source url="https://ai-pulse.vercel.app">Anthropic</source>
       <category>feature</category>

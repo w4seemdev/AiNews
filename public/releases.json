@@ -1,5 +1,181 @@
 [
   {
+    "id": "https-huggingface-co-blog-allenai-benchmirt",
+    "lab": "Hugging Face",
+    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "summary": "",
+    "date": "2026-09-01T21:39:07.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/allenai/benchmirt",
+    "tags": [
+      "benchmirt",
+      "llm",
+      "benchmarks",
+      "actually"
+    ]
+  },
+  {
+    "id": "https-blog-google-innovation-and-ai-technology-google-ai-updates-august-2026",
+    "lab": "Google DeepMind",
+    "title": "The latest AI news we announced in August 2026",
+    "summary": "Here are Google’s latest AI updates from August 2026",
+    "date": "2026-09-01T20:45:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp",
+    "tags": [
+      "google"
+    ]
+  },
+  {
+    "id": "cbmibkfvx3lxte8yv1o0cknzlxpgbevxutzqmf96dglpuxpseudhewpds1lrnjrfv2i2axfoytjqm2hk",
+    "lab": "Anthropic",
+    "title": "Developing Enterprise Frontier Safeguards with our customers",
+    "summary": "",
+    "date": "2026-09-01T18:05:11.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yV1o0ckNzLXpGbEVxUTZqMF96dGlPUXpseUdheWpDS1lrNjRfV2I2aXFOYTJqM2hkSTNrNHU1UTJhZHU5d3hscUlkdGpyajBENkZQbmt3RzFVWEZUSzhWTkxqZ3oxb1FpLTRPOGlB?oc=5",
+    "tags": [
+      "developing",
+      "enterprise",
+      "frontier",
+      "safeguards"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-introducing-agentic-video-in-gemini",
+    "lab": "Google DeepMind",
+    "title": "Introducing agentic video understanding with Gemini",
+    "summary": "",
+    "date": "2026-09-01T17:08:51.000Z",
+    "category": "feature",
+    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "tags": [
+      "agentic",
+      "video",
+      "understanding",
+      "gemini"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-ai-native-company-workflows",
+    "lab": "OpenAI",
+    "title": "How AI-native companies turn workflows into operating capability",
+    "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+    "date": "2026-09-01T17:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/ai-native-company-workflows",
+    "tags": [
+      "native",
+      "companies",
+      "turn",
+      "workflows"
+    ]
+  },
+  {
+    "id": "cbmivkfvx3lxte5hcgwzqnzhuw4tmzrqnupbmhjlsxvjt1vnstvprjhusurlx29znkvntmdrsgnpqv9v",
+    "lab": "xAI",
+    "title": "Biosecurity at the frontier",
+    "summary": "",
+    "date": "2026-09-01T16:11:32.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HcGwzQnZHUW4tMzRqNUpBMHJLSXVjT1VNSTVpRjhuSURLX29ZNkVnTmdRSGNpQV9vdkwyMEh2NV95enI4VHdWeVpicjVDRG1UZUU1aWt3?oc=5",
+    "tags": [
+      "biosecurity",
+      "frontier"
+    ]
+  },
+  {
+    "id": "https-blog-google-products-and-platforms-products-workspace-google-pics",
+    "lab": "Google DeepMind",
+    "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+    "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
+    "date": "2026-09-01T16:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp",
+    "tags": [
+      "google",
+      "pics",
+      "image",
+      "creation"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-path-to-astra",
+    "lab": "OpenAI",
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+    "date": "2026-09-01T13:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/path-to-astra",
+    "tags": [
+      "astra",
+      "critical",
+      "safeguards",
+      "path"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-chatgpt-connects-health-records-and-healthcare-sources",
+    "lab": "OpenAI",
+    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+    "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+    "date": "2026-09-01T12:00:00.000Z",
+    "category": "research",
+    "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "tags": [
+      "healthcare",
+      "connect",
+      "data",
+      "chatgpt"
+    ]
+  },
+  {
+    "id": "cbmipgfbvv95cuxncgiwag56ulvpbc1zytuyt0jrq25oddnxdgvgy0hbq2x3rjewchvqvlfwx0rxulvr",
+    "lab": "Anthropic",
+    "title": "Claude Fable 5 and Claude Mythos 5",
+    "summary": "",
+    "date": "2026-09-01T02:56:02.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcGIwaG56UlVPbC1ZYTUyT0JrQ25OdDNXdGVGY0hBQ2x3RjEwcHVQVlFWX0RxUlVrYlhsU29WaTgyczNiM1V4amxwV3duaXgwVXhVM2hpUHVIdF9oSkkteUhDM0hOaF9FbVMzay1pQ1ltOGZGM2ZPM002djBTYzI4TG9WOGZHcGR3Z2gzZmFuVEd6QnBnQ3pSODdVVVlnQ2lfcmFhNXRn?oc=5",
+    "tags": [
+      "claude",
+      "fable",
+      "mythos"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-gilbert-tobin",
+    "lab": "OpenAI",
+    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+    "date": "2026-09-01T01:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/gilbert-tobin",
+    "tags": [
+      "firm",
+      "gilbert",
+      "tobin",
+      "law"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-webgpu-kernels",
+    "lab": "Hugging Face",
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "summary": "",
+    "date": "2026-09-01T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/webgpu-kernels",
+    "tags": [
+      "kernels",
+      "huggingface",
+      "webgpu",
+      "local"
+    ]
+  },
+  {
     "id": "cbmidkfvx3lxte00lwy0neplrliyrflgzenxb0vqc0znb3busjlzetb3owdqweh5eefxbzjma0hftkhr",
     "lab": "Anthropic",
     "title": "Improving our alignment and security practices",
@@ -210,21 +386,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-expanding-our-presence-in-brazil",
-    "lab": "OpenAI",
-    "title": "Expanding OpenAI’s presence in Brazil",
-    "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
-    "date": "2026-08-27T03:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/expanding-our-presence-in-brazil",
-    "tags": [
-      "expanding",
-      "openai",
-      "presence",
-      "brazil"
-    ]
-  },
-  {
     "id": "cbmiv0fvx3lxte50eljwy0rlx2n5wvdeymfbvxy4d2vua0zzaxf4tjhnmzmxvdrssuhprvlilu9sqzvr",
     "lab": "xAI",
     "title": "Grok 4.6 on Microsoft Foundry",
@@ -251,36 +412,6 @@
       "transcription",
       "gemini",
       "transcribe"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "lab": "OpenAI",
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-    "date": "2026-08-26T10:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "tags": [
-      "bringing",
-      "chatgpt",
-      "teachers",
-      "school"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-learning-never-stops",
-    "lab": "OpenAI",
-    "title": "Learning never stops: How AI makes learning continuous",
-    "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-    "date": "2026-08-26T10:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/learning-never-stops",
-    "tags": [
-      "learning",
-      "continuous",
-      "never",
-      "stops"
     ]
   },
   {
@@ -325,36 +456,6 @@
       "finetuning",
       "multi",
       "vector"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-hugging-face-incident-and-the-road-ahead",
-    "lab": "OpenAI",
-    "title": "The Hugging Face incident and the road ahead",
-    "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-    "date": "2026-08-26T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-    "tags": [
-      "hugging",
-      "face",
-      "incident",
-      "security"
-    ]
-  },
-  {
-    "id": "cbmiz0fvx3lxte5dnelzcs10wnj1nhjedmtynkxut1jqz3pladhzeja4uengvlliuzrqm19sejjyoefz",
-    "lab": "Anthropic",
-    "title": "Funding better evaluations of AI’s impact on wellbeing",
-    "summary": "",
-    "date": "2026-08-25T16:10:44.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DNElZcS10WnJ1NHJEdmtYNkxUT1JQZ3plaDhZejA4UENGVlliUzRqM19sejJyOEFZbW9zbTZyZmpsZGpmOGYtaDc2T1pFTThXUG9wQi1nUFl3cVhIVDJyQVd6QnBsa2M?oc=5",
-    "tags": [
-      "funding",
-      "better",
-      "evaluations",
-      "impact"
     ]
   },
   {
@@ -403,6 +504,21 @@
     ]
   },
   {
+    "id": "cbmiz0fvx3lxte5dnelzcs10wnj1nhjedmtynkxut1jqz3pladhzeja4uengvlliuzrqm19sejjyoefz",
+    "lab": "Anthropic",
+    "title": "Funding better evaluations of AI’s impact on wellbeing",
+    "summary": "",
+    "date": "2026-08-25T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DNElZcS10WnJ1NHJEdmtYNkxUT1JQZ3plaDhZejA4UENGVlliUzRqM19sejJyOEFZbW9zbTZyZmpsZGpmOGYtaDc2T1pFTThXUG9wQi1nUFl3cVhIVDJyQVd6QnBsa2M?oc=5",
+    "tags": [
+      "funding",
+      "better",
+      "evaluations",
+      "impact"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-gradio-workflow-guide",
     "lab": "Hugging Face",
     "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
@@ -422,7 +538,7 @@
     "lab": "Mistral",
     "title": "Mistral x HUMAIN",
     "summary": "",
-    "date": "2026-08-24T19:06:44.000Z",
+    "date": "2026-08-24T07:00:00.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoM215alpsRHFKLTB6NUJ1cmRubHpweTlaczlWaTAyeWRfaTAtWUVZZGZpU0thZGNlWnRRUnRMLTVtYzcyZEx3d0FwWFFJeTk5cDZv?oc=5",
     "tags": [
@@ -659,52 +775,6 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-ibm-research-altk-evolve-hmm",
-    "lab": "Hugging Face",
-    "title": "How Much Memory Does Your Agent Actually Need?",
-    "summary": "",
-    "date": "2026-08-18T18:09:38.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-    "tags": [
-      "much",
-      "memory",
-      "does",
-      "agent"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-multi-vector-encoder",
-    "lab": "Hugging Face",
-    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-    "summary": "",
-    "date": "2026-08-18T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/multi-vector-encoder",
-    "tags": [
-      "multi",
-      "vector",
-      "late",
-      "interaction"
-    ]
-  },
-  {
-    "id": "https-blog-google-products-and-platforms-products-gemini-google-gemini-pixel-foo",
-    "lab": "Google DeepMind",
-    "title": "Get closer to the game with Gemini and Pixel",
-    "summary": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and  Smartphone Technology.",
-    "date": "2026-08-17T08:00:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp",
-    "tags": [
-      "gemini",
-      "pixel",
-      "get",
-      "closer"
-    ]
-  },
-  {
     "id": "cbmiykfvx3lxte8xmjz5ynd3tkptcuftrgzxaln0vuxktwrxsktrtkhsa1llv0w0ouphlxrywdkyagjv",
     "lab": "Anthropic",
     "title": "How Claude's text watermarking works",
@@ -731,35 +801,6 @@
       "grok",
       "github",
       "copilot"
-    ]
-  },
-  {
-    "id": "https-deepmind-google-blog-introducing-gemini-3-7-flash",
-    "lab": "Google DeepMind",
-    "title": "Introducing Gemini 3.7 Flash",
-    "summary": "",
-    "date": "2026-08-13T17:04:18.000Z",
-    "category": "model",
-    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-    "tags": [
-      "gemini",
-      "flash"
-    ]
-  },
-  {
-    "id": "https-blog-google-products-and-platforms-products-workspace-sheets-canvas-for-go",
-    "lab": "Google DeepMind",
-    "title": "Bring your spreadsheet data to life with Sheets canvas",
-    "summary": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.",
-    "date": "2026-08-13T16:45:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp",
-    "tags": [
-      "data",
-      "sheets",
-      "canvas",
-      "bring"
     ]
   },
   {
@@ -803,19 +844,6 @@
     ]
   },
   {
-    "id": "cbmit0fvx3lxte9cznlxmxruuxnoeemwogzicjvolw9jodjfttrsv21xv2fvu3q5zujps2foctnoay1u",
-    "lab": "xAI",
-    "title": "Introducing Grok Bot",
-    "summary": "",
-    "date": "2026-08-11T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CZnlxMXRUUXNoeEMwOGZIcjVOLW9JODJFTTRSV21XV2FvU3Q5ZUJpS2FOcTNoay1ud056cG5tcEJGV05uVE5lWlFFeVpDUXc?oc=5",
-    "tags": [
-      "grok",
-      "bot"
-    ]
-  },
-  {
     "id": "cbmix0fvx3lxtfa4cfnywk9yckhor3hnstb4t3dkx1nlywi1nfbergnrvkpwtlozauzjogpemkxxbm1y",
     "lab": "DeepSeek",
     "title": "Markdown page example",
@@ -842,35 +870,6 @@
       "fable",
       "biology",
       "safeguards"
-    ]
-  },
-  {
-    "id": "cbmiv0fvx3lxtfbsde82eg9qz1jpskpwrknnv2x4yvvbau4ym0lyeep2dmowmvdhagpjb1jaskp5u2f2",
-    "lab": "DeepSeek",
-    "title": "Markdown page example",
-    "summary": "",
-    "date": "2026-08-06T22:33:05.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSdE82eG9QZ1JpSkpwRkNNV2x4YVVBaU4yM0lyeEp2dmowMVdHaGpJb1JaSkp5U2F2RlgyREZvMDIzcXA2S2h1aUtrYnhhOGNreFp3aG82UQ?oc=5",
-    "tags": [
-      "markdown",
-      "page",
-      "example"
-    ]
-  },
-  {
-    "id": "cbmivkfvx3lxte9vode3repjodf0tzhuztbctfpedtnmnxfsv2qtohhzz0nuvulmtdveszzqm2zhqwl4",
-    "lab": "Anthropic",
-    "title": "Tino Cuellar joins Anthropic as Chief Global Affairs Officer",
-    "summary": "",
-    "date": "2026-08-04T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vODE3REpJODF0TzhuZTBCTFpEdTNMNXFsV2QtOHhzZ0NUVUlmTDVESzZQM2ZHQWl4MkxaSzY1Z0pNSWVUaTB4NzRsX0dUVGxqWWIwVkFB?oc=5",
-    "tags": [
-      "tino",
-      "cuellar",
-      "joins",
-      "anthropic"
     ]
   }
 ]
