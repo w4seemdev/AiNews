@@ -5,8 +5,62 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2026 10:32:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:36:57 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Training a coding model to paint watercolours with TRL and OpenEnv</title>
+      <link>https://huggingface.co/blog/train-to-paint-with-code</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-train-to-paint-with-code</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Proactive cyber defense for governments and enterprises</title>
+      <link>https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/</link>
+      <guid isPermaLink="false">https-deepmind-google-blog-proactive-cyber-defense-for-governments-and-enterpris</guid>
+      <pubDate>Wed, 02 Sep 2026 16:24:24 GMT</pubDate>
+      <description>Source: Google DeepMind</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Introducing Gemini 3.8 Flash and 3.8 Flash Cyber</title>
+      <link>https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/</link>
+      <guid isPermaLink="false">https-deepmind-google-blog-introducing-gemini-3-8-flash-and-38-flash-cyber</guid>
+      <pubDate>Wed, 02 Sep 2026 16:18:31 GMT</pubDate>
+      <description>Source: Google DeepMind</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
+      <category>model</category>
+    </item>
+    <item>
+      <title>Proactive cyber defense for governments and enterprises</title>
+      <link>https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/</link>
+      <guid isPermaLink="false">https-blog-google-innovation-and-ai-technology-safety-security-fairwind-program</guid>
+      <pubDate>Wed, 02 Sep 2026 15:40:00 GMT</pubDate>
+      <description>The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools. (Source: Google DeepMind)</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Real-Time Intelligence with IBM Time Series Models on Confluent</title>
+      <link>https://huggingface.co/blog/ibm-research/real-time-intelligence</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-ibm-research-real-time-intelligence</guid>
+      <pubDate>Wed, 02 Sep 2026 13:49:14 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT</title>
+      <link>https://openai.com/index/atv-big-air-tour</link>
+      <guid isPermaLink="false">https-openai-com-index-atv-big-air-tour</guid>
+      <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
+      <description>ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
     <item>
       <title>BenchMIRT: What are LLM benchmarks actually measuring?</title>
       <link>https://huggingface.co/blog/allenai/benchmirt</link>
@@ -233,15 +287,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training</title>
-      <link>https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training</link>
-      <guid isPermaLink="false">https-openai-com-index-what-students-gain-from-chatgpt-critical-thinking-trainin</guid>
-      <pubDate>Thu, 27 Aug 2026 09:00:00 GMT</pubDate>
-      <description>A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Grok 4.6 on Microsoft Foundry</title>
       <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE50elJwY0RLX2N5WVdEYmFBVXY4d2Vua0ZzaXF4TjhnMzMxVDRSSUhPRVlILU9sQzVRSU12d3Y5SlFyV3htZ29qUFc0S1I0VDVpMjVJZkVtaw?oc=5</link>
       <guid isPermaLink="false">cbmiv0fvx3lxte50eljwy0rlx2n5wvdeymfbvxy4d2vua0zzaxf4tjhnmzmxvdrssuhprvlilu9sqzvr</guid>
@@ -260,18 +305,18 @@
       <category>model</category>
     </item>
     <item>
-      <title>Creators of Grok, the AI Chatbot</title>
-      <link>https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5</link>
-      <guid isPermaLink="false">cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq</guid>
+      <title>Grok Bot is now included with more plans</title>
+      <link>https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wWkEtS2NGZ19UTFo2SGt3TEhKNmNtZ3plYUJIS1JzcXFkSWpKQldqRFM3TWpHa25ZVFZzR3RqR252aFhoeE9Jd1FUNm9jZw?oc=5</link>
+      <guid isPermaLink="false">cbmitkfvx3lxte9wwkets2ngz19utfo2sgt3tehknmntz3plyujis1jzcxfkswpkqldqrfm3twpha25z</guid>
       <pubDate>Wed, 26 Aug 2026 07:00:00 GMT</pubDate>
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
       <category>feature</category>
     </item>
     <item>
-      <title>Grok Bot is now included with more plans</title>
-      <link>https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wWkEtS2NGZ19UTFo2SGt3TEhKNmNtZ3plYUJIS1JzcXFkSWpKQldqRFM3TWpHa25ZVFZzR3RqR252aFhoeE9Jd1FUNm9jZw?oc=5</link>
-      <guid isPermaLink="false">cbmitkfvx3lxte9wwkets2ngz19utfo2sgt3tehknmntz3plyujis1jzcxfkswpkqldqrfm3twpha25z</guid>
+      <title>Creators of Grok, the AI Chatbot</title>
+      <link>https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5</link>
+      <guid isPermaLink="false">cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq</guid>
       <pubDate>Wed, 26 Aug 2026 07:00:00 GMT</pubDate>
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
@@ -284,15 +329,6 @@
       <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
       <description>Source: Hugging Face</description>
       <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>5 ways to upgrade your home decor with Google Search</title>
-      <link>https://blog.google/products-and-platforms/products/search/home-decor-tips/</link>
-      <guid isPermaLink="false">https-blog-google-products-and-platforms-products-search-home-decor-tips</guid>
-      <pubDate>Tue, 25 Aug 2026 16:00:00 GMT</pubDate>
-      <description>Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects. (Source: Google DeepMind)</description>
-      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
       <category>feature</category>
     </item>
     <item>
@@ -350,15 +386,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Delete File</title>
-      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vbGRQZXpMYXd3eV9NMGx6Z2VqNVVhSG9HQmdnY2JqRmRlREw5R05XNUxKc3c2Y1pmUENIeWRNa2VRdmRmN1hTWUhaNVBUM2JYclJPRGd1SVNEUQ?oc=5</link>
-      <guid isPermaLink="false">cbmiwkfvx3lxte9vbgrqzxpmyxd3ev9nmgx6z2vqnvvhsg9hqmdny2jqrmrlrew5r05xnuxkc3c2y1pm</guid>
-      <pubDate>Fri, 21 Aug 2026 16:02:43 GMT</pubDate>
-      <description>Source: DeepSeek</description>
-      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Upload File</title>
       <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zclJLSmdzZ0std1Y1SjRGTlhKMmhWaUx0YXhxT2ZRWUNySGJEbXM5WGlObU1Rdi1pZVUyS3R1Q1JIaHE1NjE5b2owVlo0YkQ1eFhuMXI4dm12UQ?oc=5</link>
       <guid isPermaLink="false">cbmiwkfvx3lxte9zcljlsmdzz0std1y1sjrgtlhkmmhwaux0yxhxt2zrwunysgjebxm5wglobu1rdi1p</guid>
@@ -375,15 +402,6 @@
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>feature</category>
-    </item>
-    <item>
-      <title>From Atari to EVE Online: Building on 15 Years of AI Research in Games</title>
-      <link>https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/</link>
-      <guid isPermaLink="false">https-deepmind-google-blog-from-atari-to-eve-online-building-on-15-years-of-ai-r</guid>
-      <pubDate>Fri, 21 Aug 2026 11:59:48 GMT</pubDate>
-      <description>Google DeepMind partners with game studios to prototype breakthrough AI gameplay. (Source: Google DeepMind)</description>
-      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
-      <category>research</category>
     </item>
     <item>
       <title>Files API</title>
@@ -431,39 +449,12 @@
       <category>research</category>
     </item>
     <item>
-      <title>Measuring benchmark optimization in speech recognition</title>
-      <link>https://huggingface.co/blog/asr-benchmark-optimization</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-asr-benchmark-optimization</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Up to 3.2x Faster Inference with LFM2.5-DSpark</title>
-      <link>https://huggingface.co/blog/LiquidAI/lfm25-dspark</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-liquidai-lfm25-dspark</guid>
-      <pubDate>Thu, 20 Aug 2026 16:52:57 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Agentic Search. More accurate and efficient results from your AI systems.</title>
       <link>https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PWUlINnhhZ3B2dnU0dng5c2JQZ01fMjk0UkN5Vm8xNlZmVHAycS1SVmZnb3U2RDd1Mm1SaGdvcVUxYzE4SDk0bjlRVWxVazF3?oc=5</link>
       <guid isPermaLink="false">cbmiuefvx3lxte5pwulinnhhz3b2dnu0dng5c2jqz01fmjk0ukn5vm8xnlzmvhaycs1svmznb3u2rdd1</guid>
       <pubDate>Thu, 20 Aug 2026 07:00:00 GMT</pubDate>
       <description>Source: Mistral</description>
       <source url="https://ai-pulse.vercel.app">Mistral</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>5 new ways to level up your learning with Search</title>
-      <link>https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/</link>
-      <guid isPermaLink="false">https-blog-google-products-and-platforms-products-search-back-to-school-study-to</guid>
-      <pubDate>Wed, 19 Aug 2026 19:00:00 GMT</pubDate>
-      <description>Here’s how you can use Google Search tools to study for classes and standardized tests. (Source: Google DeepMind)</description>
-      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
       <category>feature</category>
     </item>
     <item>
@@ -530,19 +521,28 @@
       <category>feature</category>
     </item>
     <item>
+      <title>Improving Fable 5&apos;s biology safeguards</title>
+      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE95RXUtcVFIR1hIbmVDRk5sRDZEVWZSRTlXNXRMU1RXQk1JdE1kRzBMR3RuOGhzOVRZdEs2bGRIX3JIa1ZZbjlCbGx5RzlZRGdQZ3RwLXVidjZyZUpXeU1sM0hYeTQ2QW0zOXlCWnJQenFhZ0dEUFNFUA?oc=5</link>
+      <guid isPermaLink="false">cbmieefvx3lxte95rxutcvfir1hibmvdrk5srdzevwzsrtlxnxrmu1rxqk1jde1krzbmr3ruoghzovrz</guid>
+      <pubDate>Fri, 07 Aug 2026 07:00:00 GMT</pubDate>
+      <description>Source: Anthropic</description>
+      <source url="https://ai-pulse.vercel.app">Anthropic</source>
+      <category>feature</category>
+    </item>
+    <item>
       <title>Markdown page example</title>
-      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4cFNYWk9yckhoR3hNSTB4T3dKX1NLYWI1NFBERGNrVkpWTlozaUZjOGpEMkxxbm1yZ0dFTlM3SmpIQlVFM3B5LVRPRkpKZDYzdWhPSUNMRkVFLS04T3VN?oc=5</link>
-      <guid isPermaLink="false">cbmix0fvx3lxtfa4cfnywk9yckhor3hnstb4t3dkx1nlywi1nfbergnrvkpwtlozauzjogpemkxxbm1y</guid>
-      <pubDate>Sat, 08 Aug 2026 01:47:10 GMT</pubDate>
+      <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSdE82eG9QZ1JpSkpwRkNNV2x4YVVBaU4yM0lyeEp2dmowMVdHaGpJb1JaSkp5U2F2RlgyREZvMDIzcXA2S2h1aUtrYnhhOGNreFp3aG82UQ?oc=5</link>
+      <guid isPermaLink="false">cbmiv0fvx3lxtfbsde82eg9qz1jpskpwrknnv2x4yvvbau4ym0lyeep2dmowmvdhagpjb1jaskp5u2f2</guid>
+      <pubDate>Thu, 06 Aug 2026 22:33:05 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>feature</category>
     </item>
     <item>
-      <title>Improving Fable 5&apos;s biology safeguards</title>
-      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE95RXUtcVFIR1hIbmVDRk5sRDZEVWZSRTlXNXRMU1RXQk1JdE1kRzBMR3RuOGhzOVRZdEs2bGRIX3JIa1ZZbjlCbGx5RzlZRGdQZ3RwLXVidjZyZUpXeU1sM0hYeTQ2QW0zOXlCWnJQenFhZ0dEUFNFUA?oc=5</link>
-      <guid isPermaLink="false">cbmieefvx3lxte95rxutcvfir1hibmvdrk5srdzevwzsrtlxnxrmu1rxqk1jde1krzbmr3ruoghzovrz</guid>
-      <pubDate>Fri, 07 Aug 2026 07:00:00 GMT</pubDate>
+      <title>Tino Cuellar joins Anthropic as Chief Global Affairs Officer</title>
+      <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vODE3REpJODF0TzhuZTBCTFpEdTNMNXFsV2QtOHhzZ0NUVUlmTDVESzZQM2ZHQWl4MkxaSzY1Z0pNSWVUaTB4NzRsX0dUVGxqWWIwVkFB?oc=5</link>
+      <guid isPermaLink="false">cbmivkfvx3lxte9vode3repjodf0tzhuztbctfpedtnmnxfsv2qtohhzz0nuvulmtdveszzqm2zhqwl4</guid>
+      <pubDate>Tue, 04 Aug 2026 07:00:00 GMT</pubDate>
       <description>Source: Anthropic</description>
       <source url="https://ai-pulse.vercel.app">Anthropic</source>
       <category>feature</category>

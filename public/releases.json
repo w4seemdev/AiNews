@@ -1,5 +1,95 @@
 [
   {
+    "id": "https-huggingface-co-blog-train-to-paint-with-code",
+    "lab": "Hugging Face",
+    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "summary": "",
+    "date": "2026-09-03T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/train-to-paint-with-code",
+    "tags": [
+      "training",
+      "coding",
+      "model",
+      "paint"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-proactive-cyber-defense-for-governments-and-enterpris",
+    "lab": "Google DeepMind",
+    "title": "Proactive cyber defense for governments and enterprises",
+    "summary": "",
+    "date": "2026-09-02T16:24:24.000Z",
+    "category": "feature",
+    "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+    "tags": [
+      "proactive",
+      "cyber",
+      "defense",
+      "governments"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-introducing-gemini-3-8-flash-and-38-flash-cyber",
+    "lab": "Google DeepMind",
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "summary": "",
+    "date": "2026-09-02T16:18:31.000Z",
+    "category": "model",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "tags": [
+      "flash",
+      "gemini",
+      "cyber"
+    ]
+  },
+  {
+    "id": "https-blog-google-innovation-and-ai-technology-safety-security-fairwind-program",
+    "lab": "Google DeepMind",
+    "title": "Proactive cyber defense for governments and enterprises",
+    "summary": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
+    "date": "2026-09-02T15:40:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp",
+    "tags": [
+      "cyber",
+      "defense",
+      "governments",
+      "program"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-ibm-research-real-time-intelligence",
+    "lab": "Hugging Face",
+    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+    "summary": "",
+    "date": "2026-09-02T13:49:14.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+    "tags": [
+      "time",
+      "real",
+      "intelligence",
+      "ibm"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-atv-big-air-tour",
+    "lab": "OpenAI",
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+    "date": "2026-09-02T12:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/atv-big-air-tour",
+    "tags": [
+      "atv",
+      "big",
+      "air",
+      "tour"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-allenai-benchmirt",
     "lab": "Hugging Face",
     "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
@@ -371,21 +461,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-what-students-gain-from-chatgpt-critical-thinking-trainin",
-    "lab": "OpenAI",
-    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-    "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
-    "date": "2026-08-27T09:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-    "tags": [
-      "thinking",
-      "students",
-      "chatgpt",
-      "critical"
-    ]
-  },
-  {
     "id": "cbmiv0fvx3lxte50eljwy0rlx2n5wvdeymfbvxy4d2vua0zzaxf4tjhnmzmxvdrssuhprvlilu9sqzvr",
     "lab": "xAI",
     "title": "Grok 4.6 on Microsoft Foundry",
@@ -415,20 +490,6 @@
     ]
   },
   {
-    "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
-    "lab": "xAI",
-    "title": "Creators of Grok, the AI Chatbot",
-    "summary": "",
-    "date": "2026-08-26T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
-    "tags": [
-      "creators",
-      "grok",
-      "chatbot"
-    ]
-  },
-  {
     "id": "cbmitkfvx3lxte9wwkets2ngz19utfo2sgt3tehknmntz3plyujis1jzcxfkswpkqldqrfm3twpha25z",
     "lab": "xAI",
     "title": "Grok Bot is now included with more plans",
@@ -444,6 +505,20 @@
     ]
   },
   {
+    "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
+    "lab": "xAI",
+    "title": "Creators of Grok, the AI Chatbot",
+    "summary": "",
+    "date": "2026-08-26T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
+    "tags": [
+      "creators",
+      "grok",
+      "chatbot"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-train-multi-vector-encoder",
     "lab": "Hugging Face",
     "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
@@ -456,22 +531,6 @@
       "finetuning",
       "multi",
       "vector"
-    ]
-  },
-  {
-    "id": "https-blog-google-products-and-platforms-products-search-home-decor-tips",
-    "lab": "Google DeepMind",
-    "title": "5 ways to upgrade your home decor with Google Search",
-    "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
-    "date": "2026-08-25T16:00:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp",
-    "tags": [
-      "home",
-      "decor",
-      "google",
-      "search"
     ]
   },
   {
@@ -560,19 +619,6 @@
     ]
   },
   {
-    "id": "cbmiwkfvx3lxte9vbgrqzxpmyxd3ev9nmgx6z2vqnvvhsg9hqmdny2jqrmrlrew5r05xnuxkc3c2y1pm",
-    "lab": "DeepSeek",
-    "title": "Delete File",
-    "summary": "",
-    "date": "2026-08-21T16:02:43.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vbGRQZXpMYXd3eV9NMGx6Z2VqNVVhSG9HQmdnY2JqRmRlREw5R05XNUxKc3c2Y1pmUENIeWRNa2VRdmRmN1hTWUhaNVBUM2JYclJPRGd1SVNEUQ?oc=5",
-    "tags": [
-      "delete",
-      "file"
-    ]
-  },
-  {
     "id": "cbmiwkfvx3lxte9zcljlsmdzz0std1y1sjrgtlhkmmhwaux0yxhxt2zrwunysgjebxm5wglobu1rdi1p",
     "lab": "DeepSeek",
     "title": "Upload File",
@@ -596,22 +642,6 @@
     "tags": [
       "list",
       "files"
-    ]
-  },
-  {
-    "id": "https-deepmind-google-blog-from-atari-to-eve-online-building-on-15-years-of-ai-r",
-    "lab": "Google DeepMind",
-    "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-    "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-    "date": "2026-08-21T11:59:48.000Z",
-    "category": "research",
-    "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-    "image": "https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w528-h297-n-nu-rw-lo",
-    "tags": [
-      "atari",
-      "eve",
-      "online",
-      "building"
     ]
   },
   {
@@ -685,36 +715,6 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-asr-benchmark-optimization",
-    "lab": "Hugging Face",
-    "title": "Measuring benchmark optimization in speech recognition",
-    "summary": "",
-    "date": "2026-08-21T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-    "tags": [
-      "measuring",
-      "benchmark",
-      "optimization",
-      "speech"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-liquidai-lfm25-dspark",
-    "lab": "Hugging Face",
-    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-    "summary": "",
-    "date": "2026-08-20T16:52:57.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-    "tags": [
-      "faster",
-      "inference",
-      "lfm2",
-      "dspark"
-    ]
-  },
-  {
     "id": "cbmiuefvx3lxte5pwulinnhhz3b2dnu0dng5c2jqz01fmjk0ukn5vm8xnlzmvhaycs1svmznb3u2rdd1",
     "lab": "Mistral",
     "title": "Agentic Search. More accurate and efficient results from your AI systems.",
@@ -727,22 +727,6 @@
       "search",
       "accurate",
       "efficient"
-    ]
-  },
-  {
-    "id": "https-blog-google-products-and-platforms-products-search-back-to-school-study-to",
-    "lab": "Google DeepMind",
-    "title": "5 new ways to level up your learning with Search",
-    "summary": "Here’s how you can use Google Search tools to study for classes and standardized tests.",
-    "date": "2026-08-19T19:00:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp",
-    "tags": [
-      "search",
-      "ways",
-      "level",
-      "learning"
     ]
   },
   {
@@ -844,20 +828,6 @@
     ]
   },
   {
-    "id": "cbmix0fvx3lxtfa4cfnywk9yckhor3hnstb4t3dkx1nlywi1nfbergnrvkpwtlozauzjogpemkxxbm1y",
-    "lab": "DeepSeek",
-    "title": "Markdown page example",
-    "summary": "",
-    "date": "2026-08-08T01:47:10.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4cFNYWk9yckhoR3hNSTB4T3dKX1NLYWI1NFBERGNrVkpWTlozaUZjOGpEMkxxbm1yZ0dFTlM3SmpIQlVFM3B5LVRPRkpKZDYzdWhPSUNMRkVFLS04T3VN?oc=5",
-    "tags": [
-      "markdown",
-      "page",
-      "example"
-    ]
-  },
-  {
     "id": "cbmieefvx3lxte95rxutcvfir1hibmvdrk5srdzevwzsrtlxnxrmu1rxqk1jde1krzbmr3ruoghzovrz",
     "lab": "Anthropic",
     "title": "Improving Fable 5's biology safeguards",
@@ -870,6 +840,35 @@
       "fable",
       "biology",
       "safeguards"
+    ]
+  },
+  {
+    "id": "cbmiv0fvx3lxtfbsde82eg9qz1jpskpwrknnv2x4yvvbau4ym0lyeep2dmowmvdhagpjb1jaskp5u2f2",
+    "lab": "DeepSeek",
+    "title": "Markdown page example",
+    "summary": "",
+    "date": "2026-08-06T22:33:05.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSdE82eG9QZ1JpSkpwRkNNV2x4YVVBaU4yM0lyeEp2dmowMVdHaGpJb1JaSkp5U2F2RlgyREZvMDIzcXA2S2h1aUtrYnhhOGNreFp3aG82UQ?oc=5",
+    "tags": [
+      "markdown",
+      "page",
+      "example"
+    ]
+  },
+  {
+    "id": "cbmivkfvx3lxte9vode3repjodf0tzhuztbctfpedtnmnxfsv2qtohhzz0nuvulmtdveszzqm2zhqwl4",
+    "lab": "Anthropic",
+    "title": "Tino Cuellar joins Anthropic as Chief Global Affairs Officer",
+    "summary": "",
+    "date": "2026-08-04T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vODE3REpJODF0TzhuZTBCTFpEdTNMNXFsV2QtOHhzZ0NUVUlmTDVESzZQM2ZHQWl4MkxaSzY1Z0pNSWVUaTB4NzRsX0dUVGxqWWIwVkFB?oc=5",
+    "tags": [
+      "tino",
+      "cuellar",
+      "joins",
+      "anthropic"
     ]
   }
 ]
