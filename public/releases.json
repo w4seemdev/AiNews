@@ -1,5 +1,140 @@
 [
   {
+    "id": "cbmiu0fvx3lxtfbns3uysvhhou9jovhuntleogduvvc3tnfhavdfchn4n24xcjg0a0wxrzzbuelrvuxr",
+    "lab": "xAI",
+    "title": "Grok Bot for Enterprise",
+    "summary": "",
+    "date": "2026-09-03T21:10:51.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNS3UySVhhOU9JOVhUNTlEOGduVVc3TnFHaVdfcHN4N24xcjg0a0wxRzZBUElRVUxRVGlpdmlKOE5zbjZHNFo1LS1mbldEdkRsRlZR?oc=5",
+    "tags": [
+      "grok",
+      "bot",
+      "enterprise"
+    ]
+  },
+  {
+    "id": "cbmitefvx3lxtfa2wxfzmfpxzfjgtulwr05tr3d2nfo2d3hrqlj0ufk0nxbkvw1qewnrnex2ylkzvljf",
+    "lab": "xAI",
+    "title": "Designing Grok Bot for a world of persistent agents",
+    "summary": "",
+    "date": "2026-09-03T17:50:51.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2WXFzMFpXZFJGTUlWR05TR3d2NFo2d3hRQlJ0UFk0NXBkVW1QeWNrNEx2YlkzVlJfNWVjZHE5aWd3UnhIQzFrdmo0ZVM?oc=5",
+    "tags": [
+      "designing",
+      "grok",
+      "bot",
+      "world"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-introducing-weathernext-3-our-most-advanced-and-accur",
+    "lab": "Google DeepMind",
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "summary": "",
+    "date": "2026-09-03T15:02:08.000Z",
+    "category": "model",
+    "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "image": "https://lh3.googleusercontent.com/I3SASQw4etgOOVbcWS0lr7J14HFqWcee_ln6M0TBOWlvVg2XYCi3kpz4eAi81cAkyq47YvgU1FLzAlaiCNMLcsx9sFA3ufURiSg76Yz8hVm1-u_fYEY=w528-h297-n-nu-rw-lo",
+    "tags": [
+      "weathernext",
+      "advanced",
+      "accurate",
+      "global"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-daybreak-for-frontline-defenders",
+    "lab": "OpenAI",
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+    "date": "2026-09-03T13:15:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "tags": [
+      "daybreak",
+      "frontline",
+      "defenders",
+      "essential"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-hcompany-neomme",
+    "lab": "Hugging Face",
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "summary": "",
+    "date": "2026-09-03T13:13:48.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/Hcompany/neomme",
+    "tags": [
+      "neomme",
+      "efficient",
+      "multimodal",
+      "native"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-legora-financial-statement-review-with-astra",
+    "lab": "OpenAI",
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+    "date": "2026-09-03T12:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "tags": [
+      "legora",
+      "documents",
+      "minutes",
+      "gpt"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-playco-game-prototyping-with-astra",
+    "lab": "OpenAI",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+    "date": "2026-09-03T12:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "tags": [
+      "playco",
+      "manual",
+      "fixes",
+      "gpt"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-grpo-with-trl-ifstruct",
+    "lab": "Hugging Face",
+    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "summary": "",
+    "date": "2026-09-03T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "tags": [
+      "fine",
+      "tuning",
+      "model",
+      "better"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-funes",
+    "lab": "Hugging Face",
+    "title": "Give Your Coding Agents a Memory You Own",
+    "summary": "",
+    "date": "2026-09-03T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/funes",
+    "tags": [
+      "give",
+      "coding",
+      "agents",
+      "memory"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-train-to-paint-with-code",
     "lab": "Hugging Face",
     "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
@@ -12,6 +147,21 @@
       "coding",
       "model",
       "paint"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-safety-overview-gpt-6-astra",
+    "lab": "OpenAI",
+    "title": "Safety overview: GPT-6 Astra",
+    "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+    "date": "2026-09-03T00:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+    "tags": [
+      "gpt",
+      "astra",
+      "safety",
+      "overview"
     ]
   },
   {
@@ -296,36 +446,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-polimill",
-    "lab": "OpenAI",
-    "title": "Polimill builds Japan's next-generation public AI infrastructure",
-    "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-    "date": "2026-08-31T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/polimill",
-    "tags": [
-      "polimill",
-      "builds",
-      "japan",
-      "next"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-expanding-access-to-ai-with-chatgpt-ads",
-    "lab": "OpenAI",
-    "title": "A milestone in expanding access to AI",
-    "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-    "date": "2026-08-31T04:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-    "tags": [
-      "access",
-      "milestone",
-      "expanding",
-      "chatgpt"
-    ]
-  },
-  {
     "id": "cbmir0fvx3lxte9fmghorfhhrlromxbtd3vft21temtkmgtmrtlhaxuzvm1tzlldmtffd0nkvkh2mg53",
     "lab": "xAI",
     "title": "Grok Bot now works with X",
@@ -337,36 +457,6 @@
       "grok",
       "bot",
       "works"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-our-decision-on-cursor-following-its-acquisition-by-space",
-    "lab": "OpenAI",
-    "title": "Our decision on Cursor following its acquisition by SpaceX",
-    "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-    "date": "2026-08-28T06:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-    "tags": [
-      "decision",
-      "cursor",
-      "following",
-      "acquisition"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-supporting-next-generation-ai-startups-thailand",
-    "lab": "OpenAI",
-    "title": "Supporting Thailand’s next generation of AI startups",
-    "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-    "date": "2026-08-28T02:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-    "tags": [
-      "thailand",
-      "startups",
-      "supporting",
-      "next"
     ]
   },
   {
@@ -382,35 +472,6 @@
       "asr",
       "leaderboard",
       "adds"
-    ]
-  },
-  {
-    "id": "cbmicefvx3lxte1tc2jioxrysdb1z05hsi1udjkxn1uyzwfymhbxqzdpmtlrbxjivkp0q04tvffvx29f",
-    "lab": "Anthropic",
-    "title": "Expanding our support for scientists",
-    "summary": "",
-    "date": "2026-08-27T19:28:34.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Tc2JIOXRYSDB1Z05hSi1UdjkxN1UyZWFyMHBxQzdPMTlRbXJIVkp0Q04tVFFVX29fT3RUN2tMTEhTdlBQWmFyZlVMTTBVNVhhVFZiNXNsTnpncnFWZzE4R1I0d3ZjUTF5UmlhWG1FOEY?oc=5",
-    "tags": [
-      "expanding",
-      "support",
-      "scientists"
-    ]
-  },
-  {
-    "id": "cbmie0fvx3lxte9mmzrtnjjirfhsynzymlbtqlnxtwzrre5vvzf4tnzoel9udxjsalpxuke4m1nxn3pn",
-    "lab": "Anthropic",
-    "title": "Previewing the Model Hardware Standard",
-    "summary": "",
-    "date": "2026-08-27T17:58:11.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mMzRTNjJiRFhsYnZYMlBtQlNxTWZrRE5VVzF4TnZoel9UdXJSalpXUkE4M1NXN3pNTXdIWW84U0dONmN3bUFKcGwzZGh4SEdCZTFQaEk0TDJZNjF2ZVRFTUhTYTB5MzV5dV9xX1lvWXNMejFUYUlMZGxISQ?oc=5",
-    "tags": [
-      "previewing",
-      "model",
-      "hardware",
-      "standard"
     ]
   },
   {
@@ -461,32 +522,32 @@
     ]
   },
   {
-    "id": "cbmiv0fvx3lxte50eljwy0rlx2n5wvdeymfbvxy4d2vua0zzaxf4tjhnmzmxvdrssuhprvlilu9sqzvr",
-    "lab": "xAI",
-    "title": "Grok 4.6 on Microsoft Foundry",
+    "id": "cbmicefvx3lxte1tc2jioxrysdb1z05hsi1udjkxn1uyzwfymhbxqzdpmtlrbxjivkp0q04tvffvx29f",
+    "lab": "Anthropic",
+    "title": "Expanding our support for scientists",
     "summary": "",
-    "date": "2026-08-27T01:16:13.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50elJwY0RLX2N5WVdEYmFBVXY4d2Vua0ZzaXF4TjhnMzMxVDRSSUhPRVlILU9sQzVRSU12d3Y5SlFyV3htZ29qUFc0S1I0VDVpMjVJZkVtaw?oc=5",
+    "date": "2026-08-27T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Tc2JIOXRYSDB1Z05hSi1UdjkxN1UyZWFyMHBxQzdPMTlRbXJIVkp0Q04tVFFVX29fT3RUN2tMTEhTdlBQWmFyZlVMTTBVNVhhVFZiNXNsTnpncnFWZzE4R1I0d3ZjUTF5UmlhWG1FOEY?oc=5",
     "tags": [
-      "grok",
-      "microsoft",
-      "foundry"
+      "expanding",
+      "support",
+      "scientists"
     ]
   },
   {
-    "id": "https-deepmind-google-blog-intelligent-transcription-with-gemini-3-5-transcribe",
-    "lab": "Google DeepMind",
-    "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-    "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
-    "date": "2026-08-26T17:01:00.000Z",
-    "category": "model",
-    "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+    "id": "cbmie0fvx3lxte9mmzrtnjjirfhsynzymlbtqlnxtwzrre5vvzf4tnzoel9udxjsalpxuke4m1nxn3pn",
+    "lab": "Anthropic",
+    "title": "Previewing the Model Hardware Standard",
+    "summary": "",
+    "date": "2026-08-27T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mMzRTNjJiRFhsYnZYMlBtQlNxTWZrRE5VVzF4TnZoel9UdXJSalpXUkE4M1NXN3pNTXdIWW84U0dONmN3bUFKcGwzZGh4SEdCZTFQaEk0TDJZNjF2ZVRFTUhTYTB5MzV5dV9xX1lvWXNMejFUYUlMZGxISQ?oc=5",
     "tags": [
-      "intelligent",
-      "transcription",
-      "gemini",
-      "transcribe"
+      "previewing",
+      "model",
+      "hardware",
+      "standard"
     ]
   },
   {
@@ -505,17 +566,17 @@
     ]
   },
   {
-    "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
+    "id": "cbmiv0fvx3lxte50eljwy0rlx2n5wvdeymfbvxy4d2vua0zzaxf4tjhnmzmxvdrssuhprvlilu9sqzvr",
     "lab": "xAI",
-    "title": "Creators of Grok, the AI Chatbot",
+    "title": "Grok 4.6 on Microsoft Foundry",
     "summary": "",
     "date": "2026-08-26T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50elJwY0RLX2N5WVdEYmFBVXY4d2Vua0ZzaXF4TjhnMzMxVDRSSUhPRVlILU9sQzVRSU12d3Y5SlFyV3htZ29qUFc0S1I0VDVpMjVJZkVtaw?oc=5",
     "tags": [
-      "creators",
       "grok",
-      "chatbot"
+      "microsoft",
+      "foundry"
     ]
   },
   {
@@ -548,21 +609,6 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-multiversecomputingcai-quantization-aware-healing",
-    "lab": "Hugging Face",
-    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-    "summary": "",
-    "date": "2026-08-25T11:39:24.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-    "tags": [
-      "quantization",
-      "aware",
-      "healing",
-      "compressed"
-    ]
-  },
-  {
     "id": "cbmiz0fvx3lxte5dnelzcs10wnj1nhjedmtynkxut1jqz3pladhzeja4uengvlliuzrqm19sejjyoefz",
     "lab": "Anthropic",
     "title": "Funding better evaluations of AI’s impact on wellbeing",
@@ -575,21 +621,6 @@
       "better",
       "evaluations",
       "impact"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-gradio-workflow-guide",
-    "lab": "Hugging Face",
-    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-    "summary": "",
-    "date": "2026-08-25T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/gradio-workflow-guide",
-    "tags": [
-      "wire",
-      "run",
-      "deploy",
-      "workflows"
     ]
   },
   {
@@ -700,21 +731,6 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-pwc-search",
-    "lab": "Hugging Face",
-    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-    "summary": "",
-    "date": "2026-08-21T00:00:00.000Z",
-    "category": "research",
-    "url": "https://huggingface.co/blog/pwc-search",
-    "tags": [
-      "hugging",
-      "face",
-      "inference",
-      "endpoints"
-    ]
-  },
-  {
     "id": "cbmiuefvx3lxte5pwulinnhhz3b2dnu0dng5c2jqz01fmjk0ukn5vm8xnlzmvhaycs1svmznb3u2rdd1",
     "lab": "Mistral",
     "title": "Agentic Search. More accurate and efficient results from your AI systems.",
@@ -798,18 +814,6 @@
     "tags": [
       "deepseek",
       "pro"
-    ]
-  },
-  {
-    "id": "cbmip0fvx3lxte4zcg91z21nqjm5x2jqwdblvkdjrndcxzkxbnfwymvua0ddtwxkqwzcmznyajy0ywnu",
-    "lab": "xAI",
-    "title": "Introducing Grok 4.6",
-    "summary": "",
-    "date": "2026-08-12T07:00:00.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE4zcG91Z21nQjM5X2JqWDBlVkdjRndCXzkxbnFWYmVua0dDTWxkQWZCMzNyajY0YWNUWGhjcmo5UQ?oc=5",
-    "tags": [
-      "grok"
     ]
   },
   {

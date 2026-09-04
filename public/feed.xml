@@ -5,8 +5,89 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2026 10:36:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:31:23 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Grok Bot for Enterprise</title>
+      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNS3UySVhhOU9JOVhUNTlEOGduVVc3TnFHaVdfcHN4N24xcjg0a0wxRzZBUElRVUxRVGlpdmlKOE5zbjZHNFo1LS1mbldEdkRsRlZR?oc=5</link>
+      <guid isPermaLink="false">cbmiu0fvx3lxtfbns3uysvhhou9jovhuntleogduvvc3tnfhavdfchn4n24xcjg0a0wxrzzbuelrvuxr</guid>
+      <pubDate>Thu, 03 Sep 2026 21:10:51 GMT</pubDate>
+      <description>Source: xAI</description>
+      <source url="https://ai-pulse.vercel.app">xAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Designing Grok Bot for a world of persistent agents</title>
+      <link>https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2WXFzMFpXZFJGTUlWR05TR3d2NFo2d3hRQlJ0UFk0NXBkVW1QeWNrNEx2YlkzVlJfNWVjZHE5aWd3UnhIQzFrdmo0ZVM?oc=5</link>
+      <guid isPermaLink="false">cbmitefvx3lxtfa2wxfzmfpxzfjgtulwr05tr3d2nfo2d3hrqlj0ufk0nxbkvw1qewnrnex2ylkzvljf</guid>
+      <pubDate>Thu, 03 Sep 2026 17:50:51 GMT</pubDate>
+      <description>Source: xAI</description>
+      <source url="https://ai-pulse.vercel.app">xAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Introducing WeatherNext 3, our most advanced and accurate global weather AI model</title>
+      <link>https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/</link>
+      <guid isPermaLink="false">https-deepmind-google-blog-introducing-weathernext-3-our-most-advanced-and-accur</guid>
+      <pubDate>Thu, 03 Sep 2026 15:02:08 GMT</pubDate>
+      <description>Source: Google DeepMind</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
+      <category>model</category>
+    </item>
+    <item>
+      <title>Daybreak for Frontline Defenders: $1B to protect essential services</title>
+      <link>https://openai.com/index/daybreak-for-frontline-defenders</link>
+      <guid isPermaLink="false">https-openai-com-index-daybreak-for-frontline-defenders</guid>
+      <pubDate>Thu, 03 Sep 2026 13:15:00 GMT</pubDate>
+      <description>OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>NeoMME: an efficient Multimodal-native and Multilingual Encoder</title>
+      <link>https://huggingface.co/blog/Hcompany/neomme</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-hcompany-neomme</guid>
+      <pubDate>Thu, 03 Sep 2026 13:13:48 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Legora reviewed 41 documents in minutes with GPT-6 Astra</title>
+      <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
+      <guid isPermaLink="false">https-openai-com-index-legora-financial-statement-review-with-astra</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+      <description>Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>model</category>
+    </item>
+    <item>
+      <title>Playco cut manual fixes 50% prototyping games with GPT-6 Astra</title>
+      <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
+      <guid isPermaLink="false">https-openai-com-index-playco-game-prototyping-with-astra</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+      <description>Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>model</category>
+    </item>
+    <item>
+      <title>Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps</title>
+      <link>https://huggingface.co/blog/grpo-with-trl-ifstruct</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-grpo-with-trl-ifstruct</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Give Your Coding Agents a Memory You Own</title>
+      <link>https://huggingface.co/blog/funes</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-funes</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
     <item>
       <title>Training a coding model to paint watercolours with TRL and OpenEnv</title>
       <link>https://huggingface.co/blog/train-to-paint-with-code</link>
@@ -15,6 +96,15 @@
       <description>Source: Hugging Face</description>
       <source url="https://ai-pulse.vercel.app">Hugging Face</source>
       <category>feature</category>
+    </item>
+    <item>
+      <title>Safety overview: GPT-6 Astra</title>
+      <link>https://openai.com/index/safety-overview-gpt-6-astra</link>
+      <guid isPermaLink="false">https-openai-com-index-safety-overview-gpt-6-astra</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+      <description>GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>model</category>
     </item>
     <item>
       <title>Proactive cyber defense for governments and enterprises</title>
@@ -188,24 +278,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Polimill builds Japan&apos;s next-generation public AI infrastructure</title>
-      <link>https://openai.com/index/polimill</link>
-      <guid isPermaLink="false">https-openai-com-index-polimill</guid>
-      <pubDate>Mon, 31 Aug 2026 07:00:00 GMT</pubDate>
-      <description>Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>A milestone in expanding access to AI</title>
-      <link>https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</link>
-      <guid isPermaLink="false">https-openai-com-index-expanding-access-to-ai-with-chatgpt-ads</guid>
-      <pubDate>Mon, 31 Aug 2026 04:00:00 GMT</pubDate>
-      <description>ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Grok Bot now works with X</title>
       <link>https://news.google.com/rss/articles/CBMiR0FVX3lxTE9FMGhoRFhhRlROMXBTd3VfT21temtkMGtMRTlHaXUzVm1tZllDMTFFd0NkVkh2MG53R285Nk8xZ2FacHVOVHJB?oc=5</link>
       <guid isPermaLink="false">cbmir0fvx3lxte9fmghorfhhrlromxbtd3vft21temtkmgtmrtlhaxuzvm1tzlldmtffd0nkvkh2mg53</guid>
@@ -215,48 +287,12 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Our decision on Cursor following its acquisition by SpaceX</title>
-      <link>https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex</link>
-      <guid isPermaLink="false">https-openai-com-index-our-decision-on-cursor-following-its-acquisition-by-space</guid>
-      <pubDate>Fri, 28 Aug 2026 06:00:00 GMT</pubDate>
-      <description>Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Supporting Thailand’s next generation of AI startups</title>
-      <link>https://openai.com/index/supporting-next-generation-ai-startups-thailand</link>
-      <guid isPermaLink="false">https-openai-com-index-supporting-next-generation-ai-startups-thailand</guid>
-      <pubDate>Fri, 28 Aug 2026 02:00:00 GMT</pubDate>
-      <description>OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>The Open ASR Leaderboard Adds Its First Global South Language</title>
       <link>https://huggingface.co/blog/open-asr-leaderboard-global-south</link>
       <guid isPermaLink="false">https-huggingface-co-blog-open-asr-leaderboard-global-south</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
       <description>Source: Hugging Face</description>
       <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Expanding our support for scientists</title>
-      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE1Tc2JIOXRYSDB1Z05hSi1UdjkxN1UyZWFyMHBxQzdPMTlRbXJIVkp0Q04tVFFVX29fT3RUN2tMTEhTdlBQWmFyZlVMTTBVNVhhVFZiNXNsTnpncnFWZzE4R1I0d3ZjUTF5UmlhWG1FOEY?oc=5</link>
-      <guid isPermaLink="false">cbmicefvx3lxte1tc2jioxrysdb1z05hsi1udjkxn1uyzwfymhbxqzdpmtlrbxjivkp0q04tvffvx29f</guid>
-      <pubDate>Thu, 27 Aug 2026 19:28:34 GMT</pubDate>
-      <description>Source: Anthropic</description>
-      <source url="https://ai-pulse.vercel.app">Anthropic</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Previewing the Model Hardware Standard</title>
-      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE9mMzRTNjJiRFhsYnZYMlBtQlNxTWZrRE5VVzF4TnZoel9UdXJSalpXUkE4M1NXN3pNTXdIWW84U0dONmN3bUFKcGwzZGh4SEdCZTFQaEk0TDJZNjF2ZVRFTUhTYTB5MzV5dV9xX1lvWXNMejFUYUlMZGxISQ?oc=5</link>
-      <guid isPermaLink="false">cbmie0fvx3lxte9mmzrtnjjirfhsynzymlbtqlnxtwzrre5vvzf4tnzoel9udxjsalpxuke4m1nxn3pn</guid>
-      <pubDate>Thu, 27 Aug 2026 17:58:11 GMT</pubDate>
-      <description>Source: Anthropic</description>
-      <source url="https://ai-pulse.vercel.app">Anthropic</source>
       <category>feature</category>
     </item>
     <item>
@@ -287,22 +323,22 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Grok 4.6 on Microsoft Foundry</title>
-      <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE50elJwY0RLX2N5WVdEYmFBVXY4d2Vua0ZzaXF4TjhnMzMxVDRSSUhPRVlILU9sQzVRSU12d3Y5SlFyV3htZ29qUFc0S1I0VDVpMjVJZkVtaw?oc=5</link>
-      <guid isPermaLink="false">cbmiv0fvx3lxte50eljwy0rlx2n5wvdeymfbvxy4d2vua0zzaxf4tjhnmzmxvdrssuhprvlilu9sqzvr</guid>
-      <pubDate>Thu, 27 Aug 2026 01:16:13 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>model</category>
+      <title>Expanding our support for scientists</title>
+      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE1Tc2JIOXRYSDB1Z05hSi1UdjkxN1UyZWFyMHBxQzdPMTlRbXJIVkp0Q04tVFFVX29fT3RUN2tMTEhTdlBQWmFyZlVMTTBVNVhhVFZiNXNsTnpncnFWZzE4R1I0d3ZjUTF5UmlhWG1FOEY?oc=5</link>
+      <guid isPermaLink="false">cbmicefvx3lxte1tc2jioxrysdb1z05hsi1udjkxn1uyzwfymhbxqzdpmtlrbxjivkp0q04tvffvx29f</guid>
+      <pubDate>Thu, 27 Aug 2026 07:00:00 GMT</pubDate>
+      <description>Source: Anthropic</description>
+      <source url="https://ai-pulse.vercel.app">Anthropic</source>
+      <category>feature</category>
     </item>
     <item>
-      <title>Intelligent transcription with Gemini 3.5 Transcribe</title>
-      <link>https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/</link>
-      <guid isPermaLink="false">https-deepmind-google-blog-intelligent-transcription-with-gemini-3-5-transcribe</guid>
-      <pubDate>Wed, 26 Aug 2026 17:01:00 GMT</pubDate>
-      <description>Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe. (Source: Google DeepMind)</description>
-      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
-      <category>model</category>
+      <title>Previewing the Model Hardware Standard</title>
+      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE9mMzRTNjJiRFhsYnZYMlBtQlNxTWZrRE5VVzF4TnZoel9UdXJSalpXUkE4M1NXN3pNTXdIWW84U0dONmN3bUFKcGwzZGh4SEdCZTFQaEk0TDJZNjF2ZVRFTUhTYTB5MzV5dV9xX1lvWXNMejFUYUlMZGxISQ?oc=5</link>
+      <guid isPermaLink="false">cbmie0fvx3lxte9mmzrtnjjirfhsynzymlbtqlnxtwzrre5vvzf4tnzoel9udxjsalpxuke4m1nxn3pn</guid>
+      <pubDate>Thu, 27 Aug 2026 07:00:00 GMT</pubDate>
+      <description>Source: Anthropic</description>
+      <source url="https://ai-pulse.vercel.app">Anthropic</source>
+      <category>feature</category>
     </item>
     <item>
       <title>Grok Bot is now included with more plans</title>
@@ -314,13 +350,13 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Creators of Grok, the AI Chatbot</title>
-      <link>https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5</link>
-      <guid isPermaLink="false">cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq</guid>
+      <title>Grok 4.6 on Microsoft Foundry</title>
+      <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE50elJwY0RLX2N5WVdEYmFBVXY4d2Vua0ZzaXF4TjhnMzMxVDRSSUhPRVlILU9sQzVRSU12d3Y5SlFyV3htZ29qUFc0S1I0VDVpMjVJZkVtaw?oc=5</link>
+      <guid isPermaLink="false">cbmiv0fvx3lxte50eljwy0rlx2n5wvdeymfbvxy4d2vua0zzaxf4tjhnmzmxvdrssuhprvlilu9sqzvr</guid>
       <pubDate>Wed, 26 Aug 2026 07:00:00 GMT</pubDate>
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>feature</category>
+      <category>model</category>
     </item>
     <item>
       <title>Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers</title>
@@ -341,30 +377,12 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original</title>
-      <link>https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-multiversecomputingcai-quantization-aware-healing</guid>
-      <pubDate>Tue, 25 Aug 2026 11:39:24 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Funding better evaluations of AI’s impact on wellbeing</title>
       <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DNElZcS10WnJ1NHJEdmtYNkxUT1JQZ3plaDhZejA4UENGVlliUzRqM19sejJyOEFZbW9zbTZyZmpsZGpmOGYtaDc2T1pFTThXUG9wQi1nUFl3cVhIVDJyQVd6QnBsa2M?oc=5</link>
       <guid isPermaLink="false">cbmiz0fvx3lxte5dnelzcs10wnj1nhjedmtynkxut1jqz3pladhzeja4uengvlliuzrqm19sejjyoefz</guid>
       <pubDate>Tue, 25 Aug 2026 07:00:00 GMT</pubDate>
       <description>Source: Anthropic</description>
       <source url="https://ai-pulse.vercel.app">Anthropic</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Wire It, Run It, Deploy It: AI Workflows in Gradio</title>
-      <link>https://huggingface.co/blog/gradio-workflow-guide</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-gradio-workflow-guide</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
       <category>feature</category>
     </item>
     <item>
@@ -440,15 +458,6 @@
       <category>api</category>
     </item>
     <item>
-      <title>How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code</title>
-      <link>https://huggingface.co/blog/pwc-search</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-pwc-search</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>research</category>
-    </item>
-    <item>
       <title>Agentic Search. More accurate and efficient results from your AI systems.</title>
       <link>https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PWUlINnhhZ3B2dnU0dng5c2JQZ01fMjk0UkN5Vm8xNlZmVHAycS1SVmZnb3U2RDd1Mm1SaGdvcVUxYzE4SDk0bjlRVWxVazF3?oc=5</link>
       <guid isPermaLink="false">cbmiuefvx3lxte5pwulinnhhz3b2dnu0dng5c2jqz01fmjk0ukn5vm8xnlzmvhaycs1svmznb3u2rdd1</guid>
@@ -500,15 +509,6 @@
       <pubDate>Thu, 13 Aug 2026 07:00:00 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
-      <category>model</category>
-    </item>
-    <item>
-      <title>Introducing Grok 4.6</title>
-      <link>https://news.google.com/rss/articles/CBMiP0FVX3lxTE4zcG91Z21nQjM5X2JqWDBlVkdjRndCXzkxbnFWYmVua0dDTWxkQWZCMzNyajY0YWNUWGhjcmo5UQ?oc=5</link>
-      <guid isPermaLink="false">cbmip0fvx3lxte4zcg91z21nqjm5x2jqwdblvkdjrndcxzkxbnfwymvua0ddtwxkqwzcmznyajy0ywnu</guid>
-      <pubDate>Wed, 12 Aug 2026 07:00:00 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
       <category>model</category>
     </item>
     <item>
