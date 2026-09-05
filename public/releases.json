@@ -1,5 +1,20 @@
 [
   {
+    "id": "cbmit0fvx3lxte5wnl8wvmq4etznvvdsmktrdmjpzmv3rmwxaldotevjutg0r2zntddbsjj1tgdornhn",
+    "lab": "xAI",
+    "title": "Setting Grok Bot loose on procurement",
+    "summary": "",
+    "date": "2026-09-04T18:50:53.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wNl8wVmQ4eTZnVVdSMktrdmJpZmV3RmwxaldOTEVjUTg0R2ZNTDdBSjJ1TGdoRnhNbGhLWnNLZ19WOWRON0xQa0w1THdoUWM?oc=5",
+    "tags": [
+      "setting",
+      "grok",
+      "bot",
+      "loose"
+    ]
+  },
+  {
     "id": "cbmiu0fvx3lxtfbns3uysvhhou9jovhuntleogduvvc3tnfhavdfchn4n24xcjg0a0wxrzzbuelrvuxr",
     "lab": "xAI",
     "title": "Grok Bot for Enterprise",
@@ -75,6 +90,21 @@
     ]
   },
   {
+    "id": "https-openai-com-index-playco-game-prototyping-with-astra",
+    "lab": "OpenAI",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+    "date": "2026-09-03T12:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "tags": [
+      "playco",
+      "manual",
+      "fixes",
+      "gpt"
+    ]
+  },
+  {
     "id": "https-openai-com-index-legora-financial-statement-review-with-astra",
     "lab": "OpenAI",
     "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
@@ -90,18 +120,32 @@
     ]
   },
   {
-    "id": "https-openai-com-index-playco-game-prototyping-with-astra",
+    "id": "https-openai-com-index-gpt-6-astra",
     "lab": "OpenAI",
-    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-    "date": "2026-09-03T12:00:00.000Z",
+    "title": "GPT-6 Astra: A new generation of intelligence",
+    "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+    "date": "2026-09-03T11:00:00.000Z",
     "category": "model",
-    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "url": "https://openai.com/index/gpt-6-astra",
     "tags": [
-      "playco",
-      "manual",
-      "fixes",
-      "gpt"
+      "gpt",
+      "astra",
+      "generation",
+      "intelligence"
+    ]
+  },
+  {
+    "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
+    "lab": "xAI",
+    "title": "Creators of Grok, the AI Chatbot",
+    "summary": "",
+    "date": "2026-09-03T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
+    "tags": [
+      "creators",
+      "grok",
+      "chatbot"
     ]
   },
   {
@@ -372,20 +416,6 @@
     ]
   },
   {
-    "id": "cbmipgfbvv95cuxncgiwag56ulvpbc1zytuyt0jrq25oddnxdgvgy0hbq2x3rjewchvqvlfwx0rxulvr",
-    "lab": "Anthropic",
-    "title": "Claude Fable 5 and Claude Mythos 5",
-    "summary": "",
-    "date": "2026-09-01T02:56:02.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcGIwaG56UlVPbC1ZYTUyT0JrQ25OdDNXdGVGY0hBQ2x3RjEwcHVQVlFWX0RxUlVrYlhsU29WaTgyczNiM1V4amxwV3duaXgwVXhVM2hpUHVIdF9oSkkteUhDM0hOaF9FbVMzay1pQ1ltOGZGM2ZPM002djBTYzI4TG9WOGZHcGR3Z2gzZmFuVEd6QnBnQ3pSODdVVVlnQ2lfcmFhNXRn?oc=5",
-    "tags": [
-      "claude",
-      "fable",
-      "mythos"
-    ]
-  },
-  {
     "id": "https-openai-com-index-gilbert-tobin",
     "lab": "OpenAI",
     "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
@@ -428,21 +458,6 @@
       "alignment",
       "security",
       "practices"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-supporting-california-bill-advance-ai-youth-safety",
-    "lab": "OpenAI",
-    "title": "OpenAI supports California’s bill to advance youth AI safety",
-    "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-    "date": "2026-08-31T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-    "tags": [
-      "openai",
-      "supports",
-      "california",
-      "bill"
     ]
   },
   {
@@ -522,20 +537,6 @@
     ]
   },
   {
-    "id": "cbmicefvx3lxte1tc2jioxrysdb1z05hsi1udjkxn1uyzwfymhbxqzdpmtlrbxjivkp0q04tvffvx29f",
-    "lab": "Anthropic",
-    "title": "Expanding our support for scientists",
-    "summary": "",
-    "date": "2026-08-27T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Tc2JIOXRYSDB1Z05hSi1UdjkxN1UyZWFyMHBxQzdPMTlRbXJIVkp0Q04tVFFVX29fT3RUN2tMTEhTdlBQWmFyZlVMTTBVNVhhVFZiNXNsTnpncnFWZzE4R1I0d3ZjUTF5UmlhWG1FOEY?oc=5",
-    "tags": [
-      "expanding",
-      "support",
-      "scientists"
-    ]
-  },
-  {
     "id": "cbmie0fvx3lxte9mmzrtnjjirfhsynzymlbtqlnxtwzrre5vvzf4tnzoel9udxjsalpxuke4m1nxn3pn",
     "lab": "Anthropic",
     "title": "Previewing the Model Hardware Standard",
@@ -548,6 +549,20 @@
       "model",
       "hardware",
       "standard"
+    ]
+  },
+  {
+    "id": "cbmicefvx3lxte1tc2jioxrysdb1z05hsi1udjkxn1uyzwfymhbxqzdpmtlrbxjivkp0q04tvffvx29f",
+    "lab": "Anthropic",
+    "title": "Expanding our support for scientists",
+    "summary": "",
+    "date": "2026-08-27T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Tc2JIOXRYSDB1Z05hSi1UdjkxN1UyZWFyMHBxQzdPMTlRbXJIVkp0Q04tVFFVX29fT3RUN2tMTEhTdlBQWmFyZlVMTTBVNVhhVFZiNXNsTnpncnFWZzE4R1I0d3ZjUTF5UmlhWG1FOEY?oc=5",
+    "tags": [
+      "expanding",
+      "support",
+      "scientists"
     ]
   },
   {
@@ -650,6 +665,19 @@
     ]
   },
   {
+    "id": "cbmiwkfvx3lxte9vbgrqzxpmyxd3ev9nmgx6z2vqnvvhsg9hqmdny2jqrmrlrew5r05xnuxkc3c2y1pm",
+    "lab": "DeepSeek",
+    "title": "Delete File",
+    "summary": "",
+    "date": "2026-08-21T16:02:43.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vbGRQZXpMYXd3eV9NMGx6Z2VqNVVhSG9HQmdnY2JqRmRlREw5R05XNUxKc3c2Y1pmUENIeWRNa2VRdmRmN1hTWUhaNVBUM2JYclJPRGd1SVNEUQ?oc=5",
+    "tags": [
+      "delete",
+      "file"
+    ]
+  },
+  {
     "id": "cbmiwkfvx3lxte9zcljlsmdzz0std1y1sjrgtlhkmmhwaux0yxhxt2zrwunysgjebxm5wglobu1rdi1p",
     "lab": "DeepSeek",
     "title": "Upload File",
@@ -660,19 +688,6 @@
     "tags": [
       "upload",
       "file"
-    ]
-  },
-  {
-    "id": "cbmiv0fvx3lxtfb5tzlhbvhycxn3zdv6dmdyue1kuhras29qsdzcvl9jn2niudjwrvbna3hpthbjdl9j",
-    "lab": "DeepSeek",
-    "title": "List Files",
-    "summary": "",
-    "date": "2026-08-21T12:18:12.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5TzlHbVhYcXN3ZDV6dmdYUE1KUHRaS29qSDZCVl9jN2NiUDJwRVBNa3hPTHBjdl9jeDVmcF94UE9ybUJTMnRtOEg2Z2Q3R1haWHNTbUNrQQ?oc=5",
-    "tags": [
-      "list",
-      "files"
     ]
   },
   {
@@ -760,21 +775,6 @@
     ]
   },
   {
-    "id": "cbmiu0fvx3lxte5ebxyyww90bmzsvw0wvdzcejjjtgrdy0lytxqyzmvyzu9evwnqczbzotzgqlnqww5l",
-    "lab": "xAI",
-    "title": "Grok Build on web and mobile",
-    "summary": "",
-    "date": "2026-08-19T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EbXYyWW90bmZsVW0wVDZCejJJTGRDY0lYTXQyZmVYZU9EVWNQczBZOTZGQlNQWW5lV1pxYUFsNWdZV0haaFJXMkVfaVhPd2U5OVFB?oc=5",
-    "tags": [
-      "grok",
-      "build",
-      "web",
-      "mobile"
-    ]
-  },
-  {
     "id": "cbmiykfvx3lxte8xmjz5ynd3tkptcuftrgzxaln0vuxktwrxsktrtkhsa1llv0w0ouphlxrywdkyagjv",
     "lab": "Anthropic",
     "title": "How Claude's text watermarking works",
@@ -787,20 +787,6 @@
       "text",
       "watermarking",
       "works"
-    ]
-  },
-  {
-    "id": "cbmiu0fvx3lxtfb3cc1twldmmkhweuffm1a3lu1juhjxdnjubkjrwm5rwurhsmpxc1pasedymv9kawm4",
-    "lab": "xAI",
-    "title": "Grok 4.6 in GitHub Copilot",
-    "summary": "",
-    "date": "2026-08-14T07:00:00.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3cC1tWldMMkhweUFFM1A3LU1jUHJXdnJubkJRWm5rWURHSmpxc1paSEdyMV9KaWM4T0tHQTB6ZkNicGs5WGhXQ091QWZ6MUlRaTdV?oc=5",
-    "tags": [
-      "grok",
-      "github",
-      "copilot"
     ]
   },
   {
@@ -829,6 +815,20 @@
       "inference",
       "open",
       "models"
+    ]
+  },
+  {
+    "id": "cbmix0fvx3lxtfa4cfnywk9yckhor3hnstb4t3dkx1nlywi1nfbergnrvkpwtlozauzjogpemkxxbm1y",
+    "lab": "DeepSeek",
+    "title": "Markdown page example",
+    "summary": "",
+    "date": "2026-08-08T01:47:10.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4cFNYWk9yckhoR3hNSTB4T3dKX1NLYWI1NFBERGNrVkpWTlozaUZjOGpEMkxxbm1yZ0dFTlM3SmpIQlVFM3B5LVRPRkpKZDYzdWhPSUNMRkVFLS04T3VN?oc=5",
+    "tags": [
+      "markdown",
+      "page",
+      "example"
     ]
   },
   {
