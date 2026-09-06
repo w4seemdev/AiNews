@@ -5,7 +5,7 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Sep 2026 09:54:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 10:12:04 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Setting Grok Bot loose on procurement</title>
@@ -521,19 +521,19 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Improving Fable 5&apos;s biology safeguards</title>
-      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE95RXUtcVFIR1hIbmVDRk5sRDZEVWZSRTlXNXRMU1RXQk1JdE1kRzBMR3RuOGhzOVRZdEs2bGRIX3JIa1ZZbjlCbGx5RzlZRGdQZ3RwLXVidjZyZUpXeU1sM0hYeTQ2QW0zOXlCWnJQenFhZ0dEUFNFUA?oc=5</link>
-      <guid isPermaLink="false">cbmieefvx3lxte95rxutcvfir1hibmvdrk5srdzevwzsrtlxnxrmu1rxqk1jde1krzbmr3ruoghzovrz</guid>
-      <pubDate>Fri, 07 Aug 2026 07:00:00 GMT</pubDate>
-      <description>Source: Anthropic</description>
-      <source url="https://ai-pulse.vercel.app">Anthropic</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Markdown page example</title>
       <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSdE82eG9QZ1JpSkpwRkNNV2x4YVVBaU4yM0lyeEp2dmowMVdHaGpJb1JaSkp5U2F2RlgyREZvMDIzcXA2S2h1aUtrYnhhOGNreFp3aG82UQ?oc=5</link>
       <guid isPermaLink="false">cbmiv0fvx3lxtfbsde82eg9qz1jpskpwrknnv2x4yvvbau4ym0lyeep2dmowmvdhagpjb1jaskp5u2f2</guid>
       <pubDate>Thu, 06 Aug 2026 22:33:05 GMT</pubDate>
+      <description>Source: DeepSeek</description>
+      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>thinking_mode_api_example_non_streaming</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxPblJubWFrM3p6bVUwN21saHo5U0kwT3JTalNfbm1zQ0JxUXY4NXE4aE5uU1V5anZIcmN3S1FyUHlnVFZMTGxRWExVZTV5MXc5eHd4WmJMU3RnUTNuRXVPRE9vVjBITExZQkt1THRLRnZrVWVjZzY2M25ZOXc0OER5SldXMA?oc=5</link>
+      <guid isPermaLink="false">cbmigwfbvv95cuxpbljubwfrm3p6bvuwn21saho5u0kwt3jtalnfbm1zq0jxuxy4nxe4ae5uu1v5anzi</guid>
+      <pubDate>Tue, 04 Aug 2026 16:09:15 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>feature</category>

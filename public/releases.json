@@ -832,21 +832,6 @@
     ]
   },
   {
-    "id": "cbmieefvx3lxte95rxutcvfir1hibmvdrk5srdzevwzsrtlxnxrmu1rxqk1jde1krzbmr3ruoghzovrz",
-    "lab": "Anthropic",
-    "title": "Improving Fable 5's biology safeguards",
-    "summary": "",
-    "date": "2026-08-07T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95RXUtcVFIR1hIbmVDRk5sRDZEVWZSRTlXNXRMU1RXQk1JdE1kRzBMR3RuOGhzOVRZdEs2bGRIX3JIa1ZZbjlCbGx5RzlZRGdQZ3RwLXVidjZyZUpXeU1sM0hYeTQ2QW0zOXlCWnJQenFhZ0dEUFNFUA?oc=5",
-    "tags": [
-      "improving",
-      "fable",
-      "biology",
-      "safeguards"
-    ]
-  },
-  {
     "id": "cbmiv0fvx3lxtfbsde82eg9qz1jpskpwrknnv2x4yvvbau4ym0lyeep2dmowmvdhagpjb1jaskp5u2f2",
     "lab": "DeepSeek",
     "title": "Markdown page example",
@@ -857,6 +842,21 @@
     "tags": [
       "markdown",
       "page",
+      "example"
+    ]
+  },
+  {
+    "id": "cbmigwfbvv95cuxpbljubwfrm3p6bvuwn21saho5u0kwt3jtalnfbm1zq0jxuxy4nxe4ae5uu1v5anzi",
+    "lab": "DeepSeek",
+    "title": "thinking_mode_api_example_non_streaming",
+    "summary": "",
+    "date": "2026-08-04T16:09:15.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPblJubWFrM3p6bVUwN21saHo5U0kwT3JTalNfbm1zQ0JxUXY4NXE4aE5uU1V5anZIcmN3S1FyUHlnVFZMTGxRWExVZTV5MXc5eHd4WmJMU3RnUTNuRXVPRE9vVjBITExZQkt1THRLRnZrVWVjZzY2M25ZOXc0OER5SldXMA?oc=5",
+    "tags": [
+      "thinking",
+      "mode",
+      "api",
       "example"
     ]
   },
