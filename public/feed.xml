@@ -5,8 +5,35 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Sep 2026 10:12:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 11:28:46 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Supporting independent journalism in Ukraine</title>
+      <link>https://openai.com/index/supporting-independent-journalism-in-ukraine</link>
+      <guid isPermaLink="false">https-openai-com-index-supporting-independent-journalism-in-ukraine</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>An Alien Mind</title>
+      <link>https://openai.com/index/an-alien-mind</link>
+      <guid isPermaLink="false">https-openai-com-index-an-alien-mind</guid>
+      <pubDate>Sun, 06 Sep 2026 09:00:00 GMT</pubDate>
+      <description>Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Research acceleration: The view inside OpenAI</title>
+      <link>https://openai.com/index/research-acceleration-view-inside-openai</link>
+      <guid isPermaLink="false">https-openai-com-index-research-acceleration-view-inside-openai</guid>
+      <pubDate>Sun, 06 Sep 2026 08:00:00 GMT</pubDate>
+      <description>Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>research</category>
+    </item>
     <item>
       <title>Setting Grok Bot loose on procurement</title>
       <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wNl8wVmQ4eTZnVVdSMktrdmJpZmV3RmwxaldOTEVjUTg0R2ZNTDdBSjJ1TGdoRnhNbGhLWnNLZ19WOWRON0xQa0w1THdoUWM?oc=5</link>
@@ -14,6 +41,15 @@
       <pubDate>Fri, 04 Sep 2026 18:50:53 GMT</pubDate>
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Formalizing Fermat&apos;s Last Theorem</title>
+      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE5fSnRJTFR6WlMzenR4b3oyTGVqTW14XzRmRnVBckxURm90WWV4QXg5ekFwcW5vYS0wZWk3emV2b2toU2RDWE83eEVuV1lNYlRwblpqRGhrSmo1cDNtN1VGc21LWWlTR0lxWnV2SkZ5c3o?oc=5</link>
+      <guid isPermaLink="false">cbmicefvx3lxte5fsnrjtfr6wlmzenr4b3oytgvqtw14xzrmrnvbckxurm90wwv4qxg5ekfwcw5vys0w</guid>
+      <pubDate>Fri, 04 Sep 2026 18:35:51 GMT</pubDate>
+      <description>Source: Anthropic</description>
+      <source url="https://ai-pulse.vercel.app">Anthropic</source>
       <category>feature</category>
     </item>
     <item>
@@ -62,20 +98,20 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Playco cut manual fixes 50% prototyping games with GPT-6 Astra</title>
-      <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
-      <guid isPermaLink="false">https-openai-com-index-playco-game-prototyping-with-astra</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-      <description>Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>model</category>
-    </item>
-    <item>
       <title>Legora reviewed 41 documents in minutes with GPT-6 Astra</title>
       <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
       <guid isPermaLink="false">https-openai-com-index-legora-financial-statement-review-with-astra</guid>
       <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
       <description>Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>model</category>
+    </item>
+    <item>
+      <title>Playco cut manual fixes 50% prototyping games with GPT-6 Astra</title>
+      <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
+      <guid isPermaLink="false">https-openai-com-index-playco-game-prototyping-with-astra</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+      <description>Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model. (Source: OpenAI)</description>
       <source url="https://ai-pulse.vercel.app">OpenAI</source>
       <category>model</category>
     </item>
@@ -242,33 +278,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Path to Astra: critical capabilities and frontier safeguards</title>
-      <link>https://openai.com/index/path-to-astra</link>
-      <guid isPermaLink="false">https-openai-com-index-path-to-astra</guid>
-      <pubDate>Tue, 01 Sep 2026 13:00:00 GMT</pubDate>
-      <description>Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Healthcare organizations can now connect EHR and additional industry data to ChatGPT</title>
-      <link>https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</link>
-      <guid isPermaLink="false">https-openai-com-index-chatgpt-connects-health-records-and-healthcare-sources</guid>
-      <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
-      <description>ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>research</category>
-    </item>
-    <item>
-      <title>How law firm Gilbert + Tobin governs and scales AI with OpenAI</title>
-      <link>https://openai.com/index/gilbert-tobin</link>
-      <guid isPermaLink="false">https-openai-com-index-gilbert-tobin</guid>
-      <pubDate>Tue, 01 Sep 2026 01:00:00 GMT</pubDate>
-      <description>See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI</title>
       <link>https://huggingface.co/blog/webgpu-kernels</link>
       <guid isPermaLink="false">https-huggingface-co-blog-webgpu-kernels</guid>
@@ -290,7 +299,7 @@
       <title>Grok Bot now works with X</title>
       <link>https://news.google.com/rss/articles/CBMiR0FVX3lxTE9FMGhoRFhhRlROMXBTd3VfT21temtkMGtMRTlHaXUzVm1tZllDMTFFd0NkVkh2MG53R285Nk8xZ2FacHVOVHJB?oc=5</link>
       <guid isPermaLink="false">cbmir0fvx3lxte9fmghorfhhrlromxbtd3vft21temtkmgtmrtlhaxuzvm1tzlldmtffd0nkvkh2mg53</guid>
-      <pubDate>Sat, 29 Aug 2026 21:52:32 GMT</pubDate>
+      <pubDate>Sat, 29 Aug 2026 07:00:00 GMT</pubDate>
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
       <category>feature</category>
@@ -401,15 +410,6 @@
       <pubDate>Mon, 24 Aug 2026 07:00:00 GMT</pubDate>
       <description>Source: Mistral</description>
       <source url="https://ai-pulse.vercel.app">Mistral</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Retrieve File</title>
-      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmcGxSRHlFUVJ1TDVHRVRBanMxUkxla2ZzZi0xcllwclg3LXRQZ2VjLVdjbW9VRWdUM3p2bC1hMFd5TEZrakpINVNqaFRUSW9maVBpYTlnNkpMb3Rv?oc=5</link>
-      <guid isPermaLink="false">cbmixefvx3lxtfbmcgxsrhlfuvj1tdvhrvrbanmxukxla2zzzi0xcllwclg3lxrqz2vjlvdjbw9vrwdu</guid>
-      <pubDate>Sat, 22 Aug 2026 19:33:06 GMT</pubDate>
-      <description>Source: DeepSeek</description>
-      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>feature</category>
     </item>
     <item>
