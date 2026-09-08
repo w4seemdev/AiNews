@@ -1,5 +1,20 @@
 [
   {
+    "id": "cbmigafbvv95cuxnrzu0ctlwnhctb0fiy092uvljzfh4umxsq2lpltdkveu2slrzvu12vzi2rgrywefq",
+    "lab": "Mistral",
+    "title": "Making sovereign, open-weight AI the technology frontier",
+    "summary": "",
+    "date": "2026-09-08T05:03:58.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5",
+    "tags": [
+      "making",
+      "sovereign",
+      "open",
+      "weight"
+    ]
+  },
+  {
     "id": "https-openai-com-index-supporting-independent-journalism-in-ukraine",
     "lab": "OpenAI",
     "title": "Supporting independent journalism in Ukraine",
@@ -465,7 +480,7 @@
     "lab": "Anthropic",
     "title": "Improving our alignment and security practices",
     "summary": "",
-    "date": "2026-08-31T22:43:26.000Z",
+    "date": "2026-08-31T07:00:00.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00LWY0NEplRlIyRFlGZENXb0VQc0ZNb3BuSjlZeTB3OWdqWEh5eEFxbzJMa0hFTkhrYy03NjZ5MGdsMnNKbHJsXzVpVENSb014eXdXaEkzOXFHWUVRa1U3TXhpVWZCb0FJaHFqWTJhLW9JbGtYWGc?oc=5",
     "tags": [
@@ -860,21 +875,6 @@
       "mode",
       "api",
       "example"
-    ]
-  },
-  {
-    "id": "cbmivkfvx3lxte9vode3repjodf0tzhuztbctfpedtnmnxfsv2qtohhzz0nuvulmtdveszzqm2zhqwl4",
-    "lab": "Anthropic",
-    "title": "Tino Cuellar joins Anthropic as Chief Global Affairs Officer",
-    "summary": "",
-    "date": "2026-08-04T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vODE3REpJODF0TzhuZTBCTFpEdTNMNXFsV2QtOHhzZ0NUVUlmTDVESzZQM2ZHQWl4MkxaSzY1Z0pNSWVUaTB4NzRsX0dUVGxqWWIwVkFB?oc=5",
-    "tags": [
-      "tino",
-      "cuellar",
-      "joins",
-      "anthropic"
     ]
   }
 ]
