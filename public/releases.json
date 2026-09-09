@@ -4,7 +4,7 @@
     "lab": "Mistral",
     "title": "Making sovereign, open-weight AI the technology frontier",
     "summary": "",
-    "date": "2026-09-08T05:03:58.000Z",
+    "date": "2026-09-09T10:34:21.000Z",
     "category": "model",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5",
     "tags": [
@@ -12,6 +12,142 @@
       "sovereign",
       "open",
       "weight"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-codex-quantum-computing-experiments",
+    "lab": "OpenAI",
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+    "date": "2026-09-08T17:00:00.000Z",
+    "category": "research",
+    "url": "https://openai.com/index/codex-quantum-computing-experiments",
+    "tags": [
+      "gpt",
+      "sol",
+      "run",
+      "quantum"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-multiversecomputingcai-safety-for-whom",
+    "lab": "Hugging Face",
+    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+    "summary": "",
+    "date": "2026-09-08T14:23:07.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "tags": [
+      "topic",
+      "safety",
+      "whom",
+      "refusing"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-alphagenome-atlas-a-predictive-map-of-every-possible-",
+    "lab": "Google DeepMind",
+    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+    "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+    "date": "2026-09-08T14:00:15.000Z",
+    "category": "feature",
+    "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "image": "https://lh3.googleusercontent.com/vOjFcTcdX2GCEB9yk-tJ7GAfyhTAMo-zW7scq3TrT9qk1mYw5qE0BdUqI8XQclMuUchZr7pYUFdVt3ZzrXc1NGFFJOqi7kIUX_QuAXZR7lkVzxjk=w528-h297-n-nu-rw-lo",
+    "tags": [
+      "alphagenome",
+      "atlas",
+      "dna",
+      "letter"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-the-work-now-within-reach",
+    "lab": "OpenAI",
+    "title": "The Work Now Within Reach",
+    "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+    "date": "2026-09-08T13:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/the-work-now-within-reach",
+    "tags": [
+      "work",
+      "within",
+      "reach",
+      "explore"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-introducing-chatgpt-images-2-5",
+    "lab": "OpenAI",
+    "title": "Introducing ChatGPT Images 2.5",
+    "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+    "date": "2026-09-08T11:30:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+    "tags": [
+      "images",
+      "chatgpt",
+      "ideas",
+      "helps"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-navier-stokes-solution",
+    "lab": "OpenAI",
+    "title": "On the Navier–Stokes Millennium Prize Problem",
+    "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+    "date": "2026-09-08T10:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/navier-stokes-solution",
+    "tags": [
+      "navier",
+      "stokes",
+      "millennium",
+      "prize"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-teen-development-research-grants",
+    "lab": "OpenAI",
+    "title": "Funding grants for new research into AI and teen development",
+    "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+    "date": "2026-09-08T09:00:00.000Z",
+    "category": "research",
+    "url": "https://openai.com/index/teen-development-research-grants",
+    "tags": [
+      "research",
+      "teen",
+      "development",
+      "funding"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-supporting-journalism-from-classrooms-to-newsrooms",
+    "lab": "OpenAI",
+    "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+    "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+    "date": "2026-09-08T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+    "tags": [
+      "openai",
+      "support",
+      "journalism",
+      "expands"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-1password",
+    "lab": "OpenAI",
+    "title": "1Password increases engineering productivity 21% with Codex",
+    "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
+    "date": "2026-09-08T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/1password",
+    "tags": [
+      "password",
+      "codex",
+      "increases",
+      "engineering"
     ]
   },
   {
@@ -135,21 +271,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-daybreak-for-frontline-defenders",
-    "lab": "OpenAI",
-    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-    "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-    "date": "2026-09-03T13:15:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-    "tags": [
-      "daybreak",
-      "frontline",
-      "defenders",
-      "essential"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-hcompany-neomme",
     "lab": "Hugging Face",
     "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
@@ -162,51 +283,6 @@
       "efficient",
       "multimodal",
       "native"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-legora-financial-statement-review-with-astra",
-    "lab": "OpenAI",
-    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-    "date": "2026-09-03T12:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-    "tags": [
-      "legora",
-      "documents",
-      "minutes",
-      "gpt"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-playco-game-prototyping-with-astra",
-    "lab": "OpenAI",
-    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-    "date": "2026-09-03T12:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-    "tags": [
-      "playco",
-      "manual",
-      "fixes",
-      "gpt"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-gpt-6-astra",
-    "lab": "OpenAI",
-    "title": "GPT-6 Astra: A new generation of intelligence",
-    "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
-    "date": "2026-09-03T11:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/gpt-6-astra",
-    "tags": [
-      "gpt",
-      "astra",
-      "generation",
-      "intelligence"
     ]
   },
   {
@@ -266,21 +342,6 @@
       "coding",
       "model",
       "paint"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-safety-overview-gpt-6-astra",
-    "lab": "OpenAI",
-    "title": "Safety overview: GPT-6 Astra",
-    "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
-    "date": "2026-09-03T00:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-    "tags": [
-      "gpt",
-      "astra",
-      "safety",
-      "overview"
     ]
   },
   {
@@ -344,21 +405,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-atv-big-air-tour",
-    "lab": "OpenAI",
-    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-    "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-    "date": "2026-09-02T12:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/atv-big-air-tour",
-    "tags": [
-      "atv",
-      "big",
-      "air",
-      "tour"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-allenai-benchmirt",
     "lab": "Hugging Face",
     "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
@@ -387,21 +433,6 @@
     ]
   },
   {
-    "id": "cbmibkfvx3lxte8yv1o0cknzlxpgbevxutzqmf96dglpuxpseudhewpds1lrnjrfv2i2axfoytjqm2hk",
-    "lab": "Anthropic",
-    "title": "Developing Enterprise Frontier Safeguards with our customers",
-    "summary": "",
-    "date": "2026-09-01T18:05:11.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yV1o0ckNzLXpGbEVxUTZqMF96dGlPUXpseUdheWpDS1lrNjRfV2I2aXFOYTJqM2hkSTNrNHU1UTJhZHU5d3hscUlkdGpyajBENkZQbmt3RzFVWEZUSzhWTkxqZ3oxb1FpLTRPOGlB?oc=5",
-    "tags": [
-      "developing",
-      "enterprise",
-      "frontier",
-      "safeguards"
-    ]
-  },
-  {
     "id": "https-deepmind-google-blog-introducing-agentic-video-in-gemini",
     "lab": "Google DeepMind",
     "title": "Introducing agentic video understanding with Gemini",
@@ -414,21 +445,6 @@
       "video",
       "understanding",
       "gemini"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-ai-native-company-workflows",
-    "lab": "OpenAI",
-    "title": "How AI-native companies turn workflows into operating capability",
-    "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-    "date": "2026-09-01T17:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/ai-native-company-workflows",
-    "tags": [
-      "native",
-      "companies",
-      "turn",
-      "workflows"
     ]
   },
   {
@@ -458,6 +474,21 @@
       "pics",
       "image",
       "creation"
+    ]
+  },
+  {
+    "id": "cbmibkfvx3lxte8yv1o0cknzlxpgbevxutzqmf96dglpuxpseudhewpds1lrnjrfv2i2axfoytjqm2hk",
+    "lab": "Anthropic",
+    "title": "Developing Enterprise Frontier Safeguards with our customers",
+    "summary": "",
+    "date": "2026-09-01T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yV1o0ckNzLXpGbEVxUTZqMF96dGlPUXpseUdheWpDS1lrNjRfV2I2aXFOYTJqM2hkSTNrNHU1UTJhZHU5d3hscUlkdGpyajBENkZQbmt3RzFVWEZUSzhWTkxqZ3oxb1FpLTRPOGlB?oc=5",
+    "tags": [
+      "developing",
+      "enterprise",
+      "frontier",
+      "safeguards"
     ]
   },
   {
@@ -551,19 +582,17 @@
     ]
   },
   {
-    "id": "https-deepmind-google-blog-piloting-the-worlds-first-double-blind-ai-evaluations",
-    "lab": "Google DeepMind",
-    "title": "Piloting the world's first double-blind AI evaluations",
-    "summary": "Piloting the world's first double-blind AI evaluations",
-    "date": "2026-08-27T12:59:16.000Z",
+    "id": "cbmicefvx3lxte1tc2jioxrysdb1z05hsi1udjkxn1uyzwfymhbxqzdpmtlrbxjivkp0q04tvffvx29f",
+    "lab": "Anthropic",
+    "title": "Expanding our support for scientists",
+    "summary": "",
+    "date": "2026-08-27T07:00:00.000Z",
     "category": "feature",
-    "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-    "image": "https://lh3.googleusercontent.com/fHN8sOK3p7BTKR4s-3lpYYnq5IEadmVKnqssJO4OmfL6remdC7E8voV-IEue8NPviKWUR7WtCtNTfsKZpld6y2jjwVhNAiqYL9-9EQzj5OURGXCCuug=w528-h297-n-nu-rw-lo",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Tc2JIOXRYSDB1Z05hSi1UdjkxN1UyZWFyMHBxQzdPMTlRbXJIVkp0Q04tVFFVX29fT3RUN2tMTEhTdlBQWmFyZlVMTTBVNVhhVFZiNXNsTnpncnFWZzE4R1I0d3ZjUTF5UmlhWG1FOEY?oc=5",
     "tags": [
-      "piloting",
-      "world",
-      "first",
-      "double"
+      "expanding",
+      "support",
+      "scientists"
     ]
   },
   {
@@ -579,20 +608,6 @@
       "model",
       "hardware",
       "standard"
-    ]
-  },
-  {
-    "id": "cbmicefvx3lxte1tc2jioxrysdb1z05hsi1udjkxn1uyzwfymhbxqzdpmtlrbxjivkp0q04tvffvx29f",
-    "lab": "Anthropic",
-    "title": "Expanding our support for scientists",
-    "summary": "",
-    "date": "2026-08-27T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Tc2JIOXRYSDB1Z05hSi1UdjkxN1UyZWFyMHBxQzdPMTlRbXJIVkp0Q04tVFFVX29fT3RUN2tMTEhTdlBQWmFyZlVMTTBVNVhhVFZiNXNsTnpncnFWZzE4R1I0d3ZjUTF5UmlhWG1FOEY?oc=5",
-    "tags": [
-      "expanding",
-      "support",
-      "scientists"
     ]
   },
   {
@@ -640,20 +655,6 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-ibm-granite-granite-4-2",
-    "lab": "Hugging Face",
-    "title": "Granite 4.2 LLMs: How They're Built",
-    "summary": "",
-    "date": "2026-08-25T15:14:14.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-    "tags": [
-      "granite",
-      "llms",
-      "built"
-    ]
-  },
-  {
     "id": "cbmiz0fvx3lxte5dnelzcs10wnj1nhjedmtynkxut1jqz3pladhzeja4uengvlliuzrqm19sejjyoefz",
     "lab": "Anthropic",
     "title": "Funding better evaluations of AI’s impact on wellbeing",
@@ -679,19 +680,6 @@
     "tags": [
       "mistral",
       "humain"
-    ]
-  },
-  {
-    "id": "cbmiwkfvx3lxte9vbgrqzxpmyxd3ev9nmgx6z2vqnvvhsg9hqmdny2jqrmrlrew5r05xnuxkc3c2y1pm",
-    "lab": "DeepSeek",
-    "title": "Delete File",
-    "summary": "",
-    "date": "2026-08-21T16:02:43.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vbGRQZXpMYXd3eV9NMGx6Z2VqNVVhSG9HQmdnY2JqRmRlREw5R05XNUxKc3c2Y1pmUENIeWRNa2VRdmRmN1hTWUhaNVBUM2JYclJPRGd1SVNEUQ?oc=5",
-    "tags": [
-      "delete",
-      "file"
     ]
   },
   {
@@ -835,20 +823,6 @@
     ]
   },
   {
-    "id": "cbmix0fvx3lxtfa4cfnywk9yckhor3hnstb4t3dkx1nlywi1nfbergnrvkpwtlozauzjogpemkxxbm1y",
-    "lab": "DeepSeek",
-    "title": "Markdown page example",
-    "summary": "",
-    "date": "2026-08-08T01:47:10.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4cFNYWk9yckhoR3hNSTB4T3dKX1NLYWI1NFBERGNrVkpWTlozaUZjOGpEMkxxbm1yZ0dFTlM3SmpIQlVFM3B5LVRPRkpKZDYzdWhPSUNMRkVFLS04T3VN?oc=5",
-    "tags": [
-      "markdown",
-      "page",
-      "example"
-    ]
-  },
-  {
     "id": "cbmiv0fvx3lxtfbsde82eg9qz1jpskpwrknnv2x4yvvbau4ym0lyeep2dmowmvdhagpjb1jaskp5u2f2",
     "lab": "DeepSeek",
     "title": "Markdown page example",
@@ -875,6 +849,33 @@
       "mode",
       "api",
       "example"
+    ]
+  },
+  {
+    "id": "cbmivkfvx3lxte9vode3repjodf0tzhuztbctfpedtnmnxfsv2qtohhzz0nuvulmtdveszzqm2zhqwl4",
+    "lab": "Anthropic",
+    "title": "Tino Cuellar joins Anthropic as Chief Global Affairs Officer",
+    "summary": "",
+    "date": "2026-08-04T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vODE3REpJODF0TzhuZTBCTFpEdTNMNXFsV2QtOHhzZ0NUVUlmTDVESzZQM2ZHQWl4MkxaSzY1Z0pNSWVUaTB4NzRsX0dUVGxqWWIwVkFB?oc=5",
+    "tags": [
+      "tino",
+      "cuellar",
+      "joins",
+      "anthropic"
+    ]
+  },
+  {
+    "id": "cbmitefvx3lxtfbzdl9bmnznn3pna2rmtvvvslbxvmrhr0tsrwzbqnnts1vnujnauvbscegxwlpizndv",
+    "lab": "Mistral",
+    "title": "Introducing Shieldstral.",
+    "summary": "",
+    "date": "2026-08-04T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzdl9BMnZNN3pna2RmTVVvSlBxVmRHR0tSRWZBQnNtS1VNUjNaUVBscEgxWlpiZndVRHdtVGNlSE0taXRwYjQya192d2U?oc=5",
+    "tags": [
+      "shieldstral"
     ]
   }
 ]
