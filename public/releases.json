@@ -4,7 +4,7 @@
     "lab": "Mistral",
     "title": "Making sovereign, open-weight AI the technology frontier",
     "summary": "",
-    "date": "2026-09-09T10:34:21.000Z",
+    "date": "2026-09-10T09:17:08.000Z",
     "category": "model",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5",
     "tags": [
@@ -12,6 +12,128 @@
       "sovereign",
       "open",
       "weight"
+    ]
+  },
+  {
+    "id": "cbmiwefvx3lxte1xuutztxowtxvnune3t2fuv2r5mglumerdctnja3nktlnbq1hozungrhrmzvbhqjl4",
+    "lab": "DeepSeek",
+    "title": "DeepSeek-V4.1-Flash: Smarter, Faster, More Efficient",
+    "summary": "",
+    "date": "2026-09-10T07:28:32.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xUUtzTXowTXVnUnE3T2FuV2R5MGluMERDcTNja3NkTlNBQ1hOZUNGRHRMZVBhQjl4bk1WZE1BMDVDMHhaV2NGaTFoWUR6QnpxcGRPUDNmUU0?oc=5",
+    "tags": [
+      "deepseek",
+      "flash",
+      "smarter",
+      "faster"
+    ]
+  },
+  {
+    "id": "cbmix0fvx3lxte9ychhmderovjc0btg1rdzadw1vdvn1aezqrtvkn3dpqjjhrmvos2q4ogs0mhjrt25l",
+    "lab": "Mistral",
+    "title": "Modernizing complex legacy code with AI agents.",
+    "summary": "",
+    "date": "2026-09-09T17:24:24.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YcHhmdERoVjc0bTg1RDZadW1VdVN1aEZQRTVKN3dPQjJHRmVOS2Q4OGs0MHJRT25lend4bmJ2cTkzbmVaU2pKRDFyOEZla1Q0SEdIYmNZQzNEWnlJZi1J?oc=5",
+    "tags": [
+      "modernizing",
+      "complex",
+      "legacy",
+      "code"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-paul-christiano-joins-openai-foundation-board",
+    "lab": "OpenAI",
+    "title": "Paul Christiano joins OpenAI Foundation Board",
+    "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+    "date": "2026-09-09T17:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+    "tags": [
+      "paul",
+      "christiano",
+      "joins",
+      "openai"
+    ]
+  },
+  {
+    "id": "https-blog-google-products-and-platforms-products-search-football-features-googl",
+    "lab": "Google DeepMind",
+    "title": "Get ready for the game with new football features in Search",
+    "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
+    "date": "2026-09-09T16:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp",
+    "tags": [
+      "get",
+      "game",
+      "search",
+      "ready"
+    ]
+  },
+  {
+    "id": "https-blog-google-innovation-and-ai-technology-ai-love-rendered-film",
+    "lab": "Google DeepMind",
+    "title": "Recreating a 70-year love story frame by frame",
+    "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
+    "date": "2026-09-09T16:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp",
+    "tags": [
+      "love",
+      "frame",
+      "recreating",
+      "story"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-ibm-research-ibm-releases-sota-granite-time-series",
+    "lab": "Hugging Face",
+    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+    "summary": "",
+    "date": "2026-09-09T15:36:24.000Z",
+    "category": "model",
+    "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "tags": [
+      "ibm",
+      "sota",
+      "granite",
+      "time"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-ai-policy-window",
+    "lab": "OpenAI",
+    "title": "The AI policy window is open. We need to act.",
+    "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+    "date": "2026-09-09T13:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/ai-policy-window",
+    "tags": [
+      "policy",
+      "window",
+      "open",
+      "stronger"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-gpt-6-astra-next-generation-work",
+    "lab": "OpenAI",
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+    "date": "2026-09-09T11:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+    "tags": [
+      "gpt",
+      "astra",
+      "next",
+      "generation"
     ]
   },
   {
@@ -148,51 +270,6 @@
       "codex",
       "increases",
       "engineering"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-supporting-independent-journalism-in-ukraine",
-    "lab": "OpenAI",
-    "title": "Supporting independent journalism in Ukraine",
-    "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-    "date": "2026-09-07T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-    "tags": [
-      "independent",
-      "journalism",
-      "supporting",
-      "ukraine"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-an-alien-mind",
-    "lab": "OpenAI",
-    "title": "An Alien Mind",
-    "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-    "date": "2026-09-06T09:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/an-alien-mind",
-    "tags": [
-      "alien",
-      "mind",
-      "jakub",
-      "pachocki"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-research-acceleration-view-inside-openai",
-    "lab": "OpenAI",
-    "title": "Research acceleration: The view inside OpenAI",
-    "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-    "date": "2026-09-06T08:00:00.000Z",
-    "category": "research",
-    "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-    "tags": [
-      "research",
-      "acceleration",
-      "inside",
-      "openai"
     ]
   },
   {
@@ -390,21 +467,6 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-ibm-research-real-time-intelligence",
-    "lab": "Hugging Face",
-    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-    "summary": "",
-    "date": "2026-09-02T13:49:14.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-    "tags": [
-      "time",
-      "real",
-      "intelligence",
-      "ibm"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-allenai-benchmirt",
     "lab": "Hugging Face",
     "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
@@ -551,37 +613,6 @@
     ]
   },
   {
-    "id": "https-deepmind-google-blog-gemini-omni-1-1-flash-lets-you-build-with-more-contro",
-    "lab": "Google DeepMind",
-    "title": "Gemini Omni 1.1 Flash lets you build with more control",
-    "summary": "",
-    "date": "2026-08-27T16:11:32.000Z",
-    "category": "feature",
-    "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-    "tags": [
-      "gemini",
-      "omni",
-      "flash",
-      "lets"
-    ]
-  },
-  {
-    "id": "https-blog-google-products-and-platforms-products-search-book-travel-ai-mode",
-    "lab": "Google DeepMind",
-    "title": "3 new ways to plan and book travel in Search",
-    "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
-    "date": "2026-08-27T16:00:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp",
-    "tags": [
-      "book",
-      "search",
-      "ways",
-      "plan"
-    ]
-  },
-  {
     "id": "cbmicefvx3lxte1tc2jioxrysdb1z05hsi1udjkxn1uyzwfymhbxqzdpmtlrbxjivkp0q04tvffvx29f",
     "lab": "Anthropic",
     "title": "Expanding our support for scientists",
@@ -683,13 +714,13 @@
     ]
   },
   {
-    "id": "cbmiwkfvx3lxte9zcljlsmdzz0std1y1sjrgtlhkmmhwaux0yxhxt2zrwunysgjebxm5wglobu1rdi1p",
+    "id": "cbmiwefvx3lxte0xm0fuddm3vulsr0yysxg0zllfdkrvyzvrm0l5u0dir29xewflti01s1rwujltvfmy",
     "lab": "DeepSeek",
     "title": "Upload File",
     "summary": "",
     "date": "2026-08-21T12:46:46.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zclJLSmdzZ0std1Y1SjRGTlhKMmhWaUx0YXhxT2ZRWUNySGJEbXM5WGlObU1Rdi1pZVUyS3R1Q1JIaHE1NjE5b2owVlo0YkQ1eFhuMXI4dm12UQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xM0FUdDM3VUlsR0YySXg0ZllFdkRvYzVrM0l5U0dIR29xeWFlTi01S1RwUjltVFMycl9lc2dsVko0N2VPOTJRZlE1YmZzQ2J5eUw4NzBtR2w?oc=5",
     "tags": [
       "upload",
       "file"
@@ -709,13 +740,13 @@
     ]
   },
   {
-    "id": "cbmiv0fvx3lxte8wng4wmkfsclltmvndbgg5vvdhbevineewoddwalz3n2q2aerylxi5snfxwuc5mtfo",
+    "id": "cbmivkfvx3lxte1lc3dfdl92aktxawx3ys1idmrtdm5yanjzxzb1q2z1adlreehfmfhfvw9nc2rwq0hs",
     "lab": "DeepSeek",
     "title": "Vision",
     "summary": "",
-    "date": "2026-08-21T09:32:57.000Z",
+    "date": "2026-08-21T09:32:58.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wNG4wMkFScllTMVNDbGg5VVdhbEVINEEwODdWalZ3N2Q2aERYLXI5SnFxWUc5MTFobzdlRTViWGlFbHBoVHE0MmpjX0hRUDRndTZkT2x6Zw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lc3dfdl92aktxaWx3YS1IdmRtdm5YanJzXzB1Q2Z1aDlreEhfMFhfVW9nc2RWQ0hSNGVpOG5NTHYyaDdDbUxMZ296a0JuU1NCRE91d2VB?oc=5",
     "tags": [
       "vision"
     ]
@@ -837,45 +868,18 @@
     ]
   },
   {
-    "id": "cbmigwfbvv95cuxpbljubwfrm3p6bvuwn21saho5u0kwt3jtalnfbm1zq0jxuxy4nxe4ae5uu1v5anzi",
-    "lab": "DeepSeek",
-    "title": "thinking_mode_api_example_non_streaming",
-    "summary": "",
-    "date": "2026-08-04T16:09:15.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPblJubWFrM3p6bVUwN21saHo5U0kwT3JTalNfbm1zQ0JxUXY4NXE4aE5uU1V5anZIcmN3S1FyUHlnVFZMTGxRWExVZTV5MXc5eHd4WmJMU3RnUTNuRXVPRE9vVjBITExZQkt1THRLRnZrVWVjZzY2M25ZOXc0OER5SldXMA?oc=5",
-    "tags": [
-      "thinking",
-      "mode",
-      "api",
-      "example"
-    ]
-  },
-  {
     "id": "cbmivkfvx3lxte9vode3repjodf0tzhuztbctfpedtnmnxfsv2qtohhzz0nuvulmtdveszzqm2zhqwl4",
     "lab": "Anthropic",
-    "title": "Tino Cuellar joins Anthropic as Chief Global Affairs Officer",
+    "title": "Tino Cuéllar joins as Chief Global Affairs Officer",
     "summary": "",
     "date": "2026-08-04T07:00:00.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vODE3REpJODF0TzhuZTBCTFpEdTNMNXFsV2QtOHhzZ0NUVUlmTDVESzZQM2ZHQWl4MkxaSzY1Z0pNSWVUaTB4NzRsX0dUVGxqWWIwVkFB?oc=5",
     "tags": [
       "tino",
-      "cuellar",
+      "llar",
       "joins",
-      "anthropic"
-    ]
-  },
-  {
-    "id": "cbmitefvx3lxtfbzdl9bmnznn3pna2rmtvvvslbxvmrhr0tsrwzbqnnts1vnujnauvbscegxwlpizndv",
-    "lab": "Mistral",
-    "title": "Introducing Shieldstral.",
-    "summary": "",
-    "date": "2026-08-04T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzdl9BMnZNN3pna2RmTVVvSlBxVmRHR0tSRWZBQnNtS1VNUjNaUVBscEgxWlpiZndVRHdtVGNlSE0taXRwYjQya192d2U?oc=5",
-    "tags": [
-      "shieldstral"
+      "chief"
     ]
   }
 ]
