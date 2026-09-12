@@ -1,10 +1,25 @@
 [
   {
+    "id": "https-openai-com-index-perplexity-improving-accuracy-with-astra",
+    "lab": "OpenAI",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+    "date": "2026-09-14T00:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "tags": [
+      "perplexity",
+      "astra",
+      "end",
+      "systems"
+    ]
+  },
+  {
     "id": "cbmigafbvv95cuxnrzu0ctlwnhctb0fiy092uvljzfh4umxsq2lpltdkveu2slrzvu12vzi2rgrywefq",
     "lab": "Mistral",
     "title": "Making sovereign, open-weight AI the technology frontier",
     "summary": "",
-    "date": "2026-09-11T08:49:12.000Z",
+    "date": "2026-09-12T08:52:42.000Z",
     "category": "model",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5",
     "tags": [
@@ -12,6 +27,36 @@
       "sovereign",
       "open",
       "weight"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-cognition-devin-testing-with-astra",
+    "lab": "OpenAI",
+    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+    "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+    "date": "2026-09-11T16:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+    "tags": [
+      "devin",
+      "test",
+      "gpt",
+      "astra"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-scaling-storage-one-billion-users-part-one",
+    "lab": "OpenAI",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+    "date": "2026-09-11T10:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "tags": [
+      "storage",
+      "billion",
+      "chatgpt",
+      "users"
     ]
   },
   {
@@ -63,7 +108,7 @@
   {
     "id": "cbmivkfvx3lxte01nmpon3znztrgdxh2vwq3c0mwd19pb21kc0v5uflletzzbvf3dnboefzsv3rldvd5",
     "lab": "Mistral",
-    "title": "Cloudera and Mistral Partner for Sovereign Enterprise AI",
+    "title": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
     "summary": "",
     "date": "2026-09-10T11:04:33.000Z",
     "category": "feature",
@@ -72,7 +117,7 @@
       "cloudera",
       "mistral",
       "partner",
-      "sovereign"
+      "bring"
     ]
   },
   {
@@ -258,51 +303,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-ai-policy-window",
-    "lab": "OpenAI",
-    "title": "The AI policy window is open. We need to act.",
-    "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-    "date": "2026-09-09T13:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/ai-policy-window",
-    "tags": [
-      "policy",
-      "window",
-      "open",
-      "stronger"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-gpt-6-astra-next-generation-work",
-    "lab": "OpenAI",
-    "title": "GPT-6 Astra: The next generation in intelligence for work",
-    "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-    "date": "2026-09-09T11:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-    "tags": [
-      "gpt",
-      "astra",
-      "next",
-      "generation"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-codex-quantum-computing-experiments",
-    "lab": "OpenAI",
-    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-    "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-    "date": "2026-09-08T17:00:00.000Z",
-    "category": "research",
-    "url": "https://openai.com/index/codex-quantum-computing-experiments",
-    "tags": [
-      "gpt",
-      "sol",
-      "run",
-      "quantum"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-multiversecomputingcai-safety-for-whom",
     "lab": "Hugging Face",
     "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
@@ -364,21 +364,6 @@
     ]
   },
   {
-    "id": "cbmitefvx3lxtfa2wxfzmfpxzfjgtulwr05tr3d2nfo2d3hrqlj0ufk0nxbkvw1qewnrnex2ylkzvljf",
-    "lab": "xAI",
-    "title": "Designing Grok Bot for a world of persistent agents",
-    "summary": "",
-    "date": "2026-09-03T17:50:51.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2WXFzMFpXZFJGTUlWR05TR3d2NFo2d3hRQlJ0UFk0NXBkVW1QeWNrNEx2YlkzVlJfNWVjZHE5aWd3UnhIQzFrdmo0ZVM?oc=5",
-    "tags": [
-      "designing",
-      "grok",
-      "bot",
-      "world"
-    ]
-  },
-  {
     "id": "https-deepmind-google-blog-introducing-weathernext-3-our-most-advanced-and-accur",
     "lab": "Google DeepMind",
     "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
@@ -410,17 +395,18 @@
     ]
   },
   {
-    "id": "cbmiu0fvx3lxtfbns3uysvhhou9jovhuntleogduvvc3tnfhavdfchn4n24xcjg0a0wxrzzbuelrvuxr",
+    "id": "cbmitefvx3lxtfa2wxfzmfpxzfjgtulwr05tr3d2nfo2d3hrqlj0ufk0nxbkvw1qewnrnex2ylkzvljf",
     "lab": "xAI",
-    "title": "Grok Bot for Enterprise",
+    "title": "Designing Grok Bot for a world of persistent agents",
     "summary": "",
     "date": "2026-09-03T07:00:00.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNS3UySVhhOU9JOVhUNTlEOGduVVc3TnFHaVdfcHN4N24xcjg0a0wxRzZBUElRVUxRVGlpdmlKOE5zbjZHNFo1LS1mbldEdkRsRlZR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2WXFzMFpXZFJGTUlWR05TR3d2NFo2d3hRQlJ0UFk0NXBkVW1QeWNrNEx2YlkzVlJfNWVjZHE5aWd3UnhIQzFrdmo0ZVM?oc=5",
     "tags": [
+      "designing",
       "grok",
       "bot",
-      "enterprise"
+      "world"
     ]
   },
   {
@@ -435,6 +421,20 @@
       "creators",
       "grok",
       "chatbot"
+    ]
+  },
+  {
+    "id": "cbmiu0fvx3lxtfbns3uysvhhou9jovhuntleogduvvc3tnfhavdfchn4n24xcjg0a0wxrzzbuelrvuxr",
+    "lab": "xAI",
+    "title": "Grok Bot for Enterprise",
+    "summary": "",
+    "date": "2026-09-03T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNS3UySVhhOU9JOVhUNTlEOGduVVc3TnFHaVdfcHN4N24xcjg0a0wxRzZBUElRVUxRVGlpdmlKOE5zbjZHNFo1LS1mbldEdkRsRlZR?oc=5",
+    "tags": [
+      "grok",
+      "bot",
+      "enterprise"
     ]
   },
   {
@@ -571,19 +571,6 @@
     ]
   },
   {
-    "id": "cbmivkfvx3lxte5hcgwzqnzhuw4tmzrqnupbmhjlsxvjt1vnstvprjhusurlx29znkvntmdrsgnpqv9v",
-    "lab": "xAI",
-    "title": "Biosecurity at the frontier",
-    "summary": "",
-    "date": "2026-09-01T16:11:32.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HcGwzQnZHUW4tMzRqNUpBMHJLSXVjT1VNSTVpRjhuSURLX29ZNkVnTmdRSGNpQV9vdkwyMEh2NV95enI4VHdWeVpicjVDRG1UZUU1aWt3?oc=5",
-    "tags": [
-      "biosecurity",
-      "frontier"
-    ]
-  },
-  {
     "id": "cbmibkfvx3lxte8yv1o0cknzlxpgbevxutzqmf96dglpuxpseudhewpds1lrnjrfv2i2axfoytjqm2hk",
     "lab": "Anthropic",
     "title": "Developing Enterprise Frontier Safeguards with our customers",
@@ -596,6 +583,19 @@
       "enterprise",
       "frontier",
       "safeguards"
+    ]
+  },
+  {
+    "id": "cbmivkfvx3lxte5hcgwzqnzhuw4tmzrqnupbmhjlsxvjt1vnstvprjhusurlx29znkvntmdrsgnpqv9v",
+    "lab": "xAI",
+    "title": "Biosecurity at the frontier",
+    "summary": "",
+    "date": "2026-09-01T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HcGwzQnZHUW4tMzRqNUpBMHJLSXVjT1VNSTVpRjhuSURLX29ZNkVnTmdRSGNpQV9vdkwyMEh2NV95enI4VHdWeVpicjVDRG1UZUU1aWt3?oc=5",
+    "tags": [
+      "biosecurity",
+      "frontier"
     ]
   },
   {
@@ -757,19 +757,6 @@
     ]
   },
   {
-    "id": "cbmiwkfvx3lxte9zcljlsmdzz0std1y1sjrgtlhkmmhwaux0yxhxt2zrwunysgjebxm5wglobu1rdi1p",
-    "lab": "DeepSeek",
-    "title": "Upload File",
-    "summary": "",
-    "date": "2026-08-21T12:46:46.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zclJLSmdzZ0std1Y1SjRGTlhKMmhWaUx0YXhxT2ZRWUNySGJEbXM5WGlObU1Rdi1pZVUyS3R1Q1JIaHE1NjE5b2owVlo0YkQ1eFhuMXI4dm12UQ?oc=5",
-    "tags": [
-      "upload",
-      "file"
-    ]
-  },
-  {
     "id": "cbmiw0fvx3lxte9uegpxalhjqwzubujpzejfafq0ru13zznjrg9rb0qyuzuxewfpm1h5nvpcb0hdqjbv",
     "lab": "DeepSeek",
     "title": "Files API",
@@ -879,6 +866,21 @@
     "tags": [
       "deepseek",
       "pro"
+    ]
+  },
+  {
+    "id": "cbmidkfvx3lxte9zbglwuwhirc1udxfgmzjhegzkumn6bhk4t3uxwe5um2try2xhuudtexzzq1zstxlv",
+    "lab": "Mistral",
+    "title": "In-region inference, open models, and new European infrastructure for sovereign AI.",
+    "summary": "",
+    "date": "2026-08-11T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zbGlwUWhiRC1udXFGMzJHeGZkUmN6bHk4T3UxWE5uM2trY2xhUUdTeXZzQ1ZSTXlvc3AzMWREczBUcjg0N1g4ZWdaSkJkVldfYWJ0SjR5cGFGMlFpdUpFTGNTS0EyVm45dllmc21TckJwT05IalE?oc=5",
+    "tags": [
+      "region",
+      "inference",
+      "open",
+      "models"
     ]
   }
 ]

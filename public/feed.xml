@@ -5,16 +5,43 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 10:32:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 10:00:40 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Perplexity trusts GPT-6 Astra with end-to-end systems</title>
+      <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
+      <guid isPermaLink="false">https-openai-com-index-perplexity-improving-accuracy-with-astra</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>model</category>
+    </item>
     <item>
       <title>Making sovereign, open-weight AI the technology frontier</title>
       <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5</link>
       <guid isPermaLink="false">cbmigafbvv95cuxnrzu0ctlwnhctb0fiy092uvljzfh4umxsq2lpltdkveu2slrzvu12vzi2rgrywefq</guid>
-      <pubDate>Fri, 11 Sep 2026 08:49:12 GMT</pubDate>
+      <pubDate>Sat, 12 Sep 2026 08:52:42 GMT</pubDate>
       <description>Source: Mistral</description>
       <source url="https://ai-pulse.vercel.app">Mistral</source>
       <category>model</category>
+    </item>
+    <item>
+      <title>Cognition helps Devin test its own work with GPT‑6 Astra</title>
+      <link>https://openai.com/index/cognition-devin-testing-with-astra</link>
+      <guid isPermaLink="false">https-openai-com-index-cognition-devin-testing-with-astra</guid>
+      <pubDate>Fri, 11 Sep 2026 16:00:00 GMT</pubDate>
+      <description>GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Rapidly scaling online storage to serve over 1 billion ChatGPT users</title>
+      <link>https://openai.com/index/scaling-storage-one-billion-users-part-one</link>
+      <guid isPermaLink="false">https-openai-com-index-scaling-storage-one-billion-users-part-one</guid>
+      <pubDate>Fri, 11 Sep 2026 10:00:00 GMT</pubDate>
+      <description>Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
     </item>
     <item>
       <title>How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules</title>
@@ -44,7 +71,7 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Cloudera and Mistral Partner for Sovereign Enterprise AI</title>
+      <title>Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data</title>
       <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE01NmpON3ZnZTRGdXh2VWQ3c0Mwd19Pb21Kc0V5UFlLeTZzbVF3dnBOeFZSV3RldVd5cm5tSF94SUxMWV9EaGh0LXRqWkFkSHN1NkpadzZn?oc=5</link>
       <guid isPermaLink="false">cbmivkfvx3lxte01nmpon3znztrgdxh2vwq3c0mwd19pb21kc0v5uflletzzbvf3dnboefzsv3rldvd5</guid>
       <pubDate>Thu, 10 Sep 2026 11:04:33 GMT</pubDate>
@@ -161,33 +188,6 @@
       <category>model</category>
     </item>
     <item>
-      <title>The AI policy window is open. We need to act.</title>
-      <link>https://openai.com/index/ai-policy-window</link>
-      <guid isPermaLink="false">https-openai-com-index-ai-policy-window</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 GMT</pubDate>
-      <description>Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>GPT-6 Astra: The next generation in intelligence for work</title>
-      <link>https://openai.com/index/gpt-6-astra-next-generation-work</link>
-      <guid isPermaLink="false">https-openai-com-index-gpt-6-astra-next-generation-work</guid>
-      <pubDate>Wed, 09 Sep 2026 11:00:00 GMT</pubDate>
-      <description>Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>model</category>
-    </item>
-    <item>
-      <title>How GPT-5.6 Sol helps run quantum computing experiments</title>
-      <link>https://openai.com/index/codex-quantum-computing-experiments</link>
-      <guid isPermaLink="false">https-openai-com-index-codex-quantum-computing-experiments</guid>
-      <pubDate>Tue, 08 Sep 2026 17:00:00 GMT</pubDate>
-      <description>See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>research</category>
-    </item>
-    <item>
       <title>Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic</title>
       <link>https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom</link>
       <guid isPermaLink="false">https-huggingface-co-blog-multiversecomputingcai-safety-for-whom</guid>
@@ -224,15 +224,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Designing Grok Bot for a world of persistent agents</title>
-      <link>https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2WXFzMFpXZFJGTUlWR05TR3d2NFo2d3hRQlJ0UFk0NXBkVW1QeWNrNEx2YlkzVlJfNWVjZHE5aWd3UnhIQzFrdmo0ZVM?oc=5</link>
-      <guid isPermaLink="false">cbmitefvx3lxtfa2wxfzmfpxzfjgtulwr05tr3d2nfo2d3hrqlj0ufk0nxbkvw1qewnrnex2ylkzvljf</guid>
-      <pubDate>Thu, 03 Sep 2026 17:50:51 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Introducing WeatherNext 3, our most advanced and accurate global weather AI model</title>
       <link>https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/</link>
       <guid isPermaLink="false">https-deepmind-google-blog-introducing-weathernext-3-our-most-advanced-and-accur</guid>
@@ -251,9 +242,9 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Grok Bot for Enterprise</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNS3UySVhhOU9JOVhUNTlEOGduVVc3TnFHaVdfcHN4N24xcjg0a0wxRzZBUElRVUxRVGlpdmlKOE5zbjZHNFo1LS1mbldEdkRsRlZR?oc=5</link>
-      <guid isPermaLink="false">cbmiu0fvx3lxtfbns3uysvhhou9jovhuntleogduvvc3tnfhavdfchn4n24xcjg0a0wxrzzbuelrvuxr</guid>
+      <title>Designing Grok Bot for a world of persistent agents</title>
+      <link>https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2WXFzMFpXZFJGTUlWR05TR3d2NFo2d3hRQlJ0UFk0NXBkVW1QeWNrNEx2YlkzVlJfNWVjZHE5aWd3UnhIQzFrdmo0ZVM?oc=5</link>
+      <guid isPermaLink="false">cbmitefvx3lxtfa2wxfzmfpxzfjgtulwr05tr3d2nfo2d3hrqlj0ufk0nxbkvw1qewnrnex2ylkzvljf</guid>
       <pubDate>Thu, 03 Sep 2026 07:00:00 GMT</pubDate>
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
@@ -263,6 +254,15 @@
       <title>Creators of Grok, the AI Chatbot</title>
       <link>https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5</link>
       <guid isPermaLink="false">cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq</guid>
+      <pubDate>Thu, 03 Sep 2026 07:00:00 GMT</pubDate>
+      <description>Source: xAI</description>
+      <source url="https://ai-pulse.vercel.app">xAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Grok Bot for Enterprise</title>
+      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNS3UySVhhOU9JOVhUNTlEOGduVVc3TnFHaVdfcHN4N24xcjg0a0wxRzZBUElRVUxRVGlpdmlKOE5zbjZHNFo1LS1mbldEdkRsRlZR?oc=5</link>
+      <guid isPermaLink="false">cbmiu0fvx3lxtfbns3uysvhhou9jovhuntleogduvvc3tnfhavdfchn4n24xcjg0a0wxrzzbuelrvuxr</guid>
       <pubDate>Thu, 03 Sep 2026 07:00:00 GMT</pubDate>
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
@@ -350,21 +350,21 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Biosecurity at the frontier</title>
-      <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HcGwzQnZHUW4tMzRqNUpBMHJLSXVjT1VNSTVpRjhuSURLX29ZNkVnTmdRSGNpQV9vdkwyMEh2NV95enI4VHdWeVpicjVDRG1UZUU1aWt3?oc=5</link>
-      <guid isPermaLink="false">cbmivkfvx3lxte5hcgwzqnzhuw4tmzrqnupbmhjlsxvjt1vnstvprjhusurlx29znkvntmdrsgnpqv9v</guid>
-      <pubDate>Tue, 01 Sep 2026 16:11:32 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Developing Enterprise Frontier Safeguards with our customers</title>
       <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE8yV1o0ckNzLXpGbEVxUTZqMF96dGlPUXpseUdheWpDS1lrNjRfV2I2aXFOYTJqM2hkSTNrNHU1UTJhZHU5d3hscUlkdGpyajBENkZQbmt3RzFVWEZUSzhWTkxqZ3oxb1FpLTRPOGlB?oc=5</link>
       <guid isPermaLink="false">cbmibkfvx3lxte8yv1o0cknzlxpgbevxutzqmf96dglpuxpseudhewpds1lrnjrfv2i2axfoytjqm2hk</guid>
       <pubDate>Tue, 01 Sep 2026 07:00:00 GMT</pubDate>
       <description>Source: Anthropic</description>
       <source url="https://ai-pulse.vercel.app">Anthropic</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Biosecurity at the frontier</title>
+      <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HcGwzQnZHUW4tMzRqNUpBMHJLSXVjT1VNSTVpRjhuSURLX29ZNkVnTmdRSGNpQV9vdkwyMEh2NV95enI4VHdWeVpicjVDRG1UZUU1aWt3?oc=5</link>
+      <guid isPermaLink="false">cbmivkfvx3lxte5hcgwzqnzhuw4tmzrqnupbmhjlsxvjt1vnstvprjhusurlx29znkvntmdrsgnpqv9v</guid>
+      <pubDate>Tue, 01 Sep 2026 07:00:00 GMT</pubDate>
+      <description>Source: xAI</description>
+      <source url="https://ai-pulse.vercel.app">xAI</source>
       <category>feature</category>
     </item>
     <item>
@@ -467,15 +467,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Upload File</title>
-      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zclJLSmdzZ0std1Y1SjRGTlhKMmhWaUx0YXhxT2ZRWUNySGJEbXM5WGlObU1Rdi1pZVUyS3R1Q1JIaHE1NjE5b2owVlo0YkQ1eFhuMXI4dm12UQ?oc=5</link>
-      <guid isPermaLink="false">cbmiwkfvx3lxte9zcljlsmdzz0std1y1sjrgtlhkmmhwaux0yxhxt2zrwunysgjebxm5wglobu1rdi1p</guid>
-      <pubDate>Fri, 21 Aug 2026 12:46:46 GMT</pubDate>
-      <description>Source: DeepSeek</description>
-      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Files API</title>
       <link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ueGpXalhJQWZUbUJpZEJFaFQ0RU13ZzNJRG9rb0QyUzUxeWFpM1h5NVpCb0hDQjBVVWMwbzRIYWdUczFnVEw3RjVQbVVnMWVNd2ZLM0VCYUdVRWM?oc=5</link>
       <guid isPermaLink="false">cbmiw0fvx3lxte9uegpxalhjqwzubujpzejfafq0ru13zznjrg9rb0qyuzuxewfpm1h5nvpcb0hdqjbv</guid>
@@ -546,6 +537,15 @@
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>model</category>
+    </item>
+    <item>
+      <title>In-region inference, open models, and new European infrastructure for sovereign AI.</title>
+      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE9zbGlwUWhiRC1udXFGMzJHeGZkUmN6bHk4T3UxWE5uM2trY2xhUUdTeXZzQ1ZSTXlvc3AzMWREczBUcjg0N1g4ZWdaSkJkVldfYWJ0SjR5cGFGMlFpdUpFTGNTS0EyVm45dllmc21TckJwT05IalE?oc=5</link>
+      <guid isPermaLink="false">cbmidkfvx3lxte9zbglwuwhirc1udxfgmzjhegzkumn6bhk4t3uxwe5um2try2xhuudtexzzq1zstxlv</guid>
+      <pubDate>Tue, 11 Aug 2026 07:00:00 GMT</pubDate>
+      <description>Source: Mistral</description>
+      <source url="https://ai-pulse.vercel.app">Mistral</source>
+      <category>feature</category>
     </item>
   </channel>
 </rss>
