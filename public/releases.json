@@ -19,7 +19,7 @@
     "lab": "Mistral",
     "title": "Making sovereign, open-weight AI the technology frontier",
     "summary": "",
-    "date": "2026-09-12T08:52:42.000Z",
+    "date": "2026-09-13T10:42:10.000Z",
     "category": "model",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5",
     "tags": [
@@ -125,7 +125,7 @@
     "lab": "DeepSeek",
     "title": "DeepSeek-V4.1-Flash: Smarter, Faster, More Efficient",
     "summary": "",
-    "date": "2026-09-10T07:28:33.000Z",
+    "date": "2026-09-10T07:28:32.000Z",
     "category": "model",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02bjh4Qk42Ung4dDc0emJvTk82R2RPaGVIQWQ0ekxIMDlhNHROWGtwMVJGODNmQ1FhZHdrNUs4d1lyaDZZWXZpSlprR3BXVXJMam53clVxUFc5UQ?oc=5",
     "tags": [
@@ -353,7 +353,7 @@
     "lab": "xAI",
     "title": "Setting Grok Bot loose on procurement",
     "summary": "",
-    "date": "2026-09-04T18:50:53.000Z",
+    "date": "2026-09-04T07:00:00.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wNl8wVmQ4eTZnVVdSMktrdmJpZmV3RmwxaldOTEVjUTg0R2ZNTDdBSjJ1TGdoRnhNbGhLWnNLZ19WOWRON0xQa0w1THdoUWM?oc=5",
     "tags": [
@@ -658,20 +658,6 @@
     ]
   },
   {
-    "id": "cbmicefvx3lxte1tc2jioxrysdb1z05hsi1udjkxn1uyzwfymhbxqzdpmtlrbxjivkp0q04tvffvx29f",
-    "lab": "Anthropic",
-    "title": "Expanding our support for scientists",
-    "summary": "",
-    "date": "2026-08-27T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Tc2JIOXRYSDB1Z05hSi1UdjkxN1UyZWFyMHBxQzdPMTlRbXJIVkp0Q04tVFFVX29fT3RUN2tMTEhTdlBQWmFyZlVMTTBVNVhhVFZiNXNsTnpncnFWZzE4R1I0d3ZjUTF5UmlhWG1FOEY?oc=5",
-    "tags": [
-      "expanding",
-      "support",
-      "scientists"
-    ]
-  },
-  {
     "id": "cbmie0fvx3lxte9mmzrtnjjirfhsynzymlbtqlnxtwzrre5vvzf4tnzoel9udxjsalpxuke4m1nxn3pn",
     "lab": "Anthropic",
     "title": "Previewing the Model Hardware Standard",
@@ -684,6 +670,20 @@
       "model",
       "hardware",
       "standard"
+    ]
+  },
+  {
+    "id": "cbmicefvx3lxte1tc2jioxrysdb1z05hsi1udjkxn1uyzwfymhbxqzdpmtlrbxjivkp0q04tvffvx29f",
+    "lab": "Anthropic",
+    "title": "Expanding our support for scientists",
+    "summary": "",
+    "date": "2026-08-27T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Tc2JIOXRYSDB1Z05hSi1UdjkxN1UyZWFyMHBxQzdPMTlRbXJIVkp0Q04tVFFVX29fT3RUN2tMTEhTdlBQWmFyZlVMTTBVNVhhVFZiNXNsTnpncnFWZzE4R1I0d3ZjUTF5UmlhWG1FOEY?oc=5",
+    "tags": [
+      "expanding",
+      "support",
+      "scientists"
     ]
   },
   {
