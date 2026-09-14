@@ -1,5 +1,20 @@
 [
   {
+    "id": "cbmigafbvv95cuxnrzu0ctlwnhctb0fiy092uvljzfh4umxsq2lpltdkveu2slrzvu12vzi2rgrywefq",
+    "lab": "Mistral",
+    "title": "Making sovereign, open-weight AI the technology frontier",
+    "summary": "",
+    "date": "2026-09-14T11:33:30.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5",
+    "tags": [
+      "making",
+      "sovereign",
+      "open",
+      "weight"
+    ]
+  },
+  {
     "id": "https-openai-com-index-perplexity-improving-accuracy-with-astra",
     "lab": "OpenAI",
     "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -12,21 +27,6 @@
       "astra",
       "end",
       "systems"
-    ]
-  },
-  {
-    "id": "cbmigafbvv95cuxnrzu0ctlwnhctb0fiy092uvljzfh4umxsq2lpltdkveu2slrzvu12vzi2rgrywefq",
-    "lab": "Mistral",
-    "title": "Making sovereign, open-weight AI the technology frontier",
-    "summary": "",
-    "date": "2026-09-13T10:42:10.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5",
-    "tags": [
-      "making",
-      "sovereign",
-      "open",
-      "weight"
     ]
   },
   {
@@ -166,6 +166,21 @@
     ]
   },
   {
+    "id": "https-huggingface-co-blog-asyncgrpo-lora-hfjobs",
+    "lab": "Hugging Face",
+    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+    "summary": "",
+    "date": "2026-09-10T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+    "tags": [
+      "async",
+      "grpo",
+      "lora",
+      "across"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-gradio-workflow-1111",
     "lab": "Hugging Face",
     "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
@@ -181,21 +196,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-introducing-gpt-live-1-in-the-api",
-    "lab": "OpenAI",
-    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-    "date": "2026-09-10T00:00:00.000Z",
-    "category": "api",
-    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-    "tags": [
-      "natural",
-      "voice",
-      "gpt",
-      "live"
-    ]
-  },
-  {
     "id": "https-openai-com-index-introducing-the-agents-api",
     "lab": "OpenAI",
     "title": "Introducing the Agents API",
@@ -208,6 +208,21 @@
       "api",
       "build",
       "cloud"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-introducing-gpt-live-1-in-the-api",
+    "lab": "OpenAI",
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+    "date": "2026-09-10T00:00:00.000Z",
+    "category": "api",
+    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "tags": [
+      "natural",
+      "voice",
+      "gpt",
+      "live"
     ]
   },
   {
@@ -643,18 +658,17 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-open-asr-leaderboard-global-south",
-    "lab": "Hugging Face",
-    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+    "id": "cbmicefvx3lxte1tc2jioxrysdb1z05hsi1udjkxn1uyzwfymhbxqzdpmtlrbxjivkp0q04tvffvx29f",
+    "lab": "Anthropic",
+    "title": "Expanding our support for scientists",
     "summary": "",
-    "date": "2026-08-28T00:00:00.000Z",
+    "date": "2026-08-27T07:00:00.000Z",
     "category": "feature",
-    "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Tc2JIOXRYSDB1Z05hSi1UdjkxN1UyZWFyMHBxQzdPMTlRbXJIVkp0Q04tVFFVX29fT3RUN2tMTEhTdlBQWmFyZlVMTTBVNVhhVFZiNXNsTnpncnFWZzE4R1I0d3ZjUTF5UmlhWG1FOEY?oc=5",
     "tags": [
-      "open",
-      "asr",
-      "leaderboard",
-      "adds"
+      "expanding",
+      "support",
+      "scientists"
     ]
   },
   {
@@ -670,20 +684,6 @@
       "model",
       "hardware",
       "standard"
-    ]
-  },
-  {
-    "id": "cbmicefvx3lxte1tc2jioxrysdb1z05hsi1udjkxn1uyzwfymhbxqzdpmtlrbxjivkp0q04tvffvx29f",
-    "lab": "Anthropic",
-    "title": "Expanding our support for scientists",
-    "summary": "",
-    "date": "2026-08-27T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Tc2JIOXRYSDB1Z05hSi1UdjkxN1UyZWFyMHBxQzdPMTlRbXJIVkp0Q04tVFFVX29fT3RUN2tMTEhTdlBQWmFyZlVMTTBVNVhhVFZiNXNsTnpncnFWZzE4R1I0d3ZjUTF5UmlhWG1FOEY?oc=5",
-    "tags": [
-      "expanding",
-      "support",
-      "scientists"
     ]
   },
   {
@@ -741,19 +741,6 @@
     "tags": [
       "mistral",
       "humain"
-    ]
-  },
-  {
-    "id": "cbmiwkfvx3lxte9vbgrqzxpmyxd3ev9nmgx6z2vqnvvhsg9hqmdny2jqrmrlrew5r05xnuxkc3c2y1pm",
-    "lab": "DeepSeek",
-    "title": "Delete File",
-    "summary": "",
-    "date": "2026-08-21T16:02:43.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vbGRQZXpMYXd3eV9NMGx6Z2VqNVVhSG9HQmdnY2JqRmRlREw5R05XNUxKc3c2Y1pmUENIeWRNa2VRdmRmN1hTWUhaNVBUM2JYclJPRGd1SVNEUQ?oc=5",
-    "tags": [
-      "delete",
-      "file"
     ]
   },
   {
@@ -841,13 +828,13 @@
     ]
   },
   {
-    "id": "cbmiykfvx3lxte8xmjz5ynd3tkptcuftrgzxaln0vuxktwrxsktrtkhsa1llv0w0ouphlxrywdkyagjv",
+    "id": "cbmimgfbvv95cuxnm0ffcldlzurvqu9mstlkm2pcu0fnu0p3ymwzannmbxhtvzk0s1nobw1sq2ppmfzf",
     "lab": "Anthropic",
     "title": "How Claude's text watermarking works",
     "summary": "",
     "date": "2026-08-14T07:00:00.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM0FfcldLZURvQU9MSTlkM2pCU0FNU0p3YmwzanNMbXhTVzk0S1NobW1SQ2ppMFZFb1AwakJUT09Cd21KMjFQcUZnanlzU0ZfNUxpeUlwS21hVUZ6N3VHUmZac1F0T24yaDU3aEJWNC1IMld3VHFFa3hUOTVvbXYzYlZKZVR4Slh5WGdGa3dwSmNWUVlBbnQtZkVn?oc=5",
     "tags": [
       "claude",
       "text",
@@ -881,6 +868,20 @@
       "inference",
       "open",
       "models"
+    ]
+  },
+  {
+    "id": "cbmix0fvx3lxtfa4cfnywk9yckhor3hnstb4t3dkx1nlywi1nfbergnrvkpwtlozauzjogpemkxxbm1y",
+    "lab": "DeepSeek",
+    "title": "Markdown page example",
+    "summary": "",
+    "date": "2026-08-08T01:47:10.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4cFNYWk9yckhoR3hNSTB4T3dKX1NLYWI1NFBERGNrVkpWTlozaUZjOGpEMkxxbm1yZ0dFTlM3SmpIQlVFM3B5LVRPRkpKZDYzdWhPSUNMRkVFLS04T3VN?oc=5",
+    "tags": [
+      "markdown",
+      "page",
+      "example"
     ]
   }
 ]
