@@ -4,7 +4,7 @@
     "lab": "Mistral",
     "title": "Making sovereign, open-weight AI the technology frontier",
     "summary": "",
-    "date": "2026-09-14T11:33:30.000Z",
+    "date": "2026-09-15T10:55:09.000Z",
     "category": "model",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5",
     "tags": [
@@ -12,6 +12,53 @@
       "sovereign",
       "open",
       "weight"
+    ]
+  },
+  {
+    "id": "https-blog-google-innovation-and-ai-technology-ai-dialogues-christina-koch",
+    "lab": "Google DeepMind",
+    "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+    "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+    "date": "2026-09-14T19:00:00.000Z",
+    "category": "research",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues_Christina-Koch_social.max-600x600.format-webp.webp",
+    "tags": [
+      "christina",
+      "koch",
+      "google",
+      "james"
+    ]
+  },
+  {
+    "id": "https-blog-google-innovation-and-ai-technology-developers-tools-devfest2026",
+    "lab": "Google DeepMind",
+    "title": "DevFest is back",
+    "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+    "date": "2026-09-14T16:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DevFest.max-600x600.format-webp.webp",
+    "tags": [
+      "devfest",
+      "back",
+      "connect",
+      "one"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-fyxer",
+    "lab": "OpenAI",
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+    "date": "2026-09-14T12:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/fyxer",
+    "tags": [
+      "fyxer",
+      "user",
+      "built",
+      "executive"
     ]
   },
   {
@@ -125,7 +172,7 @@
     "lab": "DeepSeek",
     "title": "DeepSeek-V4.1-Flash: Smarter, Faster, More Efficient",
     "summary": "",
-    "date": "2026-09-10T07:28:32.000Z",
+    "date": "2026-09-10T07:28:33.000Z",
     "category": "model",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02bjh4Qk42Ung4dDc0emJvTk82R2RPaGVIQWQ0ekxIMDlhNHROWGtwMVJGODNmQ1FhZHdrNUs4d1lyaDZZWXZpSlprR3BXVXJMam53clVxUFc5UQ?oc=5",
     "tags": [
@@ -196,21 +243,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-introducing-the-agents-api",
-    "lab": "OpenAI",
-    "title": "Introducing the Agents API",
-    "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-    "date": "2026-09-10T00:00:00.000Z",
-    "category": "api",
-    "url": "https://openai.com/index/introducing-the-agents-api",
-    "tags": [
-      "agents",
-      "api",
-      "build",
-      "cloud"
-    ]
-  },
-  {
     "id": "https-openai-com-index-introducing-gpt-live-1-in-the-api",
     "lab": "OpenAI",
     "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
@@ -223,6 +255,21 @@
       "voice",
       "gpt",
       "live"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-introducing-the-agents-api",
+    "lab": "OpenAI",
+    "title": "Introducing the Agents API",
+    "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+    "date": "2026-09-10T00:00:00.000Z",
+    "category": "api",
+    "url": "https://openai.com/index/introducing-the-agents-api",
+    "tags": [
+      "agents",
+      "api",
+      "build",
+      "cloud"
     ]
   },
   {
@@ -253,21 +300,6 @@
       "complex",
       "legacy",
       "code"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-paul-christiano-joins-openai-foundation-board",
-    "lab": "OpenAI",
-    "title": "Paul Christiano joins OpenAI Foundation Board",
-    "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-    "date": "2026-09-09T17:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-    "tags": [
-      "paul",
-      "christiano",
-      "joins",
-      "openai"
     ]
   },
   {
@@ -349,21 +381,6 @@
     ]
   },
   {
-    "id": "cbmiyaxbvv95cuxqv1lkehvotjk0mzdamg5dmuo5rtawnzhnwnpobdhxmgvjdlvfujc1aehhee14dknx",
-    "lab": "Anthropic",
-    "title": "Introducing Claude Design by Anthropic Labs",
-    "summary": "",
-    "date": "2026-09-07T17:00:18.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiyAxBVV95cUxQV1lKeHVOTjk0MzdaMG5DMUo5RTAwNzhnWnpobDhXMGVjdlVFUjc1aEhHeE14dkNXdU95RFZlV012MEhIRU5OZHRxdUNLOUx6azV1a1QtbGhnTEhrTUxvM3hpbFowc3RTVkRzajVVZGFXOXJMVlVITFNhQ2xIRWVpYXpzVlBERjFFZERMTE0temJHb1k1ZHppUWxKeFgyWnFISDVyRGJFSlRoOTJhUk9mbWRIOF9tWnJZOXZ6WlZPNHpNSVJXWmk3aGxBSjlUcG5QUjROSURKeEFySVVLOVAtUUNnM0xzSTB5cHc2Rk85cWRMUUJDN245Wlh0X0xCSW1vckpEVHpGc0QxeHBrSVF6UDBiVlNPMEMtemVyUERsVmV4dHNJZVNJbXRONUxGdVRPOVFFUVIyNHN0aDM0NGlEajc5NkpkRGtXeXVkMjZzcmtNOXk3c3Y2UWpweWNwZ1BBTzg2TFd2ZGItYUQtaVRLMWJxdjJpdzJyWXBLeTlLYVBKdzVwVGswbTRqaFlNb1dYeFpFWEpzOWVlMzhlVnhpa1l3QUtobkNzcHJ5N1V6NWZWZ0ZXeDRfYUxMQkZKUGN5MS1HcHhfaUlvRWcyQ2VhOXFWU09ydS1FSjFuek5iMDVzTEtzcEVaN1VMd3dSMkpRbUsyY0t2M1NTM2k4ZjA2blhuZGZWc21vVlZWb1ZCSGg0VVNpTS1MQ0FZZXZqSzRyc1VBWC16c1ZDdlI5ZDlxRjZPRFFKT1BjUWtKenNhY2ZRQUc2dVg2TEVtZTRsRG1GV091a3NMV1p3X085dXhJNHJRaEVKVFJQQW9YczJvZ0VSR3pNOUV0bUhZczlQUmtzbXVVUzFwOU8zbzNZdlluSXBDT1l0RnhCeXdGMnd1aUs3R3dIVmlpNHhERUJHOF91QVFiSm9RZHNyTnZDTzBlOTZvcnNLbm1qOHJieVZqdVcwR0dGcXJfS2dEakoxQUh5aFBNNHRsTWdBbXdGdHVISkpYeW1JMEpScndqa3YxbS1yQVhZeTJxMm5LYzNZaHJFRzltYUJvTHdsVW9iU0FPT2o1Y2dZMl9iVjBMNHJtUkNianlPWlk2VlZzdDVtbTJaZnprWHJ0MmVqck1aek1TQ2RmZHFCNE80NUxxdXVwbzRpRU5aUXVVUFBOc3dDVDVzTnVxdmt5Q0MtRzBnbkN6bThJbWp5NW9ZSVY2TGhzeER5bXpRTGVzRUdmd3FvZTVlWEJPZXFhU09qWnExTmlrM0lBZWF1NFNDVTJnUFhTZFhjNy1FM2lmN21rX29pa0NvZ2c5UjBIbHJDS242TTJSVEZPTTBtNGo3QWR1ekVSenVxMjB2bDB0WVZkX21Rdm4zTjgyWjZHOVlQYVU5MEdZWmpXZGVoSVh3ODhmY0VSeVBFQ0tJZEhweUNzc3Jvd3F5NzZiU3V6Mmowd2l6TGcydmFkYS1NWWJIRS05LTBMM2xieWhuMmNqbVhJNzlXVFBWY3p6SThGTEMwU0VRX1F2Y05oNGFNVGZQQXo0Um1BWXNtMmpKNTJZSTVGd2I1WEtDcVhKSWdIcXJKbkNza1ZUZ2JENVZBaHNEQlh3Rk04aWZRWHc1Vk5ycF83NnpLRkVoQWRmQXMzNVl4U1JtU04wdTdKVjZvS2FQRWU0bGIzMVhsRWlXTHFrS3FNLUd2akxJbzNmb24xcHk1TUxtOXlrTFRwRlZaYmxRd1J5Y3h6R2dJTC1KWnFCSzFrb3RxTzVDWGd0WmdCV3RESTJaMmpZZ0I5ZHF4YmZfS29fZG9PNi1iQlp6b2h2alBxdUpSanRfelN2dHladGJOVWlFaTNQZldfaEp3UnhLRlA5c2R1Rk1KVTRMampfeV94T0VoeVRUcE5hNGFnYnZnNjYwVXZQd1pfSEowT01PYTZzNmFzMUstRGtJMDBTN0U0OXgwVldnZVpPT04xMUhocDZ2TU16dnhxd0xhZUhXaGlGZVgteld5N0Z4N3FnSW9lSks0M1lYb2ZaTTZWQV9MVkhLNFR6c29nd3loV0NLcVJRTTBmcXJOU1RKazVOUVJUNGlRckp0OVJvVXdDWmtfVUstUGJVakxGT0RKVEZ4WHNWaVN6QTY2NjQ4R1J0TDhsNnBleG9UZXZkTllPSXc?oc=5",
-    "tags": [
-      "claude",
-      "design",
-      "anthropic",
-      "labs"
-    ]
-  },
-  {
     "id": "cbmit0fvx3lxte5wnl8wvmq4etznvvdsmktrdmjpzmv3rmwxaldotevjutg0r2zntddbsjj1tgdornhn",
     "lab": "xAI",
     "title": "Setting Grok Bot loose on procurement",
@@ -410,6 +427,20 @@
     ]
   },
   {
+    "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
+    "lab": "xAI",
+    "title": "Creators of Grok, the AI Chatbot",
+    "summary": "",
+    "date": "2026-09-03T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
+    "tags": [
+      "creators",
+      "grok",
+      "chatbot"
+    ]
+  },
+  {
     "id": "cbmitefvx3lxtfa2wxfzmfpxzfjgtulwr05tr3d2nfo2d3hrqlj0ufk0nxbkvw1qewnrnex2ylkzvljf",
     "lab": "xAI",
     "title": "Designing Grok Bot for a world of persistent agents",
@@ -422,20 +453,6 @@
       "grok",
       "bot",
       "world"
-    ]
-  },
-  {
-    "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
-    "lab": "xAI",
-    "title": "Creators of Grok, the AI Chatbot",
-    "summary": "",
-    "date": "2026-09-03T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
-    "tags": [
-      "creators",
-      "grok",
-      "chatbot"
     ]
   },
   {
@@ -558,41 +575,13 @@
     ]
   },
   {
-    "id": "https-blog-google-innovation-and-ai-technology-google-ai-updates-august-2026",
-    "lab": "Google DeepMind",
-    "title": "The latest AI news we announced in August 2026",
-    "summary": "Here are Google’s latest AI updates from August 2026",
-    "date": "2026-09-01T20:45:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp",
-    "tags": [
-      "google"
-    ]
-  },
-  {
-    "id": "https-deepmind-google-blog-introducing-agentic-video-in-gemini",
-    "lab": "Google DeepMind",
-    "title": "Introducing agentic video understanding with Gemini",
-    "summary": "",
-    "date": "2026-09-01T17:08:51.000Z",
-    "category": "feature",
-    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-    "tags": [
-      "agentic",
-      "video",
-      "understanding",
-      "gemini"
-    ]
-  },
-  {
-    "id": "cbmibkfvx3lxte8yv1o0cknzlxpgbevxutzqmf96dglpuxpseudhewpds1lrnjrfv2i2axfoytjqm2hk",
+    "id": "cbmiowjbvv95cuxpzwltculwmmnaz202etdob010zelzyvllmlfkmffoqu8wvwz0tevzukhzs2jqakv6",
     "lab": "Anthropic",
     "title": "Developing Enterprise Frontier Safeguards with our customers",
     "summary": "",
     "date": "2026-09-01T07:00:00.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yV1o0ckNzLXpGbEVxUTZqMF96dGlPUXpseUdheWpDS1lrNjRfV2I2aXFOYTJqM2hkSTNrNHU1UTJhZHU5d3hscUlkdGpyajBENkZQbmt3RzFVWEZUSzhWTkxqZ3oxb1FpLTRPOGlB?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPZWltcUlwMmNaZ202eTdOb010ZElZYVllMlFKMFFOQU8wVWZ0TEVzUkhZS2JQakV6YlJWUUdPMkxtZGZhNTB5X0VtQ3ZrbWdXWV83aXU1aGRwMWxKRm1vMXQ5V1VmVWdNbmdwY29XMFJYTWI4T1QzUXhIdzJpeWkzSWZkMkJMQjg2T1FodUcyYk85NTFraklmQ3pUS1VIVGRFVHVtTWMtU055UVZUbGFMMHNMWDl4NnQzVDI0eERDd01sYnFVWUdGNE1JTUJWZ1l2Q1RoWFQ5OHQ5R29qNVRuYzZpRVhDVmU2QmZuNjVVNVVQRmRLQ19KWFJnTnVnSzh0bExFRk1kRzNIZnJ1WnBjc1VzM0JZY2diWUsxcmpqb3B5VGs?oc=5",
     "tags": [
       "developing",
       "enterprise",
@@ -744,6 +733,19 @@
     ]
   },
   {
+    "id": "cbmiwkfvx3lxte9zcljlsmdzz0std1y1sjrgtlhkmmhwaux0yxhxt2zrwunysgjebxm5wglobu1rdi1p",
+    "lab": "DeepSeek",
+    "title": "Upload File",
+    "summary": "",
+    "date": "2026-08-21T12:46:46.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zclJLSmdzZ0std1Y1SjRGTlhKMmhWaUx0YXhxT2ZRWUNySGJEbXM5WGlObU1Rdi1pZVUyS3R1Q1JIaHE1NjE5b2owVlo0YkQ1eFhuMXI4dm12UQ?oc=5",
+    "tags": [
+      "upload",
+      "file"
+    ]
+  },
+  {
     "id": "cbmiw0fvx3lxte9uegpxalhjqwzubujpzejfafq0ru13zznjrg9rb0qyuzuxewfpm1h5nvpcb0hdqjbv",
     "lab": "DeepSeek",
     "title": "Files API",
@@ -828,13 +830,13 @@
     ]
   },
   {
-    "id": "cbmimgfbvv95cuxnm0ffcldlzurvqu9mstlkm2pcu0fnu0p3ymwzannmbxhtvzk0s1nobw1sq2ppmfzf",
+    "id": "cbmiykfvx3lxte8xmjz5ynd3tkptcuftrgzxaln0vuxktwrxsktrtkhsa1llv0w0ouphlxrywdkyagjv",
     "lab": "Anthropic",
     "title": "How Claude's text watermarking works",
     "summary": "",
     "date": "2026-08-14T07:00:00.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM0FfcldLZURvQU9MSTlkM2pCU0FNU0p3YmwzanNMbXhTVzk0S1NobW1SQ2ppMFZFb1AwakJUT09Cd21KMjFQcUZnanlzU0ZfNUxpeUlwS21hVUZ6N3VHUmZac1F0T24yaDU3aEJWNC1IMld3VHFFa3hUOTVvbXYzYlZKZVR4Slh5WGdGa3dwSmNWUVlBbnQtZkVn?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
     "tags": [
       "claude",
       "text",
