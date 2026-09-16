@@ -5,16 +5,79 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2026 10:59:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 10:47:13 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mistral x Mozilla: Private, Multilingual AI Browsing</title>
+      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRaUh0ZWZXQURZVlFQQUplZU1tOTNwOVoyZllWZjRVNzVUTGpoSUl1Sml0TFltTWlmMnBFT2h6UUtIN2hPMHhMbHpWRlQ1d2w1RlBj?oc=5</link>
+      <guid isPermaLink="false">cbmiu0fvx3lxtfbrauh0zwzxqurzvlfqquplzu1totnwovoyzllwzjrvnzvutgposul1sml0tflttwlm</guid>
+      <pubDate>Wed, 16 Sep 2026 08:00:12 GMT</pubDate>
+      <description>Source: Mistral</description>
+      <source url="https://ai-pulse.vercel.app">Mistral</source>
+      <category>feature</category>
+    </item>
     <item>
       <title>Making sovereign, open-weight AI the technology frontier</title>
       <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5</link>
       <guid isPermaLink="false">cbmigafbvv95cuxnrzu0ctlwnhctb0fiy092uvljzfh4umxsq2lpltdkveu2slrzvu12vzi2rgrywefq</guid>
-      <pubDate>Tue, 15 Sep 2026 10:55:09 GMT</pubDate>
+      <pubDate>Wed, 16 Sep 2026 04:06:21 GMT</pubDate>
       <description>Source: Mistral</description>
       <source url="https://ai-pulse.vercel.app">Mistral</source>
       <category>model</category>
+    </item>
+    <item>
+      <title>Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking</title>
+      <link>https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/</link>
+      <guid isPermaLink="false">https-deepmind-google-blog-introducing-gemini-3-8-live-and-3-8-live-extended-thi</guid>
+      <pubDate>Tue, 15 Sep 2026 17:05:57 GMT</pubDate>
+      <description>Source: Google DeepMind</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
+      <category>model</category>
+    </item>
+    <item>
+      <title>Your Agent Aced the Task. Will It Do It Again?</title>
+      <link>https://huggingface.co/blog/ibm-research/altk-evolve-consistency</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-ibm-research-altk-evolve-consistency</guid>
+      <pubDate>Tue, 15 Sep 2026 16:00:44 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>AI for Societal Impact</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/</link>
+      <guid isPermaLink="false">https-blog-google-innovation-and-ai-technology-ai-ai-for-societal-impact</guid>
+      <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
+      <description>Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI. (Source: Google DeepMind)</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Building AI to accelerate science and improve lives</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/</link>
+      <guid isPermaLink="false">https-blog-google-innovation-and-ai-technology-ai-ai-applications-science-people</guid>
+      <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
+      <description>The true measure of AI is who it helps. Here’s how it’s impacting lives today. We&apos;re focused on key areas where advanced technology can help make extraordinary progress … (Source: Google DeepMind)</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>AI for everyone in every language</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/</link>
+      <guid isPermaLink="false">https-blog-google-innovation-and-ai-technology-ai-ai-for-every-language</guid>
+      <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
+      <description>We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed. (Source: Google DeepMind)</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>New insights from Google’s AI &amp; Economy ATLAS</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/</link>
+      <guid isPermaLink="false">https-blog-google-innovation-and-ai-technology-ai-ai-economy-atlas-september-202</guid>
+      <pubDate>Tue, 15 Sep 2026 13:00:00 GMT</pubDate>
+      <description>We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience. (Source: Google DeepMind)</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
+      <category>feature</category>
     </item>
     <item>
       <title>Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.</title>
@@ -206,15 +269,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license</title>
-      <link>https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-ibm-research-ibm-releases-sota-granite-time-series</guid>
-      <pubDate>Wed, 09 Sep 2026 15:36:24 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>model</category>
-    </item>
-    <item>
       <title>Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic</title>
       <link>https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom</link>
       <guid isPermaLink="false">https-huggingface-co-blog-multiversecomputingcai-safety-for-whom</guid>
@@ -224,12 +278,12 @@
       <category>feature</category>
     </item>
     <item>
-      <title>AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome</title>
-      <link>https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/</link>
-      <guid isPermaLink="false">https-deepmind-google-blog-alphagenome-atlas-a-predictive-map-of-every-possible-</guid>
-      <pubDate>Tue, 08 Sep 2026 14:00:15 GMT</pubDate>
-      <description>AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome. (Source: Google DeepMind)</description>
-      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
+      <title>Introducing Claude Design by Anthropic Labs</title>
+      <link>https://news.google.com/rss/articles/CBMiyAxBVV95cUxQV1lKeHVOTjk0MzdaMG5DMUo5RTAwNzhnWnpobDhXMGVjdlVFUjc1aEhHeE14dkNXdU95RFZlV012MEhIRU5OZHRxdUNLOUx6azV1a1QtbGhnTEhrTUxvM3hpbFowc3RTVkRzajVVZGFXOXJMVlVITFNhQ2xIRWVpYXpzVlBERjFFZERMTE0temJHb1k1ZHppUWxKeFgyWnFISDVyRGJFSlRoOTJhUk9mbWRIOF9tWnJZOXZ6WlZPNHpNSVJXWmk3aGxBSjlUcG5QUjROSURKeEFySVVLOVAtUUNnM0xzSTB5cHc2Rk85cWRMUUJDN245Wlh0X0xCSW1vckpEVHpGc0QxeHBrSVF6UDBiVlNPMEMtemVyUERsVmV4dHNJZVNJbXRONUxGdVRPOVFFUVIyNHN0aDM0NGlEajc5NkpkRGtXeXVkMjZzcmtNOXk3c3Y2UWpweWNwZ1BBTzg2TFd2ZGItYUQtaVRLMWJxdjJpdzJyWXBLeTlLYVBKdzVwVGswbTRqaFlNb1dYeFpFWEpzOWVlMzhlVnhpa1l3QUtobkNzcHJ5N1V6NWZWZ0ZXeDRfYUxMQkZKUGN5MS1HcHhfaUlvRWcyQ2VhOXFWU09ydS1FSjFuek5iMDVzTEtzcEVaN1VMd3dSMkpRbUsyY0t2M1NTM2k4ZjA2blhuZGZWc21vVlZWb1ZCSGg0VVNpTS1MQ0FZZXZqSzRyc1VBWC16c1ZDdlI5ZDlxRjZPRFFKT1BjUWtKenNhY2ZRQUc2dVg2TEVtZTRsRG1GV091a3NMV1p3X085dXhJNHJRaEVKVFJQQW9YczJvZ0VSR3pNOUV0bUhZczlQUmtzbXVVUzFwOU8zbzNZdlluSXBDT1l0RnhCeXdGMnd1aUs3R3dIVmlpNHhERUJHOF91QVFiSm9RZHNyTnZDTzBlOTZvcnNLbm1qOHJieVZqdVcwR0dGcXJfS2dEakoxQUh5aFBNNHRsTWdBbXdGdHVISkpYeW1JMEpScndqa3YxbS1yQVhZeTJxMm5LYzNZaHJFRzltYUJvTHdsVW9iU0FPT2o1Y2dZMl9iVjBMNHJtUkNianlPWlk2VlZzdDVtbTJaZnprWHJ0MmVqck1aek1TQ2RmZHFCNE80NUxxdXVwbzRpRU5aUXVVUFBOc3dDVDVzTnVxdmt5Q0MtRzBnbkN6bThJbWp5NW9ZSVY2TGhzeER5bXpRTGVzRUdmd3FvZTVlWEJPZXFhU09qWnExTmlrM0lBZWF1NFNDVTJnUFhTZFhjNy1FM2lmN21rX29pa0NvZ2c5UjBIbHJDS242TTJSVEZPTTBtNGo3QWR1ekVSenVxMjB2bDB0WVZkX21Rdm4zTjgyWjZHOVlQYVU5MEdZWmpXZGVoSVh3ODhmY0VSeVBFQ0tJZEhweUNzc3Jvd3F5NzZiU3V6Mmowd2l6TGcydmFkYS1NWWJIRS05LTBMM2xieWhuMmNqbVhJNzlXVFBWY3p6SThGTEMwU0VRX1F2Y05oNGFNVGZQQXo0Um1BWXNtMmpKNTJZSTVGd2I1WEtDcVhKSWdIcXJKbkNza1ZUZ2JENVZBaHNEQlh3Rk04aWZRWHc1Vk5ycF83NnpLRkVoQWRmQXMzNVl4U1JtU04wdTdKVjZvS2FQRWU0bGIzMVhsRWlXTHFrS3FNLUd2akxJbzNmb24xcHk1TUxtOXlrTFRwRlZaYmxRd1J5Y3h6R2dJTC1KWnFCSzFrb3RxTzVDWGd0WmdCV3RESTJaMmpZZ0I5ZHF4YmZfS29fZG9PNi1iQlp6b2h2alBxdUpSanRfelN2dHladGJOVWlFaTNQZldfaEp3UnhLRlA5c2R1Rk1KVTRMampfeV94T0VoeVRUcE5hNGFnYnZnNjYwVXZQd1pfSEowT01PYTZzNmFzMUstRGtJMDBTN0U0OXgwVldnZVpPT04xMUhocDZ2TU16dnhxd0xhZUhXaGlGZVgteld5N0Z4N3FnSW9lSks0M1lYb2ZaTTZWQV9MVkhLNFR6c29nd3loV0NLcVJRTTBmcXJOU1RKazVOUVJUNGlRckp0OVJvVXdDWmtfVUstUGJVakxGT0RKVEZ4WHNWaVN6QTY2NjQ4R1J0TDhsNnBleG9UZXZkTllPSXc?oc=5</link>
+      <guid isPermaLink="false">cbmiyaxbvv95cuxqv1lkehvotjk0mzdamg5dmuo5rtawnzhnwnpobdhxmgvjdlvfujc1aehhee14dknx</guid>
+      <pubDate>Mon, 07 Sep 2026 17:00:18 GMT</pubDate>
+      <description>Source: Anthropic</description>
+      <source url="https://ai-pulse.vercel.app">Anthropic</source>
       <category>feature</category>
     </item>
     <item>
@@ -242,15 +296,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Introducing WeatherNext 3, our most advanced and accurate global weather AI model</title>
-      <link>https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/</link>
-      <guid isPermaLink="false">https-deepmind-google-blog-introducing-weathernext-3-our-most-advanced-and-accur</guid>
-      <pubDate>Thu, 03 Sep 2026 15:02:08 GMT</pubDate>
-      <description>Source: Google DeepMind</description>
-      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
-      <category>model</category>
-    </item>
-    <item>
       <title>NeoMME: an efficient Multimodal-native and Multilingual Encoder</title>
       <link>https://huggingface.co/blog/Hcompany/neomme</link>
       <guid isPermaLink="false">https-huggingface-co-blog-hcompany-neomme</guid>
@@ -260,18 +305,18 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Creators of Grok, the AI Chatbot</title>
-      <link>https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5</link>
-      <guid isPermaLink="false">cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq</guid>
+      <title>Designing Grok Bot for a world of persistent agents</title>
+      <link>https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2WXFzMFpXZFJGTUlWR05TR3d2NFo2d3hRQlJ0UFk0NXBkVW1QeWNrNEx2YlkzVlJfNWVjZHE5aWd3UnhIQzFrdmo0ZVM?oc=5</link>
+      <guid isPermaLink="false">cbmitefvx3lxtfa2wxfzmfpxzfjgtulwr05tr3d2nfo2d3hrqlj0ufk0nxbkvw1qewnrnex2ylkzvljf</guid>
       <pubDate>Thu, 03 Sep 2026 07:00:00 GMT</pubDate>
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
       <category>feature</category>
     </item>
     <item>
-      <title>Designing Grok Bot for a world of persistent agents</title>
-      <link>https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2WXFzMFpXZFJGTUlWR05TR3d2NFo2d3hRQlJ0UFk0NXBkVW1QeWNrNEx2YlkzVlJfNWVjZHE5aWd3UnhIQzFrdmo0ZVM?oc=5</link>
-      <guid isPermaLink="false">cbmitefvx3lxtfa2wxfzmfpxzfjgtulwr05tr3d2nfo2d3hrqlj0ufk0nxbkvw1qewnrnex2ylkzvljf</guid>
+      <title>Creators of Grok, the AI Chatbot</title>
+      <link>https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5</link>
+      <guid isPermaLink="false">cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq</guid>
       <pubDate>Thu, 03 Sep 2026 07:00:00 GMT</pubDate>
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
@@ -314,33 +359,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Proactive cyber defense for governments and enterprises</title>
-      <link>https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/</link>
-      <guid isPermaLink="false">https-deepmind-google-blog-proactive-cyber-defense-for-governments-and-enterpris</guid>
-      <pubDate>Wed, 02 Sep 2026 16:24:24 GMT</pubDate>
-      <description>Source: Google DeepMind</description>
-      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Introducing Gemini 3.8 Flash and 3.8 Flash Cyber</title>
-      <link>https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/</link>
-      <guid isPermaLink="false">https-deepmind-google-blog-introducing-gemini-3-8-flash-and-38-flash-cyber</guid>
-      <pubDate>Wed, 02 Sep 2026 16:18:31 GMT</pubDate>
-      <description>Source: Google DeepMind</description>
-      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
-      <category>model</category>
-    </item>
-    <item>
-      <title>Proactive cyber defense for governments and enterprises</title>
-      <link>https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/</link>
-      <guid isPermaLink="false">https-blog-google-innovation-and-ai-technology-safety-security-fairwind-program</guid>
-      <pubDate>Wed, 02 Sep 2026 15:40:00 GMT</pubDate>
-      <description>The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools. (Source: Google DeepMind)</description>
-      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>BenchMIRT: What are LLM benchmarks actually measuring?</title>
       <link>https://huggingface.co/blog/allenai/benchmirt</link>
       <guid isPermaLink="false">https-huggingface-co-blog-allenai-benchmirt</guid>
@@ -351,8 +369,8 @@
     </item>
     <item>
       <title>Developing Enterprise Frontier Safeguards with our customers</title>
-      <link>https://news.google.com/rss/articles/CBMiowJBVV95cUxPZWltcUlwMmNaZ202eTdOb010ZElZYVllMlFKMFFOQU8wVWZ0TEVzUkhZS2JQakV6YlJWUUdPMkxtZGZhNTB5X0VtQ3ZrbWdXWV83aXU1aGRwMWxKRm1vMXQ5V1VmVWdNbmdwY29XMFJYTWI4T1QzUXhIdzJpeWkzSWZkMkJMQjg2T1FodUcyYk85NTFraklmQ3pUS1VIVGRFVHVtTWMtU055UVZUbGFMMHNMWDl4NnQzVDI0eERDd01sYnFVWUdGNE1JTUJWZ1l2Q1RoWFQ5OHQ5R29qNVRuYzZpRVhDVmU2QmZuNjVVNVVQRmRLQ19KWFJnTnVnSzh0bExFRk1kRzNIZnJ1WnBjc1VzM0JZY2diWUsxcmpqb3B5VGs?oc=5</link>
-      <guid isPermaLink="false">cbmiowjbvv95cuxpzwltculwmmnaz202etdob010zelzyvllmlfkmffoqu8wvwz0tevzukhzs2jqakv6</guid>
+      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE8yV1o0ckNzLXpGbEVxUTZqMF96dGlPUXpseUdheWpDS1lrNjRfV2I2aXFOYTJqM2hkSTNrNHU1UTJhZHU5d3hscUlkdGpyajBENkZQbmt3RzFVWEZUSzhWTkxqZ3oxb1FpLTRPOGlB?oc=5</link>
+      <guid isPermaLink="false">cbmibkfvx3lxte8yv1o0cknzlxpgbevxutzqmf96dglpuxpseudhewpds1lrnjrfv2i2axfoytjqm2hk</guid>
       <pubDate>Tue, 01 Sep 2026 07:00:00 GMT</pubDate>
       <description>Source: Anthropic</description>
       <source url="https://ai-pulse.vercel.app">Anthropic</source>
@@ -413,15 +431,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Grok 4.6 on Microsoft Foundry</title>
-      <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE50elJwY0RLX2N5WVdEYmFBVXY4d2Vua0ZzaXF4TjhnMzMxVDRSSUhPRVlILU9sQzVRSU12d3Y5SlFyV3htZ29qUFc0S1I0VDVpMjVJZkVtaw?oc=5</link>
-      <guid isPermaLink="false">cbmiv0fvx3lxte50eljwy0rlx2n5wvdeymfbvxy4d2vua0zzaxf4tjhnmzmxvdrssuhprvlilu9sqzvr</guid>
-      <pubDate>Wed, 26 Aug 2026 07:00:00 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>model</category>
-    </item>
-    <item>
       <title>Grok Bot is now included with more plans</title>
       <link>https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wWkEtS2NGZ19UTFo2SGt3TEhKNmNtZ3plYUJIS1JzcXFkSWpKQldqRFM3TWpHa25ZVFZzR3RqR252aFhoeE9Jd1FUNm9jZw?oc=5</link>
       <guid isPermaLink="false">cbmitkfvx3lxte9wwkets2ngz19utfo2sgt3tehknmntz3plyujis1jzcxfkswpkqldqrfm3twpha25z</guid>
@@ -429,6 +438,15 @@
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
       <category>feature</category>
+    </item>
+    <item>
+      <title>Grok 4.6 on Microsoft Foundry</title>
+      <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE50elJwY0RLX2N5WVdEYmFBVXY4d2Vua0ZzaXF4TjhnMzMxVDRSSUhPRVlILU9sQzVRSU12d3Y5SlFyV3htZ29qUFc0S1I0VDVpMjVJZkVtaw?oc=5</link>
+      <guid isPermaLink="false">cbmiv0fvx3lxte50eljwy0rlx2n5wvdeymfbvxy4d2vua0zzaxf4tjhnmzmxvdrssuhprvlilu9sqzvr</guid>
+      <pubDate>Wed, 26 Aug 2026 07:00:00 GMT</pubDate>
+      <description>Source: xAI</description>
+      <source url="https://ai-pulse.vercel.app">xAI</source>
+      <category>model</category>
     </item>
     <item>
       <title>Funding better evaluations of AI’s impact on wellbeing</title>
@@ -503,13 +521,13 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Grok 4.6 on Amazon Bedrock</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QTmxWMTBnM015a1RPY25GeUVaY0dkQ3BudkZQVEltMEJqTUZrYzlHR2VYNkVoTFhsTmZ1RjBvMXRZa3p1QnpNTDd3eVk1VW93aW1J?oc=5</link>
-      <guid isPermaLink="false">cbmiu0fvx3lxte1qtmxwmtbnm015a1rpy25geuvay0dkq3budkzqveltmejqtuzryzlhr2vynkvotfhs</guid>
+      <title>Grok Build on web and mobile</title>
+      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EbXYyWW90bmZsVW0wVDZCejJJTGRDY0lYTXQyZmVYZU9EVWNQczBZOTZGQlNQWW5lV1pxYUFsNWdZV0haaFJXMkVfaVhPd2U5OVFB?oc=5</link>
+      <guid isPermaLink="false">cbmiu0fvx3lxte5ebxyyww90bmzsvw0wvdzcejjjtgrdy0lytxqyzmvyzu9evwnqczbzotzgqlnqww5l</guid>
       <pubDate>Wed, 19 Aug 2026 07:00:00 GMT</pubDate>
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>model</category>
+      <category>feature</category>
     </item>
     <item>
       <title>How Claude&apos;s text watermarking works</title>
@@ -528,24 +546,6 @@
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>model</category>
-    </item>
-    <item>
-      <title>In-region inference, open models, and new European infrastructure for sovereign AI.</title>
-      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE9zbGlwUWhiRC1udXFGMzJHeGZkUmN6bHk4T3UxWE5uM2trY2xhUUdTeXZzQ1ZSTXlvc3AzMWREczBUcjg0N1g4ZWdaSkJkVldfYWJ0SjR5cGFGMlFpdUpFTGNTS0EyVm45dllmc21TckJwT05IalE?oc=5</link>
-      <guid isPermaLink="false">cbmidkfvx3lxte9zbglwuwhirc1udxfgmzjhegzkumn6bhk4t3uxwe5um2try2xhuudtexzzq1zstxlv</guid>
-      <pubDate>Tue, 11 Aug 2026 07:00:00 GMT</pubDate>
-      <description>Source: Mistral</description>
-      <source url="https://ai-pulse.vercel.app">Mistral</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Markdown page example</title>
-      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4cFNYWk9yckhoR3hNSTB4T3dKX1NLYWI1NFBERGNrVkpWTlozaUZjOGpEMkxxbm1yZ0dFTlM3SmpIQlVFM3B5LVRPRkpKZDYzdWhPSUNMRkVFLS04T3VN?oc=5</link>
-      <guid isPermaLink="false">cbmix0fvx3lxtfa4cfnywk9yckhor3hnstb4t3dkx1nlywi1nfbergnrvkpwtlozauzjogpemkxxbm1y</guid>
-      <pubDate>Sat, 08 Aug 2026 01:47:10 GMT</pubDate>
-      <description>Source: DeepSeek</description>
-      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
-      <category>feature</category>
     </item>
   </channel>
 </rss>

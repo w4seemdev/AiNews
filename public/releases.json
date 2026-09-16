@@ -1,10 +1,25 @@
 [
   {
+    "id": "cbmiu0fvx3lxtfbrauh0zwzxqurzvlfqquplzu1totnwovoyzllwzjrvnzvutgposul1sml0tflttwlm",
+    "lab": "Mistral",
+    "title": "Mistral x Mozilla: Private, Multilingual AI Browsing",
+    "summary": "",
+    "date": "2026-09-16T08:00:12.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRaUh0ZWZXQURZVlFQQUplZU1tOTNwOVoyZllWZjRVNzVUTGpoSUl1Sml0TFltTWlmMnBFT2h6UUtIN2hPMHhMbHpWRlQ1d2w1RlBj?oc=5",
+    "tags": [
+      "mistral",
+      "mozilla",
+      "private",
+      "multilingual"
+    ]
+  },
+  {
     "id": "cbmigafbvv95cuxnrzu0ctlwnhctb0fiy092uvljzfh4umxsq2lpltdkveu2slrzvu12vzi2rgrywefq",
     "lab": "Mistral",
     "title": "Making sovereign, open-weight AI the technology frontier",
     "summary": "",
-    "date": "2026-09-15T10:55:09.000Z",
+    "date": "2026-09-16T04:06:21.000Z",
     "category": "model",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5",
     "tags": [
@@ -12,6 +27,100 @@
       "sovereign",
       "open",
       "weight"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-introducing-gemini-3-8-live-and-3-8-live-extended-thi",
+    "lab": "Google DeepMind",
+    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "summary": "",
+    "date": "2026-09-15T17:05:57.000Z",
+    "category": "model",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "tags": [
+      "live",
+      "gemini",
+      "extended",
+      "thinking"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-ibm-research-altk-evolve-consistency",
+    "lab": "Hugging Face",
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "summary": "",
+    "date": "2026-09-15T16:00:44.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "tags": [
+      "agent",
+      "aced",
+      "task",
+      "again"
+    ]
+  },
+  {
+    "id": "https-blog-google-innovation-and-ai-technology-ai-ai-for-societal-impact",
+    "lab": "Google DeepMind",
+    "title": "AI for Societal Impact",
+    "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+    "date": "2026-09-15T16:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif",
+    "tags": [
+      "societal",
+      "impact",
+      "explore",
+      "collection"
+    ]
+  },
+  {
+    "id": "https-blog-google-innovation-and-ai-technology-ai-ai-applications-science-people",
+    "lab": "Google DeepMind",
+    "title": "Building AI to accelerate science and improve lives",
+    "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
+    "date": "2026-09-15T16:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp",
+    "tags": [
+      "lives",
+      "building",
+      "accelerate",
+      "science"
+    ]
+  },
+  {
+    "id": "https-blog-google-innovation-and-ai-technology-ai-ai-for-every-language",
+    "lab": "Google DeepMind",
+    "title": "AI for everyone in every language",
+    "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+    "date": "2026-09-15T16:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp",
+    "tags": [
+      "everyone",
+      "every",
+      "language",
+      "moving"
+    ]
+  },
+  {
+    "id": "https-blog-google-innovation-and-ai-technology-ai-ai-economy-atlas-september-202",
+    "lab": "Google DeepMind",
+    "title": "New insights from Google’s AI & Economy ATLAS",
+    "summary": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
+    "date": "2026-09-15T13:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ATLAS-hero.max-600x600.format-webp.webp",
+    "tags": [
+      "atlas",
+      "insights",
+      "google",
+      "economy"
     ]
   },
   {
@@ -335,21 +444,6 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-ibm-research-ibm-releases-sota-granite-time-series",
-    "lab": "Hugging Face",
-    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-    "summary": "",
-    "date": "2026-09-09T15:36:24.000Z",
-    "category": "model",
-    "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-    "tags": [
-      "ibm",
-      "sota",
-      "granite",
-      "time"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-multiversecomputingcai-safety-for-whom",
     "lab": "Hugging Face",
     "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
@@ -365,19 +459,18 @@
     ]
   },
   {
-    "id": "https-deepmind-google-blog-alphagenome-atlas-a-predictive-map-of-every-possible-",
-    "lab": "Google DeepMind",
-    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-    "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
-    "date": "2026-09-08T14:00:15.000Z",
+    "id": "cbmiyaxbvv95cuxqv1lkehvotjk0mzdamg5dmuo5rtawnzhnwnpobdhxmgvjdlvfujc1aehhee14dknx",
+    "lab": "Anthropic",
+    "title": "Introducing Claude Design by Anthropic Labs",
+    "summary": "",
+    "date": "2026-09-07T17:00:18.000Z",
     "category": "feature",
-    "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-    "image": "https://lh3.googleusercontent.com/vOjFcTcdX2GCEB9yk-tJ7GAfyhTAMo-zW7scq3TrT9qk1mYw5qE0BdUqI8XQclMuUchZr7pYUFdVt3ZzrXc1NGFFJOqi7kIUX_QuAXZR7lkVzxjk=w528-h297-n-nu-rw-lo",
+    "url": "https://news.google.com/rss/articles/CBMiyAxBVV95cUxQV1lKeHVOTjk0MzdaMG5DMUo5RTAwNzhnWnpobDhXMGVjdlVFUjc1aEhHeE14dkNXdU95RFZlV012MEhIRU5OZHRxdUNLOUx6azV1a1QtbGhnTEhrTUxvM3hpbFowc3RTVkRzajVVZGFXOXJMVlVITFNhQ2xIRWVpYXpzVlBERjFFZERMTE0temJHb1k1ZHppUWxKeFgyWnFISDVyRGJFSlRoOTJhUk9mbWRIOF9tWnJZOXZ6WlZPNHpNSVJXWmk3aGxBSjlUcG5QUjROSURKeEFySVVLOVAtUUNnM0xzSTB5cHc2Rk85cWRMUUJDN245Wlh0X0xCSW1vckpEVHpGc0QxeHBrSVF6UDBiVlNPMEMtemVyUERsVmV4dHNJZVNJbXRONUxGdVRPOVFFUVIyNHN0aDM0NGlEajc5NkpkRGtXeXVkMjZzcmtNOXk3c3Y2UWpweWNwZ1BBTzg2TFd2ZGItYUQtaVRLMWJxdjJpdzJyWXBLeTlLYVBKdzVwVGswbTRqaFlNb1dYeFpFWEpzOWVlMzhlVnhpa1l3QUtobkNzcHJ5N1V6NWZWZ0ZXeDRfYUxMQkZKUGN5MS1HcHhfaUlvRWcyQ2VhOXFWU09ydS1FSjFuek5iMDVzTEtzcEVaN1VMd3dSMkpRbUsyY0t2M1NTM2k4ZjA2blhuZGZWc21vVlZWb1ZCSGg0VVNpTS1MQ0FZZXZqSzRyc1VBWC16c1ZDdlI5ZDlxRjZPRFFKT1BjUWtKenNhY2ZRQUc2dVg2TEVtZTRsRG1GV091a3NMV1p3X085dXhJNHJRaEVKVFJQQW9YczJvZ0VSR3pNOUV0bUhZczlQUmtzbXVVUzFwOU8zbzNZdlluSXBDT1l0RnhCeXdGMnd1aUs3R3dIVmlpNHhERUJHOF91QVFiSm9RZHNyTnZDTzBlOTZvcnNLbm1qOHJieVZqdVcwR0dGcXJfS2dEakoxQUh5aFBNNHRsTWdBbXdGdHVISkpYeW1JMEpScndqa3YxbS1yQVhZeTJxMm5LYzNZaHJFRzltYUJvTHdsVW9iU0FPT2o1Y2dZMl9iVjBMNHJtUkNianlPWlk2VlZzdDVtbTJaZnprWHJ0MmVqck1aek1TQ2RmZHFCNE80NUxxdXVwbzRpRU5aUXVVUFBOc3dDVDVzTnVxdmt5Q0MtRzBnbkN6bThJbWp5NW9ZSVY2TGhzeER5bXpRTGVzRUdmd3FvZTVlWEJPZXFhU09qWnExTmlrM0lBZWF1NFNDVTJnUFhTZFhjNy1FM2lmN21rX29pa0NvZ2c5UjBIbHJDS242TTJSVEZPTTBtNGo3QWR1ekVSenVxMjB2bDB0WVZkX21Rdm4zTjgyWjZHOVlQYVU5MEdZWmpXZGVoSVh3ODhmY0VSeVBFQ0tJZEhweUNzc3Jvd3F5NzZiU3V6Mmowd2l6TGcydmFkYS1NWWJIRS05LTBMM2xieWhuMmNqbVhJNzlXVFBWY3p6SThGTEMwU0VRX1F2Y05oNGFNVGZQQXo0Um1BWXNtMmpKNTJZSTVGd2I1WEtDcVhKSWdIcXJKbkNza1ZUZ2JENVZBaHNEQlh3Rk04aWZRWHc1Vk5ycF83NnpLRkVoQWRmQXMzNVl4U1JtU04wdTdKVjZvS2FQRWU0bGIzMVhsRWlXTHFrS3FNLUd2akxJbzNmb24xcHk1TUxtOXlrTFRwRlZaYmxRd1J5Y3h6R2dJTC1KWnFCSzFrb3RxTzVDWGd0WmdCV3RESTJaMmpZZ0I5ZHF4YmZfS29fZG9PNi1iQlp6b2h2alBxdUpSanRfelN2dHladGJOVWlFaTNQZldfaEp3UnhLRlA5c2R1Rk1KVTRMampfeV94T0VoeVRUcE5hNGFnYnZnNjYwVXZQd1pfSEowT01PYTZzNmFzMUstRGtJMDBTN0U0OXgwVldnZVpPT04xMUhocDZ2TU16dnhxd0xhZUhXaGlGZVgteld5N0Z4N3FnSW9lSks0M1lYb2ZaTTZWQV9MVkhLNFR6c29nd3loV0NLcVJRTTBmcXJOU1RKazVOUVJUNGlRckp0OVJvVXdDWmtfVUstUGJVakxGT0RKVEZ4WHNWaVN6QTY2NjQ4R1J0TDhsNnBleG9UZXZkTllPSXc?oc=5",
     "tags": [
-      "alphagenome",
-      "atlas",
-      "dna",
-      "letter"
+      "claude",
+      "design",
+      "anthropic",
+      "labs"
     ]
   },
   {
@@ -396,22 +489,6 @@
     ]
   },
   {
-    "id": "https-deepmind-google-blog-introducing-weathernext-3-our-most-advanced-and-accur",
-    "lab": "Google DeepMind",
-    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-    "summary": "",
-    "date": "2026-09-03T15:02:08.000Z",
-    "category": "model",
-    "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-    "image": "https://lh3.googleusercontent.com/I3SASQw4etgOOVbcWS0lr7J14HFqWcee_ln6M0TBOWlvVg2XYCi3kpz4eAi81cAkyq47YvgU1FLzAlaiCNMLcsx9sFA3ufURiSg76Yz8hVm1-u_fYEY=w528-h297-n-nu-rw-lo",
-    "tags": [
-      "weathernext",
-      "advanced",
-      "accurate",
-      "global"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-hcompany-neomme",
     "lab": "Hugging Face",
     "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
@@ -427,20 +504,6 @@
     ]
   },
   {
-    "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
-    "lab": "xAI",
-    "title": "Creators of Grok, the AI Chatbot",
-    "summary": "",
-    "date": "2026-09-03T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
-    "tags": [
-      "creators",
-      "grok",
-      "chatbot"
-    ]
-  },
-  {
     "id": "cbmitefvx3lxtfa2wxfzmfpxzfjgtulwr05tr3d2nfo2d3hrqlj0ufk0nxbkvw1qewnrnex2ylkzvljf",
     "lab": "xAI",
     "title": "Designing Grok Bot for a world of persistent agents",
@@ -453,6 +516,20 @@
       "grok",
       "bot",
       "world"
+    ]
+  },
+  {
+    "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
+    "lab": "xAI",
+    "title": "Creators of Grok, the AI Chatbot",
+    "summary": "",
+    "date": "2026-09-03T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
+    "tags": [
+      "creators",
+      "grok",
+      "chatbot"
     ]
   },
   {
@@ -515,51 +592,6 @@
     ]
   },
   {
-    "id": "https-deepmind-google-blog-proactive-cyber-defense-for-governments-and-enterpris",
-    "lab": "Google DeepMind",
-    "title": "Proactive cyber defense for governments and enterprises",
-    "summary": "",
-    "date": "2026-09-02T16:24:24.000Z",
-    "category": "feature",
-    "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-    "tags": [
-      "proactive",
-      "cyber",
-      "defense",
-      "governments"
-    ]
-  },
-  {
-    "id": "https-deepmind-google-blog-introducing-gemini-3-8-flash-and-38-flash-cyber",
-    "lab": "Google DeepMind",
-    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-    "summary": "",
-    "date": "2026-09-02T16:18:31.000Z",
-    "category": "model",
-    "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-    "tags": [
-      "flash",
-      "gemini",
-      "cyber"
-    ]
-  },
-  {
-    "id": "https-blog-google-innovation-and-ai-technology-safety-security-fairwind-program",
-    "lab": "Google DeepMind",
-    "title": "Proactive cyber defense for governments and enterprises",
-    "summary": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
-    "date": "2026-09-02T15:40:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp",
-    "tags": [
-      "cyber",
-      "defense",
-      "governments",
-      "program"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-allenai-benchmirt",
     "lab": "Hugging Face",
     "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
@@ -575,13 +607,13 @@
     ]
   },
   {
-    "id": "cbmiowjbvv95cuxpzwltculwmmnaz202etdob010zelzyvllmlfkmffoqu8wvwz0tevzukhzs2jqakv6",
+    "id": "cbmibkfvx3lxte8yv1o0cknzlxpgbevxutzqmf96dglpuxpseudhewpds1lrnjrfv2i2axfoytjqm2hk",
     "lab": "Anthropic",
     "title": "Developing Enterprise Frontier Safeguards with our customers",
     "summary": "",
     "date": "2026-09-01T07:00:00.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPZWltcUlwMmNaZ202eTdOb010ZElZYVllMlFKMFFOQU8wVWZ0TEVzUkhZS2JQakV6YlJWUUdPMkxtZGZhNTB5X0VtQ3ZrbWdXWV83aXU1aGRwMWxKRm1vMXQ5V1VmVWdNbmdwY29XMFJYTWI4T1QzUXhIdzJpeWkzSWZkMkJMQjg2T1FodUcyYk85NTFraklmQ3pUS1VIVGRFVHVtTWMtU055UVZUbGFMMHNMWDl4NnQzVDI0eERDd01sYnFVWUdGNE1JTUJWZ1l2Q1RoWFQ5OHQ5R29qNVRuYzZpRVhDVmU2QmZuNjVVNVVQRmRLQ19KWFJnTnVnSzh0bExFRk1kRzNIZnJ1WnBjc1VzM0JZY2diWUsxcmpqb3B5VGs?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yV1o0ckNzLXpGbEVxUTZqMF96dGlPUXpseUdheWpDS1lrNjRfV2I2aXFOYTJqM2hkSTNrNHU1UTJhZHU5d3hscUlkdGpyajBENkZQbmt3RzFVWEZUSzhWTkxqZ3oxb1FpLTRPOGlB?oc=5",
     "tags": [
       "developing",
       "enterprise",
@@ -676,20 +708,6 @@
     ]
   },
   {
-    "id": "cbmiv0fvx3lxte50eljwy0rlx2n5wvdeymfbvxy4d2vua0zzaxf4tjhnmzmxvdrssuhprvlilu9sqzvr",
-    "lab": "xAI",
-    "title": "Grok 4.6 on Microsoft Foundry",
-    "summary": "",
-    "date": "2026-08-26T07:00:00.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50elJwY0RLX2N5WVdEYmFBVXY4d2Vua0ZzaXF4TjhnMzMxVDRSSUhPRVlILU9sQzVRSU12d3Y5SlFyV3htZ29qUFc0S1I0VDVpMjVJZkVtaw?oc=5",
-    "tags": [
-      "grok",
-      "microsoft",
-      "foundry"
-    ]
-  },
-  {
     "id": "cbmitkfvx3lxte9wwkets2ngz19utfo2sgt3tehknmntz3plyujis1jzcxfkswpkqldqrfm3twpha25z",
     "lab": "xAI",
     "title": "Grok Bot is now included with more plans",
@@ -702,6 +720,20 @@
       "bot",
       "included",
       "plans"
+    ]
+  },
+  {
+    "id": "cbmiv0fvx3lxte50eljwy0rlx2n5wvdeymfbvxy4d2vua0zzaxf4tjhnmzmxvdrssuhprvlilu9sqzvr",
+    "lab": "xAI",
+    "title": "Grok 4.6 on Microsoft Foundry",
+    "summary": "",
+    "date": "2026-08-26T07:00:00.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50elJwY0RLX2N5WVdEYmFBVXY4d2Vua0ZzaXF4TjhnMzMxVDRSSUhPRVlILU9sQzVRSU12d3Y5SlFyV3htZ29qUFc0S1I0VDVpMjVJZkVtaw?oc=5",
+    "tags": [
+      "grok",
+      "microsoft",
+      "foundry"
     ]
   },
   {
@@ -816,17 +848,18 @@
     ]
   },
   {
-    "id": "cbmiu0fvx3lxte1qtmxwmtbnm015a1rpy25geuvay0dkq3budkzqveltmejqtuzryzlhr2vynkvotfhs",
+    "id": "cbmiu0fvx3lxte5ebxyyww90bmzsvw0wvdzcejjjtgrdy0lytxqyzmvyzu9evwnqczbzotzgqlnqww5l",
     "lab": "xAI",
-    "title": "Grok 4.6 on Amazon Bedrock",
+    "title": "Grok Build on web and mobile",
     "summary": "",
     "date": "2026-08-19T07:00:00.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QTmxWMTBnM015a1RPY25GeUVaY0dkQ3BudkZQVEltMEJqTUZrYzlHR2VYNkVoTFhsTmZ1RjBvMXRZa3p1QnpNTDd3eVk1VW93aW1J?oc=5",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EbXYyWW90bmZsVW0wVDZCejJJTGRDY0lYTXQyZmVYZU9EVWNQczBZOTZGQlNQWW5lV1pxYUFsNWdZV0haaFJXMkVfaVhPd2U5OVFB?oc=5",
     "tags": [
       "grok",
-      "amazon",
-      "bedrock"
+      "build",
+      "web",
+      "mobile"
     ]
   },
   {
@@ -855,35 +888,6 @@
     "tags": [
       "deepseek",
       "pro"
-    ]
-  },
-  {
-    "id": "cbmidkfvx3lxte9zbglwuwhirc1udxfgmzjhegzkumn6bhk4t3uxwe5um2try2xhuudtexzzq1zstxlv",
-    "lab": "Mistral",
-    "title": "In-region inference, open models, and new European infrastructure for sovereign AI.",
-    "summary": "",
-    "date": "2026-08-11T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zbGlwUWhiRC1udXFGMzJHeGZkUmN6bHk4T3UxWE5uM2trY2xhUUdTeXZzQ1ZSTXlvc3AzMWREczBUcjg0N1g4ZWdaSkJkVldfYWJ0SjR5cGFGMlFpdUpFTGNTS0EyVm45dllmc21TckJwT05IalE?oc=5",
-    "tags": [
-      "region",
-      "inference",
-      "open",
-      "models"
-    ]
-  },
-  {
-    "id": "cbmix0fvx3lxtfa4cfnywk9yckhor3hnstb4t3dkx1nlywi1nfbergnrvkpwtlozauzjogpemkxxbm1y",
-    "lab": "DeepSeek",
-    "title": "Markdown page example",
-    "summary": "",
-    "date": "2026-08-08T01:47:10.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4cFNYWk9yckhoR3hNSTB4T3dKX1NLYWI1NFBERGNrVkpWTlozaUZjOGpEMkxxbm1yZ0dFTlM3SmpIQlVFM3B5LVRPRkpKZDYzdWhPSUNMRkVFLS04T3VN?oc=5",
-    "tags": [
-      "markdown",
-      "page",
-      "example"
     ]
   }
 ]
