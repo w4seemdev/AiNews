@@ -1,32 +1,119 @@
 [
   {
-    "id": "cbmiu0fvx3lxtfbrauh0zwzxqurzvlfqquplzu1totnwovoyzllwzjrvnzvutgposul1sml0tflttwlm",
+    "id": "cbmidkfvx3lxte50qun0t29rve54yvhwzfbuy0vqbg41rdzyauvxaelhyue4svhwugxodzvksjlzeghi",
+    "lab": "DeepSeek",
+    "title": "Integrate with Qoder",
+    "summary": "",
+    "date": "2026-09-17T03:52:06.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50QUN0T29rVE54YVhwZFBUY0VQbG41RDZYaUVXaElhYUE4SVhwUGxodzVkSjlzeGhIQjFhUHlRTTdpcGgxQW1CeU04VW9EYVR6ZEc3VXotX3VsYVdBbzU4eFVWZW4ycDIyRkQ0MzRXX2ZFS2pqcUE?oc=5",
+    "tags": [
+      "integrate",
+      "qoder"
+    ]
+  },
+  {
+    "id": "cbmis0fvx3lxte1stwppufizuxexbhjkannltkl1otetm3djyzfecdc3ztmwcxrawvfjyuzvuulyuulo",
+    "lab": "xAI",
+    "title": "Memory in Grok Build",
+    "summary": "",
+    "date": "2026-09-16T18:56:55.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sTWppUFIzUXExbHJkanNLTkl1OTEtM3djYzFEcDc3ZTMwcXRaWVFJYUZVUUlyUUlOczBZLUtJV1hZa1NDdERySTAyZw?oc=5",
+    "tags": [
+      "memory",
+      "grok",
+      "build"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-model-misalignment-reporting-framework",
+    "lab": "OpenAI",
+    "title": "Our framework for reporting model misalignment",
+    "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+    "date": "2026-09-16T17:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/model-misalignment-reporting-framework",
+    "tags": [
+      "model",
+      "framework",
+      "misalignment",
+      "reporting"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-helping-older-adults-use-ai-in-everyday-life",
+    "lab": "OpenAI",
+    "title": "Helping older adults use AI in everyday life",
+    "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+    "date": "2026-09-16T16:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "tags": [
+      "older",
+      "adults",
+      "helping",
+      "everyday"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-reimagining-advertising-with-ai",
+    "lab": "OpenAI",
+    "title": "Reimagining advertising with AI",
+    "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+    "date": "2026-09-16T13:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/reimagining-advertising-with-ai",
+    "tags": [
+      "advertising",
+      "reimagining",
+      "explore",
+      "powered"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-how-to-connect-ai-usage-to-business-value",
+    "lab": "OpenAI",
+    "title": "How to connect AI usage to business value",
+    "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+    "date": "2026-09-16T12:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "tags": [
+      "connect",
+      "usage",
+      "business",
+      "value"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-unlocking-new-ways-of-working",
+    "lab": "OpenAI",
+    "title": "How workers are unlocking new ways of working",
+    "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+    "date": "2026-09-16T09:00:00.000Z",
+    "category": "research",
+    "url": "https://openai.com/index/unlocking-new-ways-of-working",
+    "tags": [
+      "workers",
+      "unlocking",
+      "ways",
+      "working"
+    ]
+  },
+  {
+    "id": "cbmivefvx3lxte1quxzcu1u0dnn2r2h5tjjuejzqy1prmtdhafjxm0xsbmp5vxk5mmhbanlmrg9ntehk",
     "lab": "Mistral",
     "title": "Mistral x Mozilla: Private, Multilingual AI Browsing",
     "summary": "",
     "date": "2026-09-16T08:00:12.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRaUh0ZWZXQURZVlFQQUplZU1tOTNwOVoyZllWZjRVNzVUTGpoSUl1Sml0TFltTWlmMnBFT2h6UUtIN2hPMHhMbHpWRlQ1d2w1RlBj?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qUXZCU1U0dnN2R2h5TjJuejZqY1prMTdHaFJXM0xSbmp5VXk5MmhBanlmRG9NTEhKdEtjNUJfMnhTcC1ub2t4Sm04S3o3SjB2YlI2VA?oc=5",
     "tags": [
       "mistral",
       "mozilla",
       "private",
       "multilingual"
-    ]
-  },
-  {
-    "id": "cbmigafbvv95cuxnrzu0ctlwnhctb0fiy092uvljzfh4umxsq2lpltdkveu2slrzvu12vzi2rgrywefq",
-    "lab": "Mistral",
-    "title": "Making sovereign, open-weight AI the technology frontier",
-    "summary": "",
-    "date": "2026-09-16T04:06:21.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5",
-    "tags": [
-      "making",
-      "sovereign",
-      "open",
-      "weight"
     ]
   },
   {
@@ -247,21 +334,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-put-data-to-work",
-    "lab": "OpenAI",
-    "title": "Now everyone can put data to work",
-    "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-    "date": "2026-09-10T15:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/put-data-to-work",
-    "tags": [
-      "data",
-      "work",
-      "everyone",
-      "put"
-    ]
-  },
-  {
     "id": "cbmivkfvx3lxte01nmpon3znztrgdxh2vwq3c0mwd19pb21kc0v5uflletzzbvf3dnboefzsv3rldvd5",
     "lab": "Mistral",
     "title": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
@@ -292,36 +364,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-introducing-chatgpt-financial-services",
-    "lab": "OpenAI",
-    "title": "Introducing ChatGPT for Financial Services",
-    "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-    "date": "2026-09-10T07:00:00.000Z",
-    "category": "research",
-    "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-    "tags": [
-      "financial",
-      "chatgpt",
-      "services",
-      "combining"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-expanding-ai-access-us-government",
-    "lab": "OpenAI",
-    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-    "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-    "date": "2026-09-10T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/expanding-ai-access-us-government",
-    "tags": [
-      "cyber",
-      "defense",
-      "federal",
-      "state"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-asyncgrpo-lora-hfjobs",
     "lab": "Hugging Face",
     "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
@@ -349,36 +391,6 @@
       "automatic1111",
       "gradio",
       "workflow"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-introducing-gpt-live-1-in-the-api",
-    "lab": "OpenAI",
-    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-    "date": "2026-09-10T00:00:00.000Z",
-    "category": "api",
-    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-    "tags": [
-      "natural",
-      "voice",
-      "gpt",
-      "live"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-introducing-the-agents-api",
-    "lab": "OpenAI",
-    "title": "Introducing the Agents API",
-    "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-    "date": "2026-09-10T00:00:00.000Z",
-    "category": "api",
-    "url": "https://openai.com/index/introducing-the-agents-api",
-    "tags": [
-      "agents",
-      "api",
-      "build",
-      "cloud"
     ]
   },
   {
@@ -459,6 +471,21 @@
     ]
   },
   {
+    "id": "cbmigafbvv95cuxnrzu0ctlwnhctb0fiy092uvljzfh4umxsq2lpltdkveu2slrzvu12vzi2rgrywefq",
+    "lab": "Mistral",
+    "title": "Making sovereign, open-weight AI the technology frontier",
+    "summary": "",
+    "date": "2026-09-08T05:15:43.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5",
+    "tags": [
+      "making",
+      "sovereign",
+      "open",
+      "weight"
+    ]
+  },
+  {
     "id": "cbmiyaxbvv95cuxqv1lkehvotjk0mzdamg5dmuo5rtawnzhnwnpobdhxmgvjdlvfujc1aehhee14dknx",
     "lab": "Anthropic",
     "title": "Introducing Claude Design by Anthropic Labs",
@@ -504,6 +531,20 @@
     ]
   },
   {
+    "id": "cbmiu0fvx3lxtfbns3uysvhhou9jovhuntleogduvvc3tnfhavdfchn4n24xcjg0a0wxrzzbuelrvuxr",
+    "lab": "xAI",
+    "title": "Grok Bot for Enterprise",
+    "summary": "",
+    "date": "2026-09-03T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNS3UySVhhOU9JOVhUNTlEOGduVVc3TnFHaVdfcHN4N24xcjg0a0wxRzZBUElRVUxRVGlpdmlKOE5zbjZHNFo1LS1mbldEdkRsRlZR?oc=5",
+    "tags": [
+      "grok",
+      "bot",
+      "enterprise"
+    ]
+  },
+  {
     "id": "cbmitefvx3lxtfa2wxfzmfpxzfjgtulwr05tr3d2nfo2d3hrqlj0ufk0nxbkvw1qewnrnex2ylkzvljf",
     "lab": "xAI",
     "title": "Designing Grok Bot for a world of persistent agents",
@@ -530,20 +571,6 @@
       "creators",
       "grok",
       "chatbot"
-    ]
-  },
-  {
-    "id": "cbmiu0fvx3lxtfbns3uysvhhou9jovhuntleogduvvc3tnfhavdfchn4n24xcjg0a0wxrzzbuelrvuxr",
-    "lab": "xAI",
-    "title": "Grok Bot for Enterprise",
-    "summary": "",
-    "date": "2026-09-03T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNS3UySVhhOU9JOVhUNTlEOGduVVc3TnFHaVdfcHN4N24xcjg0a0wxRzZBUElRVUxRVGlpdmlKOE5zbjZHNFo1LS1mbldEdkRsRlZR?oc=5",
-    "tags": [
-      "grok",
-      "bot",
-      "enterprise"
     ]
   },
   {
@@ -679,20 +706,6 @@
     ]
   },
   {
-    "id": "cbmicefvx3lxte1tc2jioxrysdb1z05hsi1udjkxn1uyzwfymhbxqzdpmtlrbxjivkp0q04tvffvx29f",
-    "lab": "Anthropic",
-    "title": "Expanding our support for scientists",
-    "summary": "",
-    "date": "2026-08-27T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Tc2JIOXRYSDB1Z05hSi1UdjkxN1UyZWFyMHBxQzdPMTlRbXJIVkp0Q04tVFFVX29fT3RUN2tMTEhTdlBQWmFyZlVMTTBVNVhhVFZiNXNsTnpncnFWZzE4R1I0d3ZjUTF5UmlhWG1FOEY?oc=5",
-    "tags": [
-      "expanding",
-      "support",
-      "scientists"
-    ]
-  },
-  {
     "id": "cbmie0fvx3lxte9mmzrtnjjirfhsynzymlbtqlnxtwzrre5vvzf4tnzoel9udxjsalpxuke4m1nxn3pn",
     "lab": "Anthropic",
     "title": "Previewing the Model Hardware Standard",
@@ -708,18 +721,17 @@
     ]
   },
   {
-    "id": "cbmitkfvx3lxte9wwkets2ngz19utfo2sgt3tehknmntz3plyujis1jzcxfkswpkqldqrfm3twpha25z",
-    "lab": "xAI",
-    "title": "Grok Bot is now included with more plans",
+    "id": "cbmicefvx3lxte1tc2jioxrysdb1z05hsi1udjkxn1uyzwfymhbxqzdpmtlrbxjivkp0q04tvffvx29f",
+    "lab": "Anthropic",
+    "title": "Expanding our support for scientists",
     "summary": "",
-    "date": "2026-08-26T07:00:00.000Z",
+    "date": "2026-08-27T07:00:00.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wWkEtS2NGZ19UTFo2SGt3TEhKNmNtZ3plYUJIS1JzcXFkSWpKQldqRFM3TWpHa25ZVFZzR3RqR252aFhoeE9Jd1FUNm9jZw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Tc2JIOXRYSDB1Z05hSi1UdjkxN1UyZWFyMHBxQzdPMTlRbXJIVkp0Q04tVFFVX29fT3RUN2tMTEhTdlBQWmFyZlVMTTBVNVhhVFZiNXNsTnpncnFWZzE4R1I0d3ZjUTF5UmlhWG1FOEY?oc=5",
     "tags": [
-      "grok",
-      "bot",
-      "included",
-      "plans"
+      "expanding",
+      "support",
+      "scientists"
     ]
   },
   {
@@ -734,6 +746,21 @@
       "grok",
       "microsoft",
       "foundry"
+    ]
+  },
+  {
+    "id": "cbmitkfvx3lxte9wwkets2ngz19utfo2sgt3tehknmntz3plyujis1jzcxfkswpkqldqrfm3twpha25z",
+    "lab": "xAI",
+    "title": "Grok Bot is now included with more plans",
+    "summary": "",
+    "date": "2026-08-26T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wWkEtS2NGZ19UTFo2SGt3TEhKNmNtZ3plYUJIS1JzcXFkSWpKQldqRFM3TWpHa25ZVFZzR3RqR252aFhoeE9Jd1FUNm9jZw?oc=5",
+    "tags": [
+      "grok",
+      "bot",
+      "included",
+      "plans"
     ]
   },
   {
@@ -848,21 +875,6 @@
     ]
   },
   {
-    "id": "cbmiu0fvx3lxte5ebxyyww90bmzsvw0wvdzcejjjtgrdy0lytxqyzmvyzu9evwnqczbzotzgqlnqww5l",
-    "lab": "xAI",
-    "title": "Grok Build on web and mobile",
-    "summary": "",
-    "date": "2026-08-19T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EbXYyWW90bmZsVW0wVDZCejJJTGRDY0lYTXQyZmVYZU9EVWNQczBZOTZGQlNQWW5lV1pxYUFsNWdZV0haaFJXMkVfaVhPd2U5OVFB?oc=5",
-    "tags": [
-      "grok",
-      "build",
-      "web",
-      "mobile"
-    ]
-  },
-  {
     "id": "cbmiykfvx3lxte8xmjz5ynd3tkptcuftrgzxaln0vuxktwrxsktrtkhsa1llv0w0ouphlxrywdkyagjv",
     "lab": "Anthropic",
     "title": "How Claude's text watermarking works",
@@ -875,19 +887,6 @@
       "text",
       "watermarking",
       "works"
-    ]
-  },
-  {
-    "id": "cbmiwkfvx3lxte1imwppqxq2qjbmcuwttlnfdtfky1nvqjv1ywcyennhajvnqm1uvuw0ni1vd1zmdti4",
-    "lab": "DeepSeek",
-    "title": "DeepSeek-V4-Pro GA Release",
-    "summary": "",
-    "date": "2026-08-13T07:00:00.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iMWppQXQ2QjBmcUwtTlNFdTFKY1NvQjV1YWcyenNHajVnQm1UVUw0Ni1Vd1ZMdTI4eUlEUDBOeEdPMlNTdVQteVpOQUdEZ1V6QVBEbjhvRXpuZw?oc=5",
-    "tags": [
-      "deepseek",
-      "pro"
     ]
   }
 ]
