@@ -1,5 +1,81 @@
 [
   {
+    "id": "cbmibefvx3lxte41ynfxehfucvffawncwvnqmju3ntvvcniyt0dttjffddk4dlrjwxhocm00bkvjt2tq",
+    "lab": "Anthropic",
+    "title": "Partnering with Accenture on embedded evaluation",
+    "summary": "",
+    "date": "2026-09-18T20:10:07.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41YnFXeHFUcVFFaWNCWVNqMjU3NTVVcnIyT0dtTjFfdDk4dlRJWXhocm00bkVjT2tqZ0RQMXphRktyT3lVUFo2Q0dOZEI0QkRkU3RJcnBLOEFvcTBhWEZlckprbURaVmRGWjk2Yg?oc=5",
+    "tags": [
+      "partnering",
+      "accenture",
+      "embedded",
+      "evaluation"
+    ]
+  },
+  {
+    "id": "cbmiu0fvx3lxte9lzwrvceluvvnqoe9pc0nomvi2suvstmvwmfuws1dgdxdkznl3d2rlshljzfp3blk3",
+    "lab": "xAI",
+    "title": "Introducing Grok Voice Transcribe 2.0",
+    "summary": "",
+    "date": "2026-09-18T17:38:34.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lZWRVcElUVVNQOE9Pc0NOMVI2SUVSTmVwMFUwS1dGdXdKZnl3d2RlSHljZFp3blk3Tmx3TXpvSHRFQ1RFYTcxdFpCRE5SZVZVdlRB?oc=5",
+    "tags": [
+      "grok",
+      "voice",
+      "transcribe"
+    ]
+  },
+  {
+    "id": "https-blog-google-innovation-and-ai-technology-ai-expanding-ai-economy-research-",
+    "lab": "Google DeepMind",
+    "title": "New experts join Google’s AI & Economy team",
+    "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+    "date": "2026-09-18T14:00:00.000Z",
+    "category": "research",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp",
+    "tags": [
+      "economy",
+      "team",
+      "experts",
+      "join"
+    ]
+  },
+  {
+    "id": "https-blog-google-innovation-and-ai-technology-ai-google-flow-fashion-week",
+    "lab": "Google DeepMind",
+    "title": "Co-creating the future of fashion with Google",
+    "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+    "date": "2026-09-18T13:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp",
+    "tags": [
+      "google",
+      "side",
+      "creating",
+      "future"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-australian-youth-safety-blueprint",
+    "lab": "OpenAI",
+    "title": "Introducing the Australian Youth Safety Blueprint",
+    "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+    "date": "2026-09-18T12:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/australian-youth-safety-blueprint",
+    "tags": [
+      "australian",
+      "youth",
+      "safety",
+      "blueprint"
+    ]
+  },
+  {
     "id": "https-blog-google-innovation-and-ai-technology-ai-google-un-data-commons-platfor",
     "lab": "Google DeepMind",
     "title": "Making global data easier to explore",
@@ -130,6 +206,21 @@
       "reimagining",
       "explore",
       "powered"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-hex-gpt-6-astra",
+    "lab": "OpenAI",
+    "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+    "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+    "date": "2026-09-16T12:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/hex-gpt-6-astra",
+    "tags": [
+      "hex",
+      "gpt",
+      "astra",
+      "turns"
     ]
   },
   {
@@ -319,52 +410,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-perplexity-improving-accuracy-with-astra",
-    "lab": "OpenAI",
-    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-    "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-    "date": "2026-09-14T00:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-    "tags": [
-      "perplexity",
-      "astra",
-      "end",
-      "systems"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-cognition-devin-testing-with-astra",
-    "lab": "OpenAI",
-    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-    "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-    "date": "2026-09-11T16:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-    "tags": [
-      "devin",
-      "test",
-      "gpt",
-      "astra"
-    ]
-  },
-  {
-    "id": "https-blog-google-products-and-platforms-products-search-running-race-training-t",
-    "lab": "Google DeepMind",
-    "title": "3 ways to prep for your next big race with Search",
-    "summary": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
-    "date": "2026-09-10T16:00:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Race_Running_Tips.max-600x600.format-webp.webp",
-    "tags": [
-      "race",
-      "search",
-      "ways",
-      "prep"
-    ]
-  },
-  {
     "id": "cbmivkfvx3lxte01nmpon3znztrgdxh2vwq3c0mwd19pb21kc0v5uflletzzbvf3dnboefzsv3rldvd5",
     "lab": "Mistral",
     "title": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
@@ -422,37 +467,6 @@
       "automatic1111",
       "gradio",
       "workflow"
-    ]
-  },
-  {
-    "id": "cbmigafbvv95cuxncvvuc004cms0owlhym9zanbnaxjvwdgtwhnrwghroetcsvg3advxcfbovu94unpj",
-    "lab": "Anthropic",
-    "title": "An alignment assessment of recent cybersecurity incidents",
-    "summary": "",
-    "date": "2026-09-09T19:13:44.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcVVuc004cms0OWlHYm9ZanBnaXJVWDgtWHNRWGhROEtCSVg3aDVxcFBoVU94UnpJVTV4cmhYVjRhUzFkMTFwNjljMVRiT0ZYR1Q2SW5VN2RET1hTbzJkdDB5aFJkV3kxVG1YYkZ3cVV4Z1VWak1lakQtMXJQOFhYXw?oc=5",
-    "tags": [
-      "alignment",
-      "assessment",
-      "recent",
-      "cybersecurity"
-    ]
-  },
-  {
-    "id": "https-blog-google-products-and-platforms-products-search-football-features-googl",
-    "lab": "Google DeepMind",
-    "title": "Get ready for the game with new football features in Search",
-    "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
-    "date": "2026-09-09T16:00:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp",
-    "tags": [
-      "get",
-      "game",
-      "search",
-      "ready"
     ]
   },
   {
@@ -516,6 +530,21 @@
     ]
   },
   {
+    "id": "cbmicefvx3lxte5fsnrjtfr6wlmzenr4b3oytgvqtw14xzrmrnvbckxurm90wwv4qxg5ekfwcw5vys0w",
+    "lab": "Anthropic",
+    "title": "Formalizing Fermat's Last Theorem",
+    "summary": "",
+    "date": "2026-09-04T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fSnRJTFR6WlMzenR4b3oyTGVqTW14XzRmRnVBckxURm90WWV4QXg5ekFwcW5vYS0wZWk3emV2b2toU2RDWE83eEVuV1lNYlRwblpqRGhrSmo1cDNtN1VGc21LWWlTR0lxWnV2SkZ5c3o?oc=5",
+    "tags": [
+      "formalizing",
+      "fermat",
+      "last",
+      "theorem"
+    ]
+  },
+  {
     "id": "cbmit0fvx3lxte5wnl8wvmq4etznvvdsmktrdmjpzmv3rmwxaldotevjutg0r2zntddbsjj1tgdornhn",
     "lab": "xAI",
     "title": "Setting Grok Bot loose on procurement",
@@ -546,21 +575,6 @@
     ]
   },
   {
-    "id": "cbmitefvx3lxtfa2wxfzmfpxzfjgtulwr05tr3d2nfo2d3hrqlj0ufk0nxbkvw1qewnrnex2ylkzvljf",
-    "lab": "xAI",
-    "title": "Designing Grok Bot for a world of persistent agents",
-    "summary": "",
-    "date": "2026-09-03T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2WXFzMFpXZFJGTUlWR05TR3d2NFo2d3hRQlJ0UFk0NXBkVW1QeWNrNEx2YlkzVlJfNWVjZHE5aWd3UnhIQzFrdmo0ZVM?oc=5",
-    "tags": [
-      "designing",
-      "grok",
-      "bot",
-      "world"
-    ]
-  },
-  {
     "id": "cbmiu0fvx3lxtfbns3uysvhhou9jovhuntleogduvvc3tnfhavdfchn4n24xcjg0a0wxrzzbuelrvuxr",
     "lab": "xAI",
     "title": "Grok Bot for Enterprise",
@@ -575,17 +589,18 @@
     ]
   },
   {
-    "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
+    "id": "cbmitefvx3lxtfa2wxfzmfpxzfjgtulwr05tr3d2nfo2d3hrqlj0ufk0nxbkvw1qewnrnex2ylkzvljf",
     "lab": "xAI",
-    "title": "Creators of Grok, the AI Chatbot",
+    "title": "Designing Grok Bot for a world of persistent agents",
     "summary": "",
     "date": "2026-09-03T07:00:00.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2WXFzMFpXZFJGTUlWR05TR3d2NFo2d3hRQlJ0UFk0NXBkVW1QeWNrNEx2YlkzVlJfNWVjZHE5aWd3UnhIQzFrdmo0ZVM?oc=5",
     "tags": [
-      "creators",
+      "designing",
       "grok",
-      "chatbot"
+      "bot",
+      "world"
     ]
   },
   {
@@ -804,19 +819,6 @@
     "tags": [
       "mistral",
       "humain"
-    ]
-  },
-  {
-    "id": "cbmiwkfvx3lxte9zcljlsmdzz0std1y1sjrgtlhkmmhwaux0yxhxt2zrwunysgjebxm5wglobu1rdi1p",
-    "lab": "DeepSeek",
-    "title": "Upload File",
-    "summary": "",
-    "date": "2026-08-21T12:46:46.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zclJLSmdzZ0std1Y1SjRGTlhKMmhWaUx0YXhxT2ZRWUNySGJEbXM5WGlObU1Rdi1pZVUyS3R1Q1JIaHE1NjE5b2owVlo0YkQ1eFhuMXI4dm12UQ?oc=5",
-    "tags": [
-      "upload",
-      "file"
     ]
   },
   {
