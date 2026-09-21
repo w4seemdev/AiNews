@@ -136,19 +136,6 @@
     ]
   },
   {
-    "id": "cbmidkfvx3lxte50qun0t29rve54yvhwzfbuy0vqbg41rdzyauvxaelhyue4svhwugxodzvksjlzeghi",
-    "lab": "DeepSeek",
-    "title": "Integrate with Qoder",
-    "summary": "",
-    "date": "2026-09-17T03:52:06.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50QUN0T29rVE54YVhwZFBUY0VQbG41RDZYaUVXaElhYUE4SVhwUGxodzVkSjlzeGhIQjFhUHlRTTdpcGgxQW1CeU04VW9EYVR6ZEc3VXotX3VsYVdBbzU4eFVWZW4ycDIyRkQ0MzRXX2ZFS2pqcUE?oc=5",
-    "tags": [
-      "integrate",
-      "qoder"
-    ]
-  },
-  {
     "id": "https-openai-com-index-astra-for-law",
     "lab": "OpenAI",
     "title": "Introducing Astra for Law",
@@ -428,7 +415,7 @@
     "lab": "Mistral",
     "title": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
     "summary": "",
-    "date": "2026-09-10T11:04:33.000Z",
+    "date": "2026-09-10T07:00:00.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01NmpON3ZnZTRGdXh2VWQ3c0Mwd19Pb21Kc0V5UFlLeTZzbVF3dnBOeFZSV3RldVd5cm5tSF94SUxMWV9EaGh0LXRqWkFkSHN1NkpadzZn?oc=5",
     "tags": [
@@ -834,13 +821,13 @@
     ]
   },
   {
-    "id": "cbmiwkfvx3lxte9zcljlsmdzz0std1y1sjrgtlhkmmhwaux0yxhxt2zrwunysgjebxm5wglobu1rdi1p",
+    "id": "cbmiwefvx3lxte0xm0fuddm3vulsr0yysxg0zllfdkrvyzvrm0l5u0dir29xewflti01s1rwujltvfmy",
     "lab": "DeepSeek",
     "title": "Upload File",
     "summary": "",
     "date": "2026-08-21T12:46:46.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zclJLSmdzZ0std1Y1SjRGTlhKMmhWaUx0YXhxT2ZRWUNySGJEbXM5WGlObU1Rdi1pZVUyS3R1Q1JIaHE1NjE5b2owVlo0YkQ1eFhuMXI4dm12UQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xM0FUdDM3VUlsR0YySXg0ZllFdkRvYzVrM0l5U0dIR29xeWFlTi01S1RwUjltVFMycl9lc2dsVko0N2VPOTJRZlE1YmZzQ2J5eUw4NzBtR2w?oc=5",
     "tags": [
       "upload",
       "file"
@@ -872,18 +859,33 @@
     ]
   },
   {
-    "id": "cbmiwefvx3lxtfbwskj5ujqyage2qzhnre9mc0jcb3j5m2ftdk5od3jjtegtuudez0nrbfbnngjpa0fe",
+    "id": "cbmiwkfvx3lxtfbxdul6dnjodejirgnhsmdqwlcydkvqa2xdtejwdkdus2pmt1lorty1nktvt3lrrkjj",
     "lab": "DeepSeek",
     "title": "DeepSeek-V4-Flash-Vision-Exp Release: Multimodal API Now Live",
     "summary": "",
     "date": "2026-08-21T07:00:00.000Z",
     "category": "api",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWSkJ5UjQyaGE2QzhnRE9mc0JCb3J5M2FTdk5od3JJTEgtUUdEZ0NrbFBnNGJpa0FEd1BMSFloVks1Y24ycEROcGRramZDaHdnR0lSSUVjYko?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxdUl6dnJOdEJIRGNHSmdqWlcydkVqa2xDTEJwdkdUS2pMT1loRTY1NktVT3lrRkJJcUV3LUh0ZUxEWklSc0NuZ1cyQksxRzJiZFpqOVRQV3lzZw?oc=5",
     "tags": [
       "deepseek",
       "flash",
       "vision",
       "exp"
+    ]
+  },
+  {
+    "id": "cbmiuefvx3lxte5pwulinnhhz3b2dnu0dng5c2jqz01fmjk0ukn5vm8xnlzmvhaycs1svmznb3u2rdd1",
+    "lab": "Mistral",
+    "title": "Agentic Search. More accurate and efficient results from your AI systems.",
+    "summary": "",
+    "date": "2026-08-20T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PWUlINnhhZ3B2dnU0dng5c2JQZ01fMjk0UkN5Vm8xNlZmVHAycS1SVmZnb3U2RDd1Mm1SaGdvcVUxYzE4SDk0bjlRVWxVazF3?oc=5",
+    "tags": [
+      "agentic",
+      "search",
+      "accurate",
+      "efficient"
     ]
   }
 ]
