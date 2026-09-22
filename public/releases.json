@@ -1,5 +1,152 @@
 [
   {
+    "id": "https-huggingface-co-blog-transformers-llama-cpp-quants",
+    "lab": "Hugging Face",
+    "title": "Transformers now runs llama.cpp quants",
+    "summary": "",
+    "date": "2026-09-22T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+    "tags": [
+      "transformers",
+      "runs",
+      "llama",
+      "cpp"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-omlx",
+    "lab": "Hugging Face",
+    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+    "summary": "",
+    "date": "2026-09-22T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/omlx",
+    "tags": [
+      "jun",
+      "kim",
+      "omlx",
+      "creator"
+    ]
+  },
+  {
+    "id": "cbmip0fvx3lxtfbqb2x1bzq3ukxtvdfcuvrjodmzbdj5ytg3nmh5q2luzgdutmctzmo1ukp4c3rvduhf",
+    "lab": "xAI",
+    "title": "Introducing Grok 4.7",
+    "summary": "",
+    "date": "2026-09-21T15:48:09.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBqb2x1bzQ3UkxTVDFCUVRjODMzbDJ5YTg3Nmh5Q2luZGdUTmctZmo1Ukp4c3RVdUhfSGZFc1p5SQ?oc=5",
+    "tags": [
+      "grok"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-multiversecomputingcai-pruning-llms-like-a-physicist-b",
+    "lab": "Hugging Face",
+    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+    "summary": "",
+    "date": "2026-09-21T13:44:34.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+    "tags": [
+      "pruning",
+      "llms",
+      "like",
+      "physicist"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-advisory-group-on-mathematics-and-ai",
+    "lab": "OpenAI",
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+    "date": "2026-09-21T12:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "tags": [
+      "advisory",
+      "group",
+      "mathematics",
+      "artificial"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-higgsfield-from-prompt-to-production-with-astra",
+    "lab": "OpenAI",
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+    "date": "2026-09-21T12:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "tags": [
+      "higgsfield",
+      "video",
+      "gpt",
+      "astra"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-building-standards-next-phase-ai",
+    "lab": "OpenAI",
+    "title": "Building standards for the next phase of AI",
+    "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+    "date": "2026-09-21T10:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/building-standards-next-phase-ai",
+    "tags": [
+      "standards",
+      "building",
+      "next",
+      "phase"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-expanding-openai-academy-with-new-learning-paths",
+    "lab": "OpenAI",
+    "title": "Expanding OpenAI Academy with new learning paths",
+    "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+    "date": "2026-09-21T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+    "tags": [
+      "openai",
+      "academy",
+      "learning",
+      "paths"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-tokenizers-v1",
+    "lab": "Hugging Face",
+    "title": "tokenizers v1: encode, decode and scaling, measured",
+    "summary": "",
+    "date": "2026-09-21T00:00:00.000Z",
+    "category": "model",
+    "url": "https://huggingface.co/blog/tokenizers-v1",
+    "tags": [
+      "tokenizers",
+      "encode",
+      "decode",
+      "scaling"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-v7",
+    "lab": "OpenAI",
+    "title": "How V7 gives AI agents institutional memory",
+    "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+    "date": "2026-09-21T00:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/v7",
+    "tags": [
+      "agents",
+      "gives",
+      "institutional",
+      "memory"
+    ]
+  },
+  {
     "id": "cbmibefvx3lxte41ynfxehfucvffawncwvnqmju3ntvvcniyt0dttjffddk4dlrjwxhocm00bkvjt2tq",
     "lab": "Anthropic",
     "title": "Partnering with Accenture on embedded evaluation",
@@ -73,20 +220,6 @@
       "youth",
       "safety",
       "blueprint"
-    ]
-  },
-  {
-    "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
-    "lab": "xAI",
-    "title": "Creators of Grok, the AI Chatbot",
-    "summary": "",
-    "date": "2026-09-18T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
-    "tags": [
-      "creators",
-      "grok",
-      "chatbot"
     ]
   },
   {
@@ -192,66 +325,6 @@
       "adults",
       "helping",
       "everyday"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-reimagining-advertising-with-ai",
-    "lab": "OpenAI",
-    "title": "Reimagining advertising with AI",
-    "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-    "date": "2026-09-16T13:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/reimagining-advertising-with-ai",
-    "tags": [
-      "advertising",
-      "reimagining",
-      "explore",
-      "powered"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-hex-gpt-6-astra",
-    "lab": "OpenAI",
-    "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-    "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
-    "date": "2026-09-16T12:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/hex-gpt-6-astra",
-    "tags": [
-      "hex",
-      "gpt",
-      "astra",
-      "turns"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-how-to-connect-ai-usage-to-business-value",
-    "lab": "OpenAI",
-    "title": "How to connect AI usage to business value",
-    "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-    "date": "2026-09-16T12:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-    "tags": [
-      "connect",
-      "usage",
-      "business",
-      "value"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-unlocking-new-ways-of-working",
-    "lab": "OpenAI",
-    "title": "How workers are unlocking new ways of working",
-    "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-    "date": "2026-09-16T09:00:00.000Z",
-    "category": "research",
-    "url": "https://openai.com/index/unlocking-new-ways-of-working",
-    "tags": [
-      "workers",
-      "unlocking",
-      "ways",
-      "working"
     ]
   },
   {
@@ -396,21 +469,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-fyxer",
-    "lab": "OpenAI",
-    "title": "How Fyxer built an AI executive assistant people trust",
-    "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-    "date": "2026-09-14T12:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/fyxer",
-    "tags": [
-      "fyxer",
-      "user",
-      "built",
-      "executive"
-    ]
-  },
-  {
     "id": "cbmivkfvx3lxte01nmpon3znztrgdxh2vwq3c0mwd19pb21kc0v5uflletzzbvf3dnboefzsv3rldvd5",
     "lab": "Mistral",
     "title": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
@@ -486,21 +544,6 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-multiversecomputingcai-safety-for-whom",
-    "lab": "Hugging Face",
-    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-    "summary": "",
-    "date": "2026-09-08T14:23:07.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-    "tags": [
-      "topic",
-      "safety",
-      "whom",
-      "refusing"
-    ]
-  },
-  {
     "id": "cbmigafbvv95cuxnrzu0ctlwnhctb0fiy092uvljzfh4umxsq2lpltdkveu2slrzvu12vzi2rgrywefq",
     "lab": "Mistral",
     "title": "Making sovereign, open-weight AI the technology frontier",
@@ -513,6 +556,21 @@
       "sovereign",
       "open",
       "weight"
+    ]
+  },
+  {
+    "id": "cbmiyaxbvv95cuxqv1lkehvotjk0mzdamg5dmuo5rtawnzhnwnpobdhxmgvjdlvfujc1aehhee14dknx",
+    "lab": "Anthropic",
+    "title": "Introducing Claude Design by Anthropic Labs",
+    "summary": "",
+    "date": "2026-09-07T17:00:18.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiyAxBVV95cUxQV1lKeHVOTjk0MzdaMG5DMUo5RTAwNzhnWnpobDhXMGVjdlVFUjc1aEhHeE14dkNXdU95RFZlV012MEhIRU5OZHRxdUNLOUx6azV1a1QtbGhnTEhrTUxvM3hpbFowc3RTVkRzajVVZGFXOXJMVlVITFNhQ2xIRWVpYXpzVlBERjFFZERMTE0temJHb1k1ZHppUWxKeFgyWnFISDVyRGJFSlRoOTJhUk9mbWRIOF9tWnJZOXZ6WlZPNHpNSVJXWmk3aGxBSjlUcG5QUjROSURKeEFySVVLOVAtUUNnM0xzSTB5cHc2Rk85cWRMUUJDN245Wlh0X0xCSW1vckpEVHpGc0QxeHBrSVF6UDBiVlNPMEMtemVyUERsVmV4dHNJZVNJbXRONUxGdVRPOVFFUVIyNHN0aDM0NGlEajc5NkpkRGtXeXVkMjZzcmtNOXk3c3Y2UWpweWNwZ1BBTzg2TFd2ZGItYUQtaVRLMWJxdjJpdzJyWXBLeTlLYVBKdzVwVGswbTRqaFlNb1dYeFpFWEpzOWVlMzhlVnhpa1l3QUtobkNzcHJ5N1V6NWZWZ0ZXeDRfYUxMQkZKUGN5MS1HcHhfaUlvRWcyQ2VhOXFWU09ydS1FSjFuek5iMDVzTEtzcEVaN1VMd3dSMkpRbUsyY0t2M1NTM2k4ZjA2blhuZGZWc21vVlZWb1ZCSGg0VVNpTS1MQ0FZZXZqSzRyc1VBWC16c1ZDdlI5ZDlxRjZPRFFKT1BjUWtKenNhY2ZRQUc2dVg2TEVtZTRsRG1GV091a3NMV1p3X085dXhJNHJRaEVKVFJQQW9YczJvZ0VSR3pNOUV0bUhZczlQUmtzbXVVUzFwOU8zbzNZdlluSXBDT1l0RnhCeXdGMnd1aUs3R3dIVmlpNHhERUJHOF91QVFiSm9RZHNyTnZDTzBlOTZvcnNLbm1qOHJieVZqdVcwR0dGcXJfS2dEakoxQUh5aFBNNHRsTWdBbXdGdHVISkpYeW1JMEpScndqa3YxbS1yQVhZeTJxMm5LYzNZaHJFRzltYUJvTHdsVW9iU0FPT2o1Y2dZMl9iVjBMNHJtUkNianlPWlk2VlZzdDVtbTJaZnprWHJ0MmVqck1aek1TQ2RmZHFCNE80NUxxdXVwbzRpRU5aUXVVUFBOc3dDVDVzTnVxdmt5Q0MtRzBnbkN6bThJbWp5NW9ZSVY2TGhzeER5bXpRTGVzRUdmd3FvZTVlWEJPZXFhU09qWnExTmlrM0lBZWF1NFNDVTJnUFhTZFhjNy1FM2lmN21rX29pa0NvZ2c5UjBIbHJDS242TTJSVEZPTTBtNGo3QWR1ekVSenVxMjB2bDB0WVZkX21Rdm4zTjgyWjZHOVlQYVU5MEdZWmpXZGVoSVh3ODhmY0VSeVBFQ0tJZEhweUNzc3Jvd3F5NzZiU3V6Mmowd2l6TGcydmFkYS1NWWJIRS05LTBMM2xieWhuMmNqbVhJNzlXVFBWY3p6SThGTEMwU0VRX1F2Y05oNGFNVGZQQXo0Um1BWXNtMmpKNTJZSTVGd2I1WEtDcVhKSWdIcXJKbkNza1ZUZ2JENVZBaHNEQlh3Rk04aWZRWHc1Vk5ycF83NnpLRkVoQWRmQXMzNVl4U1JtU04wdTdKVjZvS2FQRWU0bGIzMVhsRWlXTHFrS3FNLUd2akxJbzNmb24xcHk1TUxtOXlrTFRwRlZaYmxRd1J5Y3h6R2dJTC1KWnFCSzFrb3RxTzVDWGd0WmdCV3RESTJaMmpZZ0I5ZHF4YmZfS29fZG9PNi1iQlp6b2h2alBxdUpSanRfelN2dHladGJOVWlFaTNQZldfaEp3UnhLRlA5c2R1Rk1KVTRMampfeV94T0VoeVRUcE5hNGFnYnZnNjYwVXZQd1pfSEowT01PYTZzNmFzMUstRGtJMDBTN0U0OXgwVldnZVpPT04xMUhocDZ2TU16dnhxd0xhZUhXaGlGZVgteld5N0Z4N3FnSW9lSks0M1lYb2ZaTTZWQV9MVkhLNFR6c29nd3loV0NLcVJRTTBmcXJOU1RKazVOUVJUNGlRckp0OVJvVXdDWmtfVUstUGJVakxGT0RKVEZ4WHNWaVN6QTY2NjQ4R1J0TDhsNnBleG9UZXZkTllPSXc?oc=5",
+    "tags": [
+      "claude",
+      "design",
+      "anthropic",
+      "labs"
     ]
   },
   {
@@ -620,36 +678,6 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-train-to-paint-with-code",
-    "lab": "Hugging Face",
-    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-    "summary": "",
-    "date": "2026-09-03T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/train-to-paint-with-code",
-    "tags": [
-      "training",
-      "coding",
-      "model",
-      "paint"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-allenai-benchmirt",
-    "lab": "Hugging Face",
-    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-    "summary": "",
-    "date": "2026-09-01T21:39:07.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/allenai/benchmirt",
-    "tags": [
-      "benchmirt",
-      "llm",
-      "benchmarks",
-      "actually"
-    ]
-  },
-  {
     "id": "cbmibkfvx3lxte8yv1o0cknzlxpgbevxutzqmf96dglpuxpseudhewpds1lrnjrfv2i2axfoytjqm2hk",
     "lab": "Anthropic",
     "title": "Developing Enterprise Frontier Safeguards with our customers",
@@ -675,21 +703,6 @@
     "tags": [
       "biosecurity",
       "frontier"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-webgpu-kernels",
-    "lab": "Hugging Face",
-    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-    "summary": "",
-    "date": "2026-09-01T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/webgpu-kernels",
-    "tags": [
-      "kernels",
-      "huggingface",
-      "webgpu",
-      "local"
     ]
   },
   {
@@ -871,21 +884,6 @@
       "flash",
       "vision",
       "exp"
-    ]
-  },
-  {
-    "id": "cbmiuefvx3lxte5pwulinnhhz3b2dnu0dng5c2jqz01fmjk0ukn5vm8xnlzmvhaycs1svmznb3u2rdd1",
-    "lab": "Mistral",
-    "title": "Agentic Search. More accurate and efficient results from your AI systems.",
-    "summary": "",
-    "date": "2026-08-20T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PWUlINnhhZ3B2dnU0dng5c2JQZ01fMjk0UkN5Vm8xNlZmVHAycS1SVmZnb3U2RDd1Mm1SaGdvcVUxYzE4SDk0bjlRVWxVazF3?oc=5",
-    "tags": [
-      "agentic",
-      "search",
-      "accurate",
-      "efficient"
     ]
   }
 ]
