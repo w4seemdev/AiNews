@@ -1,5 +1,80 @@
 [
   {
+    "id": "https-openai-com-index-better-prompt-caching-for-gpt-6",
+    "lab": "OpenAI",
+    "title": "Better prompt caching for GPT-6",
+    "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+    "date": "2026-09-22T21:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "tags": [
+      "prompt",
+      "caching",
+      "gpt",
+      "better"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-introducing-gpt-6-sol-and-luna",
+    "lab": "OpenAI",
+    "title": "Introducing GPT-6 Sol and Luna",
+    "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+    "date": "2026-09-22T18:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "tags": [
+      "gpt",
+      "sol",
+      "luna",
+      "meet"
+    ]
+  },
+  {
+    "id": "cbmivkfvx3lxte43avl1aknmbudsc3v3rxdmbnldrwflsepestitltq5aevsdvq2x1ncb0duuwztvkoz",
+    "lab": "xAI",
+    "title": "How SpaceXAI is using Grok Bot to scale customer support",
+    "summary": "",
+    "date": "2026-09-22T17:57:12.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43aVl1akNMbUdsc3V3RXdMbnlDRWFlSEpESTItLTQ5aEVsdVQ2X1NCb0duUWZTVkozVDhOd21KWEg4YlU3RE5fQWp2YnV4ZUFmaUVxRGV3?oc=5",
+    "tags": [
+      "spacexai",
+      "grok",
+      "bot",
+      "scale"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-parallel-cuts-time-and-cost-with-astra",
+    "lab": "OpenAI",
+    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+    "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+    "date": "2026-09-22T12:00:00.000Z",
+    "category": "research",
+    "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+    "tags": [
+      "half",
+      "parallel",
+      "research",
+      "time"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-evaleval-aisi",
+    "lab": "Hugging Face",
+    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+    "summary": "",
+    "date": "2026-09-22T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/evaleval-aisi",
+    "tags": [
+      "aisi",
+      "evaleval",
+      "making",
+      "benchmark"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-transformers-llama-cpp-quants",
     "lab": "Hugging Face",
     "title": "Transformers now runs llama.cpp quants",
@@ -30,6 +105,21 @@
     ]
   },
   {
+    "id": "https-openai-com-index-priorities-principles-third-party-assessments",
+    "lab": "OpenAI",
+    "title": "Priorities and principles for effective third party assessments",
+    "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+    "date": "2026-09-22T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+    "tags": [
+      "priorities",
+      "principles",
+      "third",
+      "party"
+    ]
+  },
+  {
     "id": "cbmip0fvx3lxtfbqb2x1bzq3ukxtvdfcuvrjodmzbdj5ytg3nmh5q2luzgdutmctzmo1ukp4c3rvduhf",
     "lab": "xAI",
     "title": "Introducing Grok 4.7",
@@ -57,21 +147,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-advisory-group-on-mathematics-and-ai",
-    "lab": "OpenAI",
-    "title": "Advisory Group on Mathematics and Artificial Intelligence",
-    "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-    "date": "2026-09-21T12:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-    "tags": [
-      "advisory",
-      "group",
-      "mathematics",
-      "artificial"
-    ]
-  },
-  {
     "id": "https-openai-com-index-higgsfield-from-prompt-to-production-with-astra",
     "lab": "OpenAI",
     "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
@@ -84,6 +159,21 @@
       "video",
       "gpt",
       "astra"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-advisory-group-on-mathematics-and-ai",
+    "lab": "OpenAI",
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+    "date": "2026-09-21T12:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "tags": [
+      "advisory",
+      "group",
+      "mathematics",
+      "artificial"
     ]
   },
   {
@@ -114,6 +204,20 @@
       "academy",
       "learning",
       "paths"
+    ]
+  },
+  {
+    "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
+    "lab": "xAI",
+    "title": "Creators of Grok, the AI Chatbot",
+    "summary": "",
+    "date": "2026-09-21T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
+    "tags": [
+      "creators",
+      "grok",
+      "chatbot"
     ]
   },
   {
@@ -254,36 +358,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-cooley-gopublic",
-    "lab": "OpenAI",
-    "title": "How Cooley is accelerating IPO work with ChatGPT",
-    "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
-    "date": "2026-09-17T12:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/cooley-gopublic",
-    "tags": [
-      "cooley",
-      "ipo",
-      "work",
-      "chatgpt"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-astra-for-law",
-    "lab": "OpenAI",
-    "title": "Introducing Astra for Law",
-    "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
-    "date": "2026-09-17T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/astra-for-law",
-    "tags": [
-      "law",
-      "legal",
-      "astra",
-      "openai"
-    ]
-  },
-  {
     "id": "cbmis0fvx3lxte1stwppufizuxexbhjkannltkl1otetm3djyzfecdc3ztmwcxrawvfjyuzvuulyuulo",
     "lab": "xAI",
     "title": "Memory in Grok Build",
@@ -295,36 +369,6 @@
       "memory",
       "grok",
       "build"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-model-misalignment-reporting-framework",
-    "lab": "OpenAI",
-    "title": "Our framework for reporting model misalignment",
-    "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-    "date": "2026-09-16T17:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/model-misalignment-reporting-framework",
-    "tags": [
-      "model",
-      "framework",
-      "misalignment",
-      "reporting"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-helping-older-adults-use-ai-in-everyday-life",
-    "lab": "OpenAI",
-    "title": "Helping older adults use AI in everyday life",
-    "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
-    "date": "2026-09-16T16:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-    "tags": [
-      "older",
-      "adults",
-      "helping",
-      "everyday"
     ]
   },
   {
@@ -574,21 +618,6 @@
     ]
   },
   {
-    "id": "cbmicefvx3lxte5fsnrjtfr6wlmzenr4b3oytgvqtw14xzrmrnvbckxurm90wwv4qxg5ekfwcw5vys0w",
-    "lab": "Anthropic",
-    "title": "Formalizing Fermat's Last Theorem",
-    "summary": "",
-    "date": "2026-09-04T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fSnRJTFR6WlMzenR4b3oyTGVqTW14XzRmRnVBckxURm90WWV4QXg5ekFwcW5vYS0wZWk3emV2b2toU2RDWE83eEVuV1lNYlRwblpqRGhrSmo1cDNtN1VGc21LWWlTR0lxWnV2SkZ5c3o?oc=5",
-    "tags": [
-      "formalizing",
-      "fermat",
-      "last",
-      "theorem"
-    ]
-  },
-  {
     "id": "cbmit0fvx3lxte5wnl8wvmq4etznvvdsmktrdmjpzmv3rmwxaldotevjutg0r2zntddbsjj1tgdornhn",
     "lab": "xAI",
     "title": "Setting Grok Bot loose on procurement",
@@ -660,21 +689,6 @@
       "tuning",
       "model",
       "better"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-funes",
-    "lab": "Hugging Face",
-    "title": "Give Your Coding Agents a Memory You Own",
-    "summary": "",
-    "date": "2026-09-03T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/funes",
-    "tags": [
-      "give",
-      "coding",
-      "agents",
-      "memory"
     ]
   },
   {
@@ -761,35 +775,6 @@
       "model",
       "hardware",
       "standard"
-    ]
-  },
-  {
-    "id": "cbmiv0fvx3lxte50eljwy0rlx2n5wvdeymfbvxy4d2vua0zzaxf4tjhnmzmxvdrssuhprvlilu9sqzvr",
-    "lab": "xAI",
-    "title": "Grok 4.6 on Microsoft Foundry",
-    "summary": "",
-    "date": "2026-08-26T07:00:00.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50elJwY0RLX2N5WVdEYmFBVXY4d2Vua0ZzaXF4TjhnMzMxVDRSSUhPRVlILU9sQzVRSU12d3Y5SlFyV3htZ29qUFc0S1I0VDVpMjVJZkVtaw?oc=5",
-    "tags": [
-      "grok",
-      "microsoft",
-      "foundry"
-    ]
-  },
-  {
-    "id": "cbmitkfvx3lxte9wwkets2ngz19utfo2sgt3tehknmntz3plyujis1jzcxfkswpkqldqrfm3twpha25z",
-    "lab": "xAI",
-    "title": "Grok Bot is now included with more plans",
-    "summary": "",
-    "date": "2026-08-26T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wWkEtS2NGZ19UTFo2SGt3TEhKNmNtZ3plYUJIS1JzcXFkSWpKQldqRFM3TWpHa25ZVFZzR3RqR252aFhoeE9Jd1FUNm9jZw?oc=5",
-    "tags": [
-      "grok",
-      "bot",
-      "included",
-      "plans"
     ]
   },
   {
@@ -884,6 +869,21 @@
       "flash",
       "vision",
       "exp"
+    ]
+  },
+  {
+    "id": "cbmiuefvx3lxte5pwulinnhhz3b2dnu0dng5c2jqz01fmjk0ukn5vm8xnlzmvhaycs1svmznb3u2rdd1",
+    "lab": "Mistral",
+    "title": "Agentic Search. More accurate and efficient results from your AI systems.",
+    "summary": "",
+    "date": "2026-08-20T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PWUlINnhhZ3B2dnU0dng5c2JQZ01fMjk0UkN5Vm8xNlZmVHAycS1SVmZnb3U2RDd1Mm1SaGdvcVUxYzE4SDk0bjlRVWxVazF3?oc=5",
+    "tags": [
+      "agentic",
+      "search",
+      "accurate",
+      "efficient"
     ]
   }
 ]
