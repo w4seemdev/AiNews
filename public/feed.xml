@@ -5,8 +5,26 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 11:03:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 11:02:48 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Introducing Gemini 3.8 Live with Live Avatar</title>
+      <link>https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/</link>
+      <guid isPermaLink="false">https-deepmind-google-blog-introducing-gemini-38-live-with-live-avatar</guid>
+      <pubDate>Thu, 24 Sep 2026 16:20:39 GMT</pubDate>
+      <description>Source: Google DeepMind</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
+      <category>model</category>
+    </item>
+    <item>
+      <title>Accelerating vision-language models with LFM2.5-VL-DSpark</title>
+      <link>https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-liquidai-lfm2-5-vl-dspark</guid>
+      <pubDate>Thu, 24 Sep 2026 14:08:57 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
     <item>
       <title>How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows</title>
       <link>https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp</link>
@@ -263,7 +281,7 @@
       <title>Introducing the Life Sciences Verification Program</title>
       <link>https://news.google.com/rss/articles/CBMic0FVX3lxTE1tdEtSOC1PRVFaSWU5TmlaMEtiZjRMdDdJLWg1bVIyUzlUTUV0UHZVa1Z3Y2JYeVVVLVEyeGZIQnVHR01tdC04X2x5Vk5LNDRKa3VyWnB2Vks0U3JpZDNNemZxczNDOFBNeGxrQnViOFNJQVU?oc=5</link>
       <guid isPermaLink="false">cbmic0fvx3lxte1tdetsoc1prvfaswu5tmlametizjrmdddjlwg1bviyuzlutuv0uhzva1z3y2jyevvv</guid>
-      <pubDate>Thu, 17 Sep 2026 17:34:30 GMT</pubDate>
+      <pubDate>Thu, 17 Sep 2026 07:00:00 GMT</pubDate>
       <description>Source: Anthropic</description>
       <source url="https://ai-pulse.vercel.app">Anthropic</source>
       <category>feature</category>
@@ -290,7 +308,7 @@
       <title>Mistral x Mozilla: Private, Multilingual AI Browsing</title>
       <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qUXZCU1U0dnN2R2h5TjJuejZqY1prMTdHaFJXM0xSbmp5VXk5MmhBanlmRG9NTEhKdEtjNUJfMnhTcC1ub2t4Sm04S3o3SjB2YlI2VA?oc=5</link>
       <guid isPermaLink="false">cbmivefvx3lxte1quxzcu1u0dnn2r2h5tjjuejzqy1prmtdhafjxm0xsbmp5vxk5mmhbanlmrg9ntehk</guid>
-      <pubDate>Wed, 16 Sep 2026 08:00:12 GMT</pubDate>
+      <pubDate>Wed, 16 Sep 2026 07:00:00 GMT</pubDate>
       <description>Source: Mistral</description>
       <source url="https://ai-pulse.vercel.app">Mistral</source>
       <category>feature</category>
@@ -332,15 +350,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>AI for everyone in every language</title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/</link>
-      <guid isPermaLink="false">https-blog-google-innovation-and-ai-technology-ai-ai-for-every-language</guid>
-      <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
-      <description>We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed. (Source: Google DeepMind)</description>
-      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data</title>
       <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE01NmpON3ZnZTRGdXh2VWQ3c0Mwd19Pb21Kc0V5UFlLeTZzbVF3dnBOeFZSV3RldVd5cm5tSF94SUxMWV9EaGh0LXRqWkFkSHN1NkpadzZn?oc=5</link>
       <guid isPermaLink="false">cbmivkfvx3lxte01nmpon3znztrgdxh2vwq3c0mwd19pb21kc0v5uflletzzbvf3dnboefzsv3rldvd5</guid>
@@ -351,8 +360,8 @@
     </item>
     <item>
       <title>DeepSeek-V4.1-Flash: Smarter, Faster, More Efficient</title>
-      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xUUtzTXowTXVnUnE3T2FuV2R5MGluMERDcTNja3NkTlNBQ1hOZUNGRHRMZVBhQjl4bk1WZE1BMDVDMHhaV2NGaTFoWUR6QnpxcGRPUDNmUU0?oc=5</link>
-      <guid isPermaLink="false">cbmiwefvx3lxte1xuutztxowtxvnune3t2fuv2r5mglumerdctnja3nktlnbq1hozungrhrmzvbhqjl4</guid>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE02bjh4Qk42Ung4dDc0emJvTk82R2RPaGVIQWQ0ekxIMDlhNHROWGtwMVJGODNmQ1FhZHdrNUs4d1lyaDZZWXZpSlprR3BXVXJMam53clVxUFc5UQ?oc=5</link>
+      <guid isPermaLink="false">cbmiwkfvx3lxte02bjh4qk42ung4ddc0emjvtk82r2rpagviqwq0ekximdlhnhrowgtwmvjgodnmq1fh</guid>
       <pubDate>Thu, 10 Sep 2026 07:00:00 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
@@ -410,15 +419,6 @@
       <pubDate>Fri, 04 Sep 2026 07:00:00 GMT</pubDate>
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>NeoMME: an efficient Multimodal-native and Multilingual Encoder</title>
-      <link>https://huggingface.co/blog/Hcompany/neomme</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-hcompany-neomme</guid>
-      <pubDate>Thu, 03 Sep 2026 13:13:48 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
       <category>feature</category>
     </item>
     <item>
@@ -494,15 +494,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Funding better evaluations of AI’s impact on wellbeing</title>
-      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DNElZcS10WnJ1NHJEdmtYNkxUT1JQZ3plaDhZejA4UENGVlliUzRqM19sejJyOEFZbW9zbTZyZmpsZGpmOGYtaDc2T1pFTThXUG9wQi1nUFl3cVhIVDJyQVd6QnBsa2M?oc=5</link>
-      <guid isPermaLink="false">cbmiz0fvx3lxte5dnelzcs10wnj1nhjedmtynkxut1jqz3pladhzeja4uengvlliuzrqm19sejjyoefz</guid>
-      <pubDate>Tue, 25 Aug 2026 07:00:00 GMT</pubDate>
-      <description>Source: Anthropic</description>
-      <source url="https://ai-pulse.vercel.app">Anthropic</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Mistral x HUMAIN</title>
       <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoM215alpsRHFKLTB6NUJ1cmRubHpweTlaczlWaTAyeWRfaTAtWUVZZGZpU0thZGNlWnRRUnRMLTVtYzcyZEx3d0FwWFFJeTk5cDZv?oc=5</link>
       <guid isPermaLink="false">cbmiu0fvx3lxtfbom215alpsrhfkltb6nuj1cmrubhpwetlaczlwatayewrfatatwuvzzgzpu0thzgnl</guid>
@@ -516,6 +507,24 @@
       <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmcGxSRHlFUVJ1TDVHRVRBanMxUkxla2ZzZi0xcllwclg3LXRQZ2VjLVdjbW9VRWdUM3p2bC1hMFd5TEZrakpINVNqaFRUSW9maVBpYTlnNkpMb3Rv?oc=5</link>
       <guid isPermaLink="false">cbmixefvx3lxtfbmcgxsrhlfuvj1tdvhrvrbanmxukxla2zzzi0xcllwclg3lxrqz2vjlvdjbw9vrwdu</guid>
       <pubDate>Sat, 22 Aug 2026 19:33:06 GMT</pubDate>
+      <description>Source: DeepSeek</description>
+      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Delete File</title>
+      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wYU92ckFmVENxektpTVZNVmF0dDlWaHhNTlVBamdHX3FwbVQ1N2FKX2VVSjJLQmxaOG5XaEdFM0xHX1JYQWhuTDZZY2tXVHQtVU8zbTJfcTQ?oc=5</link>
+      <guid isPermaLink="false">cbmiwefvx3lxte1wyu92ckfmvenxektptvznvmf0ddlwahhntlvbamdhx3fwbvq1n2fkx2vvsjjlqmxa</guid>
+      <pubDate>Fri, 21 Aug 2026 16:02:42 GMT</pubDate>
+      <description>Source: DeepSeek</description>
+      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>List Files</title>
+      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hc0JLcFVqWjROc01sZGcwdmhqYUxUaWJkaXoxTldHVVUtLXFZSE1DaTNYSGFoaUJXLVFEenFrQXdSaWpMRXFCVUVBaDdPNEJkeGNhNmRmal8?oc=5</link>
+      <guid isPermaLink="false">cbmiwefvx3lxte1hc0jlcfvqwjroc01szgcwdmhqyuxuawjkaxoxtldhvvutlxfzse1datnysgfoaujx</guid>
+      <pubDate>Fri, 21 Aug 2026 12:56:55 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>feature</category>
@@ -537,15 +546,6 @@
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>api</category>
-    </item>
-    <item>
-      <title>Vision</title>
-      <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lc3dfdl92aktxaWx3YS1IdmRtdm5YanJzXzB1Q2Z1aDlreEhfMFhfVW9nc2RWQ0hSNGVpOG5NTHYyaDdDbUxMZ296a0JuU1NCRE91d2VB?oc=5</link>
-      <guid isPermaLink="false">cbmivkfvx3lxte1lc3dfdl92aktxawx3ys1idmrtdm5yanjzxzb1q2z1adlreehfmfhfvw9nc2rwq0hs</guid>
-      <pubDate>Fri, 21 Aug 2026 09:32:58 GMT</pubDate>
-      <description>Source: DeepSeek</description>
-      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
-      <category>feature</category>
     </item>
   </channel>
 </rss>

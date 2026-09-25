@@ -1,5 +1,34 @@
 [
   {
+    "id": "https-deepmind-google-blog-introducing-gemini-38-live-with-live-avatar",
+    "lab": "Google DeepMind",
+    "title": "Introducing Gemini 3.8 Live with Live Avatar",
+    "summary": "",
+    "date": "2026-09-24T16:20:39.000Z",
+    "category": "model",
+    "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "tags": [
+      "live",
+      "gemini",
+      "avatar"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-liquidai-lfm2-5-vl-dspark",
+    "lab": "Hugging Face",
+    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+    "summary": "",
+    "date": "2026-09-24T14:08:57.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+    "tags": [
+      "accelerating",
+      "vision",
+      "language",
+      "models"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-nvidia-how-to-use-nvidia-warp-and-mjwarp",
     "lab": "Hugging Face",
     "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
@@ -424,7 +453,7 @@
     "lab": "Anthropic",
     "title": "Introducing the Life Sciences Verification Program",
     "summary": "",
-    "date": "2026-09-17T17:34:30.000Z",
+    "date": "2026-09-17T07:00:00.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tdEtSOC1PRVFaSWU5TmlaMEtiZjRMdDdJLWg1bVIyUzlUTUV0UHZVa1Z3Y2JYeVVVLVEyeGZIQnVHR01tdC04X2x5Vk5LNDRKa3VyWnB2Vks0U3JpZDNNemZxczNDOFBNeGxrQnViOFNJQVU?oc=5",
     "tags": [
@@ -466,7 +495,7 @@
     "lab": "Mistral",
     "title": "Mistral x Mozilla: Private, Multilingual AI Browsing",
     "summary": "",
-    "date": "2026-09-16T08:00:12.000Z",
+    "date": "2026-09-16T07:00:00.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qUXZCU1U0dnN2R2h5TjJuejZqY1prMTdHaFJXM0xSbmp5VXk5MmhBanlmRG9NTEhKdEtjNUJfMnhTcC1ub2t4Sm04S3o3SjB2YlI2VA?oc=5",
     "tags": [
@@ -539,22 +568,6 @@
     ]
   },
   {
-    "id": "https-blog-google-innovation-and-ai-technology-ai-ai-for-every-language",
-    "lab": "Google DeepMind",
-    "title": "AI for everyone in every language",
-    "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
-    "date": "2026-09-15T16:00:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp",
-    "tags": [
-      "everyone",
-      "every",
-      "language",
-      "moving"
-    ]
-  },
-  {
     "id": "cbmivkfvx3lxte01nmpon3znztrgdxh2vwq3c0mwd19pb21kc0v5uflletzzbvf3dnboefzsv3rldvd5",
     "lab": "Mistral",
     "title": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
@@ -570,13 +583,13 @@
     ]
   },
   {
-    "id": "cbmiwefvx3lxte1xuutztxowtxvnune3t2fuv2r5mglumerdctnja3nktlnbq1hozungrhrmzvbhqjl4",
+    "id": "cbmiwkfvx3lxte02bjh4qk42ung4ddc0emjvtk82r2rpagviqwq0ekximdlhnhrowgtwmvjgodnmq1fh",
     "lab": "DeepSeek",
     "title": "DeepSeek-V4.1-Flash: Smarter, Faster, More Efficient",
     "summary": "",
     "date": "2026-09-10T07:00:00.000Z",
     "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xUUtzTXowTXVnUnE3T2FuV2R5MGluMERDcTNja3NkTlNBQ1hOZUNGRHRMZVBhQjl4bk1WZE1BMDVDMHhaV2NGaTFoWUR6QnpxcGRPUDNmUU0?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02bjh4Qk42Ung4dDc0emJvTk82R2RPaGVIQWQ0ekxIMDlhNHROWGtwMVJGODNmQ1FhZHdrNUs4d1lyaDZZWXZpSlprR3BXVXJMam53clVxUFc5UQ?oc=5",
     "tags": [
       "deepseek",
       "flash",
@@ -672,21 +685,6 @@
       "grok",
       "bot",
       "loose"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-hcompany-neomme",
-    "lab": "Hugging Face",
-    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-    "summary": "",
-    "date": "2026-09-03T13:13:48.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/Hcompany/neomme",
-    "tags": [
-      "neomme",
-      "efficient",
-      "multimodal",
-      "native"
     ]
   },
   {
@@ -805,21 +803,6 @@
     ]
   },
   {
-    "id": "cbmiz0fvx3lxte5dnelzcs10wnj1nhjedmtynkxut1jqz3pladhzeja4uengvlliuzrqm19sejjyoefz",
-    "lab": "Anthropic",
-    "title": "Funding better evaluations of AI’s impact on wellbeing",
-    "summary": "",
-    "date": "2026-08-25T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DNElZcS10WnJ1NHJEdmtYNkxUT1JQZ3plaDhZejA4UENGVlliUzRqM19sejJyOEFZbW9zbTZyZmpsZGpmOGYtaDc2T1pFTThXUG9wQi1nUFl3cVhIVDJyQVd6QnBsa2M?oc=5",
-    "tags": [
-      "funding",
-      "better",
-      "evaluations",
-      "impact"
-    ]
-  },
-  {
     "id": "cbmiu0fvx3lxtfbom215alpsrhfkltb6nuj1cmrubhpwetlaczlwatayewrfatatwuvzzgzpu0thzgnl",
     "lab": "Mistral",
     "title": "Mistral x HUMAIN",
@@ -846,6 +829,32 @@
     ]
   },
   {
+    "id": "cbmiwefvx3lxte1wyu92ckfmvenxektptvznvmf0ddlwahhntlvbamdhx3fwbvq1n2fkx2vvsjjlqmxa",
+    "lab": "DeepSeek",
+    "title": "Delete File",
+    "summary": "",
+    "date": "2026-08-21T16:02:42.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wYU92ckFmVENxektpTVZNVmF0dDlWaHhNTlVBamdHX3FwbVQ1N2FKX2VVSjJLQmxaOG5XaEdFM0xHX1JYQWhuTDZZY2tXVHQtVU8zbTJfcTQ?oc=5",
+    "tags": [
+      "delete",
+      "file"
+    ]
+  },
+  {
+    "id": "cbmiwefvx3lxte1hc0jlcfvqwjroc01szgcwdmhqyuxuawjkaxoxtldhvvutlxfzse1datnysgfoaujx",
+    "lab": "DeepSeek",
+    "title": "List Files",
+    "summary": "",
+    "date": "2026-08-21T12:56:55.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hc0JLcFVqWjROc01sZGcwdmhqYUxUaWJkaXoxTldHVVUtLXFZSE1DaTNYSGFoaUJXLVFEenFrQXdSaWpMRXFCVUVBaDdPNEJkeGNhNmRmal8?oc=5",
+    "tags": [
+      "list",
+      "files"
+    ]
+  },
+  {
     "id": "cbmiwefvx3lxte0xm0fuddm3vulsr0yysxg0zllfdkrvyzvrm0l5u0dir29xewflti01s1rwujltvfmy",
     "lab": "DeepSeek",
     "title": "Upload File",
@@ -869,18 +878,6 @@
     "tags": [
       "files",
       "api"
-    ]
-  },
-  {
-    "id": "cbmivkfvx3lxte1lc3dfdl92aktxawx3ys1idmrtdm5yanjzxzb1q2z1adlreehfmfhfvw9nc2rwq0hs",
-    "lab": "DeepSeek",
-    "title": "Vision",
-    "summary": "",
-    "date": "2026-08-21T09:32:58.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lc3dfdl92aktxaWx3YS1IdmRtdm5YanJzXzB1Q2Z1aDlreEhfMFhfVW9nc2RWQ0hSNGVpOG5NTHYyaDdDbUxMZ296a0JuU1NCRE91d2VB?oc=5",
-    "tags": [
-      "vision"
     ]
   }
 ]
