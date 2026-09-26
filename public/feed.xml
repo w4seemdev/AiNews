@@ -5,8 +5,26 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2026 11:02:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 10:44:50 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Proaction boosts sales 60% and saves 75+ hours with Codex</title>
+      <link>https://openai.com/index/proaction</link>
+      <guid isPermaLink="false">https-openai-com-index-proaction</guid>
+      <pubDate>Fri, 25 Sep 2026 19:00:00 GMT</pubDate>
+      <description>With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>model</category>
+    </item>
+    <item>
+      <title>2028: Two scenarios for global AI leadership</title>
+      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE0wbVRiTmVURWxrWXNjZXJxR1hMdFBlYVA0VUd0cHBKS2djVVRiT1FjNjZlYXZ2d0pJN0lOVGU2T1ctMjNFcm1TVXhOSVhlM25kTUdmelFCWnZMQUFzZkRqMjQ4MFVEemt0MDc1YndkWS0?oc=5</link>
+      <guid isPermaLink="false">cbmicefvx3lxte0wbvritmvurwxrwxnjzxjxr1hmdfblyva0vud0chbks2djvvrit1fjnjzlyxz2d0pj</guid>
+      <pubDate>Fri, 25 Sep 2026 00:50:26 GMT</pubDate>
+      <description>Source: Anthropic</description>
+      <source url="https://ai-pulse.vercel.app">Anthropic</source>
+      <category>feature</category>
+    </item>
     <item>
       <title>Introducing Gemini 3.8 Live with Live Avatar</title>
       <link>https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/</link>
@@ -152,15 +170,6 @@
       <category>model</category>
     </item>
     <item>
-      <title>Grab and OpenAI bring practical AI skills to Southeast Asia</title>
-      <link>https://openai.com/index/grab-openai-ai-skills-southeast-asia</link>
-      <guid isPermaLink="false">https-openai-com-index-grab-openai-ai-skills-southeast-asia</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-      <description>OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>How SpaceXAI is using Grok Bot to scale customer support</title>
       <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE43aVl1akNMbUdsc3V3RXdMbnlDRWFlSEpESTItLTQ5aEVsdVQ2X1NCb0duUWZTVkozVDhOd21KWEg4YlU3RE5fQWp2YnV4ZUFmaUVxRGV3?oc=5</link>
       <guid isPermaLink="false">cbmivkfvx3lxte43avl1aknmbudsc3v3rxdmbnldrwflsepestitltq5aevsdvq2x1ncb0duuwztvkoz</guid>
@@ -296,21 +305,21 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Memory in Grok Build</title>
-      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sTWppUFIzUXExbHJkanNLTkl1OTEtM3djYzFEcDc3ZTMwcXRaWVFJYUZVUUlyUUlOczBZLUtJV1hZa1NDdERySTAyZw?oc=5</link>
-      <guid isPermaLink="false">cbmis0fvx3lxte1stwppufizuxexbhjkannltkl1otetm3djyzfecdc3ztmwcxrawvfjyuzvuulyuulo</guid>
-      <pubDate>Wed, 16 Sep 2026 18:56:55 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Mistral x Mozilla: Private, Multilingual AI Browsing</title>
       <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qUXZCU1U0dnN2R2h5TjJuejZqY1prMTdHaFJXM0xSbmp5VXk5MmhBanlmRG9NTEhKdEtjNUJfMnhTcC1ub2t4Sm04S3o3SjB2YlI2VA?oc=5</link>
       <guid isPermaLink="false">cbmivefvx3lxte1quxzcu1u0dnn2r2h5tjjuejzqy1prmtdhafjxm0xsbmp5vxk5mmhbanlmrg9ntehk</guid>
       <pubDate>Wed, 16 Sep 2026 07:00:00 GMT</pubDate>
       <description>Source: Mistral</description>
       <source url="https://ai-pulse.vercel.app">Mistral</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Memory in Grok Build</title>
+      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sTWppUFIzUXExbHJkanNLTkl1OTEtM3djYzFEcDc3ZTMwcXRaWVFJYUZVUUlyUUlOczBZLUtJV1hZa1NDdERySTAyZw?oc=5</link>
+      <guid isPermaLink="false">cbmis0fvx3lxte1stwppufizuxexbhjkannltkl1otetm3djyzfecdc3ztmwcxrawvfjyuzvuulyuulo</guid>
+      <pubDate>Wed, 16 Sep 2026 07:00:00 GMT</pubDate>
+      <description>Source: xAI</description>
+      <source url="https://ai-pulse.vercel.app">xAI</source>
       <category>feature</category>
     </item>
     <item>
@@ -494,6 +503,15 @@
       <category>feature</category>
     </item>
     <item>
+      <title>Funding better evaluations of AI’s impact on wellbeing</title>
+      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DNElZcS10WnJ1NHJEdmtYNkxUT1JQZ3plaDhZejA4UENGVlliUzRqM19sejJyOEFZbW9zbTZyZmpsZGpmOGYtaDc2T1pFTThXUG9wQi1nUFl3cVhIVDJyQVd6QnBsa2M?oc=5</link>
+      <guid isPermaLink="false">cbmiz0fvx3lxte5dnelzcs10wnj1nhjedmtynkxut1jqz3pladhzeja4uengvlliuzrqm19sejjyoefz</guid>
+      <pubDate>Tue, 25 Aug 2026 07:00:00 GMT</pubDate>
+      <description>Source: Anthropic</description>
+      <source url="https://ai-pulse.vercel.app">Anthropic</source>
+      <category>feature</category>
+    </item>
+    <item>
       <title>Mistral x HUMAIN</title>
       <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoM215alpsRHFKLTB6NUJ1cmRubHpweTlaczlWaTAyeWRfaTAtWUVZZGZpU0thZGNlWnRRUnRMLTVtYzcyZEx3d0FwWFFJeTk5cDZv?oc=5</link>
       <guid isPermaLink="false">cbmiu0fvx3lxtfbom215alpsrhfkltb6nuj1cmrubhpwetlaczlwatayewrfatatwuvzzgzpu0thzgnl</guid>
@@ -528,24 +546,6 @@
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>feature</category>
-    </item>
-    <item>
-      <title>Upload File</title>
-      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xM0FUdDM3VUlsR0YySXg0ZllFdkRvYzVrM0l5U0dIR29xeWFlTi01S1RwUjltVFMycl9lc2dsVko0N2VPOTJRZlE1YmZzQ2J5eUw4NzBtR2w?oc=5</link>
-      <guid isPermaLink="false">cbmiwefvx3lxte0xm0fuddm3vulsr0yysxg0zllfdkrvyzvrm0l5u0dir29xewflti01s1rwujltvfmy</guid>
-      <pubDate>Fri, 21 Aug 2026 12:46:46 GMT</pubDate>
-      <description>Source: DeepSeek</description>
-      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Files API</title>
-      <link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ueGpXalhJQWZUbUJpZEJFaFQ0RU13ZzNJRG9rb0QyUzUxeWFpM1h5NVpCb0hDQjBVVWMwbzRIYWdUczFnVEw3RjVQbVVnMWVNd2ZLM0VCYUdVRWM?oc=5</link>
-      <guid isPermaLink="false">cbmiw0fvx3lxte9uegpxalhjqwzubujpzejfafq0ru13zznjrg9rb0qyuzuxewfpm1h5nvpcb0hdqjbv</guid>
-      <pubDate>Fri, 21 Aug 2026 09:33:02 GMT</pubDate>
-      <description>Source: DeepSeek</description>
-      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
-      <category>api</category>
     </item>
   </channel>
 </rss>

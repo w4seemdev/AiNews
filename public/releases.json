@@ -1,5 +1,35 @@
 [
   {
+    "id": "https-openai-com-index-proaction",
+    "lab": "OpenAI",
+    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+    "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+    "date": "2026-09-25T19:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/proaction",
+    "tags": [
+      "proaction",
+      "codex",
+      "gpt",
+      "boosts"
+    ]
+  },
+  {
+    "id": "cbmicefvx3lxte0wbvritmvurwxrwxnjzxjxr1hmdfblyva0vud0chbks2djvvrit1fjnjzlyxz2d0pj",
+    "lab": "Anthropic",
+    "title": "2028: Two scenarios for global AI leadership",
+    "summary": "",
+    "date": "2026-09-25T00:50:26.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wbVRiTmVURWxrWXNjZXJxR1hMdFBlYVA0VUd0cHBKS2djVVRiT1FjNjZlYXZ2d0pJN0lOVGU2T1ctMjNFcm1TVXhOSVhlM25kTUdmelFCWnZMQUFzZkRqMjQ4MFVEemt0MDc1YndkWS0?oc=5",
+    "tags": [
+      "two",
+      "scenarios",
+      "global",
+      "leadership"
+    ]
+  },
+  {
     "id": "https-deepmind-google-blog-introducing-gemini-38-live-with-live-avatar",
     "lab": "Google DeepMind",
     "title": "Introducing Gemini 3.8 Live with Live Avatar",
@@ -241,21 +271,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-grab-openai-ai-skills-southeast-asia",
-    "lab": "OpenAI",
-    "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-    "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
-    "date": "2026-09-23T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-    "tags": [
-      "grab",
-      "openai",
-      "practical",
-      "skills"
-    ]
-  },
-  {
     "id": "cbmivkfvx3lxte43avl1aknmbudsc3v3rxdmbnldrwflsepestitltq5aevsdvq2x1ncb0duuwztvkoz",
     "lab": "xAI",
     "title": "How SpaceXAI is using Grok Bot to scale customer support",
@@ -477,20 +492,6 @@
     ]
   },
   {
-    "id": "cbmis0fvx3lxte1stwppufizuxexbhjkannltkl1otetm3djyzfecdc3ztmwcxrawvfjyuzvuulyuulo",
-    "lab": "xAI",
-    "title": "Memory in Grok Build",
-    "summary": "",
-    "date": "2026-09-16T18:56:55.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sTWppUFIzUXExbHJkanNLTkl1OTEtM3djYzFEcDc3ZTMwcXRaWVFJYUZVUUlyUUlOczBZLUtJV1hZa1NDdERySTAyZw?oc=5",
-    "tags": [
-      "memory",
-      "grok",
-      "build"
-    ]
-  },
-  {
     "id": "cbmivefvx3lxte1quxzcu1u0dnn2r2h5tjjuejzqy1prmtdhafjxm0xsbmp5vxk5mmhbanlmrg9ntehk",
     "lab": "Mistral",
     "title": "Mistral x Mozilla: Private, Multilingual AI Browsing",
@@ -503,6 +504,20 @@
       "mozilla",
       "private",
       "multilingual"
+    ]
+  },
+  {
+    "id": "cbmis0fvx3lxte1stwppufizuxexbhjkannltkl1otetm3djyzfecdc3ztmwcxrawvfjyuzvuulyuulo",
+    "lab": "xAI",
+    "title": "Memory in Grok Build",
+    "summary": "",
+    "date": "2026-09-16T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sTWppUFIzUXExbHJkanNLTkl1OTEtM3djYzFEcDc3ZTMwcXRaWVFJYUZVUUlyUUlOczBZLUtJV1hZa1NDdERySTAyZw?oc=5",
+    "tags": [
+      "memory",
+      "grok",
+      "build"
     ]
   },
   {
@@ -803,6 +818,21 @@
     ]
   },
   {
+    "id": "cbmiz0fvx3lxte5dnelzcs10wnj1nhjedmtynkxut1jqz3pladhzeja4uengvlliuzrqm19sejjyoefz",
+    "lab": "Anthropic",
+    "title": "Funding better evaluations of AI’s impact on wellbeing",
+    "summary": "",
+    "date": "2026-08-25T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DNElZcS10WnJ1NHJEdmtYNkxUT1JQZ3plaDhZejA4UENGVlliUzRqM19sejJyOEFZbW9zbTZyZmpsZGpmOGYtaDc2T1pFTThXUG9wQi1nUFl3cVhIVDJyQVd6QnBsa2M?oc=5",
+    "tags": [
+      "funding",
+      "better",
+      "evaluations",
+      "impact"
+    ]
+  },
+  {
     "id": "cbmiu0fvx3lxtfbom215alpsrhfkltb6nuj1cmrubhpwetlaczlwatayewrfatatwuvzzgzpu0thzgnl",
     "lab": "Mistral",
     "title": "Mistral x HUMAIN",
@@ -852,32 +882,6 @@
     "tags": [
       "list",
       "files"
-    ]
-  },
-  {
-    "id": "cbmiwefvx3lxte0xm0fuddm3vulsr0yysxg0zllfdkrvyzvrm0l5u0dir29xewflti01s1rwujltvfmy",
-    "lab": "DeepSeek",
-    "title": "Upload File",
-    "summary": "",
-    "date": "2026-08-21T12:46:46.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xM0FUdDM3VUlsR0YySXg0ZllFdkRvYzVrM0l5U0dIR29xeWFlTi01S1RwUjltVFMycl9lc2dsVko0N2VPOTJRZlE1YmZzQ2J5eUw4NzBtR2w?oc=5",
-    "tags": [
-      "upload",
-      "file"
-    ]
-  },
-  {
-    "id": "cbmiw0fvx3lxte9uegpxalhjqwzubujpzejfafq0ru13zznjrg9rb0qyuzuxewfpm1h5nvpcb0hdqjbv",
-    "lab": "DeepSeek",
-    "title": "Files API",
-    "summary": "",
-    "date": "2026-08-21T09:33:02.000Z",
-    "category": "api",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ueGpXalhJQWZUbUJpZEJFaFQ0RU13ZzNJRG9rb0QyUzUxeWFpM1h5NVpCb0hDQjBVVWMwbzRIYWdUczFnVEw3RjVQbVVnMWVNd2ZLM0VCYUdVRWM?oc=5",
-    "tags": [
-      "files",
-      "api"
     ]
   }
 ]
