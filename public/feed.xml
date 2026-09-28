@@ -5,8 +5,17 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Sep 2026 11:19:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 12:48:20 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Holo4: powering generalist computer-use agents</title>
+      <link>https://huggingface.co/blog/Hcompany/holo4</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-hcompany-holo4</guid>
+      <pubDate>Mon, 28 Sep 2026 09:44:05 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
     <item>
       <title>Proaction boosts sales 60% and saves 75+ hours with Codex</title>
       <link>https://openai.com/index/proaction</link>
@@ -297,9 +306,9 @@
     </item>
     <item>
       <title>Integrate with Qoder</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE03UWx5d0RxdHFiTWZkVWhPbnpuX0h0cEt1dGpXRDd0eUZYbEpOY3lvc0txYlQxNlhoT2g5aHl3UGRHdDE3YTVzOXVLc3pnTkZFLVJ0VXZ1UzJwTFdNZEF2ZHJ4LWNCS3BRMWxJUlgzeHdHejNP?oc=5</link>
-      <guid isPermaLink="false">cbmidefvx3lxte03uwx5d0rxdhfitwzkvwhpbnpux0h0cet1dgpxrdd0euzybepoy3lvc0txylqxnlho</guid>
-      <pubDate>Thu, 17 Sep 2026 03:52:06 GMT</pubDate>
+      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE50QUN0T29rVE54YVhwZFBUY0VQbG41RDZYaUVXaElhYUE4SVhwUGxodzVkSjlzeGhIQjFhUHlRTTdpcGgxQW1CeU04VW9EYVR6ZEc3VXotX3VsYVdBbzU4eFVWZW4ycDIyRkQ0MzRXX2ZFS2pqcUE?oc=5</link>
+      <guid isPermaLink="false">cbmidkfvx3lxte50qun0t29rve54yvhwzfbuy0vqbg41rdzyauvxaelhyue4svhwugxodzvksjlzeghi</guid>
+      <pubDate>Thu, 17 Sep 2026 03:52:07 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>feature</category>
@@ -380,15 +389,6 @@
       <title>Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL</title>
       <link>https://huggingface.co/blog/asyncgrpo-lora-hfjobs</link>
       <guid isPermaLink="false">https-huggingface-co-blog-asyncgrpo-lora-hfjobs</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Rebuilding AUTOMATIC1111 with Gradio Workflow</title>
-      <link>https://huggingface.co/blog/gradio-workflow-1111</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-gradio-workflow-1111</guid>
       <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
       <description>Source: Hugging Face</description>
       <source url="https://ai-pulse.vercel.app">Hugging Face</source>
@@ -485,15 +485,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Expanding our support for scientists</title>
-      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE1Tc2JIOXRYSDB1Z05hSi1UdjkxN1UyZWFyMHBxQzdPMTlRbXJIVkp0Q04tVFFVX29fT3RUN2tMTEhTdlBQWmFyZlVMTTBVNVhhVFZiNXNsTnpncnFWZzE4R1I0d3ZjUTF5UmlhWG1FOEY?oc=5</link>
-      <guid isPermaLink="false">cbmicefvx3lxte1tc2jioxrysdb1z05hsi1udjkxn1uyzwfymhbxqzdpmtlrbxjivkp0q04tvffvx29f</guid>
-      <pubDate>Thu, 27 Aug 2026 07:00:00 GMT</pubDate>
-      <description>Source: Anthropic</description>
-      <source url="https://ai-pulse.vercel.app">Anthropic</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Funding better evaluations of AI’s impact on wellbeing</title>
       <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DNElZcS10WnJ1NHJEdmtYNkxUT1JQZ3plaDhZejA4UENGVlliUzRqM19sejJyOEFZbW9zbTZyZmpsZGpmOGYtaDc2T1pFTThXUG9wQi1nUFl3cVhIVDJyQVd6QnBsa2M?oc=5</link>
       <guid isPermaLink="false">cbmiz0fvx3lxte5dnelzcs10wnj1nhjedmtynkxut1jqz3pladhzeja4uengvlliuzrqm19sejjyoefz</guid>
@@ -522,9 +513,18 @@
     </item>
     <item>
       <title>Delete File</title>
-      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wYU92ckFmVENxektpTVZNVmF0dDlWaHhNTlVBamdHX3FwbVQ1N2FKX2VVSjJLQmxaOG5XaEdFM0xHX1JYQWhuTDZZY2tXVHQtVU8zbTJfcTQ?oc=5</link>
-      <guid isPermaLink="false">cbmiwefvx3lxte1wyu92ckfmvenxektptvznvmf0ddlwahhntlvbamdhx3fwbvq1n2fkx2vvsjjlqmxa</guid>
-      <pubDate>Fri, 21 Aug 2026 16:02:42 GMT</pubDate>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vbGRQZXpMYXd3eV9NMGx6Z2VqNVVhSG9HQmdnY2JqRmRlREw5R05XNUxKc3c2Y1pmUENIeWRNa2VRdmRmN1hTWUhaNVBUM2JYclJPRGd1SVNEUQ?oc=5</link>
+      <guid isPermaLink="false">cbmiwkfvx3lxte9vbgrqzxpmyxd3ev9nmgx6z2vqnvvhsg9hqmdny2jqrmrlrew5r05xnuxkc3c2y1pm</guid>
+      <pubDate>Fri, 21 Aug 2026 16:02:43 GMT</pubDate>
+      <description>Source: DeepSeek</description>
+      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Upload File</title>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zclJLSmdzZ0std1Y1SjRGTlhKMmhWaUx0YXhxT2ZRWUNySGJEbXM5WGlObU1Rdi1pZVUyS3R1Q1JIaHE1NjE5b2owVlo0YkQ1eFhuMXI4dm12UQ?oc=5</link>
+      <guid isPermaLink="false">cbmiwkfvx3lxte9zcljlsmdzz0std1y1sjrgtlhkmmhwaux0yxhxt2zrwunysgjebxm5wglobu1rdi1p</guid>
+      <pubDate>Fri, 21 Aug 2026 12:46:46 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>feature</category>
@@ -533,19 +533,19 @@
       <title>List Files</title>
       <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hc0JLcFVqWjROc01sZGcwdmhqYUxUaWJkaXoxTldHVVUtLXFZSE1DaTNYSGFoaUJXLVFEenFrQXdSaWpMRXFCVUVBaDdPNEJkeGNhNmRmal8?oc=5</link>
       <guid isPermaLink="false">cbmiwefvx3lxte1hc0jlcfvqwjroc01szgcwdmhqyuxuawjkaxoxtldhvvutlxfzse1datnysgfoaujx</guid>
-      <pubDate>Fri, 21 Aug 2026 12:56:55 GMT</pubDate>
+      <pubDate>Fri, 21 Aug 2026 12:18:12 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>feature</category>
     </item>
     <item>
-      <title>Upload File</title>
-      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xM0FUdDM3VUlsR0YySXg0ZllFdkRvYzVrM0l5U0dIR29xeWFlTi01S1RwUjltVFMycl9lc2dsVko0N2VPOTJRZlE1YmZzQ2J5eUw4NzBtR2w?oc=5</link>
-      <guid isPermaLink="false">cbmiwefvx3lxte0xm0fuddm3vulsr0yysxg0zllfdkrvyzvrm0l5u0dir29xewflti01s1rwujltvfmy</guid>
-      <pubDate>Fri, 21 Aug 2026 12:46:46 GMT</pubDate>
+      <title>Files API</title>
+      <link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ueGpXalhJQWZUbUJpZEJFaFQ0RU13ZzNJRG9rb0QyUzUxeWFpM1h5NVpCb0hDQjBVVWMwbzRIYWdUczFnVEw3RjVQbVVnMWVNd2ZLM0VCYUdVRWM?oc=5</link>
+      <guid isPermaLink="false">cbmiw0fvx3lxte9uegpxalhjqwzubujpzejfafq0ru13zznjrg9rb0qyuzuxewfpm1h5nvpcb0hdqjbv</guid>
+      <pubDate>Fri, 21 Aug 2026 09:33:02 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
-      <category>feature</category>
+      <category>api</category>
     </item>
   </channel>
 </rss>
