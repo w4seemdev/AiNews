@@ -1,5 +1,81 @@
 [
   {
+    "id": "cbmiqefvx3lxte5hynpiunhxb2dgrnddavzcowjwy2dsr1bib1bvsdfjz3nfanmtwjy5etvozu1mck9s",
+    "lab": "xAI",
+    "title": "Team Bots: AI coworkers that learn from your team",
+    "summary": "",
+    "date": "2026-09-28T19:53:47.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5HYnpIUnhxb2dGRndDaVZCOWJWY2dSR1Bib1BvSDFJZ3NFanMtWjY5eTVoZU1Mck9SMDN0NTVXYU0?oc=5",
+    "tags": [
+      "team",
+      "bots",
+      "coworkers",
+      "learn"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-how-we-will-do-better-for-australia",
+    "lab": "OpenAI",
+    "title": "How we will do better for Australia",
+    "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+    "date": "2026-09-28T19:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "tags": [
+      "australia",
+      "better",
+      "openai",
+      "apologises"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-towards-safety-cases-for-frontier-ai-training",
+    "lab": "OpenAI",
+    "title": "Towards safety cases for frontier AI training",
+    "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+    "date": "2026-09-28T19:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "tags": [
+      "safety",
+      "cases",
+      "frontier",
+      "training"
+    ]
+  },
+  {
+    "id": "https-blog-google-innovation-and-ai-technology-ai-winner-future-vision-xprize",
+    "lab": "Google DeepMind",
+    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+    "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+    "date": "2026-09-28T19:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp",
+    "tags": [
+      "watch",
+      "winning",
+      "trailer",
+      "future"
+    ]
+  },
+  {
+    "id": "cbmivefvx3lxtfbhx1q4qvc5ogeysndosjqyqw4yt01ksjflvk5ibzrzludid19wwhu5qujkthyzddbi",
+    "lab": "Mistral",
+    "title": "Mistral Opens Munich Hub to Advance Industrial AI in Germany",
+    "summary": "",
+    "date": "2026-09-28T17:22:35.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhX1Q4QVc5OGEySndOSjQyQW4yT01kSjFlVk5IbzRzLUdId19WWHU5QUJkTHYzdDBiYktmNm9DeFBubkF1MEZweUM2ZW42ZDRpWDU2TQ?oc=5",
+    "tags": [
+      "mistral",
+      "opens",
+      "munich",
+      "hub"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-hcompany-holo4",
     "lab": "Hugging Face",
     "title": "Holo4: powering generalist computer-use agents",
@@ -12,6 +88,51 @@
       "powering",
       "generalist",
       "computer"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-lenfest-ai-collaborative-expansion",
+    "lab": "OpenAI",
+    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+    "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+    "date": "2026-09-28T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+    "tags": [
+      "lenfest",
+      "program",
+      "openai",
+      "support"
+    ]
+  },
+  {
+    "id": "https-openai-com-form-codex-originals",
+    "lab": "OpenAI",
+    "title": "Are you a Codex Original?",
+    "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and…",
+    "date": "2026-09-28T00:00:00.000Z",
+    "category": "research",
+    "url": "https://openai.com/form/codex-originals",
+    "tags": [
+      "codex",
+      "original",
+      "collecting",
+      "real"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-basis-tax-workbook-with-astra",
+    "lab": "OpenAI",
+    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+    "date": "2026-09-28T00:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "tags": [
+      "gpt",
+      "basis",
+      "tax",
+      "workbook"
     ]
   },
   {
@@ -89,21 +210,6 @@
     ]
   },
   {
-    "id": "cbmidkfvx3lxte9jt0fwtvctzxnkynjxew44ahhozmjfbdywn3b4a2tmtthjzm9xrklxmkezdflxb2z6",
-    "lab": "Anthropic",
-    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-    "summary": "",
-    "date": "2026-09-23T18:14:17.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JT0FwTVctZXNkYnJXeW44aHhoZmJfbDYwN3B4a2tMTThJZm9XRklxMkEzdFlxb2Z6VGM2UnpDTGlaQ09PODJUMkJFWWl1UVZOTDJ0WU1UQ1pZMDlrbS0tM3FTS0RGWmNSeGt5QlJjZktQWkl4N0E?oc=5",
-    "tags": [
-      "claude",
-      "discovers",
-      "novel",
-      "enzyme"
-    ]
-  },
-  {
     "id": "https-blog-google-innovation-and-ai-technology-research-google-beam-expansion",
     "lab": "Google DeepMind",
     "title": "Google Beam expands with new regions, partners, and customers",
@@ -117,6 +223,21 @@
       "beam",
       "expands",
       "regions"
+    ]
+  },
+  {
+    "id": "cbmidkfvx3lxte9jt0fwtvctzxnkynjxew44ahhozmjfbdywn3b4a2tmtthjzm9xrklxmkezdflxb2z6",
+    "lab": "Anthropic",
+    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "summary": "",
+    "date": "2026-09-23T16:06:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JT0FwTVctZXNkYnJXeW44aHhoZmJfbDYwN3B4a2tMTThJZm9XRklxMkEzdFlxb2Z6VGM2UnpDTGlaQ09PODJUMkJFWWl1UVZOTDJ0WU1UQ1pZMDlrbS0tM3FTS0RGWmNSeGt5QlJjZktQWkl4N0E?oc=5",
+    "tags": [
+      "claude",
+      "discovers",
+      "novel",
+      "enzyme"
     ]
   },
   {
@@ -181,36 +302,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-sam-altman-un-security-council-remarks",
-    "lab": "OpenAI",
-    "title": "Sam Altman’s remarks at the United Nations Security Council",
-    "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-    "date": "2026-09-23T12:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-    "tags": [
-      "sam",
-      "altman",
-      "remarks",
-      "united"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-harvey-from-context-to-confidence-with-astra",
-    "lab": "OpenAI",
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-    "date": "2026-09-23T12:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "tags": [
-      "legal",
-      "context",
-      "gpt",
-      "astra"
-    ]
-  },
-  {
     "id": "https-openai-com-index-invideo-builds-with-gpt-6-astra",
     "lab": "OpenAI",
     "title": "How invideo improves color grading 3x with GPT‑6 Astra",
@@ -238,51 +329,6 @@
       "agents",
       "gpt",
       "resolve"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-introducing-mentalhealthbench",
-    "lab": "OpenAI",
-    "title": "Introducing MentalHealthBench",
-    "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
-    "date": "2026-09-23T10:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/introducing-mentalhealthbench",
-    "tags": [
-      "mentalhealthbench",
-      "expert",
-      "informed",
-      "benchmark"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-chatgpt-ads-expands-southeast-asia-taiwan",
-    "lab": "OpenAI",
-    "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-    "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
-    "date": "2026-09-23T02:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-    "tags": [
-      "chatgpt",
-      "ads",
-      "southeast",
-      "asia"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-airbnb-gpt-6-astra",
-    "lab": "OpenAI",
-    "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-    "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
-    "date": "2026-09-23T01:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/airbnb-gpt-6-astra",
-    "tags": [
-      "airbnb",
-      "access",
-      "gpt",
-      "astra"
     ]
   },
   {
@@ -346,18 +392,6 @@
     ]
   },
   {
-    "id": "cbmip0fvx3lxtfbqb2x1bzq3ukxtvdfcuvrjodmzbdj5ytg3nmh5q2luzgdutmctzmo1ukp4c3rvduhf",
-    "lab": "xAI",
-    "title": "Introducing Grok 4.7",
-    "summary": "",
-    "date": "2026-09-21T15:48:09.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBqb2x1bzQ3UkxTVDFCUVRjODMzbDJ5YTg3Nmh5Q2luZGdUTmctZmo1Ukp4c3RVdUhfSGZFc1p5SQ?oc=5",
-    "tags": [
-      "grok"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-multiversecomputingcai-pruning-llms-like-a-physicist-b",
     "lab": "Hugging Face",
     "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
@@ -370,6 +404,18 @@
       "llms",
       "like",
       "physicist"
+    ]
+  },
+  {
+    "id": "cbmip0fvx3lxtfbqb2x1bzq3ukxtvdfcuvrjodmzbdj5ytg3nmh5q2luzgdutmctzmo1ukp4c3rvduhf",
+    "lab": "xAI",
+    "title": "Introducing Grok 4.7",
+    "summary": "",
+    "date": "2026-09-21T07:00:00.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBqb2x1bzQ3UkxTVDFCUVRjODMzbDJ5YTg3Nmh5Q2luZGdUTmctZmo1Ukp4c3RVdUhfSGZFc1p5SQ?oc=5",
+    "tags": [
+      "grok"
     ]
   },
   {
@@ -582,22 +628,6 @@
     ]
   },
   {
-    "id": "https-blog-google-innovation-and-ai-technology-ai-ai-applications-science-people",
-    "lab": "Google DeepMind",
-    "title": "Building AI to accelerate science and improve lives",
-    "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
-    "date": "2026-09-15T16:00:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp",
-    "tags": [
-      "lives",
-      "building",
-      "accelerate",
-      "science"
-    ]
-  },
-  {
     "id": "cbmivkfvx3lxte01nmpon3znztrgdxh2vwq3c0mwd19pb21kc0v5uflletzzbvf3dnboefzsv3rldvd5",
     "lab": "Mistral",
     "title": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
@@ -613,13 +643,13 @@
     ]
   },
   {
-    "id": "cbmiwkfvx3lxte02bjh4qk42ung4ddc0emjvtk82r2rpagviqwq0ekximdlhnhrowgtwmvjgodnmq1fh",
+    "id": "cbmiwefvx3lxte1xuutztxowtxvnune3t2fuv2r5mglumerdctnja3nktlnbq1hozungrhrmzvbhqjl4",
     "lab": "DeepSeek",
     "title": "DeepSeek-V4.1-Flash: Smarter, Faster, More Efficient",
     "summary": "",
     "date": "2026-09-10T07:00:00.000Z",
     "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02bjh4Qk42Ung4dDc0emJvTk82R2RPaGVIQWQ0ekxIMDlhNHROWGtwMVJGODNmQ1FhZHdrNUs4d1lyaDZZWXZpSlprR3BXVXJMam53clVxUFc5UQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xUUtzTXowTXVnUnE3T2FuV2R5MGluMERDcTNja3NkTlNBQ1hOZUNGRHRMZVBhQjl4bk1WZE1BMDVDMHhaV2NGaTFoWUR6QnpxcGRPUDNmUU0?oc=5",
     "tags": [
       "deepseek",
       "flash",
@@ -673,21 +703,6 @@
     ]
   },
   {
-    "id": "cbmiyaxbvv95cuxqv1lkehvotjk0mzdamg5dmuo5rtawnzhnwnpobdhxmgvjdlvfujc1aehhee14dknx",
-    "lab": "Anthropic",
-    "title": "Introducing Claude Design by Anthropic Labs",
-    "summary": "",
-    "date": "2026-09-07T17:00:18.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiyAxBVV95cUxQV1lKeHVOTjk0MzdaMG5DMUo5RTAwNzhnWnpobDhXMGVjdlVFUjc1aEhHeE14dkNXdU95RFZlV012MEhIRU5OZHRxdUNLOUx6azV1a1QtbGhnTEhrTUxvM3hpbFowc3RTVkRzajVVZGFXOXJMVlVITFNhQ2xIRWVpYXpzVlBERjFFZERMTE0temJHb1k1ZHppUWxKeFgyWnFISDVyRGJFSlRoOTJhUk9mbWRIOF9tWnJZOXZ6WlZPNHpNSVJXWmk3aGxBSjlUcG5QUjROSURKeEFySVVLOVAtUUNnM0xzSTB5cHc2Rk85cWRMUUJDN245Wlh0X0xCSW1vckpEVHpGc0QxeHBrSVF6UDBiVlNPMEMtemVyUERsVmV4dHNJZVNJbXRONUxGdVRPOVFFUVIyNHN0aDM0NGlEajc5NkpkRGtXeXVkMjZzcmtNOXk3c3Y2UWpweWNwZ1BBTzg2TFd2ZGItYUQtaVRLMWJxdjJpdzJyWXBLeTlLYVBKdzVwVGswbTRqaFlNb1dYeFpFWEpzOWVlMzhlVnhpa1l3QUtobkNzcHJ5N1V6NWZWZ0ZXeDRfYUxMQkZKUGN5MS1HcHhfaUlvRWcyQ2VhOXFWU09ydS1FSjFuek5iMDVzTEtzcEVaN1VMd3dSMkpRbUsyY0t2M1NTM2k4ZjA2blhuZGZWc21vVlZWb1ZCSGg0VVNpTS1MQ0FZZXZqSzRyc1VBWC16c1ZDdlI5ZDlxRjZPRFFKT1BjUWtKenNhY2ZRQUc2dVg2TEVtZTRsRG1GV091a3NMV1p3X085dXhJNHJRaEVKVFJQQW9YczJvZ0VSR3pNOUV0bUhZczlQUmtzbXVVUzFwOU8zbzNZdlluSXBDT1l0RnhCeXdGMnd1aUs3R3dIVmlpNHhERUJHOF91QVFiSm9RZHNyTnZDTzBlOTZvcnNLbm1qOHJieVZqdVcwR0dGcXJfS2dEakoxQUh5aFBNNHRsTWdBbXdGdHVISkpYeW1JMEpScndqa3YxbS1yQVhZeTJxMm5LYzNZaHJFRzltYUJvTHdsVW9iU0FPT2o1Y2dZMl9iVjBMNHJtUkNianlPWlk2VlZzdDVtbTJaZnprWHJ0MmVqck1aek1TQ2RmZHFCNE80NUxxdXVwbzRpRU5aUXVVUFBOc3dDVDVzTnVxdmt5Q0MtRzBnbkN6bThJbWp5NW9ZSVY2TGhzeER5bXpRTGVzRUdmd3FvZTVlWEJPZXFhU09qWnExTmlrM0lBZWF1NFNDVTJnUFhTZFhjNy1FM2lmN21rX29pa0NvZ2c5UjBIbHJDS242TTJSVEZPTTBtNGo3QWR1ekVSenVxMjB2bDB0WVZkX21Rdm4zTjgyWjZHOVlQYVU5MEdZWmpXZGVoSVh3ODhmY0VSeVBFQ0tJZEhweUNzc3Jvd3F5NzZiU3V6Mmowd2l6TGcydmFkYS1NWWJIRS05LTBMM2xieWhuMmNqbVhJNzlXVFBWY3p6SThGTEMwU0VRX1F2Y05oNGFNVGZQQXo0Um1BWXNtMmpKNTJZSTVGd2I1WEtDcVhKSWdIcXJKbkNza1ZUZ2JENVZBaHNEQlh3Rk04aWZRWHc1Vk5ycF83NnpLRkVoQWRmQXMzNVl4U1JtU04wdTdKVjZvS2FQRWU0bGIzMVhsRWlXTHFrS3FNLUd2akxJbzNmb24xcHk1TUxtOXlrTFRwRlZaYmxRd1J5Y3h6R2dJTC1KWnFCSzFrb3RxTzVDWGd0WmdCV3RESTJaMmpZZ0I5ZHF4YmZfS29fZG9PNi1iQlp6b2h2alBxdUpSanRfelN2dHladGJOVWlFaTNQZldfaEp3UnhLRlA5c2R1Rk1KVTRMampfeV94T0VoeVRUcE5hNGFnYnZnNjYwVXZQd1pfSEowT01PYTZzNmFzMUstRGtJMDBTN0U0OXgwVldnZVpPT04xMUhocDZ2TU16dnhxd0xhZUhXaGlGZVgteld5N0Z4N3FnSW9lSks0M1lYb2ZaTTZWQV9MVkhLNFR6c29nd3loV0NLcVJRTTBmcXJOU1RKazVOUVJUNGlRckp0OVJvVXdDWmtfVUstUGJVakxGT0RKVEZ4WHNWaVN6QTY2NjQ4R1J0TDhsNnBleG9UZXZkTllPSXc?oc=5",
-    "tags": [
-      "claude",
-      "design",
-      "anthropic",
-      "labs"
-    ]
-  },
-  {
     "id": "cbmit0fvx3lxte5wnl8wvmq4etznvvdsmktrdmjpzmv3rmwxaldotevjutg0r2zntddbsjj1tgdornhn",
     "lab": "xAI",
     "title": "Setting Grok Bot loose on procurement",
@@ -732,13 +747,13 @@
     ]
   },
   {
-    "id": "cbmi-gjbvv95cuxovuqxelbnwkjoywvhdkh0oddzsgplaf93vfj6y2vrzf80s2u4d1hjctlqz1y1us0z",
+    "id": "cbmibkfvx3lxte8yv1o0cknzlxpgbevxutzqmf96dglpuxpseudhewpds1lrnjrfv2i2axfoytjqm2hk",
     "lab": "Anthropic",
     "title": "Developing Enterprise Frontier Safeguards with our customers",
     "summary": "",
     "date": "2026-09-01T07:00:00.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOVUQxelBnWkJOYWVHdkh0ODdZSGpLaF93VFJ6Y2VRZF80S2U4d1hJcTlqZ1Y1US0zMFNucDlFcGVGQ0tKNTR4SUk5OEF6MFFaTDJ2OFpCcTRBSnhiT3JnWmlLR3RPLUp3am9XSEJBdFhPcGRBc3pzN05FalpRSEtYU1Jja01zMlR0RlVPSm9reTRyZmp0ckpLU3JBa3BOSHo3Sjlnc0ZjTm5UZDR0S05fbUdPbTNSeEU4eHJZSHloNWs3TGQ4bWZRZVNOeENrZ21fVkFZN2xBYVlwaGJoMVRHVjA0OHhjS241UUtWOXFyc3NlcUZYaGNYZkxPNFU1Vnd2aHJIR3hwUVBMQ3FycWg4Y3JkaVltTkV1UHVhemphQUVxN3cyWDRDTHJ2WXNMRmJCN2p4OFZuNWZoLXNnSlBtYzdxUzJEaG1aTnRhNVhpQkc1M3dzMjFjRkJsV0psVUxIZmw1WnRsS1JwNlVzTHB6bzhRa1JEYkxvckFaLTZB?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yV1o0ckNzLXpGbEVxUTZqMF96dGlPUXpseUdheWpDS1lrNjRfV2I2aXFOYTJqM2hkSTNrNHU1UTJhZHU5d3hscUlkdGpyajBENkZQbmt3RzFVWEZUSzhWTkxqZ3oxb1FpLTRPOGlB?oc=5",
     "tags": [
       "developing",
       "enterprise",
@@ -772,20 +787,6 @@
       "alignment",
       "security",
       "practices"
-    ]
-  },
-  {
-    "id": "cbmir0fvx3lxte9fmghorfhhrlromxbtd3vft21temtkmgtmrtlhaxuzvm1tzlldmtffd0nkvkh2mg53",
-    "lab": "xAI",
-    "title": "Grok Bot now works with X",
-    "summary": "",
-    "date": "2026-08-29T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9FMGhoRFhhRlROMXBTd3VfT21temtkMGtMRTlHaXUzVm1tZllDMTFFd0NkVkh2MG53R285Nk8xZ2FacHVOVHJB?oc=5",
-    "tags": [
-      "grok",
-      "bot",
-      "works"
     ]
   },
   {
@@ -856,13 +857,13 @@
     ]
   },
   {
-    "id": "cbmiwefvx3lxte1hc0jlcfvqwjroc01szgcwdmhqyuxuawjkaxoxtldhvvutlxfzse1datnysgfoaujx",
+    "id": "cbmiv0fvx3lxtfb5tzlhbvhycxn3zdv6dmdyue1kuhras29qsdzcvl9jn2niudjwrvbna3hpthbjdl9j",
     "lab": "DeepSeek",
     "title": "List Files",
     "summary": "",
     "date": "2026-08-21T12:18:12.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hc0JLcFVqWjROc01sZGcwdmhqYUxUaWJkaXoxTldHVVUtLXFZSE1DaTNYSGFoaUJXLVFEenFrQXdSaWpMRXFCVUVBaDdPNEJkeGNhNmRmal8?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5TzlHbVhYcXN3ZDV6dmdYUE1KUHRaS29qSDZCVl9jN2NiUDJwRVBNa3hPTHBjdl9jeDVmcF94UE9ybUJTMnRtOEg2Z2Q3R1haWHNTbUNrQQ?oc=5",
     "tags": [
       "list",
       "files"
