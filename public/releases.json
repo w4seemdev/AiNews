@@ -1,5 +1,96 @@
 [
   {
+    "id": "cbmiy0fvx3lxte9iwlnwrnpuzhlvmwuyz3zxanvqu1njq3faatlpvhlmadhzdzdub25cmerkythtyjn5",
+    "lab": "Anthropic",
+    "title": "Barclays scales Claude to upgrade operations and improve client experience",
+    "summary": "",
+    "date": "2026-10-01T12:18:59.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iWlNWRnpuZHlvMWUyZ3ZXanVqU1NjQ3FaaTlpVHlMaDhzdzdub25CMERKYThTYjN5RFFaSzBlZGJEbHNNMkpLN0M1Wkhfa2ltdFJZX0dpY3BJNndZLXhuRHN1Zw?oc=5",
+    "tags": [
+      "barclays",
+      "scales",
+      "claude",
+      "upgrade"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-gemini-4-argon-our-next-era-of-frontier-intelligence",
+    "lab": "Google DeepMind",
+    "title": "Gemini 4 Argon: our next era of frontier intelligence",
+    "summary": "",
+    "date": "2026-09-30T20:01:45.000Z",
+    "category": "model",
+    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "tags": [
+      "gemini",
+      "argon",
+      "next",
+      "era"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-introducing-synthid-bio",
+    "lab": "Google DeepMind",
+    "title": "Introducing SynthID Bio",
+    "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+    "date": "2026-09-30T15:03:07.000Z",
+    "category": "feature",
+    "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+    "image": "https://lh3.googleusercontent.com/wNhpZFcXYLXFb6alIt0H5NRvEoso2ONZDhPKz6MYEcGltHPbDeHddzkvv5GXl3abW1PZ5ci1Y9lKoYOIjMuHLxATXfWp88-Al6eEmDENrpejIFeimw=w528-h297-n-nu-rw-lo",
+    "tags": [
+      "synthid",
+      "bio",
+      "proof",
+      "concept"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-disrupting-a-coordinated-model-distillation-campaign",
+    "lab": "OpenAI",
+    "title": "Disrupting a coordinated model-distillation campaign",
+    "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+    "date": "2026-09-30T10:30:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "tags": [
+      "model",
+      "distillation",
+      "campaign",
+      "disrupting"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-helping-small-businesses-put-ai-to-work",
+    "lab": "OpenAI",
+    "title": "Helping small businesses put AI to work",
+    "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+    "date": "2026-09-30T10:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+    "tags": [
+      "small",
+      "businesses",
+      "helping",
+      "put"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-open-tts-leaderboard",
+    "lab": "Hugging Face",
+    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+    "summary": "",
+    "date": "2026-09-30T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/open-tts-leaderboard",
+    "tags": [
+      "open",
+      "tts",
+      "leaderboard",
+      "scalable"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-nvidia-kumo-tabular",
     "lab": "Hugging Face",
     "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
@@ -90,21 +181,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-towards-safety-cases-for-frontier-ai-training",
-    "lab": "OpenAI",
-    "title": "Towards safety cases for frontier AI training",
-    "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-    "date": "2026-09-28T19:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-    "tags": [
-      "safety",
-      "cases",
-      "frontier",
-      "training"
-    ]
-  },
-  {
     "id": "https-openai-com-index-how-we-will-do-better-for-australia",
     "lab": "OpenAI",
     "title": "How we will do better for Australia",
@@ -117,6 +193,21 @@
       "better",
       "openai",
       "apologises"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-towards-safety-cases-for-frontier-ai-training",
+    "lab": "OpenAI",
+    "title": "Towards safety cases for frontier AI training",
+    "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+    "date": "2026-09-28T19:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "tags": [
+      "safety",
+      "cases",
+      "frontier",
+      "training"
     ]
   },
   {
@@ -211,36 +302,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-proaction",
-    "lab": "OpenAI",
-    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-    "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-    "date": "2026-09-25T19:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/proaction",
-    "tags": [
-      "proaction",
-      "codex",
-      "gpt",
-      "boosts"
-    ]
-  },
-  {
-    "id": "cbmicefvx3lxte0wbvritmvurwxrwxnjzxjxr1hmdfblyva0vud0chbks2djvvrit1fjnjzlyxz2d0pj",
-    "lab": "Anthropic",
-    "title": "2028: Two scenarios for global AI leadership",
-    "summary": "",
-    "date": "2026-09-25T00:50:26.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wbVRiTmVURWxrWXNjZXJxR1hMdFBlYVA0VUd0cHBKS2djVVRiT1FjNjZlYXZ2d0pJN0lOVGU2T1ctMjNFcm1TVXhOSVhlM25kTUdmelFCWnZMQUFzZkRqMjQ4MFVEemt0MDc1YndkWS0?oc=5",
-    "tags": [
-      "two",
-      "scenarios",
-      "global",
-      "leadership"
-    ]
-  },
-  {
     "id": "https-deepmind-google-blog-introducing-gemini-38-live-with-live-avatar",
     "lab": "Google DeepMind",
     "title": "Introducing Gemini 3.8 Live with Live Avatar",
@@ -286,21 +347,6 @@
     ]
   },
   {
-    "id": "cbmidkfvx3lxte9jt0fwtvctzxnkynjxew44ahhozmjfbdywn3b4a2tmtthjzm9xrklxmkezdflxb2z6",
-    "lab": "Anthropic",
-    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-    "summary": "",
-    "date": "2026-09-23T16:06:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JT0FwTVctZXNkYnJXeW44aHhoZmJfbDYwN3B4a2tMTThJZm9XRklxMkEzdFlxb2Z6VGM2UnpDTGlaQ09PODJUMkJFWWl1UVZOTDJ0WU1UQ1pZMDlrbS0tM3FTS0RGWmNSeGt5QlJjZktQWkl4N0E?oc=5",
-    "tags": [
-      "claude",
-      "discovers",
-      "novel",
-      "enzyme"
-    ]
-  },
-  {
     "id": "https-deepmind-google-blog-advancing-private-ai-compute-with-secure-server-side-",
     "lab": "Google DeepMind",
     "title": "Advancing Private AI Compute with secure, server-side memory",
@@ -314,21 +360,6 @@
       "compute",
       "server",
       "side"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-two-years-of-openai-academy",
-    "lab": "OpenAI",
-    "title": "Two years of OpenAI Academy",
-    "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-    "date": "2026-09-23T16:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/two-years-of-openai-academy",
-    "tags": [
-      "two",
-      "years",
-      "openai",
-      "academy"
     ]
   },
   {
@@ -347,11 +378,26 @@
     ]
   },
   {
+    "id": "cbmidkfvx3lxte9jt0fwtvctzxnkynjxew44ahhozmjfbdywn3b4a2tmtthjzm9xrklxmkezdflxb2z6",
+    "lab": "Anthropic",
+    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "summary": "",
+    "date": "2026-09-23T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JT0FwTVctZXNkYnJXeW44aHhoZmJfbDYwN3B4a2tMTThJZm9XRklxMkEzdFlxb2Z6VGM2UnpDTGlaQ09PODJUMkJFWWl1UVZOTDJ0WU1UQ1pZMDlrbS0tM3FTS0RGWmNSeGt5QlJjZktQWkl4N0E?oc=5",
+    "tags": [
+      "claude",
+      "discovers",
+      "novel",
+      "enzyme"
+    ]
+  },
+  {
     "id": "cbmivkfvx3lxte43avl1aknmbudsc3v3rxdmbnldrwflsepestitltq5aevsdvq2x1ncb0duuwztvkoz",
     "lab": "xAI",
     "title": "How SpaceXAI is using Grok Bot to scale customer support",
     "summary": "",
-    "date": "2026-09-22T17:57:12.000Z",
+    "date": "2026-09-22T07:00:00.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43aVl1akNMbUdsc3V3RXdMbnlDRWFlSEpESTItLTQ5aEVsdVQ2X1NCb0duUWZTVkozVDhOd21KWEg4YlU3RE5fQWp2YnV4ZUFmaUVxRGV3?oc=5",
     "tags": [
@@ -582,21 +628,6 @@
     ]
   },
   {
-    "id": "https-deepmind-google-blog-introducing-gemini-3-8-live-and-3-8-live-extended-thi",
-    "lab": "Google DeepMind",
-    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-    "summary": "",
-    "date": "2026-09-15T17:05:57.000Z",
-    "category": "model",
-    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-    "tags": [
-      "live",
-      "gemini",
-      "extended",
-      "thinking"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-ibm-research-altk-evolve-consistency",
     "lab": "Hugging Face",
     "title": "Your Agent Aced the Task. Will It Do It Again?",
@@ -609,22 +640,6 @@
       "aced",
       "task",
       "again"
-    ]
-  },
-  {
-    "id": "https-blog-google-innovation-and-ai-technology-ai-ai-for-societal-impact",
-    "lab": "Google DeepMind",
-    "title": "AI for Societal Impact",
-    "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
-    "date": "2026-09-15T16:00:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif",
-    "tags": [
-      "societal",
-      "impact",
-      "explore",
-      "collection"
     ]
   },
   {
@@ -655,21 +670,6 @@
       "flash",
       "smarter",
       "faster"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-asyncgrpo-lora-hfjobs",
-    "lab": "Hugging Face",
-    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-    "summary": "",
-    "date": "2026-09-10T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-    "tags": [
-      "async",
-      "grpo",
-      "lora",
-      "across"
     ]
   },
   {
@@ -820,6 +820,20 @@
     ]
   },
   {
+    "id": "cbmicefvx3lxte1tc2jioxrysdb1z05hsi1udjkxn1uyzwfymhbxqzdpmtlrbxjivkp0q04tvffvx29f",
+    "lab": "Anthropic",
+    "title": "Expanding our support for scientists",
+    "summary": "",
+    "date": "2026-08-27T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Tc2JIOXRYSDB1Z05hSi1UdjkxN1UyZWFyMHBxQzdPMTlRbXJIVkp0Q04tVFFVX29fT3RUN2tMTEhTdlBQWmFyZlVMTTBVNVhhVFZiNXNsTnpncnFWZzE4R1I0d3ZjUTF5UmlhWG1FOEY?oc=5",
+    "tags": [
+      "expanding",
+      "support",
+      "scientists"
+    ]
+  },
+  {
     "id": "cbmiz0fvx3lxte5dnelzcs10wnj1nhjedmtynkxut1jqz3pladhzeja4uengvlliuzrqm19sejjyoefz",
     "lab": "Anthropic",
     "title": "Funding better evaluations of AI’s impact on wellbeing",
@@ -870,19 +884,6 @@
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vbGRQZXpMYXd3eV9NMGx6Z2VqNVVhSG9HQmdnY2JqRmRlREw5R05XNUxKc3c2Y1pmUENIeWRNa2VRdmRmN1hTWUhaNVBUM2JYclJPRGd1SVNEUQ?oc=5",
     "tags": [
       "delete",
-      "file"
-    ]
-  },
-  {
-    "id": "cbmiwkfvx3lxte9zcljlsmdzz0std1y1sjrgtlhkmmhwaux0yxhxt2zrwunysgjebxm5wglobu1rdi1p",
-    "lab": "DeepSeek",
-    "title": "Upload File",
-    "summary": "",
-    "date": "2026-08-21T12:46:46.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zclJLSmdzZ0std1Y1SjRGTlhKMmhWaUx0YXhxT2ZRWUNySGJEbXM5WGlObU1Rdi1pZVUyS3R1Q1JIaHE1NjE5b2owVlo0YkQ1eFhuMXI4dm12UQ?oc=5",
-    "tags": [
-      "upload",
       "file"
     ]
   }
