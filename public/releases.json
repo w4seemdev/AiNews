@@ -1,5 +1,63 @@
 [
   {
+    "id": "cbmizefvx3lxte9fnlfxvhbsrkl5bvf0c253ue5suefac3ddzmq4bzfjc2ler0hncjfmuuxpvfi5t0xq",
+    "lab": "Anthropic",
+    "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
+    "summary": "",
+    "date": "2026-10-02T23:01:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5",
+    "tags": [
+      "claude",
+      "frontier",
+      "academy",
+      "train"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-practical-guide-building-gpt-6",
+    "lab": "OpenAI",
+    "title": "A model guide for the GPT-6 family",
+    "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+    "date": "2026-10-02T16:15:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/practical-guide-building-gpt-6",
+    "tags": [
+      "gpt",
+      "model",
+      "guide",
+      "family"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-allenai-astabrief",
+    "lab": "Hugging Face",
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "summary": "",
+    "date": "2026-10-02T15:19:50.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/allenai/astabrief",
+    "tags": [
+      "open",
+      "sourcing",
+      "astabrief",
+      "fast"
+    ]
+  },
+  {
+    "id": "https-blog-google-innovation-and-ai-technology-ai-google-ai-updates-september-20",
+    "lab": "Google DeepMind",
+    "title": "The latest AI news we announced in September 2026",
+    "summary": "Here are Google’s latest AI updates from September 2026",
+    "date": "2026-10-02T15:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp",
+    "tags": [
+      "google"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-servicenow-ai-autosynthdata",
     "lab": "Hugging Face",
     "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
@@ -12,6 +70,21 @@
       "generating",
       "training",
       "data"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-chatham-financial",
+    "lab": "OpenAI",
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+    "date": "2026-10-02T00:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/chatham-financial",
+    "tags": [
+      "chatham",
+      "scales",
+      "capital",
+      "markets"
     ]
   },
   {
@@ -57,21 +130,6 @@
       "scales",
       "claude",
       "upgrade"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-allenai-olmocore3",
-    "lab": "Hugging Face",
-    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-    "summary": "",
-    "date": "2026-10-01T15:01:43.000Z",
-    "category": "model",
-    "url": "https://huggingface.co/blog/allenai/olmocore3",
-    "tags": [
-      "olmo",
-      "core",
-      "open",
-      "scalable"
     ]
   },
   {
@@ -196,21 +254,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-introducing-gpt-6-1-sol",
-    "lab": "OpenAI",
-    "title": "Introducing GPT-6.1 Sol",
-    "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-    "date": "2026-09-29T10:00:00.000Z",
-    "category": "api",
-    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-    "tags": [
-      "gpt",
-      "sol",
-      "astra",
-      "meet"
-    ]
-  },
-  {
     "id": "https-openai-com-index-devday-2026-recap",
     "lab": "OpenAI",
     "title": "DevDay 2026 Recap",
@@ -223,6 +266,21 @@
       "recap",
       "explore",
       "than"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-introducing-gpt-6-1-sol",
+    "lab": "OpenAI",
+    "title": "Introducing GPT-6.1 Sol",
+    "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+    "date": "2026-09-29T10:00:00.000Z",
+    "category": "api",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "tags": [
+      "gpt",
+      "sol",
+      "astra",
+      "meet"
     ]
   },
   {
@@ -253,36 +311,6 @@
       "bots",
       "shared",
       "teammates"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-how-we-will-do-better-for-australia",
-    "lab": "OpenAI",
-    "title": "How we will do better for Australia",
-    "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-    "date": "2026-09-28T19:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-    "tags": [
-      "australia",
-      "better",
-      "openai",
-      "apologises"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-towards-safety-cases-for-frontier-ai-training",
-    "lab": "OpenAI",
-    "title": "Towards safety cases for frontier AI training",
-    "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-    "date": "2026-09-28T19:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-    "tags": [
-      "safety",
-      "cases",
-      "frontier",
-      "training"
     ]
   },
   {
@@ -570,22 +598,6 @@
     ]
   },
   {
-    "id": "https-blog-google-innovation-and-ai-technology-ai-google-un-data-commons-platfor",
-    "lab": "Google DeepMind",
-    "title": "Making global data easier to explore",
-    "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
-    "date": "2026-09-17T20:00:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp",
-    "tags": [
-      "making",
-      "global",
-      "data",
-      "system"
-    ]
-  },
-  {
     "id": "cbmic0fvx3lxte1tdetsoc1prvfaswu5tmlametizjrmdddjlwg1bviyuzlutuv0uhzva1z3y2jyevvv",
     "lab": "Anthropic",
     "title": "Introducing the Life Sciences Verification Program",
@@ -700,6 +712,21 @@
       "sovereign",
       "open",
       "weight"
+    ]
+  },
+  {
+    "id": "cbmiyaxbvv95cuxqv1lkehvotjk0mzdamg5dmuo5rtawnzhnwnpobdhxmgvjdlvfujc1aehhee14dknx",
+    "lab": "Anthropic",
+    "title": "Introducing Claude Design by Anthropic Labs",
+    "summary": "",
+    "date": "2026-09-07T17:00:18.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiyAxBVV95cUxQV1lKeHVOTjk0MzdaMG5DMUo5RTAwNzhnWnpobDhXMGVjdlVFUjc1aEhHeE14dkNXdU95RFZlV012MEhIRU5OZHRxdUNLOUx6azV1a1QtbGhnTEhrTUxvM3hpbFowc3RTVkRzajVVZGFXOXJMVlVITFNhQ2xIRWVpYXpzVlBERjFFZERMTE0temJHb1k1ZHppUWxKeFgyWnFISDVyRGJFSlRoOTJhUk9mbWRIOF9tWnJZOXZ6WlZPNHpNSVJXWmk3aGxBSjlUcG5QUjROSURKeEFySVVLOVAtUUNnM0xzSTB5cHc2Rk85cWRMUUJDN245Wlh0X0xCSW1vckpEVHpGc0QxeHBrSVF6UDBiVlNPMEMtemVyUERsVmV4dHNJZVNJbXRONUxGdVRPOVFFUVIyNHN0aDM0NGlEajc5NkpkRGtXeXVkMjZzcmtNOXk3c3Y2UWpweWNwZ1BBTzg2TFd2ZGItYUQtaVRLMWJxdjJpdzJyWXBLeTlLYVBKdzVwVGswbTRqaFlNb1dYeFpFWEpzOWVlMzhlVnhpa1l3QUtobkNzcHJ5N1V6NWZWZ0ZXeDRfYUxMQkZKUGN5MS1HcHhfaUlvRWcyQ2VhOXFWU09ydS1FSjFuek5iMDVzTEtzcEVaN1VMd3dSMkpRbUsyY0t2M1NTM2k4ZjA2blhuZGZWc21vVlZWb1ZCSGg0VVNpTS1MQ0FZZXZqSzRyc1VBWC16c1ZDdlI5ZDlxRjZPRFFKT1BjUWtKenNhY2ZRQUc2dVg2TEVtZTRsRG1GV091a3NMV1p3X085dXhJNHJRaEVKVFJQQW9YczJvZ0VSR3pNOUV0bUhZczlQUmtzbXVVUzFwOU8zbzNZdlluSXBDT1l0RnhCeXdGMnd1aUs3R3dIVmlpNHhERUJHOF91QVFiSm9RZHNyTnZDTzBlOTZvcnNLbm1qOHJieVZqdVcwR0dGcXJfS2dEakoxQUh5aFBNNHRsTWdBbXdGdHVISkpYeW1JMEpScndqa3YxbS1yQVhZeTJxMm5LYzNZaHJFRzltYUJvTHdsVW9iU0FPT2o1Y2dZMl9iVjBMNHJtUkNianlPWlk2VlZzdDVtbTJaZnprWHJ0MmVqck1aek1TQ2RmZHFCNE80NUxxdXVwbzRpRU5aUXVVUFBOc3dDVDVzTnVxdmt5Q0MtRzBnbkN6bThJbWp5NW9ZSVY2TGhzeER5bXpRTGVzRUdmd3FvZTVlWEJPZXFhU09qWnExTmlrM0lBZWF1NFNDVTJnUFhTZFhjNy1FM2lmN21rX29pa0NvZ2c5UjBIbHJDS242TTJSVEZPTTBtNGo3QWR1ekVSenVxMjB2bDB0WVZkX21Rdm4zTjgyWjZHOVlQYVU5MEdZWmpXZGVoSVh3ODhmY0VSeVBFQ0tJZEhweUNzc3Jvd3F5NzZiU3V6Mmowd2l6TGcydmFkYS1NWWJIRS05LTBMM2xieWhuMmNqbVhJNzlXVFBWY3p6SThGTEMwU0VRX1F2Y05oNGFNVGZQQXo0Um1BWXNtMmpKNTJZSTVGd2I1WEtDcVhKSWdIcXJKbkNza1ZUZ2JENVZBaHNEQlh3Rk04aWZRWHc1Vk5ycF83NnpLRkVoQWRmQXMzNVl4U1JtU04wdTdKVjZvS2FQRWU0bGIzMVhsRWlXTHFrS3FNLUd2akxJbzNmb24xcHk1TUxtOXlrTFRwRlZaYmxRd1J5Y3h6R2dJTC1KWnFCSzFrb3RxTzVDWGd0WmdCV3RESTJaMmpZZ0I5ZHF4YmZfS29fZG9PNi1iQlp6b2h2alBxdUpSanRfelN2dHladGJOVWlFaTNQZldfaEp3UnhLRlA5c2R1Rk1KVTRMampfeV94T0VoeVRUcE5hNGFnYnZnNjYwVXZQd1pfSEowT01PYTZzNmFzMUstRGtJMDBTN0U0OXgwVldnZVpPT04xMUhocDZ2TU16dnhxd0xhZUhXaGlGZVgteld5N0Z4N3FnSW9lSks0M1lYb2ZaTTZWQV9MVkhLNFR6c29nd3loV0NLcVJRTTBmcXJOU1RKazVOUVJUNGlRckp0OVJvVXdDWmtfVUstUGJVakxGT0RKVEZ4WHNWaVN6QTY2NjQ4R1J0TDhsNnBleG9UZXZkTllPSXc?oc=5",
+    "tags": [
+      "claude",
+      "design",
+      "anthropic",
+      "labs"
     ]
   },
   {
@@ -855,32 +882,6 @@
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vbGRQZXpMYXd3eV9NMGx6Z2VqNVVhSG9HQmdnY2JqRmRlREw5R05XNUxKc3c2Y1pmUENIeWRNa2VRdmRmN1hTWUhaNVBUM2JYclJPRGd1SVNEUQ?oc=5",
     "tags": [
       "delete",
-      "file"
-    ]
-  },
-  {
-    "id": "cbmiwefvx3lxte1wyu92ckfmvenxektptvznvmf0ddlwahhntlvbamdhx3fwbvq1n2fkx2vvsjjlqmxa",
-    "lab": "DeepSeek",
-    "title": "Delete File",
-    "summary": "",
-    "date": "2026-08-21T16:02:42.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wYU92ckFmVENxektpTVZNVmF0dDlWaHhNTlVBamdHX3FwbVQ1N2FKX2VVSjJLQmxaOG5XaEdFM0xHX1JYQWhuTDZZY2tXVHQtVU8zbTJfcTQ?oc=5",
-    "tags": [
-      "delete",
-      "file"
-    ]
-  },
-  {
-    "id": "cbmiwefvx3lxte0xm0fuddm3vulsr0yysxg0zllfdkrvyzvrm0l5u0dir29xewflti01s1rwujltvfmy",
-    "lab": "DeepSeek",
-    "title": "Upload File",
-    "summary": "",
-    "date": "2026-08-21T12:46:46.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xM0FUdDM3VUlsR0YySXg0ZllFdkRvYzVrM0l5U0dIR29xeWFlTi01S1RwUjltVFMycl9lc2dsVko0N2VPOTJRZlE1YmZzQ2J5eUw4NzBtR2w?oc=5",
-    "tags": [
-      "upload",
       "file"
     ]
   }
