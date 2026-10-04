@@ -5,8 +5,17 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2026 11:02:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 11:43:57 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Agent Said It Was Done. The Database Disagreed.</title>
+      <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-microsoft-thinkingbox</guid>
+      <pubDate>Sat, 03 Oct 2026 22:56:48 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
     <item>
       <title>Claude Frontier Academy: $100M to train 10,000 engineers</title>
       <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5</link>
@@ -305,15 +314,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community</title>
-      <link>https://huggingface.co/blog/omlx</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-omlx</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Introducing Grok 4.7</title>
       <link>https://news.google.com/rss/articles/CBMiP0FVX3lxTFBqb2x1bzQ3UkxTVDFCUVRjODMzbDJ5YTg3Nmh5Q2luZGdUTmctZmo1Ukp4c3RVdUhfSGZFc1p5SQ?oc=5</link>
       <guid isPermaLink="false">cbmip0fvx3lxtfbqb2x1bzq3ukxtvdfcuvrjodmzbdj5ytg3nmh5q2luzgdutmctzmo1ukp4c3rvduhf</guid>
@@ -414,8 +414,8 @@
     </item>
     <item>
       <title>DeepSeek-V4.1-Flash: Smarter, Faster, More Efficient</title>
-      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xUUtzTXowTXVnUnE3T2FuV2R5MGluMERDcTNja3NkTlNBQ1hOZUNGRHRMZVBhQjl4bk1WZE1BMDVDMHhaV2NGaTFoWUR6QnpxcGRPUDNmUU0?oc=5</link>
-      <guid isPermaLink="false">cbmiwefvx3lxte1xuutztxowtxvnune3t2fuv2r5mglumerdctnja3nktlnbq1hozungrhrmzvbhqjl4</guid>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE02bjh4Qk42Ung4dDc0emJvTk82R2RPaGVIQWQ0ekxIMDlhNHROWGtwMVJGODNmQ1FhZHdrNUs4d1lyaDZZWXZpSlprR3BXVXJMam53clVxUFc5UQ?oc=5</link>
+      <guid isPermaLink="false">cbmiwkfvx3lxte02bjh4qk42ung4ddc0emjvtk82r2rpagviqwq0ekximdlhnhrowgtwmvjgodnmq1fh</guid>
       <pubDate>Thu, 10 Sep 2026 07:00:00 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>

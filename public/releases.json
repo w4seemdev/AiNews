@@ -1,5 +1,20 @@
 [
   {
+    "id": "https-huggingface-co-blog-microsoft-thinkingbox",
+    "lab": "Hugging Face",
+    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "summary": "",
+    "date": "2026-10-03T22:56:48.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+    "tags": [
+      "agent",
+      "said",
+      "done",
+      "database"
+    ]
+  },
+  {
     "id": "cbmizefvx3lxte9fnlfxvhbsrkl5bvf0c253ue5suefac3ddzmq4bzfjc2ler0hncjfmuuxpvfi5t0xq",
     "lab": "Anthropic",
     "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
@@ -496,21 +511,6 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-omlx",
-    "lab": "Hugging Face",
-    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-    "summary": "",
-    "date": "2026-09-22T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/omlx",
-    "tags": [
-      "jun",
-      "kim",
-      "omlx",
-      "creator"
-    ]
-  },
-  {
     "id": "cbmip0fvx3lxtfbqb2x1bzq3ukxtvdfcuvrjodmzbdj5ytg3nmh5q2luzgdutmctzmo1ukp4c3rvduhf",
     "lab": "xAI",
     "title": "Introducing Grok 4.7",
@@ -670,13 +670,13 @@
     ]
   },
   {
-    "id": "cbmiwefvx3lxte1xuutztxowtxvnune3t2fuv2r5mglumerdctnja3nktlnbq1hozungrhrmzvbhqjl4",
+    "id": "cbmiwkfvx3lxte02bjh4qk42ung4ddc0emjvtk82r2rpagviqwq0ekximdlhnhrowgtwmvjgodnmq1fh",
     "lab": "DeepSeek",
     "title": "DeepSeek-V4.1-Flash: Smarter, Faster, More Efficient",
     "summary": "",
     "date": "2026-09-10T07:00:00.000Z",
     "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xUUtzTXowTXVnUnE3T2FuV2R5MGluMERDcTNja3NkTlNBQ1hOZUNGRHRMZVBhQjl4bk1WZE1BMDVDMHhaV2NGaTFoWUR6QnpxcGRPUDNmUU0?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02bjh4Qk42Ung4dDc0emJvTk82R2RPaGVIQWQ0ekxIMDlhNHROWGtwMVJGODNmQ1FhZHdrNUs4d1lyaDZZWXZpSlprR3BXVXJMam53clVxUFc5UQ?oc=5",
     "tags": [
       "deepseek",
       "flash",
