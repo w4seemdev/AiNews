@@ -5,8 +5,17 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2026 11:43:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 13:29:42 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Building advertising for the way people use AI</title>
+      <link>https://openai.com/index/new-chatgpt-ads-format-and-measurement</link>
+      <guid isPermaLink="false">https-openai-com-index-new-chatgpt-ads-format-and-measurement</guid>
+      <pubDate>Mon, 05 Oct 2026 10:00:00 GMT</pubDate>
+      <description>OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
     <item>
       <title>The Agent Said It Was Done. The Database Disagreed.</title>
       <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
@@ -186,15 +195,6 @@
       <description>Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices. (Source: OpenAI)</description>
       <source url="https://ai-pulse.vercel.app">OpenAI</source>
       <category>api</category>
-    </item>
-    <item>
-      <title>Introducing dots</title>
-      <link>https://openai.com/index/introducing-dots</link>
-      <guid isPermaLink="false">https-openai-com-index-introducing-dots</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-      <description>Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
     </item>
     <item>
       <title>Team Bots: shared AI teammates that learn as they work</title>
@@ -503,15 +503,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Previewing the Model Hardware Standard</title>
-      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE9mMzRTNjJiRFhsYnZYMlBtQlNxTWZrRE5VVzF4TnZoel9UdXJSalpXUkE4M1NXN3pNTXdIWW84U0dONmN3bUFKcGwzZGh4SEdCZTFQaEk0TDJZNjF2ZVRFTUhTYTB5MzV5dV9xX1lvWXNMejFUYUlMZGxISQ?oc=5</link>
-      <guid isPermaLink="false">cbmie0fvx3lxte9mmzrtnjjirfhsynzymlbtqlnxtwzrre5vvzf4tnzoel9udxjsalpxuke4m1nxn3pn</guid>
-      <pubDate>Thu, 27 Aug 2026 07:00:00 GMT</pubDate>
-      <description>Source: Anthropic</description>
-      <source url="https://ai-pulse.vercel.app">Anthropic</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Funding better evaluations of AI’s impact on wellbeing</title>
       <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DNElZcS10WnJ1NHJEdmtYNkxUT1JQZ3plaDhZejA4UENGVlliUzRqM19sejJyOEFZbW9zbTZyZmpsZGpmOGYtaDc2T1pFTThXUG9wQi1nUFl3cVhIVDJyQVd6QnBsa2M?oc=5</link>
       <guid isPermaLink="false">cbmiz0fvx3lxte5dnelzcs10wnj1nhjedmtynkxut1jqz3pladhzeja4uengvlliuzrqm19sejjyoefz</guid>
@@ -543,6 +534,15 @@
       <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vbGRQZXpMYXd3eV9NMGx6Z2VqNVVhSG9HQmdnY2JqRmRlREw5R05XNUxKc3c2Y1pmUENIeWRNa2VRdmRmN1hTWUhaNVBUM2JYclJPRGd1SVNEUQ?oc=5</link>
       <guid isPermaLink="false">cbmiwkfvx3lxte9vbgrqzxpmyxd3ev9nmgx6z2vqnvvhsg9hqmdny2jqrmrlrew5r05xnuxkc3c2y1pm</guid>
       <pubDate>Fri, 21 Aug 2026 16:02:43 GMT</pubDate>
+      <description>Source: DeepSeek</description>
+      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>List Files</title>
+      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hc0JLcFVqWjROc01sZGcwdmhqYUxUaWJkaXoxTldHVVUtLXFZSE1DaTNYSGFoaUJXLVFEenFrQXdSaWpMRXFCVUVBaDdPNEJkeGNhNmRmal8?oc=5</link>
+      <guid isPermaLink="false">cbmiwefvx3lxte1hc0jlcfvqwjroc01szgcwdmhqyuxuawjkaxoxtldhvvutlxfzse1datnysgfoaujx</guid>
+      <pubDate>Fri, 21 Aug 2026 12:56:55 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>feature</category>
