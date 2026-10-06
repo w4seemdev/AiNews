@@ -1,5 +1,35 @@
 [
   {
+    "id": "https-huggingface-co-blog-tiiuae-falcon-emirati",
+    "lab": "Hugging Face",
+    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+    "summary": "",
+    "date": "2026-10-06T06:44:39.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+    "tags": [
+      "falcon",
+      "emirati",
+      "llm",
+      "learns"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-eu-text-provenance",
+    "lab": "OpenAI",
+    "title": "Our approach to EU text provenance rules",
+    "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+    "date": "2026-10-05T15:00:00.000Z",
+    "category": "research",
+    "url": "https://openai.com/index/eu-text-provenance",
+    "tags": [
+      "text",
+      "rules",
+      "approach",
+      "provenance"
+    ]
+  },
+  {
     "id": "https-openai-com-index-new-chatgpt-ads-format-and-measurement",
     "lab": "OpenAI",
     "title": "Building advertising for the way people use AI",
@@ -299,21 +329,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-introducing-gpt-6-1-sol",
-    "lab": "OpenAI",
-    "title": "Introducing GPT-6.1 Sol",
-    "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-    "date": "2026-09-29T10:00:00.000Z",
-    "category": "api",
-    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-    "tags": [
-      "gpt",
-      "sol",
-      "astra",
-      "meet"
-    ]
-  },
-  {
     "id": "cbmiqefvx3lxte5hynpiunhxb2dgrnddavzcowjwy2dsr1bib1bvsdfjz3nfanmtwjy5etvozu1mck9s",
     "lab": "xAI",
     "title": "Team Bots: shared AI teammates that learn as they work",
@@ -372,6 +387,20 @@
       "powering",
       "generalist",
       "computer"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-rl-environments",
+    "lab": "Hugging Face",
+    "title": "Welcome RL Environments to the hub",
+    "summary": "",
+    "date": "2026-09-28T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/rl-environments",
+    "tags": [
+      "welcome",
+      "environments",
+      "hub"
     ]
   },
   {
@@ -478,36 +507,6 @@
       "grok",
       "bot",
       "scale"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-evaleval-aisi",
-    "lab": "Hugging Face",
-    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-    "summary": "",
-    "date": "2026-09-22T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/evaleval-aisi",
-    "tags": [
-      "aisi",
-      "evaleval",
-      "making",
-      "benchmark"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-transformers-llama-cpp-quants",
-    "lab": "Hugging Face",
-    "title": "Transformers now runs llama.cpp quants",
-    "summary": "",
-    "date": "2026-09-22T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-    "tags": [
-      "transformers",
-      "runs",
-      "llama",
-      "cpp"
     ]
   },
   {

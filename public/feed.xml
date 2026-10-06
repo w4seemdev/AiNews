@@ -5,8 +5,26 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 13:29:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 12:41:09 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance</title>
+      <link>https://huggingface.co/blog/tiiuae/falcon-emirati</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-tiiuae-falcon-emirati</guid>
+      <pubDate>Tue, 06 Oct 2026 06:44:39 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Our approach to EU text provenance rules</title>
+      <link>https://openai.com/index/eu-text-provenance</link>
+      <guid isPermaLink="false">https-openai-com-index-eu-text-provenance</guid>
+      <pubDate>Mon, 05 Oct 2026 15:00:00 GMT</pubDate>
+      <description>How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>research</category>
+    </item>
     <item>
       <title>Building advertising for the way people use AI</title>
       <link>https://openai.com/index/new-chatgpt-ads-format-and-measurement</link>
@@ -188,15 +206,6 @@
       <category>api</category>
     </item>
     <item>
-      <title>Introducing GPT-6.1 Sol</title>
-      <link>https://openai.com/index/introducing-gpt-6-1-sol</link>
-      <guid isPermaLink="false">https-openai-com-index-introducing-gpt-6-1-sol</guid>
-      <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
-      <description>Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>api</category>
-    </item>
-    <item>
       <title>Team Bots: shared AI teammates that learn as they work</title>
       <link>https://news.google.com/rss/articles/CBMiQEFVX3lxTE5HYnpIUnhxb2dGRndDaVZCOWJWY2dSR1Bib1BvSDFJZ3NFanMtWjY5eTVoZU1Mck9SMDN0NTVXYU0?oc=5</link>
       <guid isPermaLink="false">cbmiqefvx3lxte5hynpiunhxb2dgrnddavzcowjwy2dsr1bib1bvsdfjz3nfanmtwjy5etvozu1mck9s</guid>
@@ -228,6 +237,15 @@
       <link>https://huggingface.co/blog/Hcompany/holo4</link>
       <guid isPermaLink="false">https-huggingface-co-blog-hcompany-holo4</guid>
       <pubDate>Mon, 28 Sep 2026 09:44:05 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Welcome RL Environments to the hub</title>
+      <link>https://huggingface.co/blog/rl-environments</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-rl-environments</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
       <description>Source: Hugging Face</description>
       <source url="https://ai-pulse.vercel.app">Hugging Face</source>
       <category>feature</category>
@@ -293,24 +311,6 @@
       <pubDate>Tue, 22 Sep 2026 07:00:00 GMT</pubDate>
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>How UK AISI and EvalEval Are Making Benchmark Results Reproducible</title>
-      <link>https://huggingface.co/blog/evaleval-aisi</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-evaleval-aisi</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Transformers now runs llama.cpp quants</title>
-      <link>https://huggingface.co/blog/transformers-llama-cpp-quants</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-transformers-llama-cpp-quants</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
       <category>feature</category>
     </item>
     <item>
