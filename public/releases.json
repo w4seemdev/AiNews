@@ -1,5 +1,50 @@
 [
   {
+    "id": "https-huggingface-co-blog-liquidai-open-d1",
+    "lab": "Hugging Face",
+    "title": "Multimodal open d1 decision models for the edge",
+    "summary": "",
+    "date": "2026-10-07T16:54:33.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+    "tags": [
+      "multimodal",
+      "open",
+      "decision",
+      "models"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-nvidia-nemotron-ioi-and-imo-2026",
+    "lab": "Hugging Face",
+    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "summary": "",
+    "date": "2026-10-07T12:45:31.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+    "tags": [
+      "one",
+      "model",
+      "family",
+      "two"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-teens-learn-and-plan",
+    "lab": "OpenAI",
+    "title": "Helping teens learn, plan, and shape the future of AI",
+    "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+    "date": "2026-10-07T12:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/teens-learn-and-plan",
+    "tags": [
+      "teens",
+      "college",
+      "helping",
+      "learn"
+    ]
+  },
+  {
     "id": "https-blog-google-innovation-and-ai-technology-ai-playground-experimental-gaming",
     "lab": "Google DeepMind",
     "title": "Introducing Playground: Create and play custom games",
@@ -13,6 +58,36 @@
       "create",
       "play",
       "custom"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-radisson",
+    "lab": "OpenAI",
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+    "date": "2026-10-07T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/radisson",
+    "tags": [
+      "radisson",
+      "hotel",
+      "chatgpt",
+      "group"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-gpt-6-for-everyone",
+    "lab": "OpenAI",
+    "title": "GPT-6 and Intelligent UI for everyone",
+    "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+    "date": "2026-10-07T00:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/gpt-6-for-everyone",
+    "tags": [
+      "gpt",
+      "intelligent",
+      "everyone",
+      "rolling"
     ]
   },
   {
@@ -116,21 +191,6 @@
       "ironclad",
       "advancing",
       "learn"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-tiiuae-falcon-emirati",
-    "lab": "Hugging Face",
-    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-    "summary": "",
-    "date": "2026-10-06T06:44:39.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-    "tags": [
-      "falcon",
-      "emirati",
-      "llm",
-      "learns"
     ]
   },
   {
@@ -252,51 +312,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-chatham-financial",
-    "lab": "OpenAI",
-    "title": "Chatham scales its capital markets expertise with OpenAI",
-    "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-    "date": "2026-10-02T00:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/chatham-financial",
-    "tags": [
-      "chatham",
-      "scales",
-      "capital",
-      "markets"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-the-eternal-complement",
-    "lab": "OpenAI",
-    "title": "The eternal complement",
-    "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-    "date": "2026-10-01T17:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/the-eternal-complement",
-    "tags": [
-      "eternal",
-      "complement",
-      "advanced",
-      "matter"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-albertsons-reimagining-retail",
-    "lab": "OpenAI",
-    "title": "How Albertsons Companies is reimagining retail from the inside out",
-    "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-    "date": "2026-10-01T16:00:00.000Z",
-    "category": "api",
-    "url": "https://openai.com/index/albertsons-reimagining-retail",
-    "tags": [
-      "albertsons",
-      "companies",
-      "reimagining",
-      "retail"
-    ]
-  },
-  {
     "id": "cbmiy0fvx3lxte9iwlnwrnpuzhlvmwuyz3zxanvqu1njq3faatlpvhlmadhzdzdub25cmerkythtyjn5",
     "lab": "Anthropic",
     "title": "Barclays scales Claude to upgrade operations and improve client experience",
@@ -355,21 +370,6 @@
       "tts",
       "leaderboard",
       "scalable"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-nvidia-kumo-tabular",
-    "lab": "Hugging Face",
-    "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-    "summary": "",
-    "date": "2026-09-29T15:30:38.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-    "tags": [
-      "tabular",
-      "nvidia",
-      "kumo",
-      "sets"
     ]
   },
   {
@@ -477,21 +477,6 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-liquidai-lfm2-5-vl-dspark",
-    "lab": "Hugging Face",
-    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-    "summary": "",
-    "date": "2026-09-24T14:08:57.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-    "tags": [
-      "accelerating",
-      "vision",
-      "language",
-      "models"
-    ]
-  },
-  {
     "id": "https-blog-google-innovation-and-ai-technology-research-google-beam-expansion",
     "lab": "Google DeepMind",
     "title": "Google Beam expands with new regions, partners, and customers",
@@ -569,6 +554,21 @@
     ]
   },
   {
+    "id": "https-huggingface-co-blog-evaleval-aisi",
+    "lab": "Hugging Face",
+    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+    "summary": "",
+    "date": "2026-09-22T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/evaleval-aisi",
+    "tags": [
+      "aisi",
+      "evaleval",
+      "making",
+      "benchmark"
+    ]
+  },
+  {
     "id": "cbmip0fvx3lxtfbqb2x1bzq3ukxtvdfcuvrjodmzbdj5ytg3nmh5q2luzgdutmctzmo1ukp4c3rvduhf",
     "lab": "xAI",
     "title": "Introducing Grok 4.7",
@@ -578,20 +578,6 @@
     "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBqb2x1bzQ3UkxTVDFCUVRjODMzbDJ5YTg3Nmh5Q2luZGdUTmctZmo1Ukp4c3RVdUhfSGZFc1p5SQ?oc=5",
     "tags": [
       "grok"
-    ]
-  },
-  {
-    "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
-    "lab": "xAI",
-    "title": "Creators of Grok, the AI Chatbot",
-    "summary": "",
-    "date": "2026-09-21T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
-    "tags": [
-      "creators",
-      "grok",
-      "chatbot"
     ]
   },
   {
@@ -741,21 +727,6 @@
     ]
   },
   {
-    "id": "cbmiyaxbvv95cuxqv1lkehvotjk0mzdamg5dmuo5rtawnzhnwnpobdhxmgvjdlvfujc1aehhee14dknx",
-    "lab": "Anthropic",
-    "title": "Introducing Claude Design by Anthropic Labs",
-    "summary": "",
-    "date": "2026-09-07T17:00:18.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiyAxBVV95cUxQV1lKeHVOTjk0MzdaMG5DMUo5RTAwNzhnWnpobDhXMGVjdlVFUjc1aEhHeE14dkNXdU95RFZlV012MEhIRU5OZHRxdUNLOUx6azV1a1QtbGhnTEhrTUxvM3hpbFowc3RTVkRzajVVZGFXOXJMVlVITFNhQ2xIRWVpYXpzVlBERjFFZERMTE0temJHb1k1ZHppUWxKeFgyWnFISDVyRGJFSlRoOTJhUk9mbWRIOF9tWnJZOXZ6WlZPNHpNSVJXWmk3aGxBSjlUcG5QUjROSURKeEFySVVLOVAtUUNnM0xzSTB5cHc2Rk85cWRMUUJDN245Wlh0X0xCSW1vckpEVHpGc0QxeHBrSVF6UDBiVlNPMEMtemVyUERsVmV4dHNJZVNJbXRONUxGdVRPOVFFUVIyNHN0aDM0NGlEajc5NkpkRGtXeXVkMjZzcmtNOXk3c3Y2UWpweWNwZ1BBTzg2TFd2ZGItYUQtaVRLMWJxdjJpdzJyWXBLeTlLYVBKdzVwVGswbTRqaFlNb1dYeFpFWEpzOWVlMzhlVnhpa1l3QUtobkNzcHJ5N1V6NWZWZ0ZXeDRfYUxMQkZKUGN5MS1HcHhfaUlvRWcyQ2VhOXFWU09ydS1FSjFuek5iMDVzTEtzcEVaN1VMd3dSMkpRbUsyY0t2M1NTM2k4ZjA2blhuZGZWc21vVlZWb1ZCSGg0VVNpTS1MQ0FZZXZqSzRyc1VBWC16c1ZDdlI5ZDlxRjZPRFFKT1BjUWtKenNhY2ZRQUc2dVg2TEVtZTRsRG1GV091a3NMV1p3X085dXhJNHJRaEVKVFJQQW9YczJvZ0VSR3pNOUV0bUhZczlQUmtzbXVVUzFwOU8zbzNZdlluSXBDT1l0RnhCeXdGMnd1aUs3R3dIVmlpNHhERUJHOF91QVFiSm9RZHNyTnZDTzBlOTZvcnNLbm1qOHJieVZqdVcwR0dGcXJfS2dEakoxQUh5aFBNNHRsTWdBbXdGdHVISkpYeW1JMEpScndqa3YxbS1yQVhZeTJxMm5LYzNZaHJFRzltYUJvTHdsVW9iU0FPT2o1Y2dZMl9iVjBMNHJtUkNianlPWlk2VlZzdDVtbTJaZnprWHJ0MmVqck1aek1TQ2RmZHFCNE80NUxxdXVwbzRpRU5aUXVVUFBOc3dDVDVzTnVxdmt5Q0MtRzBnbkN6bThJbWp5NW9ZSVY2TGhzeER5bXpRTGVzRUdmd3FvZTVlWEJPZXFhU09qWnExTmlrM0lBZWF1NFNDVTJnUFhTZFhjNy1FM2lmN21rX29pa0NvZ2c5UjBIbHJDS242TTJSVEZPTTBtNGo3QWR1ekVSenVxMjB2bDB0WVZkX21Rdm4zTjgyWjZHOVlQYVU5MEdZWmpXZGVoSVh3ODhmY0VSeVBFQ0tJZEhweUNzc3Jvd3F5NzZiU3V6Mmowd2l6TGcydmFkYS1NWWJIRS05LTBMM2xieWhuMmNqbVhJNzlXVFBWY3p6SThGTEMwU0VRX1F2Y05oNGFNVGZQQXo0Um1BWXNtMmpKNTJZSTVGd2I1WEtDcVhKSWdIcXJKbkNza1ZUZ2JENVZBaHNEQlh3Rk04aWZRWHc1Vk5ycF83NnpLRkVoQWRmQXMzNVl4U1JtU04wdTdKVjZvS2FQRWU0bGIzMVhsRWlXTHFrS3FNLUd2akxJbzNmb24xcHk1TUxtOXlrTFRwRlZaYmxRd1J5Y3h6R2dJTC1KWnFCSzFrb3RxTzVDWGd0WmdCV3RESTJaMmpZZ0I5ZHF4YmZfS29fZG9PNi1iQlp6b2h2alBxdUpSanRfelN2dHladGJOVWlFaTNQZldfaEp3UnhLRlA5c2R1Rk1KVTRMampfeV94T0VoeVRUcE5hNGFnYnZnNjYwVXZQd1pfSEowT01PYTZzNmFzMUstRGtJMDBTN0U0OXgwVldnZVpPT04xMUhocDZ2TU16dnhxd0xhZUhXaGlGZVgteld5N0Z4N3FnSW9lSks0M1lYb2ZaTTZWQV9MVkhLNFR6c29nd3loV0NLcVJRTTBmcXJOU1RKazVOUVJUNGlRckp0OVJvVXdDWmtfVUstUGJVakxGT0RKVEZ4WHNWaVN6QTY2NjQ4R1J0TDhsNnBleG9UZXZkTllPSXc?oc=5",
-    "tags": [
-      "claude",
-      "design",
-      "anthropic",
-      "labs"
-    ]
-  },
-  {
     "id": "cbmit0fvx3lxte5wnl8wvmq4etznvvdsmktrdmjpzmv3rmwxaldotevjutg0r2zntddbsjj1tgdornhn",
     "lab": "xAI",
     "title": "Setting Grok Bot loose on procurement",
@@ -830,7 +801,7 @@
   {
     "id": "cbmidkfvx3lxte00lwy0neplrliyrflgzenxb0vqc0znb3busjlzetb3owdqweh5eefxbzjma0hftkhr",
     "lab": "Anthropic",
-    "title": "Improving our alignment and security efforts",
+    "title": "Improving our alignment and security practices",
     "summary": "",
     "date": "2026-08-31T07:00:00.000Z",
     "category": "feature",
@@ -839,7 +810,21 @@
       "improving",
       "alignment",
       "security",
-      "efforts"
+      "practices"
+    ]
+  },
+  {
+    "id": "cbmir0fvx3lxte9fmghorfhhrlromxbtd3vft21temtkmgtmrtlhaxuzvm1tzlldmtffd0nkvkh2mg53",
+    "lab": "xAI",
+    "title": "Grok Bot now works with X",
+    "summary": "",
+    "date": "2026-08-29T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9FMGhoRFhhRlROMXBTd3VfT21temtkMGtMRTlHaXUzVm1tZllDMTFFd0NkVkh2MG53R285Nk8xZ2FacHVOVHJB?oc=5",
+    "tags": [
+      "grok",
+      "bot",
+      "works"
     ]
   },
   {
@@ -879,6 +864,19 @@
     "tags": [
       "delete",
       "file"
+    ]
+  },
+  {
+    "id": "cbmiwefvx3lxte1hc0jlcfvqwjroc01szgcwdmhqyuxuawjkaxoxtldhvvutlxfzse1datnysgfoaujx",
+    "lab": "DeepSeek",
+    "title": "List Files",
+    "summary": "",
+    "date": "2026-08-21T12:56:55.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hc0JLcFVqWjROc01sZGcwdmhqYUxUaWJkaXoxTldHVVUtLXFZSE1DaTNYSGFoaUJXLVFEenFrQXdSaWpMRXFCVUVBaDdPNEJkeGNhNmRmal8?oc=5",
+    "tags": [
+      "list",
+      "files"
     ]
   }
 ]
