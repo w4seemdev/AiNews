@@ -5,8 +5,17 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 12:30:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 11:50:31 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Impactful scheduling for GPU clusters</title>
+      <link>https://huggingface.co/blog/allenai/impactful-scheduling</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-allenai-impactful-scheduling</guid>
+      <pubDate>Fri, 09 Oct 2026 15:20:29 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
     <item>
       <title>Sophos cuts threat investigation time by 96% with OpenAI Daybreak</title>
       <link>https://openai.com/index/sophos</link>
@@ -15,6 +24,15 @@
       <description>Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight. (Source: OpenAI)</description>
       <source url="https://ai-pulse.vercel.app">OpenAI</source>
       <category>feature</category>
+    </item>
+    <item>
+      <title>Asana cuts model costs 76x in browser tests with GPT-6.1 Sol</title>
+      <link>https://openai.com/index/asana-browser-agent</link>
+      <guid isPermaLink="false">https-openai-com-index-asana-browser-agent</guid>
+      <pubDate>Fri, 09 Oct 2026 07:00:00 GMT</pubDate>
+      <description>Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>model</category>
     </item>
     <item>
       <title>2026 Usage Policy update</title>
@@ -125,6 +143,15 @@
       <category>feature</category>
     </item>
     <item>
+      <title>Introducing Playground: Create and play custom games</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/</link>
+      <guid isPermaLink="false">https-blog-google-innovation-and-ai-technology-ai-playground-experimental-gaming</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
+      <description>Playground is a new experimental gaming platform that lets you create, play, and share custom games. (Source: Google DeepMind)</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
+      <category>feature</category>
+    </item>
+    <item>
       <title>Radisson Hotel Group brings hotel discovery into ChatGPT</title>
       <link>https://openai.com/index/radisson</link>
       <guid isPermaLink="false">https-openai-com-index-radisson</guid>
@@ -179,15 +206,6 @@
       <category>model</category>
     </item>
     <item>
-      <title>How Jump Trading is scaling quant research with ChatGPT</title>
-      <link>https://openai.com/index/jump-trading</link>
-      <guid isPermaLink="false">https-openai-com-index-jump-trading</guid>
-      <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
-      <description>Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>research</category>
-    </item>
-    <item>
       <title>The Agent Said It Was Done. The Database Disagreed.</title>
       <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
       <guid isPermaLink="false">https-huggingface-co-blog-microsoft-thinkingbox</guid>
@@ -197,21 +215,21 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Claude Frontier Academy: $100M to train 10,000 engineers</title>
-      <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5</link>
-      <guid isPermaLink="false">cbmizefvx3lxte9fnlfxvhbsrkl5bvf0c253ue5suefac3ddzmq4bzfjc2ler0hncjfmuuxpvfi5t0xq</guid>
-      <pubDate>Fri, 02 Oct 2026 23:01:00 GMT</pubDate>
-      <description>Source: Anthropic</description>
-      <source url="https://ai-pulse.vercel.app">Anthropic</source>
+      <title>The latest AI news we announced in September 2026</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/</link>
+      <guid isPermaLink="false">https-blog-google-innovation-and-ai-technology-ai-google-ai-updates-september-20</guid>
+      <pubDate>Fri, 02 Oct 2026 15:00:00 GMT</pubDate>
+      <description>Here are Google’s latest AI updates from September 2026 (Source: Google DeepMind)</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
       <category>feature</category>
     </item>
     <item>
-      <title>Open-sourcing AstaBrief, the fast report-generation model in Asta</title>
-      <link>https://huggingface.co/blog/allenai/astabrief</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-allenai-astabrief</guid>
-      <pubDate>Fri, 02 Oct 2026 15:19:50 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <title>Claude Frontier Academy: $100M to train 10,000 engineers</title>
+      <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5</link>
+      <guid isPermaLink="false">cbmizefvx3lxte9fnlfxvhbsrkl5bvf0c253ue5suefac3ddzmq4bzfjc2ler0hncjfmuuxpvfi5t0xq</guid>
+      <pubDate>Fri, 02 Oct 2026 07:00:00 GMT</pubDate>
+      <description>Source: Anthropic</description>
+      <source url="https://ai-pulse.vercel.app">Anthropic</source>
       <category>feature</category>
     </item>
     <item>
@@ -269,6 +287,15 @@
       <category>feature</category>
     </item>
     <item>
+      <title>Watch the winning trailer from the Future Vision XPRIZE, The Gifted.</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/</link>
+      <guid isPermaLink="false">https-blog-google-innovation-and-ai-technology-ai-winner-future-vision-xprize</guid>
+      <pubDate>Mon, 28 Sep 2026 19:00:00 GMT</pubDate>
+      <description>Watch the winning trailer from the Future Vision XPRIZE, The Gifted. (Source: Google DeepMind)</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
+      <category>feature</category>
+    </item>
+    <item>
       <title>Holo4: powering generalist computer-use agents</title>
       <link>https://huggingface.co/blog/Hcompany/holo4</link>
       <guid isPermaLink="false">https-huggingface-co-blog-hcompany-holo4</guid>
@@ -303,6 +330,15 @@
       <description>Source: Google DeepMind</description>
       <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
       <category>model</category>
+    </item>
+    <item>
+      <title>Google Beam expands with new regions, partners, and customers</title>
+      <link>https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/</link>
+      <guid isPermaLink="false">https-blog-google-innovation-and-ai-technology-research-google-beam-expansion</guid>
+      <pubDate>Wed, 23 Sep 2026 18:00:00 GMT</pubDate>
+      <description>We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network. (Source: Google DeepMind)</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
+      <category>feature</category>
     </item>
     <item>
       <title>Advancing Private AI Compute with secure, server-side memory</title>
@@ -404,15 +440,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking</title>
-      <link>https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/</link>
-      <guid isPermaLink="false">https-deepmind-google-blog-introducing-gemini-3-8-live-and-3-8-live-extended-thi</guid>
-      <pubDate>Tue, 15 Sep 2026 17:05:57 GMT</pubDate>
-      <description>Source: Google DeepMind</description>
-      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
-      <category>model</category>
-    </item>
-    <item>
       <title>Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data</title>
       <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE01NmpON3ZnZTRGdXh2VWQ3c0Mwd19Pb21Kc0V5UFlLeTZzbVF3dnBOeFZSV3RldVd5cm5tSF94SUxMWV9EaGh0LXRqWkFkSHN1NkpadzZn?oc=5</link>
       <guid isPermaLink="false">cbmivkfvx3lxte01nmpon3znztrgdxh2vwq3c0mwd19pb21kc0v5uflletzzbvf3dnboefzsv3rldvd5</guid>
@@ -440,15 +467,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome</title>
-      <link>https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/</link>
-      <guid isPermaLink="false">https-deepmind-google-blog-alphagenome-atlas-a-predictive-map-of-every-possible-</guid>
-      <pubDate>Tue, 08 Sep 2026 14:00:15 GMT</pubDate>
-      <description>AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome. (Source: Google DeepMind)</description>
-      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Making sovereign, open-weight AI the technology frontier</title>
       <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5</link>
       <guid isPermaLink="false">cbmigafbvv95cuxnrzu0ctlwnhctb0fiy092uvljzfh4umxsq2lpltdkveu2slrzvu12vzi2rgrywefq</guid>
@@ -458,6 +476,15 @@
       <category>model</category>
     </item>
     <item>
+      <title>Retrieve File</title>
+      <link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MdkxBMGs1dzd5LVJQaXhpcDd4a212OUh6N2RFbHNtUks5eVVad0MxdHBxaWU1Q0R4eEZHdkF2WlJreG5kWkk3eWp1dGlQZWZoX2QtN3lmakd5dm8?oc=5</link>
+      <guid isPermaLink="false">cbmiw0fvx3lxte9mdkxbmgs1dzd5lvjqaxhpcdd4a212ouh6n2rfbhntuks5evvad0mxdhbxawu1q0r4</guid>
+      <pubDate>Fri, 04 Sep 2026 13:20:26 GMT</pubDate>
+      <description>Source: DeepSeek</description>
+      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
+      <category>feature</category>
+    </item>
+    <item>
       <title>Setting Grok Bot loose on procurement</title>
       <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wNl8wVmQ4eTZnVVdSMktrdmJpZmV3RmwxaldOTEVjUTg0R2ZNTDdBSjJ1TGdoRnhNbGhLWnNLZ19WOWRON0xQa0w1THdoUWM?oc=5</link>
       <guid isPermaLink="false">cbmit0fvx3lxte5wnl8wvmq4etznvvdsmktrdmjpzmv3rmwxaldotevjutg0r2zntddbsjj1tgdornhn</guid>
@@ -465,15 +492,6 @@
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
       <category>feature</category>
-    </item>
-    <item>
-      <title>Introducing WeatherNext 3, our most advanced and accurate global weather AI model</title>
-      <link>https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/</link>
-      <guid isPermaLink="false">https-deepmind-google-blog-introducing-weathernext-3-our-most-advanced-and-accur</guid>
-      <pubDate>Thu, 03 Sep 2026 15:02:08 GMT</pubDate>
-      <description>Source: Google DeepMind</description>
-      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
-      <category>model</category>
     </item>
     <item>
       <title>Designing Grok Bot for a world of persistent agents</title>
@@ -491,15 +509,6 @@
       <pubDate>Thu, 03 Sep 2026 07:00:00 GMT</pubDate>
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Proactive cyber defense for governments and enterprises</title>
-      <link>https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/</link>
-      <guid isPermaLink="false">https-deepmind-google-blog-proactive-cyber-defense-for-governments-and-enterpris</guid>
-      <pubDate>Wed, 02 Sep 2026 16:24:24 GMT</pubDate>
-      <description>Source: Google DeepMind</description>
-      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
       <category>feature</category>
     </item>
     <item>
@@ -536,15 +545,6 @@
       <pubDate>Mon, 24 Aug 2026 07:00:00 GMT</pubDate>
       <description>Source: Mistral</description>
       <source url="https://ai-pulse.vercel.app">Mistral</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Retrieve File</title>
-      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmcGxSRHlFUVJ1TDVHRVRBanMxUkxla2ZzZi0xcllwclg3LXRQZ2VjLVdjbW9VRWdUM3p2bC1hMFd5TEZrakpINVNqaFRUSW9maVBpYTlnNkpMb3Rv?oc=5</link>
-      <guid isPermaLink="false">cbmixefvx3lxtfbmcgxsrhlfuvj1tdvhrvrbanmxukxla2zzzi0xcllwclg3lxrqz2vjlvdjbw9vrwdu</guid>
-      <pubDate>Sat, 22 Aug 2026 19:33:06 GMT</pubDate>
-      <description>Source: DeepSeek</description>
-      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>feature</category>
     </item>
   </channel>

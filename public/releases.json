@@ -1,5 +1,20 @@
 [
   {
+    "id": "https-huggingface-co-blog-allenai-impactful-scheduling",
+    "lab": "Hugging Face",
+    "title": "Impactful scheduling for GPU clusters",
+    "summary": "",
+    "date": "2026-10-09T15:20:29.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+    "tags": [
+      "impactful",
+      "scheduling",
+      "gpu",
+      "clusters"
+    ]
+  },
+  {
     "id": "https-openai-com-index-sophos",
     "lab": "OpenAI",
     "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
@@ -12,6 +27,21 @@
       "threat",
       "investigation",
       "time"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-asana-browser-agent",
+    "lab": "OpenAI",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "date": "2026-10-09T07:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/asana-browser-agent",
+    "tags": [
+      "asana",
+      "browser",
+      "tests",
+      "gpt"
     ]
   },
   {
@@ -190,6 +220,22 @@
     ]
   },
   {
+    "id": "https-blog-google-innovation-and-ai-technology-ai-playground-experimental-gaming",
+    "lab": "Google DeepMind",
+    "title": "Introducing Playground: Create and play custom games",
+    "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+    "date": "2026-10-07T12:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp",
+    "tags": [
+      "playground",
+      "create",
+      "play",
+      "custom"
+    ]
+  },
+  {
     "id": "https-openai-com-index-radisson",
     "lab": "OpenAI",
     "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
@@ -278,21 +324,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-jump-trading",
-    "lab": "OpenAI",
-    "title": "How Jump Trading is scaling quant research with ChatGPT",
-    "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-    "date": "2026-10-06T12:00:00.000Z",
-    "category": "research",
-    "url": "https://openai.com/index/jump-trading",
-    "tags": [
-      "jump",
-      "trading",
-      "research",
-      "scaling"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-microsoft-thinkingbox",
     "lab": "Hugging Face",
     "title": "The Agent Said It Was Done. The Database Disagreed.",
@@ -308,11 +339,24 @@
     ]
   },
   {
+    "id": "https-blog-google-innovation-and-ai-technology-ai-google-ai-updates-september-20",
+    "lab": "Google DeepMind",
+    "title": "The latest AI news we announced in September 2026",
+    "summary": "Here are Google’s latest AI updates from September 2026",
+    "date": "2026-10-02T15:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp",
+    "tags": [
+      "google"
+    ]
+  },
+  {
     "id": "cbmizefvx3lxte9fnlfxvhbsrkl5bvf0c253ue5suefac3ddzmq4bzfjc2ler0hncjfmuuxpvfi5t0xq",
     "lab": "Anthropic",
     "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
     "summary": "",
-    "date": "2026-10-02T23:01:00.000Z",
+    "date": "2026-10-02T07:00:00.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5",
     "tags": [
@@ -320,21 +364,6 @@
       "frontier",
       "academy",
       "train"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-allenai-astabrief",
-    "lab": "Hugging Face",
-    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-    "summary": "",
-    "date": "2026-10-02T15:19:50.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/allenai/astabrief",
-    "tags": [
-      "open",
-      "sourcing",
-      "astabrief",
-      "fast"
     ]
   },
   {
@@ -429,6 +458,22 @@
     ]
   },
   {
+    "id": "https-blog-google-innovation-and-ai-technology-ai-winner-future-vision-xprize",
+    "lab": "Google DeepMind",
+    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+    "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+    "date": "2026-09-28T19:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp",
+    "tags": [
+      "watch",
+      "winning",
+      "trailer",
+      "future"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-hcompany-holo4",
     "lab": "Hugging Face",
     "title": "Holo4: powering generalist computer-use agents",
@@ -485,6 +530,22 @@
       "live",
       "gemini",
       "avatar"
+    ]
+  },
+  {
+    "id": "https-blog-google-innovation-and-ai-technology-research-google-beam-expansion",
+    "lab": "Google DeepMind",
+    "title": "Google Beam expands with new regions, partners, and customers",
+    "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+    "date": "2026-09-23T18:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_hero.max-600x600.format-webp.webp",
+    "tags": [
+      "google",
+      "beam",
+      "expands",
+      "regions"
     ]
   },
   {
@@ -647,21 +708,6 @@
     ]
   },
   {
-    "id": "https-deepmind-google-blog-introducing-gemini-3-8-live-and-3-8-live-extended-thi",
-    "lab": "Google DeepMind",
-    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-    "summary": "",
-    "date": "2026-09-15T17:05:57.000Z",
-    "category": "model",
-    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-    "tags": [
-      "live",
-      "gemini",
-      "extended",
-      "thinking"
-    ]
-  },
-  {
     "id": "cbmivkfvx3lxte01nmpon3znztrgdxh2vwq3c0mwd19pb21kc0v5uflletzzbvf3dnboefzsv3rldvd5",
     "lab": "Mistral",
     "title": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
@@ -707,22 +753,6 @@
     ]
   },
   {
-    "id": "https-deepmind-google-blog-alphagenome-atlas-a-predictive-map-of-every-possible-",
-    "lab": "Google DeepMind",
-    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-    "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
-    "date": "2026-09-08T14:00:15.000Z",
-    "category": "feature",
-    "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-    "image": "https://lh3.googleusercontent.com/vOjFcTcdX2GCEB9yk-tJ7GAfyhTAMo-zW7scq3TrT9qk1mYw5qE0BdUqI8XQclMuUchZr7pYUFdVt3ZzrXc1NGFFJOqi7kIUX_QuAXZR7lkVzxjk=w528-h297-n-nu-rw-lo",
-    "tags": [
-      "alphagenome",
-      "atlas",
-      "dna",
-      "letter"
-    ]
-  },
-  {
     "id": "cbmigafbvv95cuxnrzu0ctlwnhctb0fiy092uvljzfh4umxsq2lpltdkveu2slrzvu12vzi2rgrywefq",
     "lab": "Mistral",
     "title": "Making sovereign, open-weight AI the technology frontier",
@@ -738,6 +768,19 @@
     ]
   },
   {
+    "id": "cbmiw0fvx3lxte9mdkxbmgs1dzd5lvjqaxhpcdd4a212ouh6n2rfbhntuks5evvad0mxdhbxawu1q0r4",
+    "lab": "DeepSeek",
+    "title": "Retrieve File",
+    "summary": "",
+    "date": "2026-09-04T13:20:26.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MdkxBMGs1dzd5LVJQaXhpcDd4a212OUh6N2RFbHNtUks5eVVad0MxdHBxaWU1Q0R4eEZHdkF2WlJreG5kWkk3eWp1dGlQZWZoX2QtN3lmakd5dm8?oc=5",
+    "tags": [
+      "retrieve",
+      "file"
+    ]
+  },
+  {
     "id": "cbmit0fvx3lxte5wnl8wvmq4etznvvdsmktrdmjpzmv3rmwxaldotevjutg0r2zntddbsjj1tgdornhn",
     "lab": "xAI",
     "title": "Setting Grok Bot loose on procurement",
@@ -750,22 +793,6 @@
       "grok",
       "bot",
       "loose"
-    ]
-  },
-  {
-    "id": "https-deepmind-google-blog-introducing-weathernext-3-our-most-advanced-and-accur",
-    "lab": "Google DeepMind",
-    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-    "summary": "",
-    "date": "2026-09-03T15:02:08.000Z",
-    "category": "model",
-    "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-    "image": "https://lh3.googleusercontent.com/I3SASQw4etgOOVbcWS0lr7J14HFqWcee_ln6M0TBOWlvVg2XYCi3kpz4eAi81cAkyq47YvgU1FLzAlaiCNMLcsx9sFA3ufURiSg76Yz8hVm1-u_fYEY=w528-h297-n-nu-rw-lo",
-    "tags": [
-      "weathernext",
-      "advanced",
-      "accurate",
-      "global"
     ]
   },
   {
@@ -795,21 +822,6 @@
       "grok",
       "bot",
       "enterprise"
-    ]
-  },
-  {
-    "id": "https-deepmind-google-blog-proactive-cyber-defense-for-governments-and-enterpris",
-    "lab": "Google DeepMind",
-    "title": "Proactive cyber defense for governments and enterprises",
-    "summary": "",
-    "date": "2026-09-02T16:24:24.000Z",
-    "category": "feature",
-    "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-    "tags": [
-      "proactive",
-      "cyber",
-      "defense",
-      "governments"
     ]
   },
   {
@@ -865,19 +877,6 @@
     "tags": [
       "mistral",
       "humain"
-    ]
-  },
-  {
-    "id": "cbmixefvx3lxtfbmcgxsrhlfuvj1tdvhrvrbanmxukxla2zzzi0xcllwclg3lxrqz2vjlvdjbw9vrwdu",
-    "lab": "DeepSeek",
-    "title": "Retrieve File",
-    "summary": "",
-    "date": "2026-08-22T19:33:06.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmcGxSRHlFUVJ1TDVHRVRBanMxUkxla2ZzZi0xcllwclg3LXRQZ2VjLVdjbW9VRWdUM3p2bC1hMFd5TEZrakpINVNqaFRUSW9maVBpYTlnNkpMb3Rv?oc=5",
-    "tags": [
-      "retrieve",
-      "file"
     ]
   }
 ]
