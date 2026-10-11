@@ -597,13 +597,13 @@
   {
     "id": "cbmivkfvx3lxte43avl1aknmbudsc3v3rxdmbnldrwflsepestitltq5aevsdvq2x1ncb0duuwztvkoz",
     "lab": "xAI",
-    "title": "How SpaceXAI is using Grok Bot to scale customer support",
+    "title": "How SpaceXSI is using Grok Bot to scale customer support",
     "summary": "",
     "date": "2026-09-22T07:00:00.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43aVl1akNMbUdsc3V3RXdMbnlDRWFlSEpESTItLTQ5aEVsdVQ2X1NCb0duUWZTVkozVDhOd21KWEg4YlU3RE5fQWp2YnV4ZUFmaUVxRGV3?oc=5",
     "tags": [
-      "spacexai",
+      "spacexsi",
       "grok",
       "bot",
       "scale"
@@ -612,13 +612,14 @@
   {
     "id": "cbmip0fvx3lxtfbqb2x1bzq3ukxtvdfcuvrjodmzbdj5ytg3nmh5q2luzgdutmctzmo1ukp4c3rvduhf",
     "lab": "xAI",
-    "title": "Introducing Grok 4.7",
+    "title": "Introducing Grok 4.7 | SpaceXSI",
     "summary": "",
     "date": "2026-09-21T07:00:00.000Z",
     "category": "model",
     "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBqb2x1bzQ3UkxTVDFCUVRjODMzbDJ5YTg3Nmh5Q2luZGdUTmctZmo1Ukp4c3RVdUhfSGZFc1p5SQ?oc=5",
     "tags": [
-      "grok"
+      "grok",
+      "spacexsi"
     ]
   },
   {
