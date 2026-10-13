@@ -5,8 +5,17 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 14:19:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 13:28:39 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Introducing The X Subscription</title>
+      <link>https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xSHZsR1pnaUw0LXBEbHZkY0owdTZ3N1hsTlQ1MGJ5cm9nYkRCOXgyTkhFUHVmaVphZ1FNU0xfWkFMN29jMnpN?oc=5</link>
+      <guid isPermaLink="false">cbmir0fvx3lxte1xshzsr1pnauw0lxbebhzky0owdtz3n1hstlq1mgj5cm9nykrcoxgytkhfuhvmavph</guid>
+      <pubDate>Mon, 12 Oct 2026 22:41:48 GMT</pubDate>
+      <description>Source: xAI</description>
+      <source url="https://ai-pulse.vercel.app">xAI</source>
+      <category>feature</category>
+    </item>
     <item>
       <title>Impactful scheduling for GPU clusters</title>
       <link>https://huggingface.co/blog/allenai/impactful-scheduling</link>
@@ -414,9 +423,9 @@
     </item>
     <item>
       <title>Integrate with Qoder</title>
-      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE50QUN0T29rVE54YVhwZFBUY0VQbG41RDZYaUVXaElhYUE4SVhwUGxodzVkSjlzeGhIQjFhUHlRTTdpcGgxQW1CeU04VW9EYVR6ZEc3VXotX3VsYVdBbzU4eFVWZW4ycDIyRkQ0MzRXX2ZFS2pqcUE?oc=5</link>
-      <guid isPermaLink="false">cbmidkfvx3lxte50qun0t29rve54yvhwzfbuy0vqbg41rdzyauvxaelhyue4svhwugxodzvksjlzeghi</guid>
-      <pubDate>Thu, 17 Sep 2026 03:52:07 GMT</pubDate>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE03UWx5d0RxdHFiTWZkVWhPbnpuX0h0cEt1dGpXRDd0eUZYbEpOY3lvc0txYlQxNlhoT2g5aHl3UGRHdDE3YTVzOXVLc3pnTkZFLVJ0VXZ1UzJwTFdNZEF2ZHJ4LWNCS3BRMWxJUlgzeHdHejNP?oc=5</link>
+      <guid isPermaLink="false">cbmidefvx3lxte03uwx5d0rxdhfitwzkvwhpbnpux0h0cet1dgpxrdd0euzybepoy3lvc0txylqxnlho</guid>
+      <pubDate>Thu, 17 Sep 2026 03:52:06 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>feature</category>
@@ -525,15 +534,6 @@
       <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HcGwzQnZHUW4tMzRqNUpBMHJLSXVjT1VNSTVpRjhuSURLX29ZNkVnTmdRSGNpQV9vdkwyMEh2NV95enI4VHdWeVpicjVDRG1UZUU1aWt3?oc=5</link>
       <guid isPermaLink="false">cbmivkfvx3lxte5hcgwzqnzhuw4tmzrqnupbmhjlsxvjt1vnstvprjhusurlx29znkvntmdrsgnpqv9v</guid>
       <pubDate>Tue, 01 Sep 2026 07:00:00 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Grok Bot now works with X</title>
-      <link>https://news.google.com/rss/articles/CBMiR0FVX3lxTE9FMGhoRFhhRlROMXBTd3VfT21temtkMGtMRTlHaXUzVm1tZllDMTFFd0NkVkh2MG53R285Nk8xZ2FacHVOVHJB?oc=5</link>
-      <guid isPermaLink="false">cbmir0fvx3lxte9fmghorfhhrlromxbtd3vft21temtkmgtmrtlhaxuzvm1tzlldmtffd0nkvkh2mg53</guid>
-      <pubDate>Sat, 29 Aug 2026 07:00:00 GMT</pubDate>
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
       <category>feature</category>
