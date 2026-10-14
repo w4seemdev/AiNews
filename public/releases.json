@@ -1,14 +1,136 @@
 [
   {
+    "id": "https-deepmind-google-blog-on-device-ai-scam-detection-mddi",
+    "lab": "Google DeepMind",
+    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+    "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "date": "2026-10-14T02:00:14.000Z",
+    "category": "feature",
+    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "image": "https://lh3.googleusercontent.com/5PC4h7MzjC0ojOxiK-nPcRz0b6kUybKnCBjLL3nsb9T9qt7-2ciORJPnrObeFaYbAMqPxIhH4Wq9HD-U73lCivpFBcK8gABvhXXDo2lzUUSk9olsZQ=w528-h297-n-nu-rw-lo",
+    "tags": [
+      "google",
+      "deepmind",
+      "singapore",
+      "government"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-the-eus-next-chapter-in-ai-is-agentic",
+    "lab": "OpenAI",
+    "title": "The EU’s next chapter in AI is agentic",
+    "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+    "date": "2026-10-14T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "tags": [
+      "agentic",
+      "next",
+      "chapter",
+      "analysis"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-developing-gemini-4-argon-responsibly-and-safely",
+    "lab": "Google DeepMind",
+    "title": "Developing Gemini 4 Argon responsibly and safely",
+    "summary": "",
+    "date": "2026-10-13T19:43:07.000Z",
+    "category": "model",
+    "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+    "tags": [
+      "developing",
+      "gemini",
+      "argon",
+      "responsibly"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-liquidai-lfm25-24b-a2b",
+    "lab": "Hugging Face",
+    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+    "summary": "",
+    "date": "2026-10-13T17:05:48.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+    "tags": [
+      "run",
+      "fast",
+      "private",
+      "agents"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-gemini-4-argon-for-robotics",
+    "lab": "Google DeepMind",
+    "title": "Gemini 4 Argon for Robotics",
+    "summary": "",
+    "date": "2026-10-13T16:01:58.000Z",
+    "category": "model",
+    "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+    "tags": [
+      "gemini",
+      "argon",
+      "robotics"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-introducing-gemini-4-argon",
+    "lab": "Google DeepMind",
+    "title": "Gemini 4 Argon: Built to solve your hardest problems",
+    "summary": "",
+    "date": "2026-10-13T16:01:52.000Z",
+    "category": "model",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+    "tags": [
+      "gemini",
+      "argon",
+      "built",
+      "solve"
+    ]
+  },
+  {
+    "id": "https-blog-google-innovation-and-ai-models-and-research-gemini-models-introducin",
+    "lab": "Google DeepMind",
+    "title": "Gemini 4 Argon: Built to solve your hardest problems",
+    "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+    "date": "2026-10-13T16:00:00.000Z",
+    "category": "model",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp",
+    "tags": [
+      "gemini",
+      "argon",
+      "built",
+      "solve"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-higgsfield-longer-videos-voice",
+    "lab": "OpenAI",
+    "title": "Higgsfield takes AI video from 1 minute to over 10",
+    "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+    "date": "2026-10-13T12:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+    "tags": [
+      "gpt",
+      "higgsfield",
+      "takes",
+      "video"
+    ]
+  },
+  {
     "id": "cbmir0fvx3lxte1xshzsr1pnauw0lxbebhzky0owdtz3n1hstlq1mgj5cm9nykrcoxgytkhfuhvmavph",
     "lab": "xAI",
-    "title": "Introducing The X Subscription",
+    "title": "Introducing The X Subscription | SpaceXSI",
     "summary": "",
     "date": "2026-10-12T22:41:48.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xSHZsR1pnaUw0LXBEbHZkY0owdTZ3N1hsTlQ1MGJ5cm9nYkRCOXgyTkhFUHVmaVphZ1FNU0xfWkFMN29jMnpN?oc=5",
     "tags": [
-      "subscription"
+      "subscription",
+      "spacexsi"
     ]
   },
   {
@@ -174,21 +296,6 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-liquidai-open-d1",
-    "lab": "Hugging Face",
-    "title": "Multimodal open d1 decision models for the edge",
-    "summary": "",
-    "date": "2026-10-07T16:54:33.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-    "tags": [
-      "multimodal",
-      "open",
-      "decision",
-      "models"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-tiiuae-falcon-asr",
     "lab": "Hugging Face",
     "title": "Introducing Falcon ASR",
@@ -263,21 +370,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-gpt-6-for-everyone",
-    "lab": "OpenAI",
-    "title": "GPT-6 and Intelligent UI for everyone",
-    "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-    "date": "2026-10-07T00:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/gpt-6-for-everyone",
-    "tags": [
-      "gpt",
-      "intelligent",
-      "everyone",
-      "rolling"
-    ]
-  },
-  {
     "id": "https-deepmind-google-blog-embeddinggemma-2-an-open-lightweight-multimodal-embed",
     "lab": "Google DeepMind",
     "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
@@ -297,7 +389,7 @@
     "lab": "Anthropic",
     "title": "Expanding the Cyber Verification Program",
     "summary": "",
-    "date": "2026-10-06T19:00:00.000Z",
+    "date": "2026-10-06T07:00:00.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HZElZMTI1d1F3R09RWTFKLU1xMXViLW9fRF92bDNFcjZxTzViUHprTmRCOVR5WGJHOWNEdS1IaEZsZjBPRU0ycFB6M1Rpd2h0ZkZwdk1wZWJUdzc5cFB3bG93RWRYQzFI?oc=5",
     "tags": [
@@ -308,26 +400,11 @@
     ]
   },
   {
-    "id": "https-openai-com-index-atlassian-partnership",
-    "lab": "OpenAI",
-    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-    "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-    "date": "2026-10-06T16:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/atlassian-partnership",
-    "tags": [
-      "atlassian",
-      "openai",
-      "partnership",
-      "enterprise"
-    ]
-  },
-  {
     "id": "cbmiukfvx3lxte55rwfreetwvxnoutdccnvmadllqmjslxnjbtk4bvznwnf2bme4azu1d0lztgx0wnht",
     "lab": "Mistral",
     "title": "Introducing Mistral Large 4",
     "summary": "",
-    "date": "2026-10-06T13:31:35.000Z",
+    "date": "2026-10-06T07:00:00.000Z",
     "category": "model",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55RWFreEtWVXNoUTdCcnVmaDllQmJsLXNJbTk4bVZNWnF2bmE4azU1d0lzTGx0WnhtelRzZWtMdllmM2dXM3h0RlVVeXBkRTJfNlE?oc=5",
     "tags": [
@@ -470,22 +547,6 @@
     ]
   },
   {
-    "id": "https-blog-google-innovation-and-ai-technology-ai-winner-future-vision-xprize",
-    "lab": "Google DeepMind",
-    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "date": "2026-09-28T19:00:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp",
-    "tags": [
-      "watch",
-      "winning",
-      "trailer",
-      "future"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-hcompany-holo4",
     "lab": "Hugging Face",
     "title": "Holo4: powering generalist computer-use agents",
@@ -518,7 +579,7 @@
   {
     "id": "cbmiqefvx3lxte5hynpiunhxb2dgrnddavzcowjwy2dsr1bib1bvsdfjz3nfanmtwjy5etvozu1mck9s",
     "lab": "xAI",
-    "title": "Team Bots: shared AI teammates that learn as they work",
+    "title": "Team Bots: shared AI teammates that learn as they work | SpaceXSI",
     "summary": "",
     "date": "2026-09-28T07:00:00.000Z",
     "category": "feature",
@@ -531,74 +592,13 @@
     ]
   },
   {
-    "id": "https-deepmind-google-blog-introducing-gemini-38-live-with-live-avatar",
-    "lab": "Google DeepMind",
-    "title": "Introducing Gemini 3.8 Live with Live Avatar",
-    "summary": "",
-    "date": "2026-09-24T16:20:39.000Z",
-    "category": "model",
-    "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-    "tags": [
-      "live",
-      "gemini",
-      "avatar"
-    ]
-  },
-  {
-    "id": "https-blog-google-innovation-and-ai-technology-research-google-beam-expansion",
-    "lab": "Google DeepMind",
-    "title": "Google Beam expands with new regions, partners, and customers",
-    "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
-    "date": "2026-09-23T18:00:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_hero.max-600x600.format-webp.webp",
-    "tags": [
-      "google",
-      "beam",
-      "expands",
-      "regions"
-    ]
-  },
-  {
-    "id": "https-deepmind-google-blog-advancing-private-ai-compute-with-secure-server-side-",
-    "lab": "Google DeepMind",
-    "title": "Advancing Private AI Compute with secure, server-side memory",
-    "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-    "date": "2026-09-23T16:00:57.000Z",
-    "category": "feature",
-    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-    "image": "https://lh3.googleusercontent.com/CsJavGl89SJwjdXVDdaKtAEpLbqHa_nzOW89VTThwA8rgYr9Gf3CSiUWk18i5thA57k8zhwdwmvf3F2yagtJ-P1ag-9ppxsPXcUe99DRY9asIRP2yA=w528-h297-n-nu-rw-lo",
-    "tags": [
-      "private",
-      "compute",
-      "server",
-      "side"
-    ]
-  },
-  {
-    "id": "https-deepmind-google-blog-say-hello-to-gemini-38-text-to-speech",
-    "lab": "Google DeepMind",
-    "title": "Gemini 3.8 text-to-speech says hello",
-    "summary": "",
-    "date": "2026-09-23T15:25:14.000Z",
-    "category": "model",
-    "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-    "tags": [
-      "gemini",
-      "text",
-      "speech",
-      "hello"
-    ]
-  },
-  {
-    "id": "cbmidkfvx3lxte9jt0fwtvctzxnkynjxew44ahhozmjfbdywn3b4a2tmtthjzm9xrklxmkezdflxb2z6",
+    "id": "cbmiqwfbvv95cuxnetv1nhdtd1r3y1jpr1dqbjhvu0lsaevlatjnotvxc2hmsuvmc2hyaevgt0nhyl8y",
     "lab": "Anthropic",
     "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
     "summary": "",
     "date": "2026-09-23T07:00:00.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JT0FwTVctZXNkYnJXeW44aHhoZmJfbDYwN3B4a2tMTThJZm9XRklxMkEzdFlxb2Z6VGM2UnpDTGlaQ09PODJUMkJFWWl1UVZOTDJ0WU1UQ1pZMDlrbS0tM3FTS0RGWmNSeGt5QlJjZktQWkl4N0E?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeTV1NHdtd1R3Y1JpR1dQbjhVU0lSaEVlaTJNOTVxc2hmSUVMc2hyaEVGT0NHYl8yTG1KanlxNWxOeWNuN01fY2xsR2VYNko0ekdRZWk0VEtVQjg4ME5MOV93aDAxLTR4NUViTkxFaFA4T1hRWXFGaHBQUUl6T0NRSjE0QU83cWF1Zy05TWdTWk54OE5oZWZ6SV9STGpITzNXQzhiM0dtNjRVN3M?oc=5",
     "tags": [
       "claude",
       "discovers",
@@ -683,7 +683,7 @@
     "lab": "DeepSeek",
     "title": "Integrate with Qoder",
     "summary": "",
-    "date": "2026-09-17T03:52:06.000Z",
+    "date": "2026-09-17T03:52:07.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03UWx5d0RxdHFiTWZkVWhPbnpuX0h0cEt1dGpXRDd0eUZYbEpOY3lvc0txYlQxNlhoT2g5aHl3UGRHdDE3YTVzOXVLc3pnTkZFLVJ0VXZ1UzJwTFdNZEF2ZHJ4LWNCS3BRMWxJUlgzeHdHejNP?oc=5",
     "tags": [
@@ -796,7 +796,7 @@
   {
     "id": "cbmit0fvx3lxte5wnl8wvmq4etznvvdsmktrdmjpzmv3rmwxaldotevjutg0r2zntddbsjj1tgdornhn",
     "lab": "xAI",
-    "title": "Setting Grok Bot loose on procurement",
+    "title": "Setting Grok Bot loose on procurement | SpaceXSI",
     "summary": "",
     "date": "2026-09-04T07:00:00.000Z",
     "category": "feature",
