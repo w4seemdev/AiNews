@@ -1,5 +1,107 @@
 [
   {
+    "id": "cbmiw0fvx3lxte40a2x1bxc2vhhzafl0slrhdghowjnqnhlkz3dgcwpzshnwufvhbuhwsky3zxvru3dx",
+    "lab": "Anthropic",
+    "title": "Preparing for the 2026 US midterms",
+    "summary": "",
+    "date": "2026-10-14T18:33:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40a2x1bXc2VHhZaFl0SlRhdGhoWjNqNHlKZ3dGcWpzSHNWUFVHbUhwSkY3ZXVrU3dXVWJGSEh5cUlvMjUzMm5YQ2E3VHF2cUFBZ3NneDJGTnQyVUk?oc=5",
+    "tags": [
+      "preparing",
+      "midterms"
+    ]
+  },
+  {
+    "id": "cbmirefvx3lxte1moucxzkpjvvvyyjllowk1v0sxb1qyy3dvlwtpcdbfbepqqzldqzfpekdzsuvkbnho",
+    "lab": "xAI",
+    "title": "Introducing Grok Voice 3.0 | SpaceXSI",
+    "summary": "",
+    "date": "2026-10-14T16:41:49.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1mOUcxZkpjVVVyYjlLOWk1V0sxb1QyY3dVLWtpcDBFbEpqQzlDQzFPekdzSUVKbnhoaHZNd3ZzYzlweElu?oc=5",
+    "tags": [
+      "grok",
+      "voice",
+      "spacexsi"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-allenai-hiro-acev2",
+    "lab": "Hugging Face",
+    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+    "summary": "",
+    "date": "2026-10-14T16:12:42.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+    "tags": [
+      "hiro",
+      "acev2",
+      "simulating",
+      "extreme"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-amp-beyond-coding",
+    "lab": "OpenAI",
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+    "date": "2026-10-14T12:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/amp-beyond-coding",
+    "tags": [
+      "amp",
+      "agents",
+      "gpt",
+      "puts"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-sentinelone",
+    "lab": "OpenAI",
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+    "date": "2026-10-14T12:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/sentinelone",
+    "tags": [
+      "sentinelone",
+      "cuts",
+      "malware",
+      "analysis"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-third-moment-research",
+    "lab": "OpenAI",
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+    "date": "2026-10-14T07:00:00.000Z",
+    "category": "research",
+    "url": "https://openai.com/index/third-moment-research",
+    "tags": [
+      "agents",
+      "gpt",
+      "third",
+      "moment"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-block-ai-powered-security",
+    "lab": "OpenAI",
+    "title": "How Block is building AI-powered security with OpenAI technology",
+    "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+    "date": "2026-10-14T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/block-ai-powered-security",
+    "tags": [
+      "security",
+      "block",
+      "building",
+      "powered"
+    ]
+  },
+  {
     "id": "https-deepmind-google-blog-on-device-ai-scam-detection-mddi",
     "lab": "Google DeepMind",
     "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
@@ -134,18 +236,18 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-allenai-impactful-scheduling",
-    "lab": "Hugging Face",
-    "title": "Impactful scheduling for GPU clusters",
-    "summary": "",
-    "date": "2026-10-09T15:20:29.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+    "id": "https-openai-com-index-asana-browser-agent",
+    "lab": "OpenAI",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "date": "2026-10-09T07:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/asana-browser-agent",
     "tags": [
-      "impactful",
-      "scheduling",
-      "gpu",
-      "clusters"
+      "asana",
+      "browser",
+      "tests",
+      "gpt"
     ]
   },
   {
@@ -161,21 +263,6 @@
       "threat",
       "investigation",
       "time"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-asana-browser-agent",
-    "lab": "OpenAI",
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-    "date": "2026-10-09T07:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/asana-browser-agent",
-    "tags": [
-      "asana",
-      "browser",
-      "tests",
-      "gpt"
     ]
   },
   {
@@ -237,21 +324,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-legalon-halves-codex-costs",
-    "lab": "OpenAI",
-    "title": "LegalOn halves Codex costs while maintaining development speed",
-    "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-    "date": "2026-10-08T12:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/legalon-halves-codex-costs",
-    "tags": [
-      "legalon",
-      "codex",
-      "costs",
-      "while"
-    ]
-  },
-  {
     "id": "cbmizefvx3lxte9srkrrlthcqk54nv9hr0e5akl4lvnfanczwxu2cexpb2tyd3m4bgtfbwx6ekvpouw5",
     "lab": "Anthropic",
     "title": "Introducing the Anthropic Cyber Mission",
@@ -278,21 +350,6 @@
       "didn",
       "exist",
       "made"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-disrupting-ai-enabled-false-front-operations",
-    "lab": "OpenAI",
-    "title": "Disrupting AI-enabled “false front” operations",
-    "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-    "date": "2026-10-08T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-    "tags": [
-      "enabled",
-      "false",
-      "front",
-      "operations"
     ]
   },
   {
@@ -324,21 +381,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-teens-learn-and-plan",
-    "lab": "OpenAI",
-    "title": "Helping teens learn, plan, and shape the future of AI",
-    "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-    "date": "2026-10-07T12:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/teens-learn-and-plan",
-    "tags": [
-      "teens",
-      "college",
-      "helping",
-      "learn"
-    ]
-  },
-  {
     "id": "https-blog-google-innovation-and-ai-technology-ai-playground-experimental-gaming",
     "lab": "Google DeepMind",
     "title": "Introducing Playground: Create and play custom games",
@@ -352,21 +394,6 @@
       "create",
       "play",
       "custom"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-radisson",
-    "lab": "OpenAI",
-    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-    "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-    "date": "2026-10-07T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/radisson",
-    "tags": [
-      "radisson",
-      "hotel",
-      "chatgpt",
-      "group"
     ]
   },
   {
@@ -683,7 +710,7 @@
     "lab": "DeepSeek",
     "title": "Integrate with Qoder",
     "summary": "",
-    "date": "2026-09-17T03:52:07.000Z",
+    "date": "2026-09-17T03:52:06.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03UWx5d0RxdHFiTWZkVWhPbnpuX0h0cEt1dGpXRDd0eUZYbEpOY3lvc0txYlQxNlhoT2g5aHl3UGRHdDE3YTVzOXVLc3pnTkZFLVJ0VXZ1UzJwTFdNZEF2ZHJ4LWNCS3BRMWxJUlgzeHdHejNP?oc=5",
     "tags": [
@@ -835,34 +862,6 @@
       "grok",
       "bot",
       "enterprise"
-    ]
-  },
-  {
-    "id": "cbmibkfvx3lxte8yv1o0cknzlxpgbevxutzqmf96dglpuxpseudhewpds1lrnjrfv2i2axfoytjqm2hk",
-    "lab": "Anthropic",
-    "title": "Developing Enterprise Frontier Safeguards with our customers",
-    "summary": "",
-    "date": "2026-09-01T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yV1o0ckNzLXpGbEVxUTZqMF96dGlPUXpseUdheWpDS1lrNjRfV2I2aXFOYTJqM2hkSTNrNHU1UTJhZHU5d3hscUlkdGpyajBENkZQbmt3RzFVWEZUSzhWTkxqZ3oxb1FpLTRPOGlB?oc=5",
-    "tags": [
-      "developing",
-      "enterprise",
-      "frontier",
-      "safeguards"
-    ]
-  },
-  {
-    "id": "cbmivkfvx3lxte5hcgwzqnzhuw4tmzrqnupbmhjlsxvjt1vnstvprjhusurlx29znkvntmdrsgnpqv9v",
-    "lab": "xAI",
-    "title": "Biosecurity at the frontier",
-    "summary": "",
-    "date": "2026-09-01T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HcGwzQnZHUW4tMzRqNUpBMHJLSXVjT1VNSTVpRjhuSURLX29ZNkVnTmdRSGNpQV9vdkwyMEh2NV95enI4VHdWeVpicjVDRG1UZUU1aWt3?oc=5",
-    "tags": [
-      "biosecurity",
-      "frontier"
     ]
   },
   {
