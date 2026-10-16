@@ -1,5 +1,151 @@
 [
   {
+    "id": "https-huggingface-co-blog-nvidia-scaling-indic-pretraining",
+    "lab": "Hugging Face",
+    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "summary": "",
+    "date": "2026-10-16T01:44:47.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "tags": [
+      "scaling",
+      "indic",
+      "pretraining",
+      "trillion"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-ibm-granite-granite-switch-4-1",
+    "lab": "Hugging Face",
+    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+    "summary": "",
+    "date": "2026-10-15T20:34:01.000Z",
+    "category": "api",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+    "tags": [
+      "granite",
+      "switch",
+      "chat",
+      "decisions"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-introducing-the-rosalind-academic-plan",
+    "lab": "OpenAI",
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+    "date": "2026-10-15T19:00:00.000Z",
+    "category": "research",
+    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "tags": [
+      "rosalind",
+      "academic",
+      "gpt",
+      "research"
+    ]
+  },
+  {
+    "id": "cbmidefvx3lxte8zzvfudwfycc04rhnozhi0cghusxbutlk2rwzsunfky2mzewzry0nvav9ostjhbdvk",
+    "lab": "Anthropic",
+    "title": "An update on independent evaluators",
+    "summary": "",
+    "date": "2026-10-15T17:20:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zZVFudWFYcC04RHNOZHI0cGhuSXBUTlk2RWZsUnFkY2MzeWZRY0NVaV9OSTJHbDVkc3BBTHBWd1FKUDVCbjdYLTQtN2tGNUZXdnFYRmt2OUZTTzRoRVZNeWNteUE1Vy1DSXBGTTUxSFJqVmRf?oc=5",
+    "tags": [
+      "independent",
+      "evaluators"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-accelerating-antimicrobial-discovery",
+    "lab": "Google DeepMind",
+    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "date": "2026-10-15T16:08:03.000Z",
+    "category": "feature",
+    "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "image": "https://lh3.googleusercontent.com/Xgnc_DxAUS2Fs9H2rokxsYwPnnM_KOkPyPtKm7V2C_sjZ7YS4N1-D6lD8wjYIRQoKaiSwHUXB7qmw77m6FCfHLZenWdNymO7B_JLChlB6ied6emR=w528-h297-n-nu-rw-lo",
+    "tags": [
+      "accelerating",
+      "search",
+      "antimicrobial",
+      "peptides"
+    ]
+  },
+  {
+    "id": "cbmiskfvx3lxte05zvhon0nkx3dmrnjrmgtrbdrqb1nlavretlkzzmvylwfrt1jnwkfhwg4xynlrqwqz",
+    "lab": "Mistral",
+    "title": "Introducing Timestral",
+    "summary": "",
+    "date": "2026-10-15T15:08:22.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05ZVhoN0NkX3dmRnJrMGtrbDRQb1NlaVRETlkzZmVyLWFrT1JNWkFhWG4xYnlrQWQzbmh5RS1EU01nYV92ZUMxR1l3?oc=5",
+    "tags": [
+      "timestral"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-teaching-students-to-think-and-learn-through-questions",
+    "lab": "OpenAI",
+    "title": "Teaching students to think and learn through questions",
+    "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+    "date": "2026-10-15T13:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "tags": [
+      "teachers",
+      "step",
+      "teaching",
+      "students"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-meta-muse-spark-open",
+    "lab": "Hugging Face",
+    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "summary": "",
+    "date": "2026-10-15T00:00:00.000Z",
+    "category": "model",
+    "url": "https://huggingface.co/blog/meta-muse-spark-open",
+    "tags": [
+      "open",
+      "welcome",
+      "muse",
+      "spark"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-flux-3",
+    "lab": "Hugging Face",
+    "title": "Welcome FLUX.3 Image Klein in Diffusers",
+    "summary": "",
+    "date": "2026-10-15T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/flux-3",
+    "tags": [
+      "welcome",
+      "flux",
+      "image",
+      "klein"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-sullivan-cromwell",
+    "lab": "OpenAI",
+    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+    "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+    "date": "2026-10-15T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/sullivan-cromwell",
+    "tags": [
+      "agreement",
+      "sullivan",
+      "cromwell",
+      "brings"
+    ]
+  },
+  {
     "id": "cbmiw0fvx3lxte40a2x1bxc2vhhzafl0slrhdghowjnqnhlkz3dgcwpzshnwufvhbuhwsky3zxvru3dx",
     "lab": "Anthropic",
     "title": "Preparing for the 2026 US midterms",
@@ -99,6 +245,21 @@
       "block",
       "building",
       "powered"
+    ]
+  },
+  {
+    "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
+    "lab": "xAI",
+    "title": "News: Research, Product & Company Updates | SpaceXSI",
+    "summary": "",
+    "date": "2026-10-14T07:00:00.000Z",
+    "category": "research",
+    "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
+    "tags": [
+      "research",
+      "product",
+      "company",
+      "spacexsi"
     ]
   },
   {
@@ -251,49 +412,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-sophos",
-    "lab": "OpenAI",
-    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-    "date": "2026-10-09T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/sophos",
-    "tags": [
-      "sophos",
-      "threat",
-      "investigation",
-      "time"
-    ]
-  },
-  {
-    "id": "cbmizkfvx3lxte9jb0fysc1vrgpqd1beexa2tfdubuuwznjly19xqji1x21oz2xryzfiz2dfu283yxvg",
-    "lab": "Anthropic",
-    "title": "2026 Usage Policy update",
-    "summary": "",
-    "date": "2026-10-08T17:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jb0FYSC1vRGpQd1BEeXA2TFdubUUwZnJlY19xQjI1X21oZ2xrYzFiZ2dfU283YXVGX2pxU05kUGZCV0lLUE5GZ2pjcnBQbFFGb2dHSDdtd1Zhd1NaZUJ6b1lIQXlGQQ?oc=5",
-    "tags": [
-      "usage",
-      "policy"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-oracle",
-    "lab": "OpenAI",
-    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-    "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-    "date": "2026-10-08T16:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/oracle",
-    "tags": [
-      "oracle",
-      "turns",
-      "work",
-      "chatgpt"
-    ]
-  },
-  {
     "id": "cbmiaefvx3lxtfa1vhu4uenxnwlfz2rsuelprkhvvgdzdtdydk9kt2zln3rcnxdlv2vtq0zqu01adti5",
     "lab": "Anthropic",
     "title": "Building on our commitment to American scientific discovery",
@@ -309,18 +427,16 @@
     ]
   },
   {
-    "id": "https-openai-com-index-pollo-ai",
-    "lab": "OpenAI",
-    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-    "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-    "date": "2026-10-08T12:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/pollo-ai",
+    "id": "cbmizkfvx3lxte9jb0fysc1vrgpqd1beexa2tfdubuuwznjly19xqji1x21oz2xryzfiz2dfu283yxvg",
+    "lab": "Anthropic",
+    "title": "2026 Usage Policy update",
+    "summary": "",
+    "date": "2026-10-08T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jb0FYSC1vRGpQd1BEeXA2TFdubUUwZnJlY19xQjI1X21oZ2xrYzFiZ2dfU283YXVGX2pxU05kUGZCV0lLUE5GZ2pjcnBQbFFGb2dHSDdtd1Zhd1NaZUJ6b1lIQXlGQQ?oc=5",
     "tags": [
-      "gpt",
-      "pollo",
-      "ideas",
-      "turns"
+      "usage",
+      "policy"
     ]
   },
   {
@@ -328,7 +444,7 @@
     "lab": "Anthropic",
     "title": "Introducing the Anthropic Cyber Mission",
     "summary": "",
-    "date": "2026-10-08T09:04:16.000Z",
+    "date": "2026-10-08T07:00:00.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SRkRRLThCQk54NV9hR0E5akl4LVNfanczWXU2cExpb2tyd3M4bGtFbWx6ekVPOUw5bDRzRjNhSlJ3ZjJqQklIMTVMNmNjXzNwaGtsb1lJeVItOXVaMlVuQk1BelE?oc=5",
     "tags": [
@@ -363,21 +479,6 @@
     "tags": [
       "falcon",
       "asr"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-nvidia-nemotron-ioi-and-imo-2026",
-    "lab": "Hugging Face",
-    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-    "summary": "",
-    "date": "2026-10-07T12:45:31.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-    "tags": [
-      "one",
-      "model",
-      "family",
-      "two"
     ]
   },
   {
@@ -528,67 +629,6 @@
     ]
   },
   {
-    "id": "https-deepmind-google-blog-introducing-synthid-bio",
-    "lab": "Google DeepMind",
-    "title": "Introducing SynthID Bio",
-    "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-    "date": "2026-09-30T15:03:07.000Z",
-    "category": "feature",
-    "url": "https://deepmind.google/blog/introducing-synthid-bio/",
-    "image": "https://lh3.googleusercontent.com/wNhpZFcXYLXFb6alIt0H5NRvEoso2ONZDhPKz6MYEcGltHPbDeHddzkvv5GXl3abW1PZ5ci1Y9lKoYOIjMuHLxATXfWp88-Al6eEmDENrpejIFeimw=w528-h297-n-nu-rw-lo",
-    "tags": [
-      "synthid",
-      "bio",
-      "proof",
-      "concept"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-open-tts-leaderboard",
-    "lab": "Hugging Face",
-    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-    "summary": "",
-    "date": "2026-09-30T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/open-tts-leaderboard",
-    "tags": [
-      "open",
-      "tts",
-      "leaderboard",
-      "scalable"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-multiversecomputingcai-getting-the-source-right-not-ju",
-    "lab": "Hugging Face",
-    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-    "summary": "",
-    "date": "2026-09-29T13:07:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-    "tags": [
-      "source",
-      "getting",
-      "right",
-      "not"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-hcompany-holo4",
-    "lab": "Hugging Face",
-    "title": "Holo4: powering generalist computer-use agents",
-    "summary": "",
-    "date": "2026-09-28T09:44:05.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/Hcompany/holo4",
-    "tags": [
-      "holo4",
-      "powering",
-      "generalist",
-      "computer"
-    ]
-  },
-  {
     "id": "cbmivefvx3lxtfbhx1q4qvc5ogeysndosjqyqw4yt01ksjflvk5ibzrzludid19wwhu5qujkthyzddbi",
     "lab": "Mistral",
     "title": "Mistral Opens Munich Hub to Advance Industrial AI in Germany",
@@ -691,21 +731,6 @@
     ]
   },
   {
-    "id": "cbmic0fvx3lxte1tdetsoc1prvfaswu5tmlametizjrmdddjlwg1bviyuzlutuv0uhzva1z3y2jyevvv",
-    "lab": "Anthropic",
-    "title": "Introducing the Life Sciences Verification Program",
-    "summary": "",
-    "date": "2026-09-17T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tdEtSOC1PRVFaSWU5TmlaMEtiZjRMdDdJLWg1bVIyUzlUTUV0UHZVa1Z3Y2JYeVVVLVEyeGZIQnVHR01tdC04X2x5Vk5LNDRKa3VyWnB2Vks0U3JpZDNNemZxczNDOFBNeGxrQnViOFNJQVU?oc=5",
-    "tags": [
-      "life",
-      "sciences",
-      "verification",
-      "program"
-    ]
-  },
-  {
     "id": "cbmidefvx3lxte03uwx5d0rxdhfitwzkvwhpbnpux0h0cet1dgpxrdd0euzybepoy3lvc0txylqxnlho",
     "lab": "DeepSeek",
     "title": "Integrate with Qoder",
@@ -763,13 +788,13 @@
     ]
   },
   {
-    "id": "cbmiwefvx3lxte1xuutztxowtxvnune3t2fuv2r5mglumerdctnja3nktlnbq1hozungrhrmzvbhqjl4",
+    "id": "cbmiwkfvx3lxte02bjh4qk42ung4ddc0emjvtk82r2rpagviqwq0ekximdlhnhrowgtwmvjgodnmq1fh",
     "lab": "DeepSeek",
     "title": "DeepSeek-V4.1-Flash: Smarter, Faster, More Efficient",
     "summary": "",
     "date": "2026-09-10T07:00:00.000Z",
     "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xUUtzTXowTXVnUnE3T2FuV2R5MGluMERDcTNja3NkTlNBQ1hOZUNGRHRMZVBhQjl4bk1WZE1BMDVDMHhaV2NGaTFoWUR6QnpxcGRPUDNmUU0?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02bjh4Qk42Ung4dDc0emJvTk82R2RPaGVIQWQ0ekxIMDlhNHROWGtwMVJGODNmQ1FhZHdrNUs4d1lyaDZZWXZpSlprR3BXVXJMam53clVxUFc5UQ?oc=5",
     "tags": [
       "deepseek",
       "flash",
@@ -848,33 +873,6 @@
       "grok",
       "bot",
       "world"
-    ]
-  },
-  {
-    "id": "cbmiu0fvx3lxtfbns3uysvhhou9jovhuntleogduvvc3tnfhavdfchn4n24xcjg0a0wxrzzbuelrvuxr",
-    "lab": "xAI",
-    "title": "Grok Bot for Enterprise",
-    "summary": "",
-    "date": "2026-09-03T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNS3UySVhhOU9JOVhUNTlEOGduVVc3TnFHaVdfcHN4N24xcjg0a0wxRzZBUElRVUxRVGlpdmlKOE5zbjZHNFo1LS1mbldEdkRsRlZR?oc=5",
-    "tags": [
-      "grok",
-      "bot",
-      "enterprise"
-    ]
-  },
-  {
-    "id": "cbmiu0fvx3lxtfbom215alpsrhfkltb6nuj1cmrubhpwetlaczlwatayewrfatatwuvzzgzpu0thzgnl",
-    "lab": "Mistral",
-    "title": "Mistral x HUMAIN",
-    "summary": "",
-    "date": "2026-08-24T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoM215alpsRHFKLTB6NUJ1cmRubHpweTlaczlWaTAyeWRfaTAtWUVZZGZpU0thZGNlWnRRUnRMLTVtYzcyZEx3d0FwWFFJeTk5cDZv?oc=5",
-    "tags": [
-      "mistral",
-      "humain"
     ]
   }
 ]
