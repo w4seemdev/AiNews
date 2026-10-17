@@ -1,5 +1,57 @@
 [
   {
+    "id": "https-openai-com-index-itau-generative-ai",
+    "lab": "OpenAI",
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+    "date": "2026-10-16T19:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/itau-generative-ai",
+    "tags": [
+      "ita",
+      "building",
+      "generative",
+      "entire"
+    ]
+  },
+  {
+    "id": "cbmivkfvx3lxte9dmkxfu19nd0jublbbd0e0mfhkdeqwnevwbux3qxzjeeztbtvpwndey0xsumxvwkv1",
+    "lab": "DeepSeek",
+    "title": "Search & Fetch",
+    "summary": "",
+    "date": "2026-10-16T13:34:15.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DMkxFU19Nd0JUblBBd0E0MFhKdEQwNEVwbUx3QXZJeEZtbTVpWndEY0xsUmxvWkV1Nk4xUjlOenNlbkZKWWR2dUVScmZIV1FiVFhIWWtR?oc=5",
+    "tags": [
+      "search",
+      "fetch"
+    ]
+  },
+  {
+    "id": "cbmiukfvx3lxtfbilvhazfpfvzm0sxf5lv96xzrvx0jxyvfwymjstwm5tku1euz1emvtmnctbtj6te5l",
+    "lab": "DeepSeek",
+    "title": "Fetch",
+    "summary": "",
+    "date": "2026-10-16T13:28:11.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBILVhaZFpfVzM0SXF5LV96XzRvX0JXYVFWYmJSTWM5TkU1eUZ1emVTMnctbTJ6TE5lQnRFb2dZWUNJSGpHLW9kMGtqRVNfSzA1WVE?oc=5",
+    "tags": [
+      "fetch"
+    ]
+  },
+  {
+    "id": "cbmiukfvx3lxtfbvrulmtenmmgezsxnisepobwj3uevidhqtzwg0m2tzwnj1wjvqbk1ioup5bc1ku3p5",
+    "lab": "DeepSeek",
+    "title": "Search",
+    "summary": "",
+    "date": "2026-10-16T12:47:39.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvRUlMTENmMGEzSXNISEpobWJ3UEVidHQtZWg0M2tZWnJ1WjVQbk1IOUp5bC1kU3p5eGFtM1hGWHhtbWE3ME8yRlRVcFZseXVpUGc?oc=5",
+    "tags": [
+      "search"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-nvidia-scaling-indic-pretraining",
     "lab": "Hugging Face",
     "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
@@ -12,6 +64,51 @@
       "indic",
       "pretraining",
       "trillion"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-reflection-beam",
+    "lab": "Hugging Face",
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "summary": "",
+    "date": "2026-10-16T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/reflection-beam",
+    "tags": [
+      "welcome",
+      "beam",
+      "open",
+      "model"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-stack-overflow-chatgpt-plugin",
+    "lab": "OpenAI",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "date": "2026-10-16T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "tags": [
+      "stack",
+      "overflow",
+      "agents",
+      "chatgpt"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-benefit-street-partners",
+    "lab": "OpenAI",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+    "date": "2026-10-16T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/benefit-street-partners",
+    "tags": [
+      "faster",
+      "codex",
+      "benefit",
+      "street"
     ]
   },
   {
@@ -76,13 +173,16 @@
   {
     "id": "cbmiskfvx3lxte05zvhon0nkx3dmrnjrmgtrbdrqb1nlavretlkzzmvylwfrt1jnwkfhwg4xynlrqwqz",
     "lab": "Mistral",
-    "title": "Introducing Timestral",
+    "title": "Timestral: Mistral's time-series foundation models",
     "summary": "",
     "date": "2026-10-15T15:08:22.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05ZVhoN0NkX3dmRnJrMGtrbDRQb1NlaVRETlkzZmVyLWFrT1JNWkFhWG4xYnlrQWQzbmh5RS1EU01nYV92ZUMxR1l3?oc=5",
     "tags": [
-      "timestral"
+      "timestral",
+      "mistral",
+      "time",
+      "series"
     ]
   },
   {
@@ -279,21 +379,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-the-eus-next-chapter-in-ai-is-agentic",
-    "lab": "OpenAI",
-    "title": "The EU’s next chapter in AI is agentic",
-    "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-    "date": "2026-10-14T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-    "tags": [
-      "agentic",
-      "next",
-      "chapter",
-      "analysis"
-    ]
-  },
-  {
     "id": "https-deepmind-google-blog-developing-gemini-4-argon-responsibly-and-safely",
     "lab": "Google DeepMind",
     "title": "Developing Gemini 4 Argon responsibly and safely",
@@ -369,21 +454,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-higgsfield-longer-videos-voice",
-    "lab": "OpenAI",
-    "title": "Higgsfield takes AI video from 1 minute to over 10",
-    "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-    "date": "2026-10-13T12:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-    "tags": [
-      "gpt",
-      "higgsfield",
-      "takes",
-      "video"
-    ]
-  },
-  {
     "id": "cbmir0fvx3lxte1xshzsr1pnauw0lxbebhzky0owdtz3n1hstlq1mgj5cm9nykrcoxgytkhfuhvmavph",
     "lab": "xAI",
     "title": "Introducing The X Subscription | SpaceXSI",
@@ -394,36 +464,6 @@
     "tags": [
       "subscription",
       "spacexsi"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-asana-browser-agent",
-    "lab": "OpenAI",
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-    "date": "2026-10-09T07:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/asana-browser-agent",
-    "tags": [
-      "asana",
-      "browser",
-      "tests",
-      "gpt"
-    ]
-  },
-  {
-    "id": "cbmiaefvx3lxtfa1vhu4uenxnwlfz2rsuelprkhvvgdzdtdydk9kt2zln3rcnxdlv2vtq0zqu01adti5",
-    "lab": "Anthropic",
-    "title": "Building on our commitment to American scientific discovery",
-    "summary": "",
-    "date": "2026-10-08T13:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1VHU4UENXNWlFZ2RsUElpRkhvVGdzdTdydk9kT2ZlN3RCNXdLV2VtQ0ZQU01adTI5Mkw4Y3JrcGpIZ1ZxWUtDOUxqbG1JVXNTNWJvSU5NMF9KY2o5Tlp5QVJpNElQeFdv?oc=5",
-    "tags": [
-      "building",
-      "commitment",
-      "american",
-      "scientific"
     ]
   },
   {
@@ -451,6 +491,21 @@
       "anthropic",
       "cyber",
       "mission"
+    ]
+  },
+  {
+    "id": "cbmiaefvx3lxtfa1vhu4uenxnwlfz2rsuelprkhvvgdzdtdydk9kt2zln3rcnxdlv2vtq0zqu01adti5",
+    "lab": "Anthropic",
+    "title": "Building on our commitment to American scientific discovery",
+    "summary": "",
+    "date": "2026-10-08T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1VHU4UENXNWlFZ2RsUElpRkhvVGdzdTdydk9kT2ZlN3RCNXdLV2VtQ0ZQU01adTI5Mkw4Y3JrcGpIZ1ZxWUtDOUxqbG1JVXNTNWJvSU5NMF9KY2o5Tlp5QVJpNElQeFdv?oc=5",
+    "tags": [
+      "building",
+      "commitment",
+      "american",
+      "scientific"
     ]
   },
   {
@@ -584,21 +639,6 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-servicenow-ai-autosynthdata",
-    "lab": "Hugging Face",
-    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-    "summary": "",
-    "date": "2026-10-02T04:01:31.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-    "tags": [
-      "autosynthdata",
-      "generating",
-      "training",
-      "data"
-    ]
-  },
-  {
     "id": "cbmiy0fvx3lxte9iwlnwrnpuzhlvmwuyz3zxanvqu1njq3faatlpvhlmadhzdzdub25cmerkythtyjn5",
     "lab": "Anthropic",
     "title": "Barclays scales Claude to upgrade operations and improve client experience",
@@ -702,13 +742,13 @@
     ]
   },
   {
-    "id": "cbmibefvx3lxte41ynfxehfucvffawncwvnqmju3ntvvcniyt0dttjffddk4dlrjwxhocm00bkvjt2tq",
+    "id": "cbmiigfbvv95cuxpuly1bznzzkhzymfmtgdubersn0qtcwyxlwf1u1bkr1huvg1wynniq3rfthm5z1lu",
     "lab": "Anthropic",
     "title": "Partnering with Accenture on embedded evaluation",
     "summary": "",
     "date": "2026-09-18T07:00:00.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41YnFXeHFUcVFFaWNCWVNqMjU3NTVVcnIyT0dtTjFfdDk4dlRJWXhocm00bkVjT2tqZ0RQMXphRktyT3lVUFo2Q0dOZEI0QkRkU3RJcnBLOEFvcTBhWEZlckprbURaVmRGWjk2Yg?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUlY1bzNzZkhzYmFMTGdubERsN0QtcWYxLWF1U1BKR1hUVG1WYnNIQ3RFTHM5Z1lUaFZray11MlI0b2xPa3NPdzBXcDRrQkF1VzMtSzA2R1RSNHlScTFwZWhRUS1jSHJZN3VsZ29YeklXSU9XQ0ZUYTVUUkVJMG14UksxbEhhLWhza3c?oc=5",
     "tags": [
       "partnering",
       "accenture",
@@ -731,13 +771,13 @@
     ]
   },
   {
-    "id": "cbmidefvx3lxte03uwx5d0rxdhfitwzkvwhpbnpux0h0cet1dgpxrdd0euzybepoy3lvc0txylqxnlho",
+    "id": "cbmidkfvx3lxte50qun0t29rve54yvhwzfbuy0vqbg41rdzyauvxaelhyue4svhwugxodzvksjlzeghi",
     "lab": "DeepSeek",
     "title": "Integrate with Qoder",
     "summary": "",
-    "date": "2026-09-17T03:52:06.000Z",
+    "date": "2026-09-17T03:52:07.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03UWx5d0RxdHFiTWZkVWhPbnpuX0h0cEt1dGpXRDd0eUZYbEpOY3lvc0txYlQxNlhoT2g5aHl3UGRHdDE3YTVzOXVLc3pnTkZFLVJ0VXZ1UzJwTFdNZEF2ZHJ4LWNCS3BRMWxJUlgzeHdHejNP?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50QUN0T29rVE54YVhwZFBUY0VQbG41RDZYaUVXaElhYUE4SVhwUGxodzVkSjlzeGhIQjFhUHlRTTdpcGgxQW1CeU04VW9EYVR6ZEc3VXotX3VsYVdBbzU4eFVWZW4ycDIyRkQ0MzRXX2ZFS2pqcUE?oc=5",
     "tags": [
       "integrate",
       "qoder"
@@ -830,49 +870,6 @@
       "sovereign",
       "open",
       "weight"
-    ]
-  },
-  {
-    "id": "cbmiw0fvx3lxte9mdkxbmgs1dzd5lvjqaxhpcdd4a212ouh6n2rfbhntuks5evvad0mxdhbxawu1q0r4",
-    "lab": "DeepSeek",
-    "title": "Retrieve File",
-    "summary": "",
-    "date": "2026-09-04T13:20:26.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MdkxBMGs1dzd5LVJQaXhpcDd4a212OUh6N2RFbHNtUks5eVVad0MxdHBxaWU1Q0R4eEZHdkF2WlJreG5kWkk3eWp1dGlQZWZoX2QtN3lmakd5dm8?oc=5",
-    "tags": [
-      "retrieve",
-      "file"
-    ]
-  },
-  {
-    "id": "cbmit0fvx3lxte5wnl8wvmq4etznvvdsmktrdmjpzmv3rmwxaldotevjutg0r2zntddbsjj1tgdornhn",
-    "lab": "xAI",
-    "title": "Setting Grok Bot loose on procurement | SpaceXSI",
-    "summary": "",
-    "date": "2026-09-04T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wNl8wVmQ4eTZnVVdSMktrdmJpZmV3RmwxaldOTEVjUTg0R2ZNTDdBSjJ1TGdoRnhNbGhLWnNLZ19WOWRON0xQa0w1THdoUWM?oc=5",
-    "tags": [
-      "setting",
-      "grok",
-      "bot",
-      "loose"
-    ]
-  },
-  {
-    "id": "cbmitefvx3lxtfa2wxfzmfpxzfjgtulwr05tr3d2nfo2d3hrqlj0ufk0nxbkvw1qewnrnex2ylkzvljf",
-    "lab": "xAI",
-    "title": "Designing Grok Bot for a world of persistent agents",
-    "summary": "",
-    "date": "2026-09-03T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2WXFzMFpXZFJGTUlWR05TR3d2NFo2d3hRQlJ0UFk0NXBkVW1QeWNrNEx2YlkzVlJfNWVjZHE5aWd3UnhIQzFrdmo0ZVM?oc=5",
-    "tags": [
-      "designing",
-      "grok",
-      "bot",
-      "world"
     ]
   }
 ]
