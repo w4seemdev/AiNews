@@ -1,5 +1,45 @@
 [
   {
+    "id": "cbmiwkfvx3lxte5svg45vei5nmftyxlesue5vjrcrkg1tk9sbwn5vggzze56bunvwhvcahgwa1p1nkzp",
+    "lab": "DeepSeek",
+    "title": "DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real",
+    "summary": "",
+    "date": "2026-10-17T09:07:18.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sVG45VEI5NmFTYXlESUE5VjRCRkg1Tk9sbWN5VGgzZE56bUNvWHVCaHgwa1p1NkZPWWl1MXVzdnFsSjlxMUJsSlZHdldwbVNYWnN0SnJwWlliQQ?oc=5",
+    "tags": [
+      "deepseek",
+      "flash",
+      "wish",
+      "driven"
+    ]
+  },
+  {
+    "id": "cbmiu0fvx3lxte1wzvzfemlpehpqr1uyzwozttizwwluegqtntlwn29ovzfkne5xc2vza1fzmlb6yug2",
+    "lab": "DeepSeek",
+    "title": "Search",
+    "summary": "",
+    "date": "2026-10-17T09:00:12.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wZVZFemlPeHpQR1UyZWozTTIzWWlueGQtNTlwN29oVzFKNE5xc2Vza1FzMlB6YUg2cnNQUW9scXN3cDZVUkFGRWdRRnIzSUhxUWZR?oc=5",
+    "tags": [
+      "search"
+    ]
+  },
+  {
+    "id": "cbmiv0fvx3lxte12s0dwvxpndutmafr6q1dimmnwdwvzeenzskliowhfymdytwxzruriqvy5c281bevz",
+    "lab": "DeepSeek",
+    "title": "Search & Fetch",
+    "summary": "",
+    "date": "2026-10-17T06:10:54.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12S0dWVXpNdUtmaFR6Q1dIMmNwdWVzeENzSklIOWhFYmdyTWxZRURIQVY5c281bEVzanZfM2hiVlpuYUxPWTJGWkdxRnRrVDFpcVBjS2xFcw?oc=5",
+    "tags": [
+      "search",
+      "fetch"
+    ]
+  },
+  {
     "id": "https-openai-com-index-itau-generative-ai",
     "lab": "OpenAI",
     "title": "How Itaú is building generative AI for its entire customer base",
@@ -15,19 +55,6 @@
     ]
   },
   {
-    "id": "cbmivkfvx3lxte9dmkxfu19nd0jublbbd0e0mfhkdeqwnevwbux3qxzjeeztbtvpwndey0xsumxvwkv1",
-    "lab": "DeepSeek",
-    "title": "Search & Fetch",
-    "summary": "",
-    "date": "2026-10-16T13:34:15.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DMkxFU19Nd0JUblBBd0E0MFhKdEQwNEVwbUx3QXZJeEZtbTVpWndEY0xsUmxvWkV1Nk4xUjlOenNlbkZKWWR2dUVScmZIV1FiVFhIWWtR?oc=5",
-    "tags": [
-      "search",
-      "fetch"
-    ]
-  },
-  {
     "id": "cbmiukfvx3lxtfbilvhazfpfvzm0sxf5lv96xzrvx0jxyvfwymjstwm5tku1euz1emvtmnctbtj6te5l",
     "lab": "DeepSeek",
     "title": "Fetch",
@@ -37,18 +64,6 @@
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBILVhaZFpfVzM0SXF5LV96XzRvX0JXYVFWYmJSTWM5TkU1eUZ1emVTMnctbTJ6TE5lQnRFb2dZWUNJSGpHLW9kMGtqRVNfSzA1WVE?oc=5",
     "tags": [
       "fetch"
-    ]
-  },
-  {
-    "id": "cbmiukfvx3lxtfbvrulmtenmmgezsxnisepobwj3uevidhqtzwg0m2tzwnj1wjvqbk1ioup5bc1ku3p5",
-    "lab": "DeepSeek",
-    "title": "Search",
-    "summary": "",
-    "date": "2026-10-16T12:47:39.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvRUlMTENmMGEzSXNISEpobWJ3UEVidHQtZWg0M2tZWnJ1WjVQbk1IOUp5bC1kU3p5eGFtM1hGWHhtbWE3ME8yRlRVcFZseXVpUGc?oc=5",
-    "tags": [
-      "search"
     ]
   },
   {
@@ -82,21 +97,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-stack-overflow-chatgpt-plugin",
-    "lab": "OpenAI",
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-    "date": "2026-10-16T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-    "tags": [
-      "stack",
-      "overflow",
-      "agents",
-      "chatgpt"
-    ]
-  },
-  {
     "id": "https-openai-com-index-benefit-street-partners",
     "lab": "OpenAI",
     "title": "Benefit Street Partners answers questions faster with Codex",
@@ -109,6 +109,21 @@
       "codex",
       "benefit",
       "street"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-stack-overflow-chatgpt-plugin",
+    "lab": "OpenAI",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "date": "2026-10-16T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "tags": [
+      "stack",
+      "overflow",
+      "agents",
+      "chatgpt"
     ]
   },
   {
@@ -639,13 +654,13 @@
     ]
   },
   {
-    "id": "cbmiy0fvx3lxte9iwlnwrnpuzhlvmwuyz3zxanvqu1njq3faatlpvhlmadhzdzdub25cmerkythtyjn5",
+    "id": "cbmi7gnbvv95cuxommytov9ltgrnnm0zv0lxcgvrrmfoajjqyk1usuvhmjbatjrdx2lxes1emusyz2k1",
     "lab": "Anthropic",
     "title": "Barclays scales Claude to upgrade operations and improve client experience",
     "summary": "",
     "date": "2026-10-01T07:00:00.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iWlNWRnpuZHlvMWUyZ3ZXanVqU1NjQ3FaaTlpVHlMaDhzdzdub25CMERKYThTYjN5RFFaSzBlZGJEbHNNMkpLN0M1Wkhfa2ltdFJZX0dpY3BJNndZLXhuRHN1Zw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxOMmYtOV9lTGRNNm0zV0lxcGVrRmFoajJQYk1uSUVhMjBaTjRDX2lXeS1EMUsyZ2k1UVpWSTV6M2VyY0VhVUxNU3JOMmR4cHloTFotcUxqbWFjcFU1SVB3U21Ydm5ta2I1M08xNFp1VXhHOFRjSjNHQUtza3lyZlZNSWF5M3lNdTZqN3U1cFJCMVVVYmoyenlvMUZTUTNmQThIeHFsd2hRLXZKSUF1Zk4zR0pBR0JuNVFaal9tRTRKUnhHSmhIR2E3QVZuLVpMcWhKV0NYemw2dVd2Nkl4VG43dFZZQ1BlX1g5VHBiY1R1OTIwMkExTHRueWJkTi12N0pESnJvckJWNnRlWHI4V2Z5YXZxZXBKNEVUN05GZUg5QW9aZjQyOXVueVdaMUgxSTNtVHJqWERZbzUxNlhYNE1iZHEwcEx0VmxLV2dJVkRDS2NweTlXaGNUU0M2SHFidDJlQ0YxYUNlNWQyMzh0UnJGMVJURzBuQm9WbGV5dTBQR3luSUVNZFkxR0R1TFdvUkJVSlNoTHdrQU9URGtzS1h3bXhOTzc4Tmg0bjBzUWJoQURHOFQ4SVpDZVJudWdPR2UwNmhLRDNBNGVTMTY1Z2Mwbjd1OHNfd3pFRU5fMGg0UmRCcFJ3ZUlkRW5WWnVmZw?oc=5",
     "tags": [
       "barclays",
       "scales",
@@ -855,21 +870,6 @@
       "complex",
       "legacy",
       "code"
-    ]
-  },
-  {
-    "id": "cbmigafbvv95cuxnrzu0ctlwnhctb0fiy092uvljzfh4umxsq2lpltdkveu2slrzvu12vzi2rgrywefq",
-    "lab": "Mistral",
-    "title": "Making sovereign, open-weight AI the technology frontier",
-    "summary": "",
-    "date": "2026-09-08T05:15:43.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5",
-    "tags": [
-      "making",
-      "sovereign",
-      "open",
-      "weight"
     ]
   }
 ]
