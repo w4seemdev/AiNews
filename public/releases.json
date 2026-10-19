@@ -1,5 +1,31 @@
 [
   {
+    "id": "cbmiu0fvx3lxte1wzvzfemlpehpqr1uyzwozttizwwluegqtntlwn29ovzfkne5xc2vza1fzmlb6yug2",
+    "lab": "DeepSeek",
+    "title": "Search",
+    "summary": "",
+    "date": "2026-10-19T05:41:50.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wZVZFemlPeHpQR1UyZWozTTIzWWlueGQtNTlwN29oVzFKNE5xc2Vza1FzMlB6YUg2cnNQUW9scXN3cDZVUkFGRWdRRnIzSUhxUWZR?oc=5",
+    "tags": [
+      "search"
+    ]
+  },
+  {
+    "id": "cbmix0fvx3lxtfbwmufbangwvddnuxbleefmoetsvfyzn3nsu1lvdvduql9infvtn0hfdevkns1yakjc",
+    "lab": "Anthropic",
+    "title": "Investing in the public benefit",
+    "summary": "",
+    "date": "2026-10-18T16:49:35.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWMUFBangwVDdnUXBLeEFmOEtSVFYzN3NSU1lVdVduQl9iNFVTN0hfdEVkNS1yakJCLWFtdkVqTXlLM1VhblU5empsdmVKTVNDVy1PZ1JoUW1HYUlLb0FV?oc=5",
+    "tags": [
+      "investing",
+      "public",
+      "benefit"
+    ]
+  },
+  {
     "id": "cbmiwkfvx3lxte5svg45vei5nmftyxlesue5vjrcrkg1tk9sbwn5vggzze56bunvwhvcahgwa1p1nkzp",
     "lab": "DeepSeek",
     "title": "DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real",
@@ -12,18 +38,6 @@
       "flash",
       "wish",
       "driven"
-    ]
-  },
-  {
-    "id": "cbmiu0fvx3lxte1wzvzfemlpehpqr1uyzwozttizwwluegqtntlwn29ovzfkne5xc2vza1fzmlb6yug2",
-    "lab": "DeepSeek",
-    "title": "Search",
-    "summary": "",
-    "date": "2026-10-17T09:00:12.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wZVZFemlPeHpQR1UyZWozTTIzWWlueGQtNTlwN29oVzFKNE5xc2Vza1FzMlB6YUg2cnNQUW9scXN3cDZVUkFGRWdRRnIzSUhxUWZR?oc=5",
-    "tags": [
-      "search"
     ]
   },
   {
@@ -213,6 +227,19 @@
       "step",
       "teaching",
       "students"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-swiss-ai-apertus-v15-release-notes",
+    "lab": "Hugging Face",
+    "title": "Apertus 1.5 Release Notes",
+    "summary": "",
+    "date": "2026-10-15T09:08:45.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "tags": [
+      "apertus",
+      "notes"
     ]
   },
   {
@@ -611,21 +638,6 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-microsoft-thinkingbox",
-    "lab": "Hugging Face",
-    "title": "The Agent Said It Was Done. The Database Disagreed.",
-    "summary": "",
-    "date": "2026-10-03T22:56:48.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-    "tags": [
-      "agent",
-      "said",
-      "done",
-      "database"
-    ]
-  },
-  {
     "id": "https-blog-google-innovation-and-ai-technology-ai-google-ai-updates-september-20",
     "lab": "Google DeepMind",
     "title": "The latest AI news we announced in September 2026",
@@ -757,21 +769,6 @@
     ]
   },
   {
-    "id": "cbmiigfbvv95cuxpuly1bznzzkhzymfmtgdubersn0qtcwyxlwf1u1bkr1huvg1wynniq3rfthm5z1lu",
-    "lab": "Anthropic",
-    "title": "Partnering with Accenture on embedded evaluation",
-    "summary": "",
-    "date": "2026-09-18T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUlY1bzNzZkhzYmFMTGdubERsN0QtcWYxLWF1U1BKR1hUVG1WYnNIQ3RFTHM5Z1lUaFZray11MlI0b2xPa3NPdzBXcDRrQkF1VzMtSzA2R1RSNHlScTFwZWhRUS1jSHJZN3VsZ29YeklXSU9XQ0ZUYTVUUkVJMG14UksxbEhhLWhza3c?oc=5",
-    "tags": [
-      "partnering",
-      "accenture",
-      "embedded",
-      "evaluation"
-    ]
-  },
-  {
     "id": "cbmiu0fvx3lxte9lzwrvceluvvnqoe9pc0nomvi2suvstmvwmfuws1dgdxdkznl3d2rlshljzfp3blk3",
     "lab": "xAI",
     "title": "Introducing Grok Voice Transcribe 2.0",
@@ -830,7 +827,7 @@
   {
     "id": "cbmivkfvx3lxte01nmpon3znztrgdxh2vwq3c0mwd19pb21kc0v5uflletzzbvf3dnboefzsv3rldvd5",
     "lab": "Mistral",
-    "title": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
+    "title": "Cloudera and Mistral Partner for Sovereign Enterprise AI",
     "summary": "",
     "date": "2026-09-10T07:00:00.000Z",
     "category": "feature",
@@ -839,7 +836,7 @@
       "cloudera",
       "mistral",
       "partner",
-      "bring"
+      "sovereign"
     ]
   },
   {

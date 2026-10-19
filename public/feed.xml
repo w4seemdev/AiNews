@@ -5,8 +5,26 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Oct 2026 10:19:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:00:06 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Search</title>
+      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wZVZFemlPeHpQR1UyZWozTTIzWWlueGQtNTlwN29oVzFKNE5xc2Vza1FzMlB6YUg2cnNQUW9scXN3cDZVUkFGRWdRRnIzSUhxUWZR?oc=5</link>
+      <guid isPermaLink="false">cbmiu0fvx3lxte1wzvzfemlpehpqr1uyzwozttizwwluegqtntlwn29ovzfkne5xc2vza1fzmlb6yug2</guid>
+      <pubDate>Mon, 19 Oct 2026 05:41:50 GMT</pubDate>
+      <description>Source: DeepSeek</description>
+      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Investing in the public benefit</title>
+      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWMUFBangwVDdnUXBLeEFmOEtSVFYzN3NSU1lVdVduQl9iNFVTN0hfdEVkNS1yakJCLWFtdkVqTXlLM1VhblU5empsdmVKTVNDVy1PZ1JoUW1HYUlLb0FV?oc=5</link>
+      <guid isPermaLink="false">cbmix0fvx3lxtfbwmufbangwvddnuxbleefmoetsvfyzn3nsu1lvdvduql9infvtn0hfdevkns1yakjc</guid>
+      <pubDate>Sun, 18 Oct 2026 16:49:35 GMT</pubDate>
+      <description>Source: Anthropic</description>
+      <source url="https://ai-pulse.vercel.app">Anthropic</source>
+      <category>feature</category>
+    </item>
     <item>
       <title>DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real</title>
       <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sVG45VEI5NmFTYXlESUE5VjRCRkg1Tk9sbWN5VGgzZE56bUNvWHVCaHgwa1p1NkZPWWl1MXVzdnFsSjlxMUJsSlZHdldwbVNYWnN0SnJwWlliQQ?oc=5</link>
@@ -15,15 +33,6 @@
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>model</category>
-    </item>
-    <item>
-      <title>Search</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wZVZFemlPeHpQR1UyZWozTTIzWWlueGQtNTlwN29oVzFKNE5xc2Vza1FzMlB6YUg2cnNQUW9scXN3cDZVUkFGRWdRRnIzSUhxUWZR?oc=5</link>
-      <guid isPermaLink="false">cbmiu0fvx3lxte1wzvzfemlpehpqr1uyzwozttizwwluegqtntlwn29ovzfkne5xc2vza1fzmlb6yug2</guid>
-      <pubDate>Sat, 17 Oct 2026 09:00:12 GMT</pubDate>
-      <description>Source: DeepSeek</description>
-      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
-      <category>feature</category>
     </item>
     <item>
       <title>Search &amp; Fetch</title>
@@ -140,6 +149,15 @@
       <pubDate>Thu, 15 Oct 2026 13:00:00 GMT</pubDate>
       <description>Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning. (Source: OpenAI)</description>
       <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Apertus 1.5 Release Notes</title>
+      <link>https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-swiss-ai-apertus-v15-release-notes</guid>
+      <pubDate>Thu, 15 Oct 2026 09:08:45 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
       <category>feature</category>
     </item>
     <item>
@@ -386,15 +404,6 @@
       <category>model</category>
     </item>
     <item>
-      <title>The Agent Said It Was Done. The Database Disagreed.</title>
-      <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-microsoft-thinkingbox</guid>
-      <pubDate>Sat, 03 Oct 2026 22:56:48 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>The latest AI news we announced in September 2026</title>
       <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/</link>
       <guid isPermaLink="false">https-blog-google-innovation-and-ai-technology-ai-google-ai-updates-september-20</guid>
@@ -476,15 +485,6 @@
       <category>model</category>
     </item>
     <item>
-      <title>Partnering with Accenture on embedded evaluation</title>
-      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxPUlY1bzNzZkhzYmFMTGdubERsN0QtcWYxLWF1U1BKR1hUVG1WYnNIQ3RFTHM5Z1lUaFZray11MlI0b2xPa3NPdzBXcDRrQkF1VzMtSzA2R1RSNHlScTFwZWhRUS1jSHJZN3VsZ29YeklXSU9XQ0ZUYTVUUkVJMG14UksxbEhhLWhza3c?oc=5</link>
-      <guid isPermaLink="false">cbmiigfbvv95cuxpuly1bznzzkhzymfmtgdubersn0qtcwyxlwf1u1bkr1huvg1wynniq3rfthm5z1lu</guid>
-      <pubDate>Fri, 18 Sep 2026 07:00:00 GMT</pubDate>
-      <description>Source: Anthropic</description>
-      <source url="https://ai-pulse.vercel.app">Anthropic</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Introducing Grok Voice Transcribe 2.0</title>
       <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lZWRVcElUVVNQOE9Pc0NOMVI2SUVSTmVwMFUwS1dGdXdKZnl3d2RlSHljZFp3blk3Tmx3TXpvSHRFQ1RFYTcxdFpCRE5SZVZVdlRB?oc=5</link>
       <guid isPermaLink="false">cbmiu0fvx3lxte9lzwrvceluvvnqoe9pc0nomvi2suvstmvwmfuws1dgdxdkznl3d2rlshljzfp3blk3</guid>
@@ -521,7 +521,7 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data</title>
+      <title>Cloudera and Mistral Partner for Sovereign Enterprise AI</title>
       <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE01NmpON3ZnZTRGdXh2VWQ3c0Mwd19Pb21Kc0V5UFlLeTZzbVF3dnBOeFZSV3RldVd5cm5tSF94SUxMWV9EaGh0LXRqWkFkSHN1NkpadzZn?oc=5</link>
       <guid isPermaLink="false">cbmivkfvx3lxte01nmpon3znztrgdxh2vwq3c0mwd19pb21kc0v5uflletzzbvf3dnboefzsv3rldvd5</guid>
       <pubDate>Thu, 10 Sep 2026 07:00:00 GMT</pubDate>
