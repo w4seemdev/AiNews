@@ -1,5 +1,20 @@
 [
   {
+    "id": "https-openai-com-index-low-resource-programming-languages",
+    "lab": "OpenAI",
+    "title": "Advancing coding in low‑resource programming languages",
+    "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+    "date": "2026-10-19T12:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/low-resource-programming-languages",
+    "tags": [
+      "low",
+      "resource",
+      "programming",
+      "languages"
+    ]
+  },
+  {
     "id": "cbmiu0fvx3lxte1wzvzfemlpehpqr1uyzwozttizwwluegqtntlwn29ovzfkne5xc2vza1fzmlb6yug2",
     "lab": "DeepSeek",
     "title": "Search",
@@ -9,6 +24,21 @@
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wZVZFemlPeHpQR1UyZWozTTIzWWlueGQtNTlwN29oVzFKNE5xc2Vza1FzMlB6YUg2cnNQUW9scXN3cDZVUkFGRWdRRnIzSUhxUWZR?oc=5",
     "tags": [
       "search"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-hf-torchneuron",
+    "lab": "Hugging Face",
+    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+    "summary": "",
+    "date": "2026-10-19T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/hf-torchneuron",
+    "tags": [
+      "torchneuron",
+      "running",
+      "models",
+      "aws"
     ]
   },
   {
@@ -41,19 +71,6 @@
     ]
   },
   {
-    "id": "cbmiv0fvx3lxte12s0dwvxpndutmafr6q1dimmnwdwvzeenzskliowhfymdytwxzruriqvy5c281bevz",
-    "lab": "DeepSeek",
-    "title": "Search & Fetch",
-    "summary": "",
-    "date": "2026-10-17T06:10:54.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12S0dWVXpNdUtmaFR6Q1dIMmNwdWVzeENzSklIOWhFYmdyTWxZRURIQVY5c281bEVzanZfM2hiVlpuYUxPWTJGWkdxRnRrVDFpcVBjS2xFcw?oc=5",
-    "tags": [
-      "search",
-      "fetch"
-    ]
-  },
-  {
     "id": "https-openai-com-index-itau-generative-ai",
     "lab": "OpenAI",
     "title": "How Itaú is building generative AI for its entire customer base",
@@ -66,6 +83,19 @@
       "building",
       "generative",
       "entire"
+    ]
+  },
+  {
+    "id": "cbmiv0fvx3lxte12s0dwvxpndutmafr6q1dimmnwdwvzeenzskliowhfymdytwxzruriqvy5c281bevz",
+    "lab": "DeepSeek",
+    "title": "Search & Fetch",
+    "summary": "",
+    "date": "2026-10-16T13:34:16.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12S0dWVXpNdUtmaFR6Q1dIMmNwdWVzeENzSklIOWhFYmdyTWxZRURIQVY5c281bEVzanZfM2hiVlpuYUxPWTJGWkdxRnRrVDFpcVBjS2xFcw?oc=5",
+    "tags": [
+      "search",
+      "fetch"
     ]
   },
   {
@@ -375,21 +405,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-block-ai-powered-security",
-    "lab": "OpenAI",
-    "title": "How Block is building AI-powered security with OpenAI technology",
-    "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-    "date": "2026-10-14T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/block-ai-powered-security",
-    "tags": [
-      "security",
-      "block",
-      "building",
-      "powered"
-    ]
-  },
-  {
     "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
     "lab": "xAI",
     "title": "News: Research, Product & Company Updates | SpaceXSI",
@@ -500,25 +515,12 @@
     "lab": "xAI",
     "title": "Introducing The X Subscription | SpaceXSI",
     "summary": "",
-    "date": "2026-10-12T22:41:48.000Z",
+    "date": "2026-10-12T07:00:00.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xSHZsR1pnaUw0LXBEbHZkY0owdTZ3N1hsTlQ1MGJ5cm9nYkRCOXgyTkhFUHVmaVphZ1FNU0xfWkFMN29jMnpN?oc=5",
     "tags": [
       "subscription",
       "spacexsi"
-    ]
-  },
-  {
-    "id": "cbmizkfvx3lxte9jb0fysc1vrgpqd1beexa2tfdubuuwznjly19xqji1x21oz2xryzfiz2dfu283yxvg",
-    "lab": "Anthropic",
-    "title": "2026 Usage Policy update",
-    "summary": "",
-    "date": "2026-10-08T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jb0FYSC1vRGpQd1BEeXA2TFdubUUwZnJlY19xQjI1X21oZ2xrYzFiZ2dfU283YXVGX2pxU05kUGZCV0lLUE5GZ2pjcnBQbFFGb2dHSDdtd1Zhd1NaZUJ6b1lIQXlGQQ?oc=5",
-    "tags": [
-      "usage",
-      "policy"
     ]
   },
   {
@@ -533,6 +535,19 @@
       "anthropic",
       "cyber",
       "mission"
+    ]
+  },
+  {
+    "id": "cbmizkfvx3lxte9jb0fysc1vrgpqd1beexa2tfdubuuwznjly19xqji1x21oz2xryzfiz2dfu283yxvg",
+    "lab": "Anthropic",
+    "title": "2026 Usage Policy update",
+    "summary": "",
+    "date": "2026-10-08T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jb0FYSC1vRGpQd1BEeXA2TFdubUUwZnJlY19xQjI1X21oZ2xrYzFiZ2dfU283YXVGX2pxU05kUGZCV0lLUE5GZ2pjcnBQbFFGb2dHSDdtd1Zhd1NaZUJ6b1lIQXlGQQ?oc=5",
+    "tags": [
+      "usage",
+      "policy"
     ]
   },
   {
@@ -563,19 +578,6 @@
       "didn",
       "exist",
       "made"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-tiiuae-falcon-asr",
-    "lab": "Hugging Face",
-    "title": "Introducing Falcon ASR",
-    "summary": "",
-    "date": "2026-10-07T13:21:03.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
-    "tags": [
-      "falcon",
-      "asr"
     ]
   },
   {
@@ -726,13 +728,13 @@
     ]
   },
   {
-    "id": "cbmiqwfbvv95cuxnetv1nhdtd1r3y1jpr1dqbjhvu0lsaevlatjnotvxc2hmsuvmc2hyaevgt0nhyl8y",
+    "id": "cbmidkfvx3lxte9jt0fwtvctzxnkynjxew44ahhozmjfbdywn3b4a2tmtthjzm9xrklxmkezdflxb2z6",
     "lab": "Anthropic",
     "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
     "summary": "",
     "date": "2026-09-23T07:00:00.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeTV1NHdtd1R3Y1JpR1dQbjhVU0lSaEVlaTJNOTVxc2hmSUVMc2hyaEVGT0NHYl8yTG1KanlxNWxOeWNuN01fY2xsR2VYNko0ekdRZWk0VEtVQjg4ME5MOV93aDAxLTR4NUViTkxFaFA4T1hRWXFGaHBQUUl6T0NRSjE0QU83cWF1Zy05TWdTWk54OE5oZWZ6SV9STGpITzNXQzhiM0dtNjRVN3M?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JT0FwTVctZXNkYnJXeW44aHhoZmJfbDYwN3B4a2tMTThJZm9XRklxMkEzdFlxb2Z6VGM2UnpDTGlaQ09PODJUMkJFWWl1UVZOTDJ0WU1UQ1pZMDlrbS0tM3FTS0RGWmNSeGt5QlJjZktQWkl4N0E?oc=5",
     "tags": [
       "claude",
       "discovers",
