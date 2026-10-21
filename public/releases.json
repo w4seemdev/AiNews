@@ -1,5 +1,265 @@
 [
   {
+    "id": "https-huggingface-co-blog-nvidia-simready-central-assets-robotics-ai-factories",
+    "lab": "Hugging Face",
+    "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+    "summary": "",
+    "date": "2026-10-21T10:59:42.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+    "tags": [
+      "simready",
+      "central",
+      "open",
+      "library"
+    ]
+  },
+  {
+    "id": "https-blog-google-company-news-inside-google-around-the-globe-google-asia-e-cono",
+    "lab": "Google DeepMind",
+    "title": "Southeast Asia’s digital economy to hit $368 billion",
+    "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+    "date": "2026-10-21T04:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp",
+    "tags": [
+      "southeast",
+      "asia",
+      "digital",
+      "economy"
+    ]
+  },
+  {
+    "id": "cbmiuefvx3lxtfbcvezgq3luthf2znrqunyxn2p3m3lhwnvkum1zehbdr0ztrkhgodgxyktpbzreskfj",
+    "lab": "Anthropic",
+    "title": "Features",
+    "summary": "",
+    "date": "2026-10-21T03:11:37.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCVEZGQ3luTHF2ZnRQUnYxN2p3M3lhWnVkUm1zeHBDR0ZtRkhGODgxYktpbzRESkFJY3MxNXpDWnNKWk9aMVhISkl3YmVrS3Iy?oc=5",
+    "tags": [
+      "features"
+    ]
+  },
+  {
+    "id": "cbmiuefvx3lxte9pd3jfmeu3zg1xcxbudng3btgyqzq5yk9wchjsuhy3n0tnvddkvtjnczhhx2nnuutd",
+    "lab": "Anthropic",
+    "title": "Security",
+    "summary": "",
+    "date": "2026-10-20T22:40:55.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pd3JFMEU3ZG1XcXBUdng3bTgyQzQ5Yk9WcHJSUHY3N0tnVDdkVTJnczhHX2NNUUtDV0hwZjBNU1JyV3NldTlhRnhNblRVU0k0?oc=5",
+    "tags": [
+      "security"
+    ]
+  },
+  {
+    "id": "cbmir0fvx3lxtfblnudfmtjkempvauxhenhjbnnzcnzhanzlukvcser2mvlvctvxngdqn05rsw9hzxat",
+    "lab": "xAI",
+    "title": "Using Grok Bot to detect and respond to incidents | SpaceXSI",
+    "summary": "",
+    "date": "2026-10-20T19:18:40.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBLNUdfMTJkempVaUxhenhjbnNzcnZHanZLUkVCSER2MVlvcTVXNGdQN05RSW9hZXAtYjlGSWUyYUVkTEFiX0Jv?oc=5",
+    "tags": [
+      "grok",
+      "bot",
+      "detect",
+      "respond"
+    ]
+  },
+  {
+    "id": "cbmiu0fvx3lxtfbnslvnajjpukhdotzetth2mmrxmhhidu1jqul4zmuwu0d4quvtohptu3rfngftr05l",
+    "lab": "Anthropic",
+    "title": "Safeguards",
+    "summary": "",
+    "date": "2026-10-20T19:09:05.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnSlVNajJPUkhDOTZETTh2MmRxMHhidU1jQUl4ZmUwU0d4QUVtOHptU3RFNGFtR05LUXA1bERWQUdYTVIzbmpsdkJfeHhLVHVzQmhr?oc=5",
+    "tags": [
+      "safeguards"
+    ]
+  },
+  {
+    "id": "cbmivkfvx3lxtfbhymhols1rnzl0rggta2tkulhny2rrqwt1runrznz1vjjvr1zrwnjzsnitmnr5nzna",
+    "lab": "Anthropic",
+    "title": "Partnerships",
+    "summary": "",
+    "date": "2026-10-20T19:09:05.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhYmhOLS1RNzl0RGgta2tKUlhNY2RRQWt1RUNRZnZ1VjJVR1ZrWnJZSnItMnR5NzNaRjRGZi05eEJmOTkzM1JFc2U1YjUtVU5MSlFKc0tB?oc=5",
+    "tags": [
+      "partnerships"
+    ]
+  },
+  {
+    "id": "cbmitkfvx3lxte5huwd1bmvwb0nybhzmsmpdstryaus0n0lxazboowvycdbktfo1v2nymthkm0jfnjet",
+    "lab": "Anthropic",
+    "title": "Models",
+    "summary": "",
+    "date": "2026-10-20T18:42:38.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hUWd1bmVwb0NYbHZMSmpDSTRyaUs0N0lXazBOOWVYcDBkTFo1V2NyMThKM0JFNjEtV0llNmJ1Wl85LWYzUmlselk3cng1QQ?oc=5",
+    "tags": [
+      "models"
+    ]
+  },
+  {
+    "id": "cbmit0fvx3lxte1qzzd5cvdinfhlrufxbuzasldiaez2efdzzelzum9lovg2zlqwym1ybzrjufr5mez0",
+    "lab": "Anthropic",
+    "title": "Product",
+    "summary": "",
+    "date": "2026-10-20T17:14:12.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QZzd5cVdiNFhlRUFXbUZaSldIaEZ2eFdzZElZUm9lOVg2ZlQwYm1ybzRJUFR5MEZ0R2xYVURYZm5uQjRibWEtYXpDUzgwTFU?oc=5",
+    "tags": [
+      "product"
+    ]
+  },
+  {
+    "id": "cbmiv0fvx3lxte1kck1smnp3z1lwz1vjwk1hmm9lyw1grnhuodnttwjuvs1tnutpdzu2yvdrrxrmbedy",
+    "lab": "Anthropic",
+    "title": "Announcements",
+    "summary": "",
+    "date": "2026-10-20T17:03:24.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Kck1SMnp3Z1lwZ1VjWk1hMm9lYW1GRnhuODNtTWJuVS1TNUtPdzU2YVdrRXRmbEdYVWlJM2Y1cVo0QzRpR1dBM2hpRnl3ZEs2WmlGSmUwcw?oc=5"
+  },
+  {
+    "id": "https-huggingface-co-blog-allenai-fairstress",
+    "lab": "Hugging Face",
+    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+    "summary": "",
+    "date": "2026-10-20T16:09:19.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/allenai/fairstress",
+    "tags": [
+      "fairstress",
+      "deeper",
+      "evaluation",
+      "fairness"
+    ]
+  },
+  {
+    "id": "cbmiskfvx3lxtfb3sgxrsdawanvjtmvga3homjbmzhy3yzvkwdnaqm5uqwxjb2nlni12yu1ry28tt0fp",
+    "lab": "Mistral",
+    "title": "Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages",
+    "summary": "",
+    "date": "2026-10-20T16:01:13.000Z",
+    "category": "api",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5",
+    "tags": [
+      "voxtral",
+      "voice",
+      "agent",
+      "sdk"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-ibm-research-altk-evolve-bc",
+    "lab": "Hugging Face",
+    "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+    "summary": "",
+    "date": "2026-10-20T15:19:48.000Z",
+    "category": "model",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+    "tags": [
+      "altk",
+      "evolve",
+      "learned",
+      "memory"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-ted-taylor-restaurant",
+    "lab": "OpenAI",
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+    "date": "2026-10-20T10:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/ted-taylor-restaurant",
+    "tags": [
+      "franchisee",
+      "cash",
+      "time",
+      "reconciles"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-terminal-x",
+    "lab": "OpenAI",
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+    "date": "2026-10-20T07:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/terminal-x",
+    "tags": [
+      "terminal",
+      "gpt",
+      "matches",
+      "senior"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-hf-torchtpu",
+    "lab": "Hugging Face",
+    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+    "summary": "",
+    "date": "2026-10-20T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/hf-torchtpu",
+    "tags": [
+      "hugging",
+      "face",
+      "torchtpu",
+      "tpus"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-anylanguagemodel-1-0",
+    "lab": "Hugging Face",
+    "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+    "summary": "",
+    "date": "2026-10-20T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+    "tags": [
+      "anylanguagemodel",
+      "one",
+      "local",
+      "models"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-mps-pytorch-2-15",
+    "lab": "Hugging Face",
+    "title": "MPS in PyTorch 2.15",
+    "summary": "",
+    "date": "2026-10-20T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+    "tags": [
+      "mps",
+      "pytorch"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-openai-to-acquire-orchestra-bio",
+    "lab": "OpenAI",
+    "title": "OpenAI acquires Orchestra Bio",
+    "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+    "date": "2026-10-20T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "tags": [
+      "openai",
+      "orchestra",
+      "bio",
+      "acquires"
+    ]
+  },
+  {
     "id": "https-openai-com-index-low-resource-programming-languages",
     "lab": "OpenAI",
     "title": "Advancing coding in low‑resource programming languages",
@@ -46,7 +306,7 @@
     "lab": "Anthropic",
     "title": "Investing in the public benefit",
     "summary": "",
-    "date": "2026-10-18T16:49:35.000Z",
+    "date": "2026-10-18T18:13:26.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWMUFBangwVDdnUXBLeEFmOEtSVFYzN3NSU1lVdVduQl9iNFVTN0hfdEVkNS1yakJCLWFtdkVqTXlLM1VhblU5empsdmVKTVNDVy1PZ1JoUW1HYUlLb0FV?oc=5",
     "tags": [
@@ -56,13 +316,13 @@
     ]
   },
   {
-    "id": "cbmiwkfvx3lxte5svg45vei5nmftyxlesue5vjrcrkg1tk9sbwn5vggzze56bunvwhvcahgwa1p1nkzp",
+    "id": "cbmiwefvx3lxte9kztr4t290yy1kvwdwznbod01jskdnujbirexpmzh2annnrxq4y2hpr21tq1pubmvk",
     "lab": "DeepSeek",
     "title": "DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real",
     "summary": "",
     "date": "2026-10-17T09:07:18.000Z",
     "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sVG45VEI5NmFTYXlESUE5VjRCRkg1Tk9sbWN5VGgzZE56bUNvWHVCaHgwa1p1NkZPWWl1MXVzdnFsSjlxMUJsSlZHdldwbVNYWnN0SnJwWlliQQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kZTR4T290Yy1KVWdWZnBod01jSkdNUjBiRExPMzh2anNNRXQ4Y2hpR21TQ1pubmVKVDZ6VmhONzdnYzhoUG1xamRjZVhaRmhQNVZQcHlaVWE?oc=5",
     "tags": [
       "deepseek",
       "flash",
@@ -99,33 +359,6 @@
     ]
   },
   {
-    "id": "cbmiukfvx3lxtfbilvhazfpfvzm0sxf5lv96xzrvx0jxyvfwymjstwm5tku1euz1emvtmnctbtj6te5l",
-    "lab": "DeepSeek",
-    "title": "Fetch",
-    "summary": "",
-    "date": "2026-10-16T13:28:11.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBILVhaZFpfVzM0SXF5LV96XzRvX0JXYVFWYmJSTWM5TkU1eUZ1emVTMnctbTJ6TE5lQnRFb2dZWUNJSGpHLW9kMGtqRVNfSzA1WVE?oc=5",
-    "tags": [
-      "fetch"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-nvidia-scaling-indic-pretraining",
-    "lab": "Hugging Face",
-    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-    "summary": "",
-    "date": "2026-10-16T01:44:47.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-    "tags": [
-      "scaling",
-      "indic",
-      "pretraining",
-      "trillion"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-reflection-beam",
     "lab": "Hugging Face",
     "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
@@ -141,21 +374,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-benefit-street-partners",
-    "lab": "OpenAI",
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-    "date": "2026-10-16T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/benefit-street-partners",
-    "tags": [
-      "faster",
-      "codex",
-      "benefit",
-      "street"
-    ]
-  },
-  {
     "id": "https-openai-com-index-stack-overflow-chatgpt-plugin",
     "lab": "OpenAI",
     "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
@@ -168,6 +386,21 @@
       "overflow",
       "agents",
       "chatgpt"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-benefit-street-partners",
+    "lab": "OpenAI",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+    "date": "2026-10-16T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/benefit-street-partners",
+    "tags": [
+      "faster",
+      "codex",
+      "benefit",
+      "street"
     ]
   },
   {
@@ -205,7 +438,7 @@
     "lab": "Anthropic",
     "title": "An update on independent evaluators",
     "summary": "",
-    "date": "2026-10-15T17:20:00.000Z",
+    "date": "2026-10-15T17:24:05.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zZVFudWFYcC04RHNOZHI0cGhuSXBUTlk2RWZsUnFkY2MzeWZRY0NVaV9OSTJHbDVkc3BBTHBWd1FKUDVCbjdYLTQtN2tGNUZXdnFYRmt2OUZTTzRoRVZNeWNteUE1Vy1DSXBGTTUxSFJqVmRf?oc=5",
     "tags": [
@@ -273,36 +506,6 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-meta-muse-spark-open",
-    "lab": "Hugging Face",
-    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-    "summary": "",
-    "date": "2026-10-15T00:00:00.000Z",
-    "category": "model",
-    "url": "https://huggingface.co/blog/meta-muse-spark-open",
-    "tags": [
-      "open",
-      "welcome",
-      "muse",
-      "spark"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-flux-3",
-    "lab": "Hugging Face",
-    "title": "Welcome FLUX.3 Image Klein in Diffusers",
-    "summary": "",
-    "date": "2026-10-15T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/flux-3",
-    "tags": [
-      "welcome",
-      "flux",
-      "image",
-      "klein"
-    ]
-  },
-  {
     "id": "https-openai-com-index-sullivan-cromwell",
     "lab": "OpenAI",
     "title": "Sullivan & Cromwell brings legal expertise into agreement review",
@@ -322,7 +525,7 @@
     "lab": "Anthropic",
     "title": "Preparing for the 2026 US midterms",
     "summary": "",
-    "date": "2026-10-14T18:33:00.000Z",
+    "date": "2026-10-14T19:35:21.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40a2x1bXc2VHhZaFl0SlRhdGhoWjNqNHlKZ3dGcWpzSHNWUFVHbUhwSkY3ZXVrU3dXVWJGSEh5cUlvMjUzMm5YQ2E3VHF2cUFBZ3NneDJGTnQyVUk?oc=5",
     "tags": [
@@ -342,66 +545,6 @@
       "grok",
       "voice",
       "spacexsi"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-allenai-hiro-acev2",
-    "lab": "Hugging Face",
-    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-    "summary": "",
-    "date": "2026-10-14T16:12:42.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-    "tags": [
-      "hiro",
-      "acev2",
-      "simulating",
-      "extreme"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-amp-beyond-coding",
-    "lab": "OpenAI",
-    "title": "Amp puts AI agents to work beyond code with OpenAI models",
-    "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-    "date": "2026-10-14T12:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/amp-beyond-coding",
-    "tags": [
-      "amp",
-      "agents",
-      "gpt",
-      "puts"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-sentinelone",
-    "lab": "OpenAI",
-    "title": "SentinelOne cuts malware analysis from weeks to hours",
-    "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-    "date": "2026-10-14T12:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/sentinelone",
-    "tags": [
-      "sentinelone",
-      "cuts",
-      "malware",
-      "analysis"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-third-moment-research",
-    "lab": "OpenAI",
-    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-    "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-    "date": "2026-10-14T07:00:00.000Z",
-    "category": "research",
-    "url": "https://openai.com/index/third-moment-research",
-    "tags": [
-      "agents",
-      "gpt",
-      "third",
-      "moment"
     ]
   },
   {
@@ -448,21 +591,6 @@
       "gemini",
       "argon",
       "responsibly"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-liquidai-lfm25-24b-a2b",
-    "lab": "Hugging Face",
-    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-    "summary": "",
-    "date": "2026-10-13T17:05:48.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-    "tags": [
-      "run",
-      "fast",
-      "private",
-      "agents"
     ]
   },
   {
@@ -524,63 +652,6 @@
     ]
   },
   {
-    "id": "cbmizefvx3lxte9srkrrlthcqk54nv9hr0e5akl4lvnfanczwxu2cexpb2tyd3m4bgtfbwx6ekvpouw5",
-    "lab": "Anthropic",
-    "title": "Introducing the Anthropic Cyber Mission",
-    "summary": "",
-    "date": "2026-10-08T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SRkRRLThCQk54NV9hR0E5akl4LVNfanczWXU2cExpb2tyd3M4bGtFbWx6ekVPOUw5bDRzRjNhSlJ3ZjJqQklIMTVMNmNjXzNwaGtsb1lJeVItOXVaMlVuQk1BelE?oc=5",
-    "tags": [
-      "anthropic",
-      "cyber",
-      "mission"
-    ]
-  },
-  {
-    "id": "cbmizkfvx3lxte9jb0fysc1vrgpqd1beexa2tfdubuuwznjly19xqji1x21oz2xryzfiz2dfu283yxvg",
-    "lab": "Anthropic",
-    "title": "2026 Usage Policy update",
-    "summary": "",
-    "date": "2026-10-08T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jb0FYSC1vRGpQd1BEeXA2TFdubUUwZnJlY19xQjI1X21oZ2xrYzFiZ2dfU283YXVGX2pxU05kUGZCV0lLUE5GZ2pjcnBQbFFGb2dHSDdtd1Zhd1NaZUJ6b1lIQXlGQQ?oc=5",
-    "tags": [
-      "usage",
-      "policy"
-    ]
-  },
-  {
-    "id": "cbmiaefvx3lxtfa1vhu4uenxnwlfz2rsuelprkhvvgdzdtdydk9kt2zln3rcnxdlv2vtq0zqu01adti5",
-    "lab": "Anthropic",
-    "title": "Building on our commitment to American scientific discovery",
-    "summary": "",
-    "date": "2026-10-08T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1VHU4UENXNWlFZ2RsUElpRkhvVGdzdTdydk9kT2ZlN3RCNXdLV2VtQ0ZQU01adTI5Mkw4Y3JrcGpIZ1ZxWUtDOUxqbG1JVXNTNWJvSU5NMF9KY2o5Tlp5QVJpNElQeFdv?oc=5",
-    "tags": [
-      "building",
-      "commitment",
-      "american",
-      "scientific"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-building-with-ml-intern",
-    "lab": "Hugging Face",
-    "title": "The model that didn't exist, so you made it yourself",
-    "summary": "",
-    "date": "2026-10-08T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/building-with-ml-intern",
-    "tags": [
-      "model",
-      "didn",
-      "exist",
-      "made"
-    ]
-  },
-  {
     "id": "https-blog-google-innovation-and-ai-technology-ai-playground-experimental-gaming",
     "lab": "Google DeepMind",
     "title": "Introducing Playground: Create and play custom games",
@@ -612,21 +683,6 @@
     ]
   },
   {
-    "id": "cbmiaefvx3lxte9hzelzmti1d1f3r09rwtfklu1xmxvilw9frf92bdnfcjzxtzviuhprtmrcovr5wgjh",
-    "lab": "Anthropic",
-    "title": "Expanding the Cyber Verification Program",
-    "summary": "",
-    "date": "2026-10-06T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HZElZMTI1d1F3R09RWTFKLU1xMXViLW9fRF92bDNFcjZxTzViUHprTmRCOVR5WGJHOWNEdS1IaEZsZjBPRU0ycFB6M1Rpd2h0ZkZwdk1wZWJUdzc5cFB3bG93RWRYQzFI?oc=5",
-    "tags": [
-      "expanding",
-      "cyber",
-      "verification",
-      "program"
-    ]
-  },
-  {
     "id": "cbmiukfvx3lxte55rwfreetwvxnoutdccnvmadllqmjslxnjbtk4bvznwnf2bme4azu1d0lztgx0wnht",
     "lab": "Mistral",
     "title": "Introducing Mistral Large 4",
@@ -650,51 +706,6 @@
     "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp",
     "tags": [
       "google"
-    ]
-  },
-  {
-    "id": "cbmizefvx3lxte9fnlfxvhbsrkl5bvf0c253ue5suefac3ddzmq4bzfjc2ler0hncjfmuuxpvfi5t0xq",
-    "lab": "Anthropic",
-    "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
-    "summary": "",
-    "date": "2026-10-02T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5",
-    "tags": [
-      "claude",
-      "frontier",
-      "academy",
-      "train"
-    ]
-  },
-  {
-    "id": "cbmi7gnbvv95cuxommytov9ltgrnnm0zv0lxcgvrrmfoajjqyk1usuvhmjbatjrdx2lxes1emusyz2k1",
-    "lab": "Anthropic",
-    "title": "Barclays scales Claude to upgrade operations and improve client experience",
-    "summary": "",
-    "date": "2026-10-01T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxOMmYtOV9lTGRNNm0zV0lxcGVrRmFoajJQYk1uSUVhMjBaTjRDX2lXeS1EMUsyZ2k1UVpWSTV6M2VyY0VhVUxNU3JOMmR4cHloTFotcUxqbWFjcFU1SVB3U21Ydm5ta2I1M08xNFp1VXhHOFRjSjNHQUtza3lyZlZNSWF5M3lNdTZqN3U1cFJCMVVVYmoyenlvMUZTUTNmQThIeHFsd2hRLXZKSUF1Zk4zR0pBR0JuNVFaal9tRTRKUnhHSmhIR2E3QVZuLVpMcWhKV0NYemw2dVd2Nkl4VG43dFZZQ1BlX1g5VHBiY1R1OTIwMkExTHRueWJkTi12N0pESnJvckJWNnRlWHI4V2Z5YXZxZXBKNEVUN05GZUg5QW9aZjQyOXVueVdaMUgxSTNtVHJqWERZbzUxNlhYNE1iZHEwcEx0VmxLV2dJVkRDS2NweTlXaGNUU0M2SHFidDJlQ0YxYUNlNWQyMzh0UnJGMVJURzBuQm9WbGV5dTBQR3luSUVNZFkxR0R1TFdvUkJVSlNoTHdrQU9URGtzS1h3bXhOTzc4Tmg0bjBzUWJoQURHOFQ4SVpDZVJudWdPR2UwNmhLRDNBNGVTMTY1Z2Mwbjd1OHNfd3pFRU5fMGg0UmRCcFJ3ZUlkRW5WWnVmZw?oc=5",
-    "tags": [
-      "barclays",
-      "scales",
-      "claude",
-      "upgrade"
-    ]
-  },
-  {
-    "id": "https-deepmind-google-blog-gemini-4-argon-our-next-era-of-frontier-intelligence",
-    "lab": "Google DeepMind",
-    "title": "Gemini 4 Argon: our next era of frontier intelligence",
-    "summary": "",
-    "date": "2026-09-30T20:01:45.000Z",
-    "category": "model",
-    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-    "tags": [
-      "gemini",
-      "argon",
-      "next",
-      "era"
     ]
   },
   {
@@ -725,21 +736,6 @@
       "bots",
       "shared",
       "teammates"
-    ]
-  },
-  {
-    "id": "cbmidkfvx3lxte9jt0fwtvctzxnkynjxew44ahhozmjfbdywn3b4a2tmtthjzm9xrklxmkezdflxb2z6",
-    "lab": "Anthropic",
-    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-    "summary": "",
-    "date": "2026-09-23T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JT0FwTVctZXNkYnJXeW44aHhoZmJfbDYwN3B4a2tMTThJZm9XRklxMkEzdFlxb2Z6VGM2UnpDTGlaQ09PODJUMkJFWWl1UVZOTDJ0WU1UQ1pZMDlrbS0tM3FTS0RGWmNSeGt5QlJjZktQWkl4N0E?oc=5",
-    "tags": [
-      "claude",
-      "discovers",
-      "novel",
-      "enzyme"
     ]
   },
   {
@@ -782,19 +778,6 @@
       "grok",
       "voice",
       "transcribe"
-    ]
-  },
-  {
-    "id": "cbmidkfvx3lxte50qun0t29rve54yvhwzfbuy0vqbg41rdzyauvxaelhyue4svhwugxodzvksjlzeghi",
-    "lab": "DeepSeek",
-    "title": "Integrate with Qoder",
-    "summary": "",
-    "date": "2026-09-17T03:52:07.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50QUN0T29rVE54YVhwZFBUY0VQbG41RDZYaUVXaElhYUE4SVhwUGxodzVkSjlzeGhIQjFhUHlRTTdpcGgxQW1CeU04VW9EYVR6ZEc3VXotX3VsYVdBbzU4eFVWZW4ycDIyRkQ0MzRXX2ZFS2pqcUE?oc=5",
-    "tags": [
-      "integrate",
-      "qoder"
     ]
   },
   {
