@@ -1,17 +1,227 @@
 [
   {
-    "id": "https-huggingface-co-blog-nvidia-simready-central-assets-robotics-ai-factories",
-    "lab": "Hugging Face",
-    "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+    "id": "cbmiskfvx3lxtfb3sgxrsdawanvjtmvga3homjbmzhy3yzvkwdnaqm5uqwxjb2nlni12yu1ry28tt0fp",
+    "lab": "Mistral",
+    "title": "Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages",
     "summary": "",
-    "date": "2026-10-21T10:59:42.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+    "date": "2026-10-22T10:35:10.000Z",
+    "category": "api",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5",
     "tags": [
-      "simready",
-      "central",
-      "open",
-      "library"
+      "voxtral",
+      "voice",
+      "agent",
+      "sdk"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-ibm-research-granite-timeseries-ensemble-r1",
+    "lab": "Hugging Face",
+    "title": "Ensemble forecasting with IBM Granite time-series models",
+    "summary": "",
+    "date": "2026-10-22T07:51:31.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+    "tags": [
+      "ensemble",
+      "forecasting",
+      "ibm",
+      "granite"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-broad-access-through-consistent-standards",
+    "lab": "OpenAI",
+    "title": "Broad access through consistent standards",
+    "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+    "date": "2026-10-21T21:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/broad-access-through-consistent-standards",
+    "tags": [
+      "access",
+      "consistent",
+      "broad",
+      "through"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-nvidia-kumo-relational",
+    "lab": "Hugging Face",
+    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+    "summary": "",
+    "date": "2026-10-21T18:26:30.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+    "tags": [
+      "relational",
+      "nvidia",
+      "kumo",
+      "outperforms"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-dharma-ai-vocabx-vocabulary-specialization",
+    "lab": "Hugging Face",
+    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+    "summary": "",
+    "date": "2026-10-21T17:35:36.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+    "tags": [
+      "specializing",
+      "vocabulary",
+      "slms",
+      "cut"
+    ]
+  },
+  {
+    "id": "cbmihgfbvv95cuxqbhvfztrusg1cam5rqllpvvrvvkitrnzwvvlwodvdwu54vm5jmza0m1dza09rt1kx",
+    "lab": "Anthropic",
+    "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+    "summary": "",
+    "date": "2026-10-21T17:25:01.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbHVFZTRuSG1Cam5rQllpVVRvVkItRnZwVVlWODVDWU54Vm5jMzA0M1dza09rT1kxbFNTbGVYWWtmdmVGdzQxUjJ0SkczUWFBd3l5MUFWSlN4dWc4Y0FDc1F4S2c0TGNyUGVESUo1MGJpR0VfVXdDYXhDUXNadkRob0ZuVkotUQ?oc=5",
+    "tags": [
+      "physicist",
+      "christopher",
+      "stubbs",
+      "joins"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-att-legal",
+    "lab": "OpenAI",
+    "title": "How AT&T is rethinking in-house legal work with OpenAI",
+    "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+    "date": "2026-10-21T17:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/att-legal",
+    "tags": [
+      "legal",
+      "rethinking",
+      "openai",
+      "house"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-amazon-profiling-torchneuron-part-1",
+    "lab": "Hugging Face",
+    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+    "summary": "",
+    "date": "2026-10-21T16:04:43.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+    "tags": [
+      "profiling",
+      "torchneuron",
+      "part",
+      "system"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-ibm-granite-granite-speech-5",
+    "lab": "Hugging Face",
+    "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+    "summary": "",
+    "date": "2026-10-21T14:58:18.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+    "tags": [
+      "granite",
+      "speech",
+      "transcribe",
+      "translate"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-chatgpt-ads-expands-26-new-countries",
+    "lab": "OpenAI",
+    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+    "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+    "date": "2026-10-21T13:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+    "tags": [
+      "chatgpt",
+      "advertisers",
+      "ads",
+      "expands"
+    ]
+  },
+  {
+    "id": "cbmieefvx3lxte5erem1nkpawtg3mvnmoustwdzocjduuffxvulfczfvu3hsrgfrugdwsunltvdjsnr0",
+    "lab": "Mistral",
+    "title": "Mistral Advances AI for Engineering with NVIDIA",
+    "summary": "",
+    "date": "2026-10-21T12:11:38.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EREM1NkpaWTg3MVNMOUstWDZOcjduUFFXVUlfczFVU3hSRGFRUGdwSUNLTVdJSnR0eWluOGJfeVJtbTM5TkgzdEZEdzhZZGxsbVdtSEVKSlAxNEFuTFNyZHRhbF81bEp2Z2h0WTQwNW5ncnJWMXhRag?oc=5",
+    "tags": [
+      "mistral",
+      "advances",
+      "engineering",
+      "nvidia"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-openai-models-google-cloud",
+    "lab": "OpenAI",
+    "title": "OpenAI models are coming to Google Cloud",
+    "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+    "date": "2026-10-21T12:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/openai-models-google-cloud",
+    "tags": [
+      "google",
+      "cloud",
+      "openai",
+      "models"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-coordinated-disclosure-of-critical-vulnerabilities",
+    "lab": "OpenAI",
+    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+    "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+    "date": "2026-10-21T07:00:00.000Z",
+    "category": "research",
+    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+    "tags": [
+      "patch",
+      "planet",
+      "critical",
+      "vulnerabilities"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-building-chatgpt-ad-stack",
+    "lab": "OpenAI",
+    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+    "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+    "date": "2026-10-21T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/building-chatgpt-ad-stack",
+    "tags": [
+      "built",
+      "chatgpt",
+      "stack",
+      "ads"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-scaling-ai-research-for-complex-biological-data",
+    "lab": "OpenAI",
+    "title": "Using thousands of AI agents to uncover new leads in biological data",
+    "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+    "date": "2026-10-21T04:50:00.000Z",
+    "category": "research",
+    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+    "tags": [
+      "agents",
+      "uncover",
+      "leads",
+      "data"
     ]
   },
   {
@@ -40,6 +250,36 @@
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCVEZGQ3luTHF2ZnRQUnYxN2p3M3lhWnVkUm1zeHBDR0ZtRkhGODgxYktpbzRESkFJY3MxNXpDWnNKWk9aMVhISkl3YmVrS3Iy?oc=5",
     "tags": [
       "features"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-cloudflare-cyber",
+    "lab": "OpenAI",
+    "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+    "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+    "date": "2026-10-21T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/cloudflare-cyber",
+    "tags": [
+      "cloudflare",
+      "openai",
+      "links",
+      "vulnerability"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-empowering-cyber-defenders",
+    "lab": "OpenAI",
+    "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+    "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+    "date": "2026-10-21T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/empowering-cyber-defenders",
+    "tags": [
+      "frontier",
+      "empowering",
+      "cyber",
+      "defenders"
     ]
   },
   {
@@ -142,36 +382,6 @@
     ]
   },
   {
-    "id": "cbmiskfvx3lxtfb3sgxrsdawanvjtmvga3homjbmzhy3yzvkwdnaqm5uqwxjb2nlni12yu1ry28tt0fp",
-    "lab": "Mistral",
-    "title": "Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages",
-    "summary": "",
-    "date": "2026-10-20T16:01:13.000Z",
-    "category": "api",
-    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5",
-    "tags": [
-      "voxtral",
-      "voice",
-      "agent",
-      "sdk"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-ibm-research-altk-evolve-bc",
-    "lab": "Hugging Face",
-    "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-    "summary": "",
-    "date": "2026-10-20T15:19:48.000Z",
-    "category": "model",
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-    "tags": [
-      "altk",
-      "evolve",
-      "learned",
-      "memory"
-    ]
-  },
-  {
     "id": "https-openai-com-index-ted-taylor-restaurant",
     "lab": "OpenAI",
     "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
@@ -184,21 +394,6 @@
       "cash",
       "time",
       "reconciles"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-terminal-x",
-    "lab": "OpenAI",
-    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-    "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-    "date": "2026-10-20T07:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/terminal-x",
-    "tags": [
-      "terminal",
-      "gpt",
-      "matches",
-      "senior"
     ]
   },
   {
@@ -242,36 +437,6 @@
     "tags": [
       "mps",
       "pytorch"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-openai-to-acquire-orchestra-bio",
-    "lab": "OpenAI",
-    "title": "OpenAI acquires Orchestra Bio",
-    "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-    "date": "2026-10-20T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-    "tags": [
-      "openai",
-      "orchestra",
-      "bio",
-      "acquires"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-low-resource-programming-languages",
-    "lab": "OpenAI",
-    "title": "Advancing coding in low‑resource programming languages",
-    "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-    "date": "2026-10-19T12:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/low-resource-programming-languages",
-    "tags": [
-      "low",
-      "resource",
-      "programming",
-      "languages"
     ]
   },
   {
@@ -331,106 +496,28 @@
     ]
   },
   {
-    "id": "https-openai-com-index-itau-generative-ai",
-    "lab": "OpenAI",
-    "title": "How Itaú is building generative AI for its entire customer base",
-    "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-    "date": "2026-10-16T19:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/itau-generative-ai",
-    "tags": [
-      "ita",
-      "building",
-      "generative",
-      "entire"
-    ]
-  },
-  {
-    "id": "cbmiv0fvx3lxte12s0dwvxpndutmafr6q1dimmnwdwvzeenzskliowhfymdytwxzruriqvy5c281bevz",
+    "id": "cbmivkfvx3lxte9dmkxfu19nd0jublbbd0e0mfhkdeqwnevwbux3qxzjeeztbtvpwndey0xsumxvwkv1",
     "lab": "DeepSeek",
     "title": "Search & Fetch",
     "summary": "",
-    "date": "2026-10-16T13:34:16.000Z",
+    "date": "2026-10-16T13:34:15.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12S0dWVXpNdUtmaFR6Q1dIMmNwdWVzeENzSklIOWhFYmdyTWxZRURIQVY5c281bEVzanZfM2hiVlpuYUxPWTJGWkdxRnRrVDFpcVBjS2xFcw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DMkxFU19Nd0JUblBBd0E0MFhKdEQwNEVwbUx3QXZJeEZtbTVpWndEY0xsUmxvWkV1Nk4xUjlOenNlbkZKWWR2dUVScmZIV1FiVFhIWWtR?oc=5",
     "tags": [
       "search",
       "fetch"
     ]
   },
   {
-    "id": "https-huggingface-co-blog-reflection-beam",
-    "lab": "Hugging Face",
-    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "id": "cbmiukfvx3lxtfbilvhazfpfvzm0sxf5lv96xzrvx0jxyvfwymjstwm5tku1euz1emvtmnctbtj6te5l",
+    "lab": "DeepSeek",
+    "title": "Fetch",
     "summary": "",
-    "date": "2026-10-16T00:00:00.000Z",
+    "date": "2026-10-16T13:28:11.000Z",
     "category": "feature",
-    "url": "https://huggingface.co/blog/reflection-beam",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBILVhaZFpfVzM0SXF5LV96XzRvX0JXYVFWYmJSTWM5TkU1eUZ1emVTMnctbTJ6TE5lQnRFb2dZWUNJSGpHLW9kMGtqRVNfSzA1WVE?oc=5",
     "tags": [
-      "welcome",
-      "beam",
-      "open",
-      "model"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-stack-overflow-chatgpt-plugin",
-    "lab": "OpenAI",
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-    "date": "2026-10-16T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-    "tags": [
-      "stack",
-      "overflow",
-      "agents",
-      "chatgpt"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-benefit-street-partners",
-    "lab": "OpenAI",
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-    "date": "2026-10-16T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/benefit-street-partners",
-    "tags": [
-      "faster",
-      "codex",
-      "benefit",
-      "street"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-ibm-granite-granite-switch-4-1",
-    "lab": "Hugging Face",
-    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-    "summary": "",
-    "date": "2026-10-15T20:34:01.000Z",
-    "category": "api",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-    "tags": [
-      "granite",
-      "switch",
-      "chat",
-      "decisions"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-introducing-the-rosalind-academic-plan",
-    "lab": "OpenAI",
-    "title": "Bringing GPT-Rosalind to academic research labs",
-    "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-    "date": "2026-10-15T19:00:00.000Z",
-    "category": "research",
-    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-    "tags": [
-      "rosalind",
-      "academic",
-      "gpt",
-      "research"
+      "fetch"
     ]
   },
   {
@@ -478,76 +565,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-teaching-students-to-think-and-learn-through-questions",
-    "lab": "OpenAI",
-    "title": "Teaching students to think and learn through questions",
-    "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-    "date": "2026-10-15T13:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-    "tags": [
-      "teachers",
-      "step",
-      "teaching",
-      "students"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-swiss-ai-apertus-v15-release-notes",
-    "lab": "Hugging Face",
-    "title": "Apertus 1.5 Release Notes",
-    "summary": "",
-    "date": "2026-10-15T09:08:45.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-    "tags": [
-      "apertus",
-      "notes"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-sullivan-cromwell",
-    "lab": "OpenAI",
-    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-    "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-    "date": "2026-10-15T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/sullivan-cromwell",
-    "tags": [
-      "agreement",
-      "sullivan",
-      "cromwell",
-      "brings"
-    ]
-  },
-  {
-    "id": "cbmiw0fvx3lxte40a2x1bxc2vhhzafl0slrhdghowjnqnhlkz3dgcwpzshnwufvhbuhwsky3zxvru3dx",
-    "lab": "Anthropic",
-    "title": "Preparing for the 2026 US midterms",
-    "summary": "",
-    "date": "2026-10-14T19:35:21.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40a2x1bXc2VHhZaFl0SlRhdGhoWjNqNHlKZ3dGcWpzSHNWUFVHbUhwSkY3ZXVrU3dXVWJGSEh5cUlvMjUzMm5YQ2E3VHF2cUFBZ3NneDJGTnQyVUk?oc=5",
-    "tags": [
-      "preparing",
-      "midterms"
-    ]
-  },
-  {
-    "id": "cbmirefvx3lxte1moucxzkpjvvvyyjllowk1v0sxb1qyy3dvlwtpcdbfbepqqzldqzfpekdzsuvkbnho",
-    "lab": "xAI",
-    "title": "Introducing Grok Voice 3.0 | SpaceXSI",
-    "summary": "",
-    "date": "2026-10-14T16:41:49.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1mOUcxZkpjVVVyYjlLOWk1V0sxb1QyY3dVLWtpcDBFbEpqQzlDQzFPekdzSUVKbnhoaHZNd3ZzYzlweElu?oc=5",
-    "tags": [
-      "grok",
-      "voice",
-      "spacexsi"
-    ]
-  },
-  {
     "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
     "lab": "xAI",
     "title": "News: Research, Product & Company Updates | SpaceXSI",
@@ -559,6 +576,20 @@
       "research",
       "product",
       "company",
+      "spacexsi"
+    ]
+  },
+  {
+    "id": "cbmirefvx3lxte1moucxzkpjvvvyyjllowk1v0sxb1qyy3dvlwtpcdbfbepqqzldqzfpekdzsuvkbnho",
+    "lab": "xAI",
+    "title": "Introducing Grok Voice 3.0 | SpaceXSI",
+    "summary": "",
+    "date": "2026-10-14T07:00:00.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1mOUcxZkpjVVVyYjlLOWk1V0sxb1QyY3dVLWtpcDBFbEpqQzlDQzFPekdzSUVKbnhoaHZNd3ZzYzlweElu?oc=5",
+    "tags": [
+      "grok",
+      "voice",
       "spacexsi"
     ]
   },
@@ -781,6 +812,19 @@
     ]
   },
   {
+    "id": "cbmidkfvx3lxte50qun0t29rve54yvhwzfbuy0vqbg41rdzyauvxaelhyue4svhwugxodzvksjlzeghi",
+    "lab": "DeepSeek",
+    "title": "Integrate with Qoder",
+    "summary": "",
+    "date": "2026-09-17T03:52:07.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50QUN0T29rVE54YVhwZFBUY0VQbG41RDZYaUVXaElhYUE4SVhwUGxodzVkSjlzeGhIQjFhUHlRTTdpcGgxQW1CeU04VW9EYVR6ZEc3VXotX3VsYVdBbzU4eFVWZW4ycDIyRkQ0MzRXX2ZFS2pqcUE?oc=5",
+    "tags": [
+      "integrate",
+      "qoder"
+    ]
+  },
+  {
     "id": "cbmivefvx3lxte1quxzcu1u0dnn2r2h5tjjuejzqy1prmtdhafjxm0xsbmp5vxk5mmhbanlmrg9ntehk",
     "lab": "Mistral",
     "title": "Mistral x Mozilla: Private, Multilingual AI Browsing",
@@ -807,51 +851,6 @@
       "memory",
       "grok",
       "build"
-    ]
-  },
-  {
-    "id": "cbmivkfvx3lxte01nmpon3znztrgdxh2vwq3c0mwd19pb21kc0v5uflletzzbvf3dnboefzsv3rldvd5",
-    "lab": "Mistral",
-    "title": "Cloudera and Mistral Partner for Sovereign Enterprise AI",
-    "summary": "",
-    "date": "2026-09-10T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01NmpON3ZnZTRGdXh2VWQ3c0Mwd19Pb21Kc0V5UFlLeTZzbVF3dnBOeFZSV3RldVd5cm5tSF94SUxMWV9EaGh0LXRqWkFkSHN1NkpadzZn?oc=5",
-    "tags": [
-      "cloudera",
-      "mistral",
-      "partner",
-      "sovereign"
-    ]
-  },
-  {
-    "id": "cbmiwkfvx3lxte02bjh4qk42ung4ddc0emjvtk82r2rpagviqwq0ekximdlhnhrowgtwmvjgodnmq1fh",
-    "lab": "DeepSeek",
-    "title": "DeepSeek-V4.1-Flash: Smarter, Faster, More Efficient",
-    "summary": "",
-    "date": "2026-09-10T07:00:00.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02bjh4Qk42Ung4dDc0emJvTk82R2RPaGVIQWQ0ekxIMDlhNHROWGtwMVJGODNmQ1FhZHdrNUs4d1lyaDZZWXZpSlprR3BXVXJMam53clVxUFc5UQ?oc=5",
-    "tags": [
-      "deepseek",
-      "flash",
-      "smarter",
-      "faster"
-    ]
-  },
-  {
-    "id": "cbmix0fvx3lxte9ychhmderovjc0btg1rdzadw1vdvn1aezqrtvkn3dpqjjhrmvos2q4ogs0mhjrt25l",
-    "lab": "Mistral",
-    "title": "Modernizing complex legacy code with AI agents.",
-    "summary": "",
-    "date": "2026-09-09T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YcHhmdERoVjc0bTg1RDZadW1VdVN1aEZQRTVKN3dPQjJHRmVOS2Q4OGs0MHJRT25lend4bmJ2cTkzbmVaU2pKRDFyOEZla1Q0SEdIYmNZQzNEWnlJZi1J?oc=5",
-    "tags": [
-      "modernizing",
-      "complex",
-      "legacy",
-      "code"
     ]
   }
 ]
