@@ -4,7 +4,7 @@
     "lab": "Mistral",
     "title": "Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages",
     "summary": "",
-    "date": "2026-10-22T10:35:10.000Z",
+    "date": "2026-10-23T08:12:40.000Z",
     "category": "api",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5",
     "tags": [
@@ -12,6 +12,127 @@
       "voice",
       "agent",
       "sdk"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-openai-nask-ai-safety-security-partnership",
+    "lab": "OpenAI",
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+    "date": "2026-10-23T00:00:00.000Z",
+    "category": "research",
+    "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "tags": [
+      "openai",
+      "poland",
+      "nask",
+      "safety"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-microsoft-thinkingbox-training",
+    "lab": "Hugging Face",
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "summary": "",
+    "date": "2026-10-22T22:24:34.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "tags": [
+      "turning",
+      "database",
+      "grading",
+      "rewards"
+    ]
+  },
+  {
+    "id": "cbmif0fvx3lxte93es1edwp1nuvxzg1jyxf5ohrwzjgtakz2wxh6wmy3ohrfwndmtezlvmrazgjjsexg",
+    "lab": "Anthropic",
+    "title": "Open call for guest investigators in the life sciences",
+    "summary": "",
+    "date": "2026-10-22T22:03:06.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93eS1EdWp1NUVXZG1jYXF5OHRWZjgtakZ2WXh6WmY3OHRfWndmTEZlVmRaZGJjSExGdGZvZDZjSEgwbDVKNmZ4WlZxVUliWGdRdE82VzdzVFF6OE0xNEtDeXdaaFJlUXNzdDRNNzJic2lSeHhKWHhKZ3l5MkVGaWc?oc=5",
+    "tags": [
+      "open",
+      "call",
+      "guest",
+      "investigators"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-decisions-api",
+    "lab": "OpenAI",
+    "title": "Build more responsive apps with the Decisions API",
+    "summary": "Fast, focused, low-cost decisions for any application.",
+    "date": "2026-10-22T19:00:00.000Z",
+    "category": "api",
+    "url": "https://openai.com/index/decisions-api",
+    "tags": [
+      "decisions",
+      "build",
+      "responsive",
+      "apps"
+    ]
+  },
+  {
+    "id": "cbmiiafbvv95cuxooezpcuwyanbjn3atn3hwdgdnes1obvzxc1c5c2lwz3zzuwfwm2m2shfknhb2z3zl",
+    "lab": "Anthropic",
+    "title": "Donating Agent Skills to the Agentic AI Foundation",
+    "summary": "",
+    "date": "2026-10-22T18:25:44.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOEZpcUwyanBJN3AtN3hwdGdNeS1obVZxc1c5c2lWZ3ZZUWFWM2M2SHFKNHB2Z3ZlQndXWUNMU3NGU3g1NElZeEw1M1pHaUJOZzZqeWsxSlFDSzUwcGFVUmxOUDhuZklpeDZ1ODVQc2dHNnZkUnVSTjE1dzU5R1ZVcjJURHl6RW1z?oc=5",
+    "tags": [
+      "donating",
+      "agent",
+      "skills",
+      "agentic"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-allenai-olmoearth-v1-3",
+    "lab": "Hugging Face",
+    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+    "summary": "",
+    "date": "2026-10-22T16:11:31.000Z",
+    "category": "model",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+    "tags": [
+      "olmoearth",
+      "state",
+      "art",
+      "embeddings"
+    ]
+  },
+  {
+    "id": "cbmiv0fvx3lxte9pbfh3azl4uddfvkrlzwvfzy1dvnu2wjjtbwzycmxkoex0szfhmexxzkh2weddbeq0",
+    "lab": "xAI",
+    "title": "Introducing the SpaceX Super Intelligence Partner Network | SpaceXSI",
+    "summary": "",
+    "date": "2026-10-22T14:42:30.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pbFh3azl4UDdFVkRLZWVfZy1DVnU2WjJTbWZYcmxKOEx0SzFHMExXZkh2WEdDbEQ0cjZ5RGx2UTBhM0piOGFLZDhfX2hRLXZZT3VDak1ORQ?oc=5",
+    "tags": [
+      "spacex",
+      "super",
+      "intelligence",
+      "partner"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-beyond-tree-cover-mapping-the-worlds-forest-types",
+    "lab": "Google DeepMind",
+    "title": "Beyond tree cover: mapping the world’s forest types",
+    "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+    "date": "2026-10-22T14:30:24.000Z",
+    "category": "feature",
+    "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "image": "https://lh3.googleusercontent.com/Et3g0tNB_bC00f6cP94Y40QbqshCvf7_fg_gRVfZQoeVSc3Hn9g6jIenf1udZdACY4x-wpY_5tyy_LznFSlu0yhGCqfxKos6QFRRj4lad_hQHOBV8Q=w528-h297-n-nu-rw-lo",
+    "tags": [
+      "forest",
+      "types",
+      "beyond",
+      "tree"
     ]
   },
   {
@@ -27,6 +148,36 @@
       "forecasting",
       "ibm",
       "granite"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-forward-deployed-engineering-means",
+    "lab": "OpenAI",
+    "title": "What FDE means at OpenAI",
+    "summary": "What forward deployed engineering means at OpenAI",
+    "date": "2026-10-22T06:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/forward-deployed-engineering-means",
+    "tags": [
+      "means",
+      "openai",
+      "fde",
+      "forward"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-uber-chatgpt-work-rollout",
+    "lab": "OpenAI",
+    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+    "date": "2026-10-22T00:00:00.000Z",
+    "category": "research",
+    "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "tags": [
+      "uber",
+      "chatgpt",
+      "work",
+      "employees"
     ]
   },
   {
@@ -210,21 +361,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-scaling-ai-research-for-complex-biological-data",
-    "lab": "OpenAI",
-    "title": "Using thousands of AI agents to uncover new leads in biological data",
-    "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-    "date": "2026-10-21T04:50:00.000Z",
-    "category": "research",
-    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-    "tags": [
-      "agents",
-      "uncover",
-      "leads",
-      "data"
-    ]
-  },
-  {
     "id": "https-blog-google-company-news-inside-google-around-the-globe-google-asia-e-cono",
     "lab": "Google DeepMind",
     "title": "Southeast Asia’s digital economy to hit $368 billion",
@@ -250,36 +386,6 @@
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCVEZGQ3luTHF2ZnRQUnYxN2p3M3lhWnVkUm1zeHBDR0ZtRkhGODgxYktpbzRESkFJY3MxNXpDWnNKWk9aMVhISkl3YmVrS3Iy?oc=5",
     "tags": [
       "features"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-cloudflare-cyber",
-    "lab": "OpenAI",
-    "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-    "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
-    "date": "2026-10-21T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/cloudflare-cyber",
-    "tags": [
-      "cloudflare",
-      "openai",
-      "links",
-      "vulnerability"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-empowering-cyber-defenders",
-    "lab": "OpenAI",
-    "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-    "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
-    "date": "2026-10-21T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/empowering-cyber-defenders",
-    "tags": [
-      "frontier",
-      "empowering",
-      "cyber",
-      "defenders"
     ]
   },
   {
@@ -367,36 +473,6 @@
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Kck1SMnp3Z1lwZ1VjWk1hMm9lYW1GRnhuODNtTWJuVS1TNUtPdzU2YVdrRXRmbEdYVWlJM2Y1cVo0QzRpR1dBM2hpRnl3ZEs2WmlGSmUwcw?oc=5"
   },
   {
-    "id": "https-huggingface-co-blog-allenai-fairstress",
-    "lab": "Hugging Face",
-    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-    "summary": "",
-    "date": "2026-10-20T16:09:19.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/allenai/fairstress",
-    "tags": [
-      "fairstress",
-      "deeper",
-      "evaluation",
-      "fairness"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-ted-taylor-restaurant",
-    "lab": "OpenAI",
-    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-    "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-    "date": "2026-10-20T10:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/ted-taylor-restaurant",
-    "tags": [
-      "franchisee",
-      "cash",
-      "time",
-      "reconciles"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-hf-torchtpu",
     "lab": "Hugging Face",
     "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
@@ -452,42 +528,13 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-hf-torchneuron",
-    "lab": "Hugging Face",
-    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-    "summary": "",
-    "date": "2026-10-19T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/hf-torchneuron",
-    "tags": [
-      "torchneuron",
-      "running",
-      "models",
-      "aws"
-    ]
-  },
-  {
-    "id": "cbmix0fvx3lxtfbwmufbangwvddnuxbleefmoetsvfyzn3nsu1lvdvduql9infvtn0hfdevkns1yakjc",
-    "lab": "Anthropic",
-    "title": "Investing in the public benefit",
-    "summary": "",
-    "date": "2026-10-18T18:13:26.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWMUFBangwVDdnUXBLeEFmOEtSVFYzN3NSU1lVdVduQl9iNFVTN0hfdEVkNS1yakJCLWFtdkVqTXlLM1VhblU5empsdmVKTVNDVy1PZ1JoUW1HYUlLb0FV?oc=5",
-    "tags": [
-      "investing",
-      "public",
-      "benefit"
-    ]
-  },
-  {
-    "id": "cbmiwefvx3lxte9kztr4t290yy1kvwdwznbod01jskdnujbirexpmzh2annnrxq4y2hpr21tq1pubmvk",
+    "id": "cbmiwkfvx3lxte5svg45vei5nmftyxlesue5vjrcrkg1tk9sbwn5vggzze56bunvwhvcahgwa1p1nkzp",
     "lab": "DeepSeek",
     "title": "DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real",
     "summary": "",
     "date": "2026-10-17T09:07:18.000Z",
     "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kZTR4T290Yy1KVWdWZnBod01jSkdNUjBiRExPMzh2anNNRXQ4Y2hpR21TQ1pubmVKVDZ6VmhONzdnYzhoUG1xamRjZVhaRmhQNVZQcHlaVWE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sVG45VEI5NmFTYXlESUE5VjRCRkg1Tk9sbWN5VGgzZE56bUNvWHVCaHgwa1p1NkZPWWl1MXVzdnFsSjlxMUJsSlZHdldwbVNYWnN0SnJwWlliQQ?oc=5",
     "tags": [
       "deepseek",
       "flash",
@@ -521,19 +568,6 @@
     ]
   },
   {
-    "id": "cbmidefvx3lxte8zzvfudwfycc04rhnozhi0cghusxbutlk2rwzsunfky2mzewzry0nvav9ostjhbdvk",
-    "lab": "Anthropic",
-    "title": "An update on independent evaluators",
-    "summary": "",
-    "date": "2026-10-15T17:24:05.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zZVFudWFYcC04RHNOZHI0cGhuSXBUTlk2RWZsUnFkY2MzeWZRY0NVaV9OSTJHbDVkc3BBTHBWd1FKUDVCbjdYLTQtN2tGNUZXdnFYRmt2OUZTTzRoRVZNeWNteUE1Vy1DSXBGTTUxSFJqVmRf?oc=5",
-    "tags": [
-      "independent",
-      "evaluators"
-    ]
-  },
-  {
     "id": "https-deepmind-google-blog-accelerating-antimicrobial-discovery",
     "lab": "Google DeepMind",
     "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
@@ -554,7 +588,7 @@
     "lab": "Mistral",
     "title": "Timestral: Mistral's time-series foundation models",
     "summary": "",
-    "date": "2026-10-15T15:08:22.000Z",
+    "date": "2026-10-15T07:00:00.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05ZVhoN0NkX3dmRnJrMGtrbDRQb1NlaVRETlkzZmVyLWFrT1JNWkFhWG4xYnlrQWQzbmh5RS1EU01nYV92ZUMxR1l3?oc=5",
     "tags": [
@@ -727,19 +761,6 @@
     ]
   },
   {
-    "id": "https-blog-google-innovation-and-ai-technology-ai-google-ai-updates-september-20",
-    "lab": "Google DeepMind",
-    "title": "The latest AI news we announced in September 2026",
-    "summary": "Here are Google’s latest AI updates from September 2026",
-    "date": "2026-10-02T15:00:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp",
-    "tags": [
-      "google"
-    ]
-  },
-  {
     "id": "cbmivefvx3lxtfbhx1q4qvc5ogeysndosjqyqw4yt01ksjflvk5ibzrzludid19wwhu5qujkthyzddbi",
     "lab": "Mistral",
     "title": "Mistral Opens Munich Hub to Advance Industrial AI in Germany",
@@ -837,20 +858,6 @@
       "mozilla",
       "private",
       "multilingual"
-    ]
-  },
-  {
-    "id": "cbmis0fvx3lxte1stwppufizuxexbhjkannltkl1otetm3djyzfecdc3ztmwcxrawvfjyuzvuulyuulo",
-    "lab": "xAI",
-    "title": "Memory in Grok Build",
-    "summary": "",
-    "date": "2026-09-16T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sTWppUFIzUXExbHJkanNLTkl1OTEtM3djYzFEcDc3ZTMwcXRaWVFJYUZVUUlyUUlOczBZLUtJV1hZa1NDdERySTAyZw?oc=5",
-    "tags": [
-      "memory",
-      "grok",
-      "build"
     ]
   }
 ]
