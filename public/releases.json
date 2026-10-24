@@ -4,7 +4,7 @@
     "lab": "Mistral",
     "title": "Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages",
     "summary": "",
-    "date": "2026-10-23T08:12:40.000Z",
+    "date": "2026-10-24T07:53:43.000Z",
     "category": "api",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5",
     "tags": [
@@ -12,6 +12,66 @@
       "voice",
       "agent",
       "sdk"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-scaling-storage-one-billion-users-part-two",
+    "lab": "OpenAI",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+    "date": "2026-10-23T17:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "tags": [
+      "chatgpt",
+      "rapidly",
+      "scaling",
+      "online"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-allenai-litpivot",
+    "lab": "Hugging Face",
+    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+    "summary": "",
+    "date": "2026-10-23T16:15:50.000Z",
+    "category": "research",
+    "url": "https://huggingface.co/blog/allenai/litpivot",
+    "tags": [
+      "litpivot",
+      "developing",
+      "research",
+      "ideas"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-securing-our-frontier-model-training-environment",
+    "lab": "OpenAI",
+    "title": "Securing our frontier model training environment",
+    "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+    "date": "2026-10-23T10:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "tags": [
+      "frontier",
+      "model",
+      "training",
+      "securing"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-torch-neuronx-model-support",
+    "lab": "Hugging Face",
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "summary": "",
+    "date": "2026-10-23T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "tags": [
+      "does",
+      "model",
+      "run",
+      "aws"
     ]
   },
   {
@@ -87,21 +147,6 @@
       "agent",
       "skills",
       "agentic"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-allenai-olmoearth-v1-3",
-    "lab": "Hugging Face",
-    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-    "summary": "",
-    "date": "2026-10-22T16:11:31.000Z",
-    "category": "model",
-    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-    "tags": [
-      "olmoearth",
-      "state",
-      "art",
-      "embeddings"
     ]
   },
   {
@@ -331,36 +376,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-coordinated-disclosure-of-critical-vulnerabilities",
-    "lab": "OpenAI",
-    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-    "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-    "date": "2026-10-21T07:00:00.000Z",
-    "category": "research",
-    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-    "tags": [
-      "patch",
-      "planet",
-      "critical",
-      "vulnerabilities"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-building-chatgpt-ad-stack",
-    "lab": "OpenAI",
-    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-    "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-    "date": "2026-10-21T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/building-chatgpt-ad-stack",
-    "tags": [
-      "built",
-      "chatgpt",
-      "stack",
-      "ads"
-    ]
-  },
-  {
     "id": "https-blog-google-company-news-inside-google-around-the-globe-google-asia-e-cono",
     "lab": "Google DeepMind",
     "title": "Southeast Asia’s digital economy to hit $368 billion",
@@ -389,18 +404,6 @@
     ]
   },
   {
-    "id": "cbmiuefvx3lxte9pd3jfmeu3zg1xcxbudng3btgyqzq5yk9wchjsuhy3n0tnvddkvtjnczhhx2nnuutd",
-    "lab": "Anthropic",
-    "title": "Security",
-    "summary": "",
-    "date": "2026-10-20T22:40:55.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pd3JFMEU3ZG1XcXBUdng3bTgyQzQ5Yk9WcHJSUHY3N0tnVDdkVTJnczhHX2NNUUtDV0hwZjBNU1JyV3NldTlhRnhNblRVU0k0?oc=5",
-    "tags": [
-      "security"
-    ]
-  },
-  {
     "id": "cbmir0fvx3lxtfblnudfmtjkempvauxhenhjbnnzcnzhanzlukvcser2mvlvctvxngdqn05rsw9hzxat",
     "lab": "xAI",
     "title": "Using Grok Bot to detect and respond to incidents | SpaceXSI",
@@ -413,54 +416,6 @@
       "bot",
       "detect",
       "respond"
-    ]
-  },
-  {
-    "id": "cbmiu0fvx3lxtfbnslvnajjpukhdotzetth2mmrxmhhidu1jqul4zmuwu0d4quvtohptu3rfngftr05l",
-    "lab": "Anthropic",
-    "title": "Safeguards",
-    "summary": "",
-    "date": "2026-10-20T19:09:05.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnSlVNajJPUkhDOTZETTh2MmRxMHhidU1jQUl4ZmUwU0d4QUVtOHptU3RFNGFtR05LUXA1bERWQUdYTVIzbmpsdkJfeHhLVHVzQmhr?oc=5",
-    "tags": [
-      "safeguards"
-    ]
-  },
-  {
-    "id": "cbmivkfvx3lxtfbhymhols1rnzl0rggta2tkulhny2rrqwt1runrznz1vjjvr1zrwnjzsnitmnr5nzna",
-    "lab": "Anthropic",
-    "title": "Partnerships",
-    "summary": "",
-    "date": "2026-10-20T19:09:05.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhYmhOLS1RNzl0RGgta2tKUlhNY2RRQWt1RUNRZnZ1VjJVR1ZrWnJZSnItMnR5NzNaRjRGZi05eEJmOTkzM1JFc2U1YjUtVU5MSlFKc0tB?oc=5",
-    "tags": [
-      "partnerships"
-    ]
-  },
-  {
-    "id": "cbmitkfvx3lxte5huwd1bmvwb0nybhzmsmpdstryaus0n0lxazboowvycdbktfo1v2nymthkm0jfnjet",
-    "lab": "Anthropic",
-    "title": "Models",
-    "summary": "",
-    "date": "2026-10-20T18:42:38.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hUWd1bmVwb0NYbHZMSmpDSTRyaUs0N0lXazBOOWVYcDBkTFo1V2NyMThKM0JFNjEtV0llNmJ1Wl85LWYzUmlselk3cng1QQ?oc=5",
-    "tags": [
-      "models"
-    ]
-  },
-  {
-    "id": "cbmit0fvx3lxte1qzzd5cvdinfhlrufxbuzasldiaez2efdzzelzum9lovg2zlqwym1ybzrjufr5mez0",
-    "lab": "Anthropic",
-    "title": "Product",
-    "summary": "",
-    "date": "2026-10-20T17:14:12.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QZzd5cVdiNFhlRUFXbUZaSldIaEZ2eFdzZElZUm9lOVg2ZlQwYm1ybzRJUFR5MEZ0R2xYVURYZm5uQjRibWEtYXpDUzgwTFU?oc=5",
-    "tags": [
-      "product"
     ]
   },
   {
@@ -503,28 +458,29 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-mps-pytorch-2-15",
-    "lab": "Hugging Face",
-    "title": "MPS in PyTorch 2.15",
-    "summary": "",
-    "date": "2026-10-20T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/mps-pytorch-2-15",
-    "tags": [
-      "mps",
-      "pytorch"
-    ]
-  },
-  {
-    "id": "cbmiu0fvx3lxte1wzvzfemlpehpqr1uyzwozttizwwluegqtntlwn29ovzfkne5xc2vza1fzmlb6yug2",
+    "id": "cbmiukfvx3lxtfbvrulmtenmmgezsxnisepobwj3uevidhqtzwg0m2tzwnj1wjvqbk1ioup5bc1ku3p5",
     "lab": "DeepSeek",
     "title": "Search",
     "summary": "",
     "date": "2026-10-19T05:41:50.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wZVZFemlPeHpQR1UyZWozTTIzWWlueGQtNTlwN29oVzFKNE5xc2Vza1FzMlB6YUg2cnNQUW9scXN3cDZVUkFGRWdRRnIzSUhxUWZR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvRUlMTENmMGEzSXNISEpobWJ3UEVidHQtZWg0M2tZWnJ1WjVQbk1IOUp5bC1kU3p5eGFtM1hGWHhtbWE3ME8yRlRVcFZseXVpUGc?oc=5",
     "tags": [
       "search"
+    ]
+  },
+  {
+    "id": "cbmix0fvx3lxtfbwmufbangwvddnuxbleefmoetsvfyzn3nsu1lvdvduql9infvtn0hfdevkns1yakjc",
+    "lab": "Anthropic",
+    "title": "Investing in the public benefit",
+    "summary": "",
+    "date": "2026-10-18T18:13:26.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWMUFBangwVDdnUXBLeEFmOEtSVFYzN3NSU1lVdVduQl9iNFVTN0hfdEVkNS1yakJCLWFtdkVqTXlLM1VhblU5empsdmVKTVNDVy1PZ1JoUW1HYUlLb0FV?oc=5",
+    "tags": [
+      "investing",
+      "public",
+      "benefit"
     ]
   },
   {
@@ -584,6 +540,19 @@
     ]
   },
   {
+    "id": "cbmidefvx3lxte8zzvfudwfycc04rhnozhi0cghusxbutlk2rwzsunfky2mzewzry0nvav9ostjhbdvk",
+    "lab": "Anthropic",
+    "title": "An update on independent evaluators",
+    "summary": "",
+    "date": "2026-10-15T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zZVFudWFYcC04RHNOZHI0cGhuSXBUTlk2RWZsUnFkY2MzeWZRY0NVaV9OSTJHbDVkc3BBTHBWd1FKUDVCbjdYLTQtN2tGNUZXdnFYRmt2OUZTTzRoRVZNeWNteUE1Vy1DSXBGTTUxSFJqVmRf?oc=5",
+    "tags": [
+      "independent",
+      "evaluators"
+    ]
+  },
+  {
     "id": "cbmiskfvx3lxte05zvhon0nkx3dmrnjrmgtrbdrqb1nlavretlkzzmvylwfrt1jnwkfhwg4xynlrqwqz",
     "lab": "Mistral",
     "title": "Timestral: Mistral's time-series foundation models",
@@ -596,6 +565,34 @@
       "mistral",
       "time",
       "series"
+    ]
+  },
+  {
+    "id": "cbmiw0fvx3lxte40a2x1bxc2vhhzafl0slrhdghowjnqnhlkz3dgcwpzshnwufvhbuhwsky3zxvru3dx",
+    "lab": "Anthropic",
+    "title": "Preparing for the 2026 US midterms",
+    "summary": "",
+    "date": "2026-10-14T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40a2x1bXc2VHhZaFl0SlRhdGhoWjNqNHlKZ3dGcWpzSHNWUFVHbUhwSkY3ZXVrU3dXVWJGSEh5cUlvMjUzMm5YQ2E3VHF2cUFBZ3NneDJGTnQyVUk?oc=5",
+    "tags": [
+      "preparing",
+      "midterms"
+    ]
+  },
+  {
+    "id": "cbmizkfvx3lxte5yttm0yuphdfbiujfdcnlzty1lvklpbgp4ztczuhjkzjgxsjbkckjsmdg2mhzwyui5",
+    "lab": "Anthropic",
+    "title": "Singapore office and government MOU",
+    "summary": "",
+    "date": "2026-10-14T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yTTM0YUphdFBiUjFDcnlZTy1lVklPbGp4ZTczUHJkZjgxSjBkckJSMDg2MHZwYUI5SkFGWlZlNHN4NFVQN3hDdERZSTFfVS1wNlZQRXV2YWE0ZnktZDFIZ3d0NEZLQQ?oc=5",
+    "tags": [
+      "singapore",
+      "office",
+      "government",
+      "mou"
     ]
   },
   {
@@ -714,6 +711,20 @@
     "tags": [
       "subscription",
       "spacexsi"
+    ]
+  },
+  {
+    "id": "cbmizefvx3lxte9srkrrlthcqk54nv9hr0e5akl4lvnfanczwxu2cexpb2tyd3m4bgtfbwx6ekvpouw5",
+    "lab": "Anthropic",
+    "title": "Introducing the Anthropic Cyber Mission",
+    "summary": "",
+    "date": "2026-10-08T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SRkRRLThCQk54NV9hR0E5akl4LVNfanczWXU2cExpb2tyd3M4bGtFbWx6ekVPOUw5bDRzRjNhSlJ3ZjJqQklIMTVMNmNjXzNwaGtsb1lJeVItOXVaMlVuQk1BelE?oc=5",
+    "tags": [
+      "anthropic",
+      "cyber",
+      "mission"
     ]
   },
   {
