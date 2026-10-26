@@ -4,7 +4,7 @@
     "lab": "Mistral",
     "title": "Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages",
     "summary": "",
-    "date": "2026-10-25T08:03:10.000Z",
+    "date": "2026-10-26T11:17:21.000Z",
     "category": "api",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5",
     "tags": [
@@ -601,20 +601,6 @@
     ]
   },
   {
-    "id": "cbmirefvx3lxte1moucxzkpjvvvyyjllowk1v0sxb1qyy3dvlwtpcdbfbepqqzldqzfpekdzsuvkbnho",
-    "lab": "xAI",
-    "title": "Introducing Grok Voice 3.0 | SpaceXSI",
-    "summary": "",
-    "date": "2026-10-14T07:00:00.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1mOUcxZkpjVVVyYjlLOWk1V0sxb1QyY3dVLWtpcDBFbEpqQzlDQzFPekdzSUVKbnhoaHZNd3ZzYzlweElu?oc=5",
-    "tags": [
-      "grok",
-      "voice",
-      "spacexsi"
-    ]
-  },
-  {
     "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
     "lab": "xAI",
     "title": "News: Research, Product & Company Updates | SpaceXSI",
@@ -626,6 +612,20 @@
       "research",
       "product",
       "company",
+      "spacexsi"
+    ]
+  },
+  {
+    "id": "cbmirefvx3lxte1moucxzkpjvvvyyjllowk1v0sxb1qyy3dvlwtpcdbfbepqqzldqzfpekdzsuvkbnho",
+    "lab": "xAI",
+    "title": "Introducing Grok Voice 3.0 | SpaceXSI",
+    "summary": "",
+    "date": "2026-10-14T07:00:00.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1mOUcxZkpjVVVyYjlLOWk1V0sxb1QyY3dVLWtpcDBFbEpqQzlDQzFPekdzSUVKbnhoaHZNd3ZzYzlweElu?oc=5",
+    "tags": [
+      "grok",
+      "voice",
       "spacexsi"
     ]
   },
