@@ -1,32 +1,107 @@
 [
   {
-    "id": "https-openai-com-index-legora-agentic-operating-system-for-legal-work",
+    "id": "https-huggingface-co-blog-anydecisionmodel",
+    "lab": "Hugging Face",
+    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+    "summary": "",
+    "date": "2026-10-29T00:00:00.000Z",
+    "category": "model",
+    "url": "https://huggingface.co/blog/anydecisionmodel",
+    "tags": [
+      "anyspeechrecognizer",
+      "anydecisionmodel",
+      "open",
+      "models"
+    ]
+  },
+  {
+    "id": "cbmikafbvv95cuxnte8xtmrrruztqndpovdctufqq2zxsjl5tk4zexb0rzhsvzryaut3s091y3fmrnvv",
+    "lab": "Anthropic",
+    "title": "AI for Science expands to foundations and research institutions",
+    "summary": "",
+    "date": "2026-10-28T20:14:19.000Z",
+    "category": "research",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTE8xTmRrRUZtQndpOVdCTUFQQ2ZXSjl5Tk4zeXB0RzhSVzRYaUt3S091Y3FmRnVvT1c0UXhIVW0xZF83R2c1VUwtNjhNUkcxYWI0MFRXWXcxT2ZLdkF6bUd5V0JpTWJla3BzOWNORmdFN0ZTUkplbmZRcjRNdm5GSUVDUXp5QWwxNkRoN3JCVXo?oc=5",
+    "tags": [
+      "science",
+      "expands",
+      "foundations",
+      "research"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-gemini-4-carbon-our-next-frontier-model",
+    "lab": "Google DeepMind",
+    "title": "Gemini 4 Carbon: Our next frontier model",
+    "summary": "",
+    "date": "2026-10-28T17:00:58.000Z",
+    "category": "model",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "tags": [
+      "gemini",
+      "carbon",
+      "next",
+      "frontier"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-nvidia-nemotron-transcribe-granary",
+    "lab": "Hugging Face",
+    "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+    "summary": "",
+    "date": "2026-10-28T14:58:17.000Z",
+    "category": "model",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+    "tags": [
+      "nvidia",
+      "nemotron",
+      "transcribe",
+      "granary"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-openai-servicenow-partnership-expansion",
+    "lab": "OpenAI",
+    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+    "date": "2026-10-28T13:15:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "tags": [
+      "servicenow",
+      "openai",
+      "expand",
+      "partnership"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-the-future-of-the-firm",
+    "lab": "OpenAI",
+    "title": "The future of the firm",
+    "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+    "date": "2026-10-28T10:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/the-future-of-the-firm",
+    "tags": [
+      "future",
+      "firm",
+      "might",
+      "enter"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-legora",
     "lab": "OpenAI",
     "title": "Legora is building the agentic operating system for legal work",
     "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
     "date": "2026-10-28T09:30:00.000Z",
     "category": "feature",
-    "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+    "url": "https://openai.com/index/legora",
     "tags": [
       "legora",
       "legal",
       "work",
       "building"
-    ]
-  },
-  {
-    "id": "cbmiskfvx3lxtfb3sgxrsdawanvjtmvga3homjbmzhy3yzvkwdnaqm5uqwxjb2nlni12yu1ry28tt0fp",
-    "lab": "Mistral",
-    "title": "Voxtral 3: Speech-to-Text, TTS & Voice Agents",
-    "summary": "",
-    "date": "2026-10-28T09:22:20.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5",
-    "tags": [
-      "voxtral",
-      "speech",
-      "text",
-      "tts"
     ]
   },
   {
@@ -242,36 +317,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-fanatics-streamline-fan-experience",
-    "lab": "OpenAI",
-    "title": "How Fanatics and OpenAI streamline the fan experience",
-    "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-    "date": "2026-10-26T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-    "tags": [
-      "fanatics",
-      "openai",
-      "streamline",
-      "fan"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-openai-cut-incident-investigation",
-    "lab": "OpenAI",
-    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-    "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-    "date": "2026-10-26T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/openai-cut-incident-investigation",
-    "tags": [
-      "ultrafast",
-      "minutes",
-      "openai",
-      "cut"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-torch-neuronx-model-support",
     "lab": "Hugging Face",
     "title": "Does Your Model Run on AWS Trainium? Look It Up",
@@ -378,21 +423,6 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-nvidia-kumo-relational",
-    "lab": "Hugging Face",
-    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-    "summary": "",
-    "date": "2026-10-21T18:26:30.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-    "tags": [
-      "relational",
-      "nvidia",
-      "kumo",
-      "outperforms"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-dharma-ai-vocabx-vocabulary-specialization",
     "lab": "Hugging Face",
     "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
@@ -405,21 +435,6 @@
       "vocabulary",
       "slms",
       "cut"
-    ]
-  },
-  {
-    "id": "cbmihgfbvv95cuxqbhvfztrusg1cam5rqllpvvrvvkitrnzwvvlwodvdwu54vm5jmza0m1dza09rt1kx",
-    "lab": "Anthropic",
-    "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
-    "summary": "",
-    "date": "2026-10-21T17:25:01.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbHVFZTRuSG1Cam5rQllpVVRvVkItRnZwVVlWODVDWU54Vm5jMzA0M1dza09rT1kxbFNTbGVYWWtmdmVGdzQxUjJ0SkczUWFBd3l5MUFWSlN4dWc4Y0FDc1F4S2c0TGNyUGVESUo1MGJpR0VfVXdDYXhDUXNadkRob0ZuVkotUQ?oc=5",
-    "tags": [
-      "physicist",
-      "christopher",
-      "stubbs",
-      "joins"
     ]
   },
   {
@@ -484,27 +499,27 @@
     ]
   },
   {
-    "id": "cbmiuefvx3lxtfbcvezgq3luthf2znrqunyxn2p3m3lhwnvkum1zehbdr0ztrkhgodgxyktpbzreskfj",
+    "id": "cbmiv0fvx3lxte1kck1smnp3z1lwz1vjwk1hmm9lyw1grnhuodnttwjuvs1tnutpdzu2yvdrrxrmbedy",
     "lab": "Anthropic",
-    "title": "Features",
+    "title": "Announcements",
     "summary": "",
-    "date": "2026-10-21T03:11:37.000Z",
+    "date": "2026-10-20T17:03:24.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCVEZGQ3luTHF2ZnRQUnYxN2p3M3lhWnVkUm1zeHBDR0ZtRkhGODgxYktpbzRESkFJY3MxNXpDWnNKWk9aMVhISkl3YmVrS3Iy?oc=5",
-    "tags": [
-      "features"
-    ]
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Kck1SMnp3Z1lwZ1VjWk1hMm9lYW1GRnhuODNtTWJuVS1TNUtPdzU2YVdrRXRmbEdYVWlJM2Y1cVo0QzRpR1dBM2hpRnl3ZEs2WmlGSmUwcw?oc=5"
   },
   {
-    "id": "cbmiuefvx3lxte9pd3jfmeu3zg1xcxbudng3btgyqzq5yk9wchjsuhy3n0tnvddkvtjnczhhx2nnuutd",
-    "lab": "Anthropic",
-    "title": "Security",
+    "id": "cbmiskfvx3lxtfb3sgxrsdawanvjtmvga3homjbmzhy3yzvkwdnaqm5uqwxjb2nlni12yu1ry28tt0fp",
+    "lab": "Mistral",
+    "title": "Voxtral 3: Speech-to-Text, TTS & Voice Agents",
     "summary": "",
-    "date": "2026-10-20T22:40:55.000Z",
+    "date": "2026-10-20T16:01:45.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pd3JFMEU3ZG1XcXBUdng3bTgyQzQ5Yk9WcHJSUHY3N0tnVDdkVTJnczhHX2NNUUtDV0hwZjBNU1JyV3NldTlhRnhNblRVU0k0?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5",
     "tags": [
-      "security"
+      "voxtral",
+      "speech",
+      "text",
+      "tts"
     ]
   },
   {
@@ -512,7 +527,7 @@
     "lab": "xAI",
     "title": "Using Grok Bot to detect and respond to incidents",
     "summary": "",
-    "date": "2026-10-20T19:18:40.000Z",
+    "date": "2026-10-20T07:00:00.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBLNUdfMTJkempVaUxhenhjbnNzcnZHanZLUkVCSER2MVlvcTVXNGdQN05RSW9hZXAtYjlGSWUyYUVkTEFiX0Jv?oc=5",
     "tags": [
@@ -523,76 +538,39 @@
     ]
   },
   {
-    "id": "cbmiu0fvx3lxtfbnslvnajjpukhdotzetth2mmrxmhhidu1jqul4zmuwu0d4quvtohptu3rfngftr05l",
-    "lab": "Anthropic",
-    "title": "Safeguards",
-    "summary": "",
-    "date": "2026-10-20T19:09:05.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnSlVNajJPUkhDOTZETTh2MmRxMHhidU1jQUl4ZmUwU0d4QUVtOHptU3RFNGFtR05LUXA1bERWQUdYTVIzbmpsdkJfeHhLVHVzQmhr?oc=5",
-    "tags": [
-      "safeguards"
-    ]
-  },
-  {
-    "id": "cbmivkfvx3lxtfbhymhols1rnzl0rggta2tkulhny2rrqwt1runrznz1vjjvr1zrwnjzsnitmnr5nzna",
-    "lab": "Anthropic",
-    "title": "Partnerships",
-    "summary": "",
-    "date": "2026-10-20T19:09:05.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhYmhOLS1RNzl0RGgta2tKUlhNY2RRQWt1RUNRZnZ1VjJVR1ZrWnJZSnItMnR5NzNaRjRGZi05eEJmOTkzM1JFc2U1YjUtVU5MSlFKc0tB?oc=5",
-    "tags": [
-      "partnerships"
-    ]
-  },
-  {
-    "id": "cbmitkfvx3lxte5huwd1bmvwb0nybhzmsmpdstryaus0n0lxazboowvycdbktfo1v2nymthkm0jfnjet",
-    "lab": "Anthropic",
-    "title": "Models",
-    "summary": "",
-    "date": "2026-10-20T18:42:38.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hUWd1bmVwb0NYbHZMSmpDSTRyaUs0N0lXazBOOWVYcDBkTFo1V2NyMThKM0JFNjEtV0llNmJ1Wl85LWYzUmlselk3cng1QQ?oc=5",
-    "tags": [
-      "models"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-hf-torchtpu",
-    "lab": "Hugging Face",
-    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-    "summary": "",
-    "date": "2026-10-20T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/hf-torchtpu",
-    "tags": [
-      "hugging",
-      "face",
-      "torchtpu",
-      "tpus"
-    ]
-  },
-  {
-    "id": "cbmiu0fvx3lxte1wzvzfemlpehpqr1uyzwozttizwwluegqtntlwn29ovzfkne5xc2vza1fzmlb6yug2",
+    "id": "cbmiukfvx3lxtfbvrulmtenmmgezsxnisepobwj3uevidhqtzwg0m2tzwnj1wjvqbk1ioup5bc1ku3p5",
     "lab": "DeepSeek",
     "title": "Search",
     "summary": "",
     "date": "2026-10-19T07:00:00.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wZVZFemlPeHpQR1UyZWozTTIzWWlueGQtNTlwN29oVzFKNE5xc2Vza1FzMlB6YUg2cnNQUW9scXN3cDZVUkFGRWdRRnIzSUhxUWZR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvRUlMTENmMGEzSXNISEpobWJ3UEVidHQtZWg0M2tZWnJ1WjVQbk1IOUp5bC1kU3p5eGFtM1hGWHhtbWE3ME8yRlRVcFZseXVpUGc?oc=5",
     "tags": [
       "search"
     ]
   },
   {
-    "id": "cbmiwkfvx3lxte5svg45vei5nmftyxlesue5vjrcrkg1tk9sbwn5vggzze56bunvwhvcahgwa1p1nkzp",
+    "id": "cbmix0fvx3lxtfbwmufbangwvddnuxbleefmoetsvfyzn3nsu1lvdvduql9infvtn0hfdevkns1yakjc",
+    "lab": "Anthropic",
+    "title": "Investing in the public benefit",
+    "summary": "",
+    "date": "2026-10-18T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWMUFBangwVDdnUXBLeEFmOEtSVFYzN3NSU1lVdVduQl9iNFVTN0hfdEVkNS1yakJCLWFtdkVqTXlLM1VhblU5empsdmVKTVNDVy1PZ1JoUW1HYUlLb0FV?oc=5",
+    "tags": [
+      "investing",
+      "public",
+      "benefit"
+    ]
+  },
+  {
+    "id": "cbmiwefvx3lxte9kztr4t290yy1kvwdwznbod01jskdnujbirexpmzh2annnrxq4y2hpr21tq1pubmvk",
     "lab": "DeepSeek",
     "title": "DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real",
     "summary": "",
     "date": "2026-10-17T07:00:00.000Z",
     "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sVG45VEI5NmFTYXlESUE5VjRCRkg1Tk9sbWN5VGgzZE56bUNvWHVCaHgwa1p1NkZPWWl1MXVzdnFsSjlxMUJsSlZHdldwbVNYWnN0SnJwWlliQQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kZTR4T290Yy1KVWdWZnBod01jSkdNUjBiRExPMzh2anNNRXQ4Y2hpR21TQ1pubmVKVDZ6VmhONzdnYzhoUG1xamRjZVhaRmhQNVZQcHlaVWE?oc=5",
     "tags": [
       "deepseek",
       "flash",
@@ -614,18 +592,6 @@
     ]
   },
   {
-    "id": "cbmiukfvx3lxtfbilvhazfpfvzm0sxf5lv96xzrvx0jxyvfwymjstwm5tku1euz1emvtmnctbtj6te5l",
-    "lab": "DeepSeek",
-    "title": "Fetch",
-    "summary": "",
-    "date": "2026-10-16T13:28:11.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBILVhaZFpfVzM0SXF5LV96XzRvX0JXYVFWYmJSTWM5TkU1eUZ1emVTMnctbTJ6TE5lQnRFb2dZWUNJSGpHLW9kMGtqRVNfSzA1WVE?oc=5",
-    "tags": [
-      "fetch"
-    ]
-  },
-  {
     "id": "https-deepmind-google-blog-accelerating-antimicrobial-discovery",
     "lab": "Google DeepMind",
     "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
@@ -639,6 +605,19 @@
       "search",
       "antimicrobial",
       "peptides"
+    ]
+  },
+  {
+    "id": "cbmidefvx3lxte8zzvfudwfycc04rhnozhi0cghusxbutlk2rwzsunfky2mzewzry0nvav9ostjhbdvk",
+    "lab": "Anthropic",
+    "title": "An update on independent evaluators",
+    "summary": "",
+    "date": "2026-10-15T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zZVFudWFYcC04RHNOZHI0cGhuSXBUTlk2RWZsUnFkY2MzeWZRY0NVaV9OSTJHbDVkc3BBTHBWd1FKUDVCbjdYLTQtN2tGNUZXdnFYRmt2OUZTTzRoRVZNeWNteUE1Vy1DSXBGTTUxSFJqVmRf?oc=5",
+    "tags": [
+      "independent",
+      "evaluators"
     ]
   },
   {
@@ -657,6 +636,19 @@
     ]
   },
   {
+    "id": "cbmirefvx3lxte1moucxzkpjvvvyyjllowk1v0sxb1qyy3dvlwtpcdbfbepqqzldqzfpekdzsuvkbnho",
+    "lab": "xAI",
+    "title": "Introducing Grok Voice 3.0",
+    "summary": "",
+    "date": "2026-10-14T07:00:00.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1mOUcxZkpjVVVyYjlLOWk1V0sxb1QyY3dVLWtpcDBFbEpqQzlDQzFPekdzSUVKbnhoaHZNd3ZzYzlweElu?oc=5",
+    "tags": [
+      "grok",
+      "voice"
+    ]
+  },
+  {
     "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
     "lab": "xAI",
     "title": "News: Research, Product & Company Updates",
@@ -668,19 +660,6 @@
       "research",
       "product",
       "company"
-    ]
-  },
-  {
-    "id": "cbmirefvx3lxte1moucxzkpjvvvyyjllowk1v0sxb1qyy3dvlwtpcdbfbepqqzldqzfpekdzsuvkbnho",
-    "lab": "xAI",
-    "title": "Introducing Grok Voice 3.0",
-    "summary": "",
-    "date": "2026-10-14T07:00:00.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1mOUcxZkpjVVVyYjlLOWk1V0sxb1QyY3dVLWtpcDBFbEpqQzlDQzFPekdzSUVKbnhoaHZNd3ZzYzlweElu?oc=5",
-    "tags": [
-      "grok",
-      "voice"
     ]
   },
   {
@@ -744,22 +723,6 @@
     ]
   },
   {
-    "id": "https-blog-google-innovation-and-ai-models-and-research-gemini-models-introducin",
-    "lab": "Google DeepMind",
-    "title": "Gemini 4 Argon: Built to solve your hardest problems",
-    "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-    "date": "2026-10-13T16:00:00.000Z",
-    "category": "model",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp",
-    "tags": [
-      "gemini",
-      "argon",
-      "built",
-      "solve"
-    ]
-  },
-  {
     "id": "cbmir0fvx3lxte1xshzsr1pnauw0lxbebhzky0owdtz3n1hstlq1mgj5cm9nykrcoxgytkhfuhvmavph",
     "lab": "xAI",
     "title": "Introducing The X Subscription",
@@ -769,6 +732,33 @@
     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xSHZsR1pnaUw0LXBEbHZkY0owdTZ3N1hsTlQ1MGJ5cm9nYkRCOXgyTkhFUHVmaVphZ1FNU0xfWkFMN29jMnpN?oc=5",
     "tags": [
       "subscription"
+    ]
+  },
+  {
+    "id": "cbmizefvx3lxte9srkrrlthcqk54nv9hr0e5akl4lvnfanczwxu2cexpb2tyd3m4bgtfbwx6ekvpouw5",
+    "lab": "Anthropic",
+    "title": "Introducing the Anthropic Cyber Mission",
+    "summary": "",
+    "date": "2026-10-08T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SRkRRLThCQk54NV9hR0E5akl4LVNfanczWXU2cExpb2tyd3M4bGtFbWx6ekVPOUw5bDRzRjNhSlJ3ZjJqQklIMTVMNmNjXzNwaGtsb1lJeVItOXVaMlVuQk1BelE?oc=5",
+    "tags": [
+      "anthropic",
+      "cyber",
+      "mission"
+    ]
+  },
+  {
+    "id": "cbmizkfvx3lxte9jb0fysc1vrgpqd1beexa2tfdubuuwznjly19xqji1x21oz2xryzfiz2dfu283yxvg",
+    "lab": "Anthropic",
+    "title": "2026 Usage Policy update",
+    "summary": "",
+    "date": "2026-10-08T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jb0FYSC1vRGpQd1BEeXA2TFdubUUwZnJlY19xQjI1X21oZ2xrYzFiZ2dfU283YXVGX2pxU05kUGZCV0lLUE5GZ2pjcnBQbFFGb2dHSDdtd1Zhd1NaZUJ6b1lIQXlGQQ?oc=5",
+    "tags": [
+      "usage",
+      "policy"
     ]
   },
   {
@@ -866,6 +856,21 @@
     "tags": [
       "integrate",
       "qoder"
+    ]
+  },
+  {
+    "id": "cbmivefvx3lxte1quxzcu1u0dnn2r2h5tjjuejzqy1prmtdhafjxm0xsbmp5vxk5mmhbanlmrg9ntehk",
+    "lab": "Mistral",
+    "title": "Mistral x Mozilla: Private, Multilingual AI Browsing",
+    "summary": "",
+    "date": "2026-09-16T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qUXZCU1U0dnN2R2h5TjJuejZqY1prMTdHaFJXM0xSbmp5VXk5MmhBanlmRG9NTEhKdEtjNUJfMnhTcC1ub2t4Sm04S3o3SjB2YlI2VA?oc=5",
+    "tags": [
+      "mistral",
+      "mozilla",
+      "private",
+      "multilingual"
     ]
   }
 ]
