@@ -1,5 +1,110 @@
 [
   {
+    "id": "https-openai-com-index-updated-model-spec",
+    "lab": "OpenAI",
+    "title": "An updated Model Spec for more capable and beneficial AI",
+    "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+    "date": "2026-10-29T17:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/updated-model-spec",
+    "tags": [
+      "model",
+      "spec",
+      "capable",
+      "human"
+    ]
+  },
+  {
+    "id": "cbmiv0fvx3lxtfbmctvulwp4c3dyy2lgelvhag9gdnrzddlpceixluhjctjrz0dcbfrxmvdtafnft1nt",
+    "lab": "Mistral",
+    "title": "Mistral Large 4 (Le Chonk) is now open weight",
+    "summary": "",
+    "date": "2026-10-29T14:12:14.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmcTVuLWp4c3dYY2lGelVhaG9GdnRZdDlpcEIxLUhjcTJRZ0dCbFRxMVdTaFNfT1NTYXdDMWFVRXRBMzA3MnBUS2paNmZETlV6bGtlWmlGdw?oc=5",
+    "tags": [
+      "mistral",
+      "large",
+      "chonk",
+      "open"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-ibm-granite-granite-switch-4-1-1",
+    "lab": "Hugging Face",
+    "title": "Granite Switch 4.1.1 — Update models like you update software",
+    "summary": "",
+    "date": "2026-10-29T13:37:07.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+    "tags": [
+      "granite",
+      "switch",
+      "models",
+      "like"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-how-we-detect-frontier-model-misalignment",
+    "lab": "OpenAI",
+    "title": "How we detect frontier model misalignment",
+    "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+    "date": "2026-10-29T09:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+    "tags": [
+      "detect",
+      "frontier",
+      "model",
+      "misalignment"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-ropes-gray-ai-diligence",
+    "lab": "OpenAI",
+    "title": "How Ropes & Gray is developing AI for transactional diligence",
+    "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+    "date": "2026-10-29T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/ropes-gray-ai-diligence",
+    "tags": [
+      "ropes",
+      "gray",
+      "developing",
+      "transactional"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-announcing-project-protostar",
+    "lab": "Hugging Face",
+    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "summary": "",
+    "date": "2026-10-29T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/announcing-project-protostar",
+    "tags": [
+      "project",
+      "protostar",
+      "making",
+      "publicly"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-mistral-large4",
+    "lab": "Hugging Face",
+    "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+    "summary": "",
+    "date": "2026-10-29T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/mistral-large4",
+    "tags": [
+      "welcome",
+      "chonk",
+      "mistral",
+      "large"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-anydecisionmodel",
     "lab": "Hugging Face",
     "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
@@ -257,36 +362,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-building-scientific-understanding-with-academic-communiti",
-    "lab": "OpenAI",
-    "title": "Working with academic communities to build scientific understanding",
-    "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-    "date": "2026-10-26T14:30:00.000Z",
-    "category": "research",
-    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-    "tags": [
-      "build",
-      "working",
-      "academic",
-      "communities"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-gpt-6-1-sol-coderabbit-code-security",
-    "lab": "OpenAI",
-    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-    "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-    "date": "2026-10-26T13:45:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-    "tags": [
-      "security",
-      "gpt",
-      "sol",
-      "helps"
-    ]
-  },
-  {
     "id": "cbmitkfvx3lxtfbnzudln3hwaxffbndlu0ftmc1invzzenp4cl92wxjqm3vdwtzusxn2s1ntdzbjetbd",
     "lab": "Anthropic",
     "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
@@ -299,21 +374,6 @@
       "files",
       "sec",
       "proposed"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-chatgpt-expanding-world-of-work",
-    "lab": "OpenAI",
-    "title": "ChatGPT’s expanding world of work",
-    "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-    "date": "2026-10-26T10:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-    "tags": [
-      "work",
-      "chatgpt",
-      "expanding",
-      "world"
     ]
   },
   {
@@ -423,48 +483,18 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-dharma-ai-vocabx-vocabulary-specialization",
-    "lab": "Hugging Face",
-    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+    "id": "cbmihgfbvv95cuxqbhvfztrusg1cam5rqllpvvrvvkitrnzwvvlwodvdwu54vm5jmza0m1dza09rt1kx",
+    "lab": "Anthropic",
+    "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
     "summary": "",
-    "date": "2026-10-21T17:35:36.000Z",
+    "date": "2026-10-21T07:00:00.000Z",
     "category": "feature",
-    "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbHVFZTRuSG1Cam5rQllpVVRvVkItRnZwVVlWODVDWU54Vm5jMzA0M1dza09rT1kxbFNTbGVYWWtmdmVGdzQxUjJ0SkczUWFBd3l5MUFWSlN4dWc4Y0FDc1F4S2c0TGNyUGVESUo1MGJpR0VfVXdDYXhDUXNadkRob0ZuVkotUQ?oc=5",
     "tags": [
-      "specializing",
-      "vocabulary",
-      "slms",
-      "cut"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-amazon-profiling-torchneuron-part-1",
-    "lab": "Hugging Face",
-    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-    "summary": "",
-    "date": "2026-10-21T16:04:43.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-    "tags": [
-      "profiling",
-      "torchneuron",
-      "part",
-      "system"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-ibm-granite-granite-speech-5",
-    "lab": "Hugging Face",
-    "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-    "summary": "",
-    "date": "2026-10-21T14:58:18.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-    "tags": [
-      "granite",
-      "speech",
-      "transcribe",
-      "translate"
+      "physicist",
+      "christopher",
+      "stubbs",
+      "joins"
     ]
   },
   {
@@ -472,7 +502,7 @@
     "lab": "Mistral",
     "title": "Mistral Advances AI for Engineering with NVIDIA",
     "summary": "",
-    "date": "2026-10-21T12:11:38.000Z",
+    "date": "2026-10-21T07:00:00.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EREM1NkpaWTg3MVNMOUstWDZOcjduUFFXVUlfczFVU3hSRGFRUGdwSUNLTVdJSnR0eWluOGJfeVJtbTM5TkgzdEZEdzhZZGxsbVdtSEVKSlAxNEFuTFNyZHRhbF81bEp2Z2h0WTQwNW5ncnJWMXhRag?oc=5",
     "tags": [
@@ -538,13 +568,13 @@
     ]
   },
   {
-    "id": "cbmiukfvx3lxtfbvrulmtenmmgezsxnisepobwj3uevidhqtzwg0m2tzwnj1wjvqbk1ioup5bc1ku3p5",
+    "id": "cbmiu0fvx3lxte1wzvzfemlpehpqr1uyzwozttizwwluegqtntlwn29ovzfkne5xc2vza1fzmlb6yug2",
     "lab": "DeepSeek",
     "title": "Search",
     "summary": "",
     "date": "2026-10-19T07:00:00.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvRUlMTENmMGEzSXNISEpobWJ3UEVidHQtZWg0M2tZWnJ1WjVQbk1IOUp5bC1kU3p5eGFtM1hGWHhtbWE3ME8yRlRVcFZseXVpUGc?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wZVZFemlPeHpQR1UyZWozTTIzWWlueGQtNTlwN29oVzFKNE5xc2Vza1FzMlB6YUg2cnNQUW9scXN3cDZVUkFGRWdRRnIzSUhxUWZR?oc=5",
     "tags": [
       "search"
     ]
@@ -636,6 +666,21 @@
     ]
   },
   {
+    "id": "cbmizkfvx3lxte5yttm0yuphdfbiujfdcnlzty1lvklpbgp4ztczuhjkzjgxsjbkckjsmdg2mhzwyui5",
+    "lab": "Anthropic",
+    "title": "Singapore office and government MOU",
+    "summary": "",
+    "date": "2026-10-14T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yTTM0YUphdFBiUjFDcnlZTy1lVklPbGp4ZTczUHJkZjgxSjBkckJSMDg2MHZwYUI5SkFGWlZlNHN4NFVQN3hDdERZSTFfVS1wNlZQRXV2YWE0ZnktZDFIZ3d0NEZLQQ?oc=5",
+    "tags": [
+      "singapore",
+      "office",
+      "government",
+      "mou"
+    ]
+  },
+  {
     "id": "cbmirefvx3lxte1moucxzkpjvvvyyjllowk1v0sxb1qyy3dvlwtpcdbfbepqqzldqzfpekdzsuvkbnho",
     "lab": "xAI",
     "title": "Introducing Grok Voice 3.0",
@@ -646,20 +691,6 @@
     "tags": [
       "grok",
       "voice"
-    ]
-  },
-  {
-    "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
-    "lab": "xAI",
-    "title": "News: Research, Product & Company Updates",
-    "summary": "",
-    "date": "2026-10-14T07:00:00.000Z",
-    "category": "research",
-    "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
-    "tags": [
-      "research",
-      "product",
-      "company"
     ]
   },
   {
@@ -732,33 +763,6 @@
     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xSHZsR1pnaUw0LXBEbHZkY0owdTZ3N1hsTlQ1MGJ5cm9nYkRCOXgyTkhFUHVmaVphZ1FNU0xfWkFMN29jMnpN?oc=5",
     "tags": [
       "subscription"
-    ]
-  },
-  {
-    "id": "cbmizefvx3lxte9srkrrlthcqk54nv9hr0e5akl4lvnfanczwxu2cexpb2tyd3m4bgtfbwx6ekvpouw5",
-    "lab": "Anthropic",
-    "title": "Introducing the Anthropic Cyber Mission",
-    "summary": "",
-    "date": "2026-10-08T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SRkRRLThCQk54NV9hR0E5akl4LVNfanczWXU2cExpb2tyd3M4bGtFbWx6ekVPOUw5bDRzRjNhSlJ3ZjJqQklIMTVMNmNjXzNwaGtsb1lJeVItOXVaMlVuQk1BelE?oc=5",
-    "tags": [
-      "anthropic",
-      "cyber",
-      "mission"
-    ]
-  },
-  {
-    "id": "cbmizkfvx3lxte9jb0fysc1vrgpqd1beexa2tfdubuuwznjly19xqji1x21oz2xryzfiz2dfu283yxvg",
-    "lab": "Anthropic",
-    "title": "2026 Usage Policy update",
-    "summary": "",
-    "date": "2026-10-08T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jb0FYSC1vRGpQd1BEeXA2TFdubUUwZnJlY19xQjI1X21oZ2xrYzFiZ2dfU283YXVGX2pxU05kUGZCV0lLUE5GZ2pjcnBQbFFGb2dHSDdtd1Zhd1NaZUJ6b1lIQXlGQQ?oc=5",
-    "tags": [
-      "usage",
-      "policy"
     ]
   },
   {

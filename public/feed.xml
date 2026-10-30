@@ -5,8 +5,71 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2026 12:13:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 12:03:39 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>An updated Model Spec for more capable and beneficial AI</title>
+      <link>https://openai.com/index/updated-model-spec</link>
+      <guid isPermaLink="false">https-openai-com-index-updated-model-spec</guid>
+      <pubDate>Thu, 29 Oct 2026 17:00:00 GMT</pubDate>
+      <description>OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Mistral Large 4 (Le Chonk) is now open weight</title>
+      <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmcTVuLWp4c3dYY2lGelVhaG9GdnRZdDlpcEIxLUhjcTJRZ0dCbFRxMVdTaFNfT1NTYXdDMWFVRXRBMzA3MnBUS2paNmZETlV6bGtlWmlGdw?oc=5</link>
+      <guid isPermaLink="false">cbmiv0fvx3lxtfbmctvulwp4c3dyy2lgelvhag9gdnrzddlpceixluhjctjrz0dcbfrxmvdtafnft1nt</guid>
+      <pubDate>Thu, 29 Oct 2026 14:12:14 GMT</pubDate>
+      <description>Source: Mistral</description>
+      <source url="https://ai-pulse.vercel.app">Mistral</source>
+      <category>model</category>
+    </item>
+    <item>
+      <title>Granite Switch 4.1.1 — Update models like you update software</title>
+      <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-ibm-granite-granite-switch-4-1-1</guid>
+      <pubDate>Thu, 29 Oct 2026 13:37:07 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>How we detect frontier model misalignment</title>
+      <link>https://openai.com/index/how-we-detect-frontier-model-misalignment</link>
+      <guid isPermaLink="false">https-openai-com-index-how-we-detect-frontier-model-misalignment</guid>
+      <pubDate>Thu, 29 Oct 2026 09:00:00 GMT</pubDate>
+      <description>OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>model</category>
+    </item>
+    <item>
+      <title>How Ropes &amp; Gray is developing AI for transactional diligence</title>
+      <link>https://openai.com/index/ropes-gray-ai-diligence</link>
+      <guid isPermaLink="false">https-openai-com-index-ropes-gray-ai-diligence</guid>
+      <pubDate>Thu, 29 Oct 2026 07:00:00 GMT</pubDate>
+      <description>Ropes &amp; Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready</title>
+      <link>https://huggingface.co/blog/announcing-project-protostar</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-announcing-project-protostar</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Welcome Le Chonk: Mistral Large 4 on Hugging Face</title>
+      <link>https://huggingface.co/blog/mistral-large4</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-mistral-large4</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
     <item>
       <title>Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms</title>
       <link>https://huggingface.co/blog/anydecisionmodel</link>
@@ -161,39 +224,12 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Working with academic communities to build scientific understanding</title>
-      <link>https://openai.com/index/building-scientific-understanding-with-academic-communities</link>
-      <guid isPermaLink="false">https-openai-com-index-building-scientific-understanding-with-academic-communiti</guid>
-      <pubDate>Mon, 26 Oct 2026 14:30:00 GMT</pubDate>
-      <description>OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>research</category>
-    </item>
-    <item>
-      <title>GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases</title>
-      <link>https://openai.com/index/gpt-6-1-sol-coderabbit-code-security</link>
-      <guid isPermaLink="false">https-openai-com-index-gpt-6-1-sol-coderabbit-code-security</guid>
-      <pubDate>Mon, 26 Oct 2026 13:45:00 GMT</pubDate>
-      <description>CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>model</category>
-    </item>
-    <item>
       <title>Anthropic files S-1 with the SEC for proposed initial public offering</title>
       <link>https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnZUdLN3hwaXFFbndLU0FTMC1INVZzenp4cl92WXJqM3VDWTZUSXN2S1NTdzBjeTBDaUZmRHFud1M1azhBX3pmcFAxR3Nzdw?oc=5</link>
       <guid isPermaLink="false">cbmitkfvx3lxtfbnzudln3hwaxffbndlu0ftmc1invzzenp4cl92wxjqm3vdwtzusxn2s1ntdzbjetbd</guid>
       <pubDate>Mon, 26 Oct 2026 13:11:09 GMT</pubDate>
       <description>Source: Anthropic</description>
       <source url="https://ai-pulse.vercel.app">Anthropic</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>ChatGPT’s expanding world of work</title>
-      <link>https://openai.com/index/chatgpt-expanding-world-of-work</link>
-      <guid isPermaLink="false">https-openai-com-index-chatgpt-expanding-world-of-work</guid>
-      <pubDate>Mon, 26 Oct 2026 10:00:00 GMT</pubDate>
-      <description>Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
       <category>feature</category>
     </item>
     <item>
@@ -260,37 +296,19 @@
       <category>feature</category>
     </item>
     <item>
-      <title>How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications</title>
-      <link>https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-dharma-ai-vocabx-vocabulary-specialization</guid>
-      <pubDate>Wed, 21 Oct 2026 17:35:36 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.</title>
-      <link>https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-amazon-profiling-torchneuron-part-1</guid>
-      <pubDate>Wed, 21 Oct 2026 16:04:43 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster</title>
-      <link>https://huggingface.co/blog/ibm-granite/granite-speech-5</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-ibm-granite-granite-speech-5</guid>
-      <pubDate>Wed, 21 Oct 2026 14:58:18 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <title>Physicist Christopher Stubbs joins Anthropic&apos;s Long-Term Benefit Trust</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQbHVFZTRuSG1Cam5rQllpVVRvVkItRnZwVVlWODVDWU54Vm5jMzA0M1dza09rT1kxbFNTbGVYWWtmdmVGdzQxUjJ0SkczUWFBd3l5MUFWSlN4dWc4Y0FDc1F4S2c0TGNyUGVESUo1MGJpR0VfVXdDYXhDUXNadkRob0ZuVkotUQ?oc=5</link>
+      <guid isPermaLink="false">cbmihgfbvv95cuxqbhvfztrusg1cam5rqllpvvrvvkitrnzwvvlwodvdwu54vm5jmza0m1dza09rt1kx</guid>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 GMT</pubDate>
+      <description>Source: Anthropic</description>
+      <source url="https://ai-pulse.vercel.app">Anthropic</source>
       <category>feature</category>
     </item>
     <item>
       <title>Mistral Advances AI for Engineering with NVIDIA</title>
       <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE5EREM1NkpaWTg3MVNMOUstWDZOcjduUFFXVUlfczFVU3hSRGFRUGdwSUNLTVdJSnR0eWluOGJfeVJtbTM5TkgzdEZEdzhZZGxsbVdtSEVKSlAxNEFuTFNyZHRhbF81bEp2Z2h0WTQwNW5ncnJWMXhRag?oc=5</link>
       <guid isPermaLink="false">cbmieefvx3lxte5erem1nkpawtg3mvnmoustwdzocjduuffxvulfczfvu3hsrgfrugdwsunltvdjsnr0</guid>
-      <pubDate>Wed, 21 Oct 2026 12:11:38 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 GMT</pubDate>
       <description>Source: Mistral</description>
       <source url="https://ai-pulse.vercel.app">Mistral</source>
       <category>feature</category>
@@ -333,8 +351,8 @@
     </item>
     <item>
       <title>Search</title>
-      <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvRUlMTENmMGEzSXNISEpobWJ3UEVidHQtZWg0M2tZWnJ1WjVQbk1IOUp5bC1kU3p5eGFtM1hGWHhtbWE3ME8yRlRVcFZseXVpUGc?oc=5</link>
-      <guid isPermaLink="false">cbmiukfvx3lxtfbvrulmtenmmgezsxnisepobwj3uevidhqtzwg0m2tzwnj1wjvqbk1ioup5bc1ku3p5</guid>
+      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wZVZFemlPeHpQR1UyZWozTTIzWWlueGQtNTlwN29oVzFKNE5xc2Vza1FzMlB6YUg2cnNQUW9scXN3cDZVUkFGRWdRRnIzSUhxUWZR?oc=5</link>
+      <guid isPermaLink="false">cbmiu0fvx3lxte1wzvzfemlpehpqr1uyzwozttizwwluegqtntlwn29ovzfkne5xc2vza1fzmlb6yug2</guid>
       <pubDate>Mon, 19 Oct 2026 07:00:00 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
@@ -395,6 +413,15 @@
       <category>feature</category>
     </item>
     <item>
+      <title>Singapore office and government MOU</title>
+      <link>https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yTTM0YUphdFBiUjFDcnlZTy1lVklPbGp4ZTczUHJkZjgxSjBkckJSMDg2MHZwYUI5SkFGWlZlNHN4NFVQN3hDdERZSTFfVS1wNlZQRXV2YWE0ZnktZDFIZ3d0NEZLQQ?oc=5</link>
+      <guid isPermaLink="false">cbmizkfvx3lxte5yttm0yuphdfbiujfdcnlzty1lvklpbgp4ztczuhjkzjgxsjbkckjsmdg2mhzwyui5</guid>
+      <pubDate>Wed, 14 Oct 2026 07:00:00 GMT</pubDate>
+      <description>Source: Anthropic</description>
+      <source url="https://ai-pulse.vercel.app">Anthropic</source>
+      <category>feature</category>
+    </item>
+    <item>
       <title>Introducing Grok Voice 3.0</title>
       <link>https://news.google.com/rss/articles/CBMiREFVX3lxTE1mOUcxZkpjVVVyYjlLOWk1V0sxb1QyY3dVLWtpcDBFbEpqQzlDQzFPekdzSUVKbnhoaHZNd3ZzYzlweElu?oc=5</link>
       <guid isPermaLink="false">cbmirefvx3lxte1moucxzkpjvvvyyjllowk1v0sxb1qyy3dvlwtpcdbfbepqqzldqzfpekdzsuvkbnho</guid>
@@ -402,15 +429,6 @@
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
       <category>model</category>
-    </item>
-    <item>
-      <title>News: Research, Product &amp; Company Updates</title>
-      <link>https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5</link>
-      <guid isPermaLink="false">cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq</guid>
-      <pubDate>Wed, 14 Oct 2026 07:00:00 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>research</category>
     </item>
     <item>
       <title>Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection</title>
@@ -455,24 +473,6 @@
       <pubDate>Mon, 12 Oct 2026 07:00:00 GMT</pubDate>
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Introducing the Anthropic Cyber Mission</title>
-      <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SRkRRLThCQk54NV9hR0E5akl4LVNfanczWXU2cExpb2tyd3M4bGtFbWx6ekVPOUw5bDRzRjNhSlJ3ZjJqQklIMTVMNmNjXzNwaGtsb1lJeVItOXVaMlVuQk1BelE?oc=5</link>
-      <guid isPermaLink="false">cbmizefvx3lxte9srkrrlthcqk54nv9hr0e5akl4lvnfanczwxu2cexpb2tyd3m4bgtfbwx6ekvpouw5</guid>
-      <pubDate>Thu, 08 Oct 2026 07:00:00 GMT</pubDate>
-      <description>Source: Anthropic</description>
-      <source url="https://ai-pulse.vercel.app">Anthropic</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>2026 Usage Policy update</title>
-      <link>https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jb0FYSC1vRGpQd1BEeXA2TFdubUUwZnJlY19xQjI1X21oZ2xrYzFiZ2dfU283YXVGX2pxU05kUGZCV0lLUE5GZ2pjcnBQbFFGb2dHSDdtd1Zhd1NaZUJ6b1lIQXlGQQ?oc=5</link>
-      <guid isPermaLink="false">cbmizkfvx3lxte9jb0fysc1vrgpqd1beexa2tfdubuuwznjly19xqji1x21oz2xryzfiz2dfu283yxvg</guid>
-      <pubDate>Thu, 08 Oct 2026 07:00:00 GMT</pubDate>
-      <description>Source: Anthropic</description>
-      <source url="https://ai-pulse.vercel.app">Anthropic</source>
       <category>feature</category>
     </item>
     <item>
