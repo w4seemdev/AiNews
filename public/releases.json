@@ -4,7 +4,7 @@
     "lab": "Mistral",
     "title": "Mistral Large 4 (Le Chonk) is now open weight",
     "summary": "",
-    "date": "2026-10-31T08:42:06.000Z",
+    "date": "2026-11-01T12:01:06.000Z",
     "category": "model",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmcTVuLWp4c3dYY2lGelVhaG9GdnRZdDlpcEIxLUhjcTJRZ0dCbFRxMVdTaFNfT1NTYXdDMWFVRXRBMzA3MnBUS2paNmZETlV6bGtlWmlGdw?oc=5",
     "tags": [
@@ -418,36 +418,6 @@
     ]
   },
   {
-    "id": "cbmiiafbvv95cuxooezpcuwyanbjn3atn3hwdgdnes1obvzxc1c5c2lwz3zzuwfwm2m2shfknhb2z3zl",
-    "lab": "Anthropic",
-    "title": "Donating Agent Skills to the Agentic AI Foundation",
-    "summary": "",
-    "date": "2026-10-22T18:25:44.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOEZpcUwyanBJN3AtN3hwdGdNeS1obVZxc1c5c2lWZ3ZZUWFWM2M2SHFKNHB2Z3ZlQndXWUNMU3NGU3g1NElZeEw1M1pHaUJOZzZqeWsxSlFDSzUwcGFVUmxOUDhuZklpeDZ1ODVQc2dHNnZkUnVSTjE1dzU5R1ZVcjJURHl6RW1z?oc=5",
-    "tags": [
-      "donating",
-      "agent",
-      "skills",
-      "agentic"
-    ]
-  },
-  {
-    "id": "cbmiv0fvx3lxte9pbfh3azl4uddfvkrlzwvfzy1dvnu2wjjtbwzycmxkoex0szfhmexxzkh2weddbeq0",
-    "lab": "xAI",
-    "title": "Introducing the SpaceX Super Intelligence Partner Network",
-    "summary": "",
-    "date": "2026-10-22T14:42:30.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pbFh3azl4UDdFVkRLZWVfZy1DVnU2WjJTbWZYcmxKOEx0SzFHMExXZkh2WEdDbEQ0cjZ5RGx2UTBhM0piOGFLZDhfX2hRLXZZT3VDak1ORQ?oc=5",
-    "tags": [
-      "spacex",
-      "super",
-      "intelligence",
-      "partner"
-    ]
-  },
-  {
     "id": "https-deepmind-google-blog-beyond-tree-cover-mapping-the-worlds-forest-types",
     "lab": "Google DeepMind",
     "title": "Beyond tree cover: mapping the world’s forest types",
@@ -491,6 +461,36 @@
       "call",
       "guest",
       "investigators"
+    ]
+  },
+  {
+    "id": "cbmiiafbvv95cuxooezpcuwyanbjn3atn3hwdgdnes1obvzxc1c5c2lwz3zzuwfwm2m2shfknhb2z3zl",
+    "lab": "Anthropic",
+    "title": "Donating Agent Skills to the Agentic AI Foundation",
+    "summary": "",
+    "date": "2026-10-22T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOEZpcUwyanBJN3AtN3hwdGdNeS1obVZxc1c5c2lWZ3ZZUWFWM2M2SHFKNHB2Z3ZlQndXWUNMU3NGU3g1NElZeEw1M1pHaUJOZzZqeWsxSlFDSzUwcGFVUmxOUDhuZklpeDZ1ODVQc2dHNnZkUnVSTjE1dzU5R1ZVcjJURHl6RW1z?oc=5",
+    "tags": [
+      "donating",
+      "agent",
+      "skills",
+      "agentic"
+    ]
+  },
+  {
+    "id": "cbmiv0fvx3lxte9pbfh3azl4uddfvkrlzwvfzy1dvnu2wjjtbwzycmxkoex0szfhmexxzkh2weddbeq0",
+    "lab": "xAI",
+    "title": "Introducing the SpaceX Super Intelligence Partner Network",
+    "summary": "",
+    "date": "2026-10-22T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pbFh3azl4UDdFVkRLZWVfZy1DVnU2WjJTbWZYcmxKOEx0SzFHMExXZkh2WEdDbEQ0cjZ5RGx2UTBhM0piOGFLZDhfX2hRLXZZT3VDak1ORQ?oc=5",
+    "tags": [
+      "spacex",
+      "super",
+      "intelligence",
+      "partner"
     ]
   },
   {
@@ -540,52 +540,13 @@
     ]
   },
   {
-    "id": "cbmiuefvx3lxte9pd3jfmeu3zg1xcxbudng3btgyqzq5yk9wchjsuhy3n0tnvddkvtjnczhhx2nnuutd",
+    "id": "cbmiv0fvx3lxte1kck1smnp3z1lwz1vjwk1hmm9lyw1grnhuodnttwjuvs1tnutpdzu2yvdrrxrmbedy",
     "lab": "Anthropic",
-    "title": "Security",
+    "title": "Announcements",
     "summary": "",
-    "date": "2026-10-20T22:40:55.000Z",
+    "date": "2026-10-20T17:03:24.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pd3JFMEU3ZG1XcXBUdng3bTgyQzQ5Yk9WcHJSUHY3N0tnVDdkVTJnczhHX2NNUUtDV0hwZjBNU1JyV3NldTlhRnhNblRVU0k0?oc=5",
-    "tags": [
-      "security"
-    ]
-  },
-  {
-    "id": "cbmiu0fvx3lxtfbnslvnajjpukhdotzetth2mmrxmhhidu1jqul4zmuwu0d4quvtohptu3rfngftr05l",
-    "lab": "Anthropic",
-    "title": "Safeguards",
-    "summary": "",
-    "date": "2026-10-20T19:09:05.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnSlVNajJPUkhDOTZETTh2MmRxMHhidU1jQUl4ZmUwU0d4QUVtOHptU3RFNGFtR05LUXA1bERWQUdYTVIzbmpsdkJfeHhLVHVzQmhr?oc=5",
-    "tags": [
-      "safeguards"
-    ]
-  },
-  {
-    "id": "cbmivkfvx3lxtfbhymhols1rnzl0rggta2tkulhny2rrqwt1runrznz1vjjvr1zrwnjzsnitmnr5nzna",
-    "lab": "Anthropic",
-    "title": "Partnerships",
-    "summary": "",
-    "date": "2026-10-20T19:09:05.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhYmhOLS1RNzl0RGgta2tKUlhNY2RRQWt1RUNRZnZ1VjJVR1ZrWnJZSnItMnR5NzNaRjRGZi05eEJmOTkzM1JFc2U1YjUtVU5MSlFKc0tB?oc=5",
-    "tags": [
-      "partnerships"
-    ]
-  },
-  {
-    "id": "cbmitkfvx3lxte5huwd1bmvwb0nybhzmsmpdstryaus0n0lxazboowvycdbktfo1v2nymthkm0jfnjet",
-    "lab": "Anthropic",
-    "title": "Models",
-    "summary": "",
-    "date": "2026-10-20T18:42:38.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hUWd1bmVwb0NYbHZMSmpDSTRyaUs0N0lXazBOOWVYcDBkTFo1V2NyMThKM0JFNjEtV0llNmJ1Wl85LWYzUmlselk3cng1QQ?oc=5",
-    "tags": [
-      "models"
-    ]
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Kck1SMnp3Z1lwZ1VjWk1hMm9lYW1GRnhuODNtTWJuVS1TNUtPdzU2YVdrRXRmbEdYVWlJM2Y1cVo0QzRpR1dBM2hpRnl3ZEs2WmlGSmUwcw?oc=5"
   },
   {
     "id": "cbmiskfvx3lxtfb3sgxrsdawanvjtmvga3homjbmzhy3yzvkwdnaqm5uqwxjb2nlni12yu1ry28tt0fp",
@@ -618,13 +579,27 @@
     ]
   },
   {
-    "id": "cbmiwkfvx3lxte5svg45vei5nmftyxlesue5vjrcrkg1tk9sbwn5vggzze56bunvwhvcahgwa1p1nkzp",
+    "id": "cbmix0fvx3lxtfbwmufbangwvddnuxbleefmoetsvfyzn3nsu1lvdvduql9infvtn0hfdevkns1yakjc",
+    "lab": "Anthropic",
+    "title": "Investing in the public benefit",
+    "summary": "",
+    "date": "2026-10-18T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWMUFBangwVDdnUXBLeEFmOEtSVFYzN3NSU1lVdVduQl9iNFVTN0hfdEVkNS1yakJCLWFtdkVqTXlLM1VhblU5empsdmVKTVNDVy1PZ1JoUW1HYUlLb0FV?oc=5",
+    "tags": [
+      "investing",
+      "public",
+      "benefit"
+    ]
+  },
+  {
+    "id": "cbmiwefvx3lxte9kztr4t290yy1kvwdwznbod01jskdnujbirexpmzh2annnrxq4y2hpr21tq1pubmvk",
     "lab": "DeepSeek",
     "title": "DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real",
     "summary": "",
     "date": "2026-10-17T07:00:00.000Z",
     "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sVG45VEI5NmFTYXlESUE5VjRCRkg1Tk9sbWN5VGgzZE56bUNvWHVCaHgwa1p1NkZPWWl1MXVzdnFsSjlxMUJsSlZHdldwbVNYWnN0SnJwWlliQQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kZTR4T290Yy1KVWdWZnBod01jSkdNUjBiRExPMzh2anNNRXQ4Y2hpR21TQ1pubmVKVDZ6VmhONzdnYzhoUG1xamRjZVhaRmhQNVZQcHlaVWE?oc=5",
     "tags": [
       "deepseek",
       "flash",
@@ -683,6 +658,19 @@
       "search",
       "antimicrobial",
       "peptides"
+    ]
+  },
+  {
+    "id": "cbmidefvx3lxte8zzvfudwfycc04rhnozhi0cghusxbutlk2rwzsunfky2mzewzry0nvav9ostjhbdvk",
+    "lab": "Anthropic",
+    "title": "An update on independent evaluators",
+    "summary": "",
+    "date": "2026-10-15T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zZVFudWFYcC04RHNOZHI0cGhuSXBUTlk2RWZsUnFkY2MzeWZRY0NVaV9OSTJHbDVkc3BBTHBWd1FKUDVCbjdYLTQtN2tGNUZXdnFYRmt2OUZTTzRoRVZNeWNteUE1Vy1DSXBGTTUxSFJqVmRf?oc=5",
+    "tags": [
+      "independent",
+      "evaluators"
     ]
   },
   {
@@ -783,6 +771,19 @@
     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xSHZsR1pnaUw0LXBEbHZkY0owdTZ3N1hsTlQ1MGJ5cm9nYkRCOXgyTkhFUHVmaVphZ1FNU0xfWkFMN29jMnpN?oc=5",
     "tags": [
       "subscription"
+    ]
+  },
+  {
+    "id": "cbmizkfvx3lxte9jb0fysc1vrgpqd1beexa2tfdubuuwznjly19xqji1x21oz2xryzfiz2dfu283yxvg",
+    "lab": "Anthropic",
+    "title": "2026 Usage Policy update",
+    "summary": "",
+    "date": "2026-10-08T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jb0FYSC1vRGpQd1BEeXA2TFdubUUwZnJlY19xQjI1X21oZ2xrYzFiZ2dfU283YXVGX2pxU05kUGZCV0lLUE5GZ2pjcnBQbFFGb2dHSDdtd1Zhd1NaZUJ6b1lIQXlGQQ?oc=5",
+    "tags": [
+      "usage",
+      "policy"
     ]
   },
   {
