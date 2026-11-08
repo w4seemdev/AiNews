@@ -5,8 +5,17 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2026 12:22:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 12:41:12 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Build Enterprise Agents, Workflows &amp; Apps in Mistral Studio</title>
+      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vb2Y2YS15S1NVQ2pMNGpPNzdkaklaQ3hHRkU4WnoySVNJNWZ0R3ZBTGFEU1pyNTB1ZmtlUmozdTJGUkJkV2ljNVZGMFA0UFlEOEg4OQ?oc=5</link>
+      <guid isPermaLink="false">cbmivefvx3lxte9vb2y2ys15s1nvq2pmngppnzdkaklaq3hhrku4wnoysvnjnwz0r3zbtgfeu1pyntb1</guid>
+      <pubDate>Sun, 08 Nov 2026 11:08:28 GMT</pubDate>
+      <description>Source: Mistral</description>
+      <source url="https://ai-pulse.vercel.app">Mistral</source>
+      <category>feature</category>
+    </item>
     <item>
       <title>ToyBlocks: A controlled world for robot learning and evaluation</title>
       <link>https://huggingface.co/blog/allenai/toyblocks</link>
@@ -86,15 +95,6 @@
       <pubDate>Thu, 05 Nov 2026 17:00:00 GMT</pubDate>
       <description>Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing. (Source: Google DeepMind)</description>
       <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Build Enterprise Agents, Workflows &amp; Apps in Mistral Studio</title>
-      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vb2Y2YS15S1NVQ2pMNGpPNzdkaklaQ3hHRkU4WnoySVNJNWZ0R3ZBTGFEU1pyNTB1ZmtlUmozdTJGUkJkV2ljNVZGMFA0UFlEOEg4OQ?oc=5</link>
-      <guid isPermaLink="false">cbmivefvx3lxte9vb2y2ys15s1nvq2pmngppnzdkaklaq3hhrku4wnoysvnjnwz0r3zbtgfeu1pyntb1</guid>
-      <pubDate>Thu, 05 Nov 2026 15:48:49 GMT</pubDate>
-      <description>Source: Mistral</description>
-      <source url="https://ai-pulse.vercel.app">Mistral</source>
       <category>feature</category>
     </item>
     <item>
@@ -296,15 +296,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Expanding our partnership with GSA to bring Claude to all levels of government</title>
-      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SdnRpWjk1Nk1Fem1Ka0tLclJoVnFkQmZzVUVOU0hsQ0pwYVZLWVpCUGhkZ1Q0UmhYekhYcFdraTdtbFd5MF91MkhPVlJzYlM3ZXVlOUUwLUhDVVBMOUR4aXlVZXhRRlU?oc=5</link>
-      <guid isPermaLink="false">cbmiz0fvx3lxte9sdnrpwjk1nk1fem1ka0tlcljovnfkqmzzvuvou0hsq0pwyvzlwvpcughkz1q0umhy</guid>
-      <pubDate>Tue, 27 Oct 2026 07:00:00 GMT</pubDate>
-      <description>Source: Anthropic</description>
-      <source url="https://ai-pulse.vercel.app">Anthropic</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Our newest AI Quest: Mapping the human brain</title>
       <link>https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/</link>
       <guid isPermaLink="false">https-blog-google-products-and-platforms-products-education-ai-quests-polar-peak</guid>
@@ -467,6 +458,15 @@
       <category>feature</category>
     </item>
     <item>
+      <title>2026 Usage Policy update</title>
+      <link>https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jb0FYSC1vRGpQd1BEeXA2TFdubUUwZnJlY19xQjI1X21oZ2xrYzFiZ2dfU283YXVGX2pxU05kUGZCV0lLUE5GZ2pjcnBQbFFGb2dHSDdtd1Zhd1NaZUJ6b1lIQXlGQQ?oc=5</link>
+      <guid isPermaLink="false">cbmizkfvx3lxte9jb0fysc1vrgpqd1beexa2tfdubuuwznjly19xqji1x21oz2xryzfiz2dfu283yxvg</guid>
+      <pubDate>Thu, 08 Oct 2026 07:00:00 GMT</pubDate>
+      <description>Source: Anthropic</description>
+      <source url="https://ai-pulse.vercel.app">Anthropic</source>
+      <category>feature</category>
+    </item>
+    <item>
       <title>Introducing the Anthropic Cyber Mission</title>
       <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SRkRRLThCQk54NV9hR0E5akl4LVNfanczWXU2cExpb2tyd3M4bGtFbWx6ekVPOUw5bDRzRjNhSlJ3ZjJqQklIMTVMNmNjXzNwaGtsb1lJeVItOXVaMlVuQk1BelE?oc=5</link>
       <guid isPermaLink="false">cbmizefvx3lxte9srkrrlthcqk54nv9hr0e5akl4lvnfanczwxu2cexpb2tyd3m4bgtfbwx6ekvpouw5</guid>
@@ -531,8 +531,8 @@
     </item>
     <item>
       <title>Integrate with Qoder</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE03UWx5d0RxdHFiTWZkVWhPbnpuX0h0cEt1dGpXRDd0eUZYbEpOY3lvc0txYlQxNlhoT2g5aHl3UGRHdDE3YTVzOXVLc3pnTkZFLVJ0VXZ1UzJwTFdNZEF2ZHJ4LWNCS3BRMWxJUlgzeHdHejNP?oc=5</link>
-      <guid isPermaLink="false">cbmidefvx3lxte03uwx5d0rxdhfitwzkvwhpbnpux0h0cet1dgpxrdd0euzybepoy3lvc0txylqxnlho</guid>
+      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE50QUN0T29rVE54YVhwZFBUY0VQbG41RDZYaUVXaElhYUE4SVhwUGxodzVkSjlzeGhIQjFhUHlRTTdpcGgxQW1CeU04VW9EYVR6ZEc3VXotX3VsYVdBbzU4eFVWZW4ycDIyRkQ0MzRXX2ZFS2pqcUE?oc=5</link>
+      <guid isPermaLink="false">cbmidkfvx3lxte50qun0t29rve54yvhwzfbuy0vqbg41rdzyauvxaelhyue4svhwugxodzvksjlzeghi</guid>
       <pubDate>Thu, 17 Sep 2026 03:52:07 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
