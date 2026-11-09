@@ -4,7 +4,7 @@
     "lab": "Mistral",
     "title": "Build Enterprise Agents, Workflows & Apps in Mistral Studio",
     "summary": "",
-    "date": "2026-11-08T11:08:28.000Z",
+    "date": "2026-11-09T14:13:35.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vb2Y2YS15S1NVQ2pMNGpPNzdkaklaQ3hHRkU4WnoySVNJNWZ0R3ZBTGFEU1pyNTB1ZmtlUmozdTJGUkJkV2ljNVZGMFA0UFlEOEg4OQ?oc=5",
     "tags": [
@@ -12,6 +12,21 @@
       "enterprise",
       "agents",
       "workflows"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-amazon-higher-order-pruning-experts",
+    "lab": "Hugging Face",
+    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+    "summary": "",
+    "date": "2026-11-09T12:34:29.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+    "tags": [
+      "experts",
+      "partners",
+      "there",
+      "hope"
     ]
   },
   {
@@ -421,21 +436,6 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-announcing-project-protostar",
-    "lab": "Hugging Face",
-    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-    "summary": "",
-    "date": "2026-10-29T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/announcing-project-protostar",
-    "tags": [
-      "project",
-      "protostar",
-      "making",
-      "publicly"
-    ]
-  },
-  {
     "id": "https-deepmind-google-blog-gemini-4-carbon-our-next-frontier-model",
     "lab": "Google DeepMind",
     "title": "Gemini 4 Carbon: Our next frontier model",
@@ -643,13 +643,13 @@
     ]
   },
   {
-    "id": "cbmiwefvx3lxte9kztr4t290yy1kvwdwznbod01jskdnujbirexpmzh2annnrxq4y2hpr21tq1pubmvk",
+    "id": "cbmiwkfvx3lxte5svg45vei5nmftyxlesue5vjrcrkg1tk9sbwn5vggzze56bunvwhvcahgwa1p1nkzp",
     "lab": "DeepSeek",
     "title": "DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real",
     "summary": "",
     "date": "2026-10-17T07:00:00.000Z",
     "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kZTR4T290Yy1KVWdWZnBod01jSkdNUjBiRExPMzh2anNNRXQ4Y2hpR21TQ1pubmVKVDZ6VmhONzdnYzhoUG1xamRjZVhaRmhQNVZQcHlaVWE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sVG45VEI5NmFTYXlESUE5VjRCRkg1Tk9sbWN5VGgzZE56bUNvWHVCaHgwa1p1NkZPWWl1MXVzdnFsSjlxMUJsSlZHdldwbVNYWnN0SnJwWlliQQ?oc=5",
     "tags": [
       "deepseek",
       "flash",

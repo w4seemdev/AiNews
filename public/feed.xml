@@ -5,15 +5,24 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 12:41:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 15:02:05 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Build Enterprise Agents, Workflows &amp; Apps in Mistral Studio</title>
       <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vb2Y2YS15S1NVQ2pMNGpPNzdkaklaQ3hHRkU4WnoySVNJNWZ0R3ZBTGFEU1pyNTB1ZmtlUmozdTJGUkJkV2ljNVZGMFA0UFlEOEg4OQ?oc=5</link>
       <guid isPermaLink="false">cbmivefvx3lxte9vb2y2ys15s1nvq2pmngppnzdkaklaq3hhrku4wnoysvnjnwz0r3zbtgfeu1pyntb1</guid>
-      <pubDate>Sun, 08 Nov 2026 11:08:28 GMT</pubDate>
+      <pubDate>Mon, 09 Nov 2026 14:13:35 GMT</pubDate>
       <description>Source: Mistral</description>
       <source url="https://ai-pulse.vercel.app">Mistral</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together</title>
+      <link>https://huggingface.co/blog/amazon/higher-order-pruning-experts</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-amazon-higher-order-pruning-experts</guid>
+      <pubDate>Mon, 09 Nov 2026 12:34:29 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
       <category>feature</category>
     </item>
     <item>
@@ -260,15 +269,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready</title>
-      <link>https://huggingface.co/blog/announcing-project-protostar</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-announcing-project-protostar</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Gemini 4 Carbon: Our next frontier model</title>
       <link>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</link>
       <guid isPermaLink="false">https-deepmind-google-blog-gemini-4-carbon-our-next-frontier-model</guid>
@@ -396,8 +396,8 @@
     </item>
     <item>
       <title>DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real</title>
-      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kZTR4T290Yy1KVWdWZnBod01jSkdNUjBiRExPMzh2anNNRXQ4Y2hpR21TQ1pubmVKVDZ6VmhONzdnYzhoUG1xamRjZVhaRmhQNVZQcHlaVWE?oc=5</link>
-      <guid isPermaLink="false">cbmiwefvx3lxte9kztr4t290yy1kvwdwznbod01jskdnujbirexpmzh2annnrxq4y2hpr21tq1pubmvk</guid>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sVG45VEI5NmFTYXlESUE5VjRCRkg1Tk9sbWN5VGgzZE56bUNvWHVCaHgwa1p1NkZPWWl1MXVzdnFsSjlxMUJsSlZHdldwbVNYWnN0SnJwWlliQQ?oc=5</link>
+      <guid isPermaLink="false">cbmiwkfvx3lxte5svg45vei5nmftyxlesue5vjrcrkg1tk9sbwn5vggzze56bunvwhvcahgwa1p1nkzp</guid>
       <pubDate>Sat, 17 Oct 2026 07:00:00 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
