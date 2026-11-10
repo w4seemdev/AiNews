@@ -1,10 +1,88 @@
 [
   {
+    "id": "https-blog-google-company-news-inside-google-company-announcements-adobe-google-",
+    "lab": "Google DeepMind",
+    "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+    "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+    "date": "2026-11-10T14:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_snippet_hero.max-600x600.format-webp.webp",
+    "tags": [
+      "adobe",
+      "creative",
+      "productivity",
+      "tools"
+    ]
+  },
+  {
+    "id": "https-blog-google-innovation-and-ai-infrastructure-and-cloud-google-cloud-gemini",
+    "lab": "Google DeepMind",
+    "title": "Google Cloud launches Gemini for healthcare.",
+    "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+    "date": "2026-11-10T13:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp",
+    "tags": [
+      "google",
+      "cloud",
+      "gemini",
+      "healthcare"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-introducing-alphaproof-code",
+    "lab": "Google DeepMind",
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "summary": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption.",
+    "date": "2026-11-10T12:02:28.000Z",
+    "category": "feature",
+    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "image": "https://lh3.googleusercontent.com/hn6AiI6lYFo6chi1mL6uJ9nOW9UXfsAKnSyOApiie2urHNU2tmSPUmGn0hNfWyYLRcsWCGjCIrBZSCt1ihZmvW-LDJPfyolsr5w-yvzlknZVzmaH=w528-h297-n-nu-rw-lo",
+    "tags": [
+      "alphaproof",
+      "code",
+      "breakthrough",
+      "verifying"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-helping-caregivers-use-ai-in-everyday-life",
+    "lab": "OpenAI",
+    "title": "Helping caregivers use AI in everyday life",
+    "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+    "date": "2026-11-10T12:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "tags": [
+      "helping",
+      "caregivers",
+      "everyday",
+      "life"
+    ]
+  },
+  {
+    "id": "cbmiwkfvx3lxte51yvf6ethycm5nblzrv2zpedrhwutvri03bmxzmgnux0pjmzuzrdfwshh5clr6vvn1",
+    "lab": "Anthropic",
+    "title": "Anthropic launches roadshow for proposed initial public offering",
+    "summary": "",
+    "date": "2026-11-10T11:44:40.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51YVF6eThycm5nblZRV2ZpeDRhWUtVRi03bmxZMGNuX0pJMzUzRDFWSHh5clR6VVN1R3ZzaTNFWHNvYjRwUTNCUERQbFQ3WmFyMkxVcGpFTUpjQQ?oc=5",
+    "tags": [
+      "anthropic",
+      "roadshow",
+      "proposed",
+      "initial"
+    ]
+  },
+  {
     "id": "cbmivefvx3lxte9vb2y2ys15s1nvq2pmngppnzdkaklaq3hhrku4wnoysvnjnwz0r3zbtgfeu1pyntb1",
     "lab": "Mistral",
     "title": "Build Enterprise Agents, Workflows & Apps in Mistral Studio",
     "summary": "",
-    "date": "2026-11-09T14:13:35.000Z",
+    "date": "2026-11-10T11:19:56.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vb2Y2YS15S1NVQ2pMNGpPNzdkaklaQ3hHRkU4WnoySVNJNWZ0R3ZBTGFEU1pyNTB1ZmtlUmozdTJGUkJkV2ljNVZGMFA0UFlEOEg4OQ?oc=5",
     "tags": [
@@ -12,6 +90,66 @@
       "enterprise",
       "agents",
       "workflows"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-closing-ai-guidance-gap-education",
+    "lab": "OpenAI",
+    "title": "Closing the AI guidance gap in education",
+    "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+    "date": "2026-11-10T09:00:00.000Z",
+    "category": "research",
+    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "tags": [
+      "education",
+      "closing",
+      "guidance",
+      "gap"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-chatgpt-enterprise-aws-marketplace",
+    "lab": "OpenAI",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+    "date": "2026-11-09T19:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "tags": [
+      "aws",
+      "chatgpt",
+      "enterprise",
+      "marketplace"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-nvidia-nemotron-personas-finance-japan",
+    "lab": "Hugging Face",
+    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+    "summary": "",
+    "date": "2026-11-09T15:05:57.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "tags": [
+      "japan",
+      "nemotron",
+      "personas",
+      "finance"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-control-room",
+    "lab": "OpenAI",
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+    "date": "2026-11-09T13:00:00.000Z",
+    "category": "research",
+    "url": "https://openai.com/index/control-room",
+    "tags": [
+      "control",
+      "room",
+      "stop",
+      "model"
     ]
   },
   {
@@ -27,6 +165,36 @@
       "partners",
       "there",
       "hope"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-coderabbit-codex-daybreak",
+    "lab": "OpenAI",
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+    "date": "2026-11-09T08:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/coderabbit-codex-daybreak",
+    "tags": [
+      "coderabbit",
+      "software",
+      "scales",
+      "agentic"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-kuken",
+    "lab": "OpenAI",
+    "title": "Kuken Industries searches 70 years of drawings in minutes",
+    "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+    "date": "2026-11-09T08:00:00.000Z",
+    "category": "api",
+    "url": "https://openai.com/index/kuken",
+    "tags": [
+      "kuken",
+      "industries",
+      "years",
+      "drawings"
     ]
   },
   {
@@ -105,21 +273,6 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-nvidia-cosmos-interactive-world-simulation",
-    "lab": "Hugging Face",
-    "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-    "summary": "",
-    "date": "2026-11-05T19:35:16.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-    "tags": [
-      "nvidia",
-      "cosmos",
-      "open",
-      "models"
-    ]
-  },
-  {
     "id": "https-deepmind-google-blog-gemini-omni-12-flash-fast-and-cost-effective-with-lon",
     "lab": "Google DeepMind",
     "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
@@ -166,66 +319,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-introducing-gpt-6-cyber",
-    "lab": "OpenAI",
-    "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-    "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-    "date": "2026-11-05T09:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/introducing-gpt-6-cyber",
-    "tags": [
-      "gpt",
-      "cyber",
-      "cybersecurity",
-      "advancing"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-merge-builds-with-openai",
-    "lab": "OpenAI",
-    "title": "Merge builds product and business tools with OpenAI technology",
-    "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
-    "date": "2026-11-05T08:00:00.000Z",
-    "category": "model",
-    "url": "https://openai.com/index/merge-builds-with-openai",
-    "tags": [
-      "merge",
-      "product",
-      "builds",
-      "business"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-setting-new-standard-responsible-ai-infrastructure",
-    "lab": "OpenAI",
-    "title": "Setting a new standard for responsible AI infrastructure",
-    "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-    "date": "2026-11-05T02:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-    "tags": [
-      "responsible",
-      "infrastructure",
-      "setting",
-      "standard"
-    ]
-  },
-  {
-    "id": "https-openai-com-ads-customers-flipsnack",
-    "lab": "OpenAI",
-    "title": "Flipsnack grows product signups with conversion optimization",
-    "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
-    "date": "2026-11-05T00:45:15.000Z",
-    "category": "feature",
-    "url": "https://openai.com/ads/customers/flipsnack",
-    "tags": [
-      "flipsnack",
-      "product",
-      "grows",
-      "signups"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-phonon-tts",
     "lab": "Hugging Face",
     "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
@@ -241,21 +334,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-franklin-templeton",
-    "lab": "OpenAI",
-    "title": "Franklin Templeton uses OpenAI to support investment research",
-    "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
-    "date": "2026-11-05T00:00:00.000Z",
-    "category": "research",
-    "url": "https://openai.com/index/franklin-templeton",
-    "tags": [
-      "research",
-      "franklin",
-      "templeton",
-      "investment"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-dharma-ai-dharma-field-extractor",
     "lab": "Hugging Face",
     "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
@@ -268,21 +346,6 @@
       "field",
       "extractor",
       "document"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-openai-to-acquire-pierre",
-    "lab": "OpenAI",
-    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-    "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-    "date": "2026-11-04T14:30:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/openai-to-acquire-pierre",
-    "tags": [
-      "openai",
-      "acquire",
-      "pierre",
-      "computer"
     ]
   },
   {
@@ -482,19 +545,18 @@
     ]
   },
   {
-    "id": "https-blog-google-products-and-platforms-products-education-ai-quests-polar-peak",
-    "lab": "Google DeepMind",
-    "title": "Our newest AI Quest: Mapping the human brain",
-    "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
-    "date": "2026-10-26T16:00:00.000Z",
+    "id": "cbmir0fvx3lxte82oux3q0jobgxhcuvamlhkml9fvknkouvusvlbs1nymfpyze55vl9zc2xwrmtcams1",
+    "lab": "xAI",
+    "title": "Your next sales teammate should be a Grok Bot",
+    "summary": "",
+    "date": "2026-10-27T07:00:00.000Z",
     "category": "feature",
-    "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE82OUx3Q0JobGxhcUVaMlhkMl9fVkNKOUVuSVlBS1NyMFpyZE55Vl9zc2xWRmtCams1M3lwTjhKaDcxMnJUR19n?oc=5",
     "tags": [
-      "newest",
-      "quest",
-      "mapping",
-      "human"
+      "next",
+      "sales",
+      "teammate",
+      "should"
     ]
   },
   {
@@ -510,22 +572,6 @@
       "files",
       "sec",
       "proposed"
-    ]
-  },
-  {
-    "id": "https-deepmind-google-blog-beyond-tree-cover-mapping-the-worlds-forest-types",
-    "lab": "Google DeepMind",
-    "title": "Beyond tree cover: mapping the world’s forest types",
-    "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-    "date": "2026-10-22T14:30:24.000Z",
-    "category": "feature",
-    "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-    "image": "https://lh3.googleusercontent.com/Et3g0tNB_bC00f6cP94Y40QbqshCvf7_fg_gRVfZQoeVSc3Hn9g6jIenf1udZdACY4x-wpY_5tyy_LznFSlu0yhGCqfxKos6QFRRj4lad_hQHOBV8Q=w528-h297-n-nu-rw-lo",
-    "tags": [
-      "forest",
-      "types",
-      "beyond",
-      "tree"
     ]
   },
   {
@@ -604,19 +650,15 @@
     ]
   },
   {
-    "id": "https-blog-google-company-news-inside-google-around-the-globe-google-asia-e-cono",
-    "lab": "Google DeepMind",
-    "title": "Southeast Asia’s digital economy to hit $368 billion",
-    "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
-    "date": "2026-10-21T04:00:00.000Z",
+    "id": "cbmitkfvx3lxte5huwd1bmvwb0nybhzmsmpdstryaus0n0lxazboowvycdbktfo1v2nymthkm0jfnjet",
+    "lab": "Anthropic",
+    "title": "Models",
+    "summary": "",
+    "date": "2026-10-20T18:42:38.000Z",
     "category": "feature",
-    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hUWd1bmVwb0NYbHZMSmpDSTRyaUs0N0lXazBOOWVYcDBkTFo1V2NyMThKM0JFNjEtV0llNmJ1Wl85LWYzUmlselk3cng1QQ?oc=5",
     "tags": [
-      "southeast",
-      "asia",
-      "digital",
-      "economy"
+      "models"
     ]
   },
   {
@@ -627,6 +669,21 @@
     "date": "2026-10-20T17:03:24.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Kck1SMnp3Z1lwZ1VjWk1hMm9lYW1GRnhuODNtTWJuVS1TNUtPdzU2YVdrRXRmbEdYVWlJM2Y1cVo0QzRpR1dBM2hpRnl3ZEs2WmlGSmUwcw?oc=5"
+  },
+  {
+    "id": "cbmir0fvx3lxtfblnudfmtjkempvauxhenhjbnnzcnzhanzlukvcser2mvlvctvxngdqn05rsw9hzxat",
+    "lab": "xAI",
+    "title": "Using Grok Bot to detect and respond to incidents",
+    "summary": "",
+    "date": "2026-10-20T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBLNUdfMTJkempVaUxhenhjbnNzcnZHanZLUkVCSER2MVlvcTVXNGdQN05RSW9hZXAtYjlGSWUyYUVkTEFiX0Jv?oc=5",
+    "tags": [
+      "grok",
+      "bot",
+      "detect",
+      "respond"
+    ]
   },
   {
     "id": "cbmix0fvx3lxtfbwmufbangwvddnuxbleefmoetsvfyzn3nsu1lvdvduql9infvtn0hfdevkns1yakjc",
@@ -675,7 +732,7 @@
     "lab": "DeepSeek",
     "title": "Search",
     "summary": "",
-    "date": "2026-10-16T13:29:35.000Z",
+    "date": "2026-10-16T13:29:34.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wZVZFemlPeHpQR1UyZWozTTIzWWlueGQtNTlwN29oVzFKNE5xc2Vza1FzMlB6YUg2cnNQUW9scXN3cDZVUkFGRWdRRnIzSUhxUWZR?oc=5",
     "tags": [
@@ -733,33 +790,6 @@
     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xSHZsR1pnaUw0LXBEbHZkY0owdTZ3N1hsTlQ1MGJ5cm9nYkRCOXgyTkhFUHVmaVphZ1FNU0xfWkFMN29jMnpN?oc=5",
     "tags": [
       "subscription"
-    ]
-  },
-  {
-    "id": "cbmizkfvx3lxte9jb0fysc1vrgpqd1beexa2tfdubuuwznjly19xqji1x21oz2xryzfiz2dfu283yxvg",
-    "lab": "Anthropic",
-    "title": "2026 Usage Policy update",
-    "summary": "",
-    "date": "2026-10-08T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jb0FYSC1vRGpQd1BEeXA2TFdubUUwZnJlY19xQjI1X21oZ2xrYzFiZ2dfU283YXVGX2pxU05kUGZCV0lLUE5GZ2pjcnBQbFFGb2dHSDdtd1Zhd1NaZUJ6b1lIQXlGQQ?oc=5",
-    "tags": [
-      "usage",
-      "policy"
-    ]
-  },
-  {
-    "id": "cbmizefvx3lxte9srkrrlthcqk54nv9hr0e5akl4lvnfanczwxu2cexpb2tyd3m4bgtfbwx6ekvpouw5",
-    "lab": "Anthropic",
-    "title": "Introducing the Anthropic Cyber Mission",
-    "summary": "",
-    "date": "2026-10-08T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SRkRRLThCQk54NV9hR0E5akl4LVNfanczWXU2cExpb2tyd3M4bGtFbWx6ekVPOUw5bDRzRjNhSlJ3ZjJqQklIMTVMNmNjXzNwaGtsb1lJeVItOXVaMlVuQk1BelE?oc=5",
-    "tags": [
-      "anthropic",
-      "cyber",
-      "mission"
     ]
   },
   {
@@ -844,34 +874,6 @@
       "grok",
       "voice",
       "transcribe"
-    ]
-  },
-  {
-    "id": "cbmidkfvx3lxte50qun0t29rve54yvhwzfbuy0vqbg41rdzyauvxaelhyue4svhwugxodzvksjlzeghi",
-    "lab": "DeepSeek",
-    "title": "Integrate with Qoder",
-    "summary": "",
-    "date": "2026-09-17T03:52:07.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50QUN0T29rVE54YVhwZFBUY0VQbG41RDZYaUVXaElhYUE4SVhwUGxodzVkSjlzeGhIQjFhUHlRTTdpcGgxQW1CeU04VW9EYVR6ZEc3VXotX3VsYVdBbzU4eFVWZW4ycDIyRkQ0MzRXX2ZFS2pqcUE?oc=5",
-    "tags": [
-      "integrate",
-      "qoder"
-    ]
-  },
-  {
-    "id": "cbmivefvx3lxte1quxzcu1u0dnn2r2h5tjjuejzqy1prmtdhafjxm0xsbmp5vxk5mmhbanlmrg9ntehk",
-    "lab": "Mistral",
-    "title": "Mistral x Mozilla: Private, Multilingual AI Browsing",
-    "summary": "",
-    "date": "2026-09-16T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qUXZCU1U0dnN2R2h5TjJuejZqY1prMTdHaFJXM0xSbmp5VXk5MmhBanlmRG9NTEhKdEtjNUJfMnhTcC1ub2t4Sm04S3o3SjB2YlI2VA?oc=5",
-    "tags": [
-      "mistral",
-      "mozilla",
-      "private",
-      "multilingual"
     ]
   }
 ]
