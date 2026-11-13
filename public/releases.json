@@ -4,7 +4,7 @@
     "lab": "Mistral",
     "title": "Build Enterprise Agents, Workflows & Apps in Mistral Studio",
     "summary": "",
-    "date": "2026-11-12T11:44:46.000Z",
+    "date": "2026-11-13T12:05:47.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vb2Y2YS15S1NVQ2pMNGpPNzdkaklaQ3hHRkU4WnoySVNJNWZ0R3ZBTGFEU1pyNTB1ZmtlUmozdTJGUkJkV2ljNVZGMFA0UFlEOEg4OQ?oc=5",
     "tags": [
@@ -12,6 +12,80 @@
       "enterprise",
       "agents",
       "workflows"
+    ]
+  },
+  {
+    "id": "https-openai-com-business-customer-stories-amplitude",
+    "lab": "OpenAI",
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+    "date": "2026-11-12T20:00:00.000Z",
+    "category": "model",
+    "url": "https://openai.com/business/customer-stories/amplitude",
+    "tags": [
+      "amplitude",
+      "product",
+      "openai",
+      "ships"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-ibm-granite-llmon-an-llm-native-markup-language-now-in",
+    "lab": "Hugging Face",
+    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "summary": "",
+    "date": "2026-11-12T19:07:35.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "tags": [
+      "llmon",
+      "llm",
+      "native",
+      "markup"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-introducing-gemini-4-hydrogen",
+    "lab": "Google DeepMind",
+    "title": "Introducing Gemini 4 Hydrogen",
+    "summary": "",
+    "date": "2026-11-12T18:00:50.000Z",
+    "category": "model",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "tags": [
+      "gemini",
+      "hydrogen"
+    ]
+  },
+  {
+    "id": "https-blog-google-products-and-platforms-products-search-gemini-4-hydrogen-searc",
+    "lab": "Google DeepMind",
+    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+    "date": "2026-11-12T18:00:00.000Z",
+    "category": "model",
+    "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp",
+    "tags": [
+      "google",
+      "search",
+      "gemini",
+      "hydrogen"
+    ]
+  },
+  {
+    "id": "https-openai-com-business-customer-stories-gondola",
+    "lab": "OpenAI",
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+    "date": "2026-11-12T12:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/business/customer-stories/gondola",
+    "tags": [
+      "gondola",
+      "codex",
+      "get",
+      "doubles"
     ]
   },
   {
@@ -259,22 +333,6 @@
     ]
   },
   {
-    "id": "https-deepmind-google-blog-introducing-alphaproof-code",
-    "lab": "Google DeepMind",
-    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-    "summary": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption.",
-    "date": "2026-11-10T12:02:28.000Z",
-    "category": "feature",
-    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-    "image": "https://lh3.googleusercontent.com/hn6AiI6lYFo6chi1mL6uJ9nOW9UXfsAKnSyOApiie2urHNU2tmSPUmGn0hNfWyYLRcsWCGjCIrBZSCt1ihZmvW-LDJPfyolsr5w-yvzlknZVzmaH=w528-h297-n-nu-rw-lo",
-    "tags": [
-      "alphaproof",
-      "code",
-      "breakthrough",
-      "verifying"
-    ]
-  },
-  {
     "id": "https-openai-com-index-helping-caregivers-use-ai-in-everyday-life",
     "lab": "OpenAI",
     "title": "Helping caregivers use AI in everyday life",
@@ -335,36 +393,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-singapore-airlines-travel-work",
-    "lab": "OpenAI",
-    "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-    "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
-    "date": "2026-11-10T08:00:00.000Z",
-    "category": "api",
-    "url": "https://openai.com/index/singapore-airlines-travel-work",
-    "tags": [
-      "singapore",
-      "airlines",
-      "travel",
-      "openai"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-ai-effect-on-freelance-work",
-    "lab": "OpenAI",
-    "title": "Work at the Frontier: AI’s effect on freelance work",
-    "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-    "date": "2026-11-10T07:00:00.000Z",
-    "category": "research",
-    "url": "https://openai.com/index/ai-effect-on-freelance-work",
-    "tags": [
-      "work",
-      "freelance",
-      "frontier",
-      "effect"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-hub-gcp-marketplace",
     "lab": "Hugging Face",
     "title": "Pay for Hugging Face Hub with your Google Cloud Account",
@@ -392,22 +420,6 @@
       "models",
       "hugging",
       "face"
-    ]
-  },
-  {
-    "id": "https-deepmind-google-blog-gemini-robotics-2-5-accelerates-real-world-physical-i",
-    "lab": "Google DeepMind",
-    "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-    "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-    "date": "2026-11-09T19:51:47.000Z",
-    "category": "feature",
-    "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-    "image": "https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo",
-    "tags": [
-      "dexterity",
-      "gemini",
-      "robotics",
-      "accelerates"
     ]
   },
   {
@@ -468,21 +480,6 @@
       "nigerian",
       "english",
       "join"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-phonon-tts",
-    "lab": "Hugging Face",
-    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-    "summary": "",
-    "date": "2026-11-05T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/phonon-tts",
-    "tags": [
-      "closer",
-      "look",
-      "phonon",
-      "tts"
     ]
   },
   {
@@ -570,6 +567,21 @@
       "expands",
       "foundations",
       "research"
+    ]
+  },
+  {
+    "id": "cbmiz0fvx3lxte9sdnrpwjk1nk1fem1ka0tlcljovnfkqmzzvuvou0hsq0pwyvzlwvpcughkz1q0umhy",
+    "lab": "Anthropic",
+    "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+    "summary": "",
+    "date": "2026-10-27T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SdnRpWjk1Nk1Fem1Ka0tLclJoVnFkQmZzVUVOU0hsQ0pwYVZLWVpCUGhkZ1Q0UmhYekhYcFdraTdtbFd5MF91MkhPVlJzYlM3ZXVlOUUwLUhDVVBMOUR4aXlVZXhRRlU?oc=5",
+    "tags": [
+      "expanding",
+      "partnership",
+      "gsa",
+      "bring"
     ]
   },
   {
@@ -789,20 +801,6 @@
     "tags": [
       "usage",
       "policy"
-    ]
-  },
-  {
-    "id": "cbmizefvx3lxte9srkrrlthcqk54nv9hr0e5akl4lvnfanczwxu2cexpb2tyd3m4bgtfbwx6ekvpouw5",
-    "lab": "Anthropic",
-    "title": "Introducing the Anthropic Cyber Mission",
-    "summary": "",
-    "date": "2026-10-08T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SRkRRLThCQk54NV9hR0E5akl4LVNfanczWXU2cExpb2tyd3M4bGtFbWx6ekVPOUw5bDRzRjNhSlJ3ZjJqQklIMTVMNmNjXzNwaGtsb1lJeVItOXVaMlVuQk1BelE?oc=5",
-    "tags": [
-      "anthropic",
-      "cyber",
-      "mission"
     ]
   },
   {
