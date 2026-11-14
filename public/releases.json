@@ -1,17 +1,118 @@
 [
   {
-    "id": "cbmivefvx3lxte9vb2y2ys15s1nvq2pmngppnzdkaklaq3hhrku4wnoysvnjnwz0r3zbtgfeu1pyntb1",
-    "lab": "Mistral",
-    "title": "Build Enterprise Agents, Workflows & Apps in Mistral Studio",
+    "id": "https-huggingface-co-blog-nvidia-simready-assets-robot-pick-and-place",
+    "lab": "Hugging Face",
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
     "summary": "",
-    "date": "2026-11-13T12:05:47.000Z",
+    "date": "2026-11-13T18:00:39.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vb2Y2YS15S1NVQ2pMNGpPNzdkaklaQ3hHRkU4WnoySVNJNWZ0R3ZBTGFEU1pyNTB1ZmtlUmozdTJGUkJkV2ljNVZGMFA0UFlEOEg4OQ?oc=5",
+    "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
     "tags": [
       "build",
-      "enterprise",
-      "agents",
-      "workflows"
+      "robot",
+      "pick",
+      "place"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-allenai-xybench",
+    "lab": "Hugging Face",
+    "title": "XYBench: Helping with the problem behind the question",
+    "summary": "",
+    "date": "2026-11-13T17:02:35.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/allenai/xybench",
+    "tags": [
+      "xybench",
+      "helping",
+      "problem",
+      "behind"
+    ]
+  },
+  {
+    "id": "cbmiwkfvx3lxtfawb3ptzljyme5oaxziy0xravnmy0fmy1awrudwnf9ttwhhbtrjcgk5uhjvetiyq04y",
+    "lab": "DeepSeek",
+    "title": "The full DeepSeek App experience, now via API",
+    "summary": "",
+    "date": "2026-11-13T16:08:56.000Z",
+    "category": "api",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwb3ptZlJyME5OaXZIY0xraVNmY0FmY1AwRUdwNF9TTWhHbTRjcGk5UHJveTIyQ04yZzJOUEJUd3d1UG0wejVWQ3pSTkZzTGk1TFRIal9WWEFyUQ?oc=5",
+    "tags": [
+      "full",
+      "deepseek",
+      "app",
+      "experience"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-introducing-chatgpt-wallet",
+    "lab": "OpenAI",
+    "title": "Introducing ChatGPT Wallet",
+    "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "date": "2026-11-13T15:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/introducing-chatgpt-wallet",
+    "tags": [
+      "chatgpt",
+      "wallet",
+      "secure",
+      "way"
+    ]
+  },
+  {
+    "id": "cbmiu0fvx3lxte5lumpmlwpvddcxavzznkdonlaxcvhts2tlwk81tdjozufpemjkx3bsq0jsyuvrume5",
+    "lab": "DeepSeek",
+    "title": "Text to Speech",
+    "summary": "",
+    "date": "2026-11-13T14:39:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LUmpMLWpvdDcxaVZZNkdoNlAxcVhTS2tLWk81TDJOZUFpemJkX3BSQ0JSYUVrUmE5bGtmcTZrMmpyQjR0SzREWlZLRVlSU3FDWnM0?oc=5",
+    "tags": [
+      "text",
+      "speech"
+    ]
+  },
+  {
+    "id": "cbmiy0fvx3lxte9vbeozrdl2strrytdmylvkvhvjq1l2dtjpy3rhevhhwnncoefluljsztzgruffm2d5",
+    "lab": "DeepSeek",
+    "title": "Build a Chatbot",
+    "summary": "",
+    "date": "2026-11-13T14:38:56.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VbEozRDl2STRRYTdmYlVkVHVJQ1l2dTJPY3RHeVhhWnNCOEFlUlJSZTZGRUFfM2d5MkVUdUdZakJqMGpHb0VSOXhHX0hJT1NNLTlaSzBFMUcwOEJWUlluMDloOA?oc=5",
+    "tags": [
+      "build",
+      "chatbot"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-ggml-org-llama-cpp-v1",
+    "lab": "Hugging Face",
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "summary": "",
+    "date": "2026-11-13T14:05:22.000Z",
+    "category": "model",
+    "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "tags": [
+      "llama",
+      "cpp",
+      "stronger",
+      "foundation"
+    ]
+  },
+  {
+    "id": "https-openai-com-business-customer-stories-shield",
+    "lab": "OpenAI",
+    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+    "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+    "date": "2026-11-13T08:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/business/customer-stories/shield",
+    "tags": [
+      "technicians",
+      "shield",
+      "hand",
+      "off"
     ]
   },
   {
@@ -363,36 +464,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-introducing-businesses-chatgpt",
-    "lab": "OpenAI",
-    "title": "Introducing Businesses in ChatGPT",
-    "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-    "date": "2026-11-10T10:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/introducing-businesses-chatgpt",
-    "tags": [
-      "chatgpt",
-      "business",
-      "businesses",
-      "manage"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-closing-ai-guidance-gap-education",
-    "lab": "OpenAI",
-    "title": "Closing the AI guidance gap in education",
-    "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-    "date": "2026-11-10T09:00:00.000Z",
-    "category": "research",
-    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-    "tags": [
-      "education",
-      "closing",
-      "guidance",
-      "gap"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-hub-gcp-marketplace",
     "lab": "Hugging Face",
     "title": "Pay for Hugging Face Hub with your Google Cloud Account",
@@ -423,21 +494,6 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-nvidia-nemotron-personas-finance-japan",
-    "lab": "Hugging Face",
-    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-    "summary": "",
-    "date": "2026-11-09T15:05:57.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-    "tags": [
-      "japan",
-      "nemotron",
-      "personas",
-      "finance"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-amazon-higher-order-pruning-experts",
     "lab": "Hugging Face",
     "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
@@ -453,33 +509,18 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-allenai-toyblocks",
-    "lab": "Hugging Face",
-    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+    "id": "cbmivefvx3lxte9vb2y2ys15s1nvq2pmngppnzdkaklaq3hhrku4wnoysvnjnwz0r3zbtgfeu1pyntb1",
+    "lab": "Mistral",
+    "title": "Build Enterprise Agents, Workflows & Apps in Mistral Studio",
     "summary": "",
-    "date": "2026-11-06T14:00:48.000Z",
+    "date": "2026-11-05T15:49:26.000Z",
     "category": "feature",
-    "url": "https://huggingface.co/blog/allenai/toyblocks",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vb2Y2YS15S1NVQ2pMNGpPNzdkaklaQ3hHRkU4WnoySVNJNWZ0R3ZBTGFEU1pyNTB1ZmtlUmozdTJGUkJkV2ljNVZGMFA0UFlEOEg4OQ?oc=5",
     "tags": [
-      "toyblocks",
-      "controlled",
-      "world",
-      "robot"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-open-asr-leaderboard-liva",
-    "lab": "Hugging Face",
-    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-    "summary": "",
-    "date": "2026-11-06T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-    "tags": [
-      "egyptian",
-      "nigerian",
-      "english",
-      "join"
+      "build",
+      "enterprise",
+      "agents",
+      "workflows"
     ]
   },
   {
@@ -511,6 +552,20 @@
     ]
   },
   {
+    "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
+    "lab": "xAI",
+    "title": "News: Research, Product & Company Updates",
+    "summary": "",
+    "date": "2026-11-02T08:00:00.000Z",
+    "category": "research",
+    "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
+    "tags": [
+      "research",
+      "product",
+      "company"
+    ]
+  },
+  {
     "id": "cbmip0fvx3lxtfb3qjzsmfpsy09hlvvknmmzdfpfr1nvc0qyujhjoxy0vuzhtu1tck1objkzrhvrdenk",
     "lab": "xAI",
     "title": "Giving every team a data scientist with Grok Bot",
@@ -523,20 +578,6 @@
       "every",
       "team",
       "data"
-    ]
-  },
-  {
-    "id": "cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq",
-    "lab": "xAI",
-    "title": "News: Research, Product & Company Updates",
-    "summary": "",
-    "date": "2026-11-02T08:00:00.000Z",
-    "category": "research",
-    "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
-    "tags": [
-      "research",
-      "product",
-      "company"
     ]
   },
   {
@@ -557,16 +598,16 @@
   {
     "id": "cbmikafbvv95cuxnte8xtmrrruztqndpovdctufqq2zxsjl5tk4zexb0rzhsvzryaut3s091y3fmrnvv",
     "lab": "Anthropic",
-    "title": "AI for Science expands to foundations and research institutions",
+    "title": "AI for Science expands to foundations and institutions",
     "summary": "",
     "date": "2026-10-28T07:00:00.000Z",
-    "category": "research",
+    "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTE8xTmRrRUZtQndpOVdCTUFQQ2ZXSjl5Tk4zeXB0RzhSVzRYaUt3S091Y3FmRnVvT1c0UXhIVW0xZF83R2c1VUwtNjhNUkcxYWI0MFRXWXcxT2ZLdkF6bUd5V0JpTWJla3BzOWNORmdFN0ZTUkplbmZRcjRNdm5GSUVDUXp5QWwxNkRoN3JCVXo?oc=5",
     "tags": [
       "science",
       "expands",
       "foundations",
-      "research"
+      "institutions"
     ]
   },
   {
@@ -582,21 +623,6 @@
       "partnership",
       "gsa",
       "bring"
-    ]
-  },
-  {
-    "id": "cbmir0fvx3lxte82oux3q0jobgxhcuvamlhkml9fvknkouvusvlbs1nymfpyze55vl9zc2xwrmtcams1",
-    "lab": "xAI",
-    "title": "Your next sales teammate should be a Grok Bot",
-    "summary": "",
-    "date": "2026-10-27T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE82OUx3Q0JobGxhcUVaMlhkMl9fVkNKOUVuSVlBS1NyMFpyZE55Vl9zc2xWRmtCams1M3lwTjhKaDcxMnJUR19n?oc=5",
-    "tags": [
-      "next",
-      "sales",
-      "teammate",
-      "should"
     ]
   },
   {
@@ -667,6 +693,21 @@
     "date": "2026-10-20T17:03:24.000Z",
     "category": "feature",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Kck1SMnp3Z1lwZ1VjWk1hMm9lYW1GRnhuODNtTWJuVS1TNUtPdzU2YVdrRXRmbEdYVWlJM2Y1cVo0QzRpR1dBM2hpRnl3ZEs2WmlGSmUwcw?oc=5"
+  },
+  {
+    "id": "cbmir0fvx3lxtfblnudfmtjkempvauxhenhjbnnzcnzhanzlukvcser2mvlvctvxngdqn05rsw9hzxat",
+    "lab": "xAI",
+    "title": "Using Grok Bot to detect and respond to incidents",
+    "summary": "",
+    "date": "2026-10-20T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBLNUdfMTJkempVaUxhenhjbnNzcnZHanZLUkVCSER2MVlvcTVXNGdQN05RSW9hZXAtYjlGSWUyYUVkTEFiX0Jv?oc=5",
+    "tags": [
+      "grok",
+      "bot",
+      "detect",
+      "respond"
+    ]
   },
   {
     "id": "cbmix0fvx3lxtfbwmufbangwvddnuxbleefmoetsvfyzn3nsu1lvdvduql9infvtn0hfdevkns1yakjc",
@@ -791,16 +832,17 @@
     ]
   },
   {
-    "id": "cbmizkfvx3lxte9jb0fysc1vrgpqd1beexa2tfdubuuwznjly19xqji1x21oz2xryzfiz2dfu283yxvg",
+    "id": "cbmizefvx3lxte9srkrrlthcqk54nv9hr0e5akl4lvnfanczwxu2cexpb2tyd3m4bgtfbwx6ekvpouw5",
     "lab": "Anthropic",
-    "title": "2026 Usage Policy update",
+    "title": "Introducing the Anthropic Cyber Mission",
     "summary": "",
     "date": "2026-10-08T07:00:00.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jb0FYSC1vRGpQd1BEeXA2TFdubUUwZnJlY19xQjI1X21oZ2xrYzFiZ2dfU283YXVGX2pxU05kUGZCV0lLUE5GZ2pjcnBQbFFGb2dHSDdtd1Zhd1NaZUJ6b1lIQXlGQQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SRkRRLThCQk54NV9hR0E5akl4LVNfanczWXU2cExpb2tyd3M4bGtFbWx6ekVPOUw5bDRzRjNhSlJ3ZjJqQklIMTVMNmNjXzNwaGtsb1lJeVItOXVaMlVuQk1BelE?oc=5",
     "tags": [
-      "usage",
-      "policy"
+      "anthropic",
+      "cyber",
+      "mission"
     ]
   },
   {
@@ -829,48 +871,6 @@
       "opens",
       "munich",
       "hub"
-    ]
-  },
-  {
-    "id": "cbmiqefvx3lxte5hynpiunhxb2dgrnddavzcowjwy2dsr1bib1bvsdfjz3nfanmtwjy5etvozu1mck9s",
-    "lab": "xAI",
-    "title": "Team Bots: shared AI teammates that learn as they work",
-    "summary": "",
-    "date": "2026-09-28T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5HYnpIUnhxb2dGRndDaVZCOWJWY2dSR1Bib1BvSDFJZ3NFanMtWjY5eTVoZU1Mck9SMDN0NTVXYU0?oc=5",
-    "tags": [
-      "team",
-      "bots",
-      "shared",
-      "teammates"
-    ]
-  },
-  {
-    "id": "cbmivkfvx3lxte43avl1aknmbudsc3v3rxdmbnldrwflsepestitltq5aevsdvq2x1ncb0duuwztvkoz",
-    "lab": "xAI",
-    "title": "How SpaceXSI is using Grok Bot to scale customer support",
-    "summary": "",
-    "date": "2026-09-22T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43aVl1akNMbUdsc3V3RXdMbnlDRWFlSEpESTItLTQ5aEVsdVQ2X1NCb0duUWZTVkozVDhOd21KWEg4YlU3RE5fQWp2YnV4ZUFmaUVxRGV3?oc=5",
-    "tags": [
-      "spacexsi",
-      "grok",
-      "bot",
-      "scale"
-    ]
-  },
-  {
-    "id": "cbmip0fvx3lxtfbqb2x1bzq3ukxtvdfcuvrjodmzbdj5ytg3nmh5q2luzgdutmctzmo1ukp4c3rvduhf",
-    "lab": "xAI",
-    "title": "Introducing Grok 4.7",
-    "summary": "",
-    "date": "2026-09-21T07:00:00.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBqb2x1bzQ3UkxTVDFCUVRjODMzbDJ5YTg3Nmh5Q2luZGdUTmctZmo1Ukp4c3RVdUhfSGZFc1p5SQ?oc=5",
-    "tags": [
-      "grok"
     ]
   }
 ]

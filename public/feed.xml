@@ -5,15 +5,78 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 13:51:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 12:54:46 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Build Enterprise Agents, Workflows &amp; Apps in Mistral Studio</title>
-      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vb2Y2YS15S1NVQ2pMNGpPNzdkaklaQ3hHRkU4WnoySVNJNWZ0R3ZBTGFEU1pyNTB1ZmtlUmozdTJGUkJkV2ljNVZGMFA0UFlEOEg4OQ?oc=5</link>
-      <guid isPermaLink="false">cbmivefvx3lxte9vb2y2ys15s1nvq2pmngppnzdkaklaq3hhrku4wnoysvnjnwz0r3zbtgfeu1pyntb1</guid>
-      <pubDate>Fri, 13 Nov 2026 12:05:47 GMT</pubDate>
-      <description>Source: Mistral</description>
-      <source url="https://ai-pulse.vercel.app">Mistral</source>
+      <title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
+      <link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-nvidia-simready-assets-robot-pick-and-place</guid>
+      <pubDate>Fri, 13 Nov 2026 18:00:39 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>XYBench: Helping with the problem behind the question</title>
+      <link>https://huggingface.co/blog/allenai/xybench</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-allenai-xybench</guid>
+      <pubDate>Fri, 13 Nov 2026 17:02:35 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>The full DeepSeek App experience, now via API</title>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwb3ptZlJyME5OaXZIY0xraVNmY0FmY1AwRUdwNF9TTWhHbTRjcGk5UHJveTIyQ04yZzJOUEJUd3d1UG0wejVWQ3pSTkZzTGk1TFRIal9WWEFyUQ?oc=5</link>
+      <guid isPermaLink="false">cbmiwkfvx3lxtfawb3ptzljyme5oaxziy0xravnmy0fmy1awrudwnf9ttwhhbtrjcgk5uhjvetiyq04y</guid>
+      <pubDate>Fri, 13 Nov 2026 16:08:56 GMT</pubDate>
+      <description>Source: DeepSeek</description>
+      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
+      <category>api</category>
+    </item>
+    <item>
+      <title>Introducing ChatGPT Wallet</title>
+      <link>https://openai.com/index/introducing-chatgpt-wallet</link>
+      <guid isPermaLink="false">https-openai-com-index-introducing-chatgpt-wallet</guid>
+      <pubDate>Fri, 13 Nov 2026 15:00:00 GMT</pubDate>
+      <description>Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Text to Speech</title>
+      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LUmpMLWpvdDcxaVZZNkdoNlAxcVhTS2tLWk81TDJOZUFpemJkX3BSQ0JSYUVrUmE5bGtmcTZrMmpyQjR0SzREWlZLRVlSU3FDWnM0?oc=5</link>
+      <guid isPermaLink="false">cbmiu0fvx3lxte5lumpmlwpvddcxavzznkdonlaxcvhts2tlwk81tdjozufpemjkx3bsq0jsyuvrume5</guid>
+      <pubDate>Fri, 13 Nov 2026 14:39:00 GMT</pubDate>
+      <description>Source: DeepSeek</description>
+      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Build a Chatbot</title>
+      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VbEozRDl2STRRYTdmYlVkVHVJQ1l2dTJPY3RHeVhhWnNCOEFlUlJSZTZGRUFfM2d5MkVUdUdZakJqMGpHb0VSOXhHX0hJT1NNLTlaSzBFMUcwOEJWUlluMDloOA?oc=5</link>
+      <guid isPermaLink="false">cbmiy0fvx3lxte9vbeozrdl2strrytdmylvkvhvjq1l2dtjpy3rhevhhwnncoefluljsztzgruffm2d5</guid>
+      <pubDate>Fri, 13 Nov 2026 14:38:56 GMT</pubDate>
+      <description>Source: DeepSeek</description>
+      <source url="https://ai-pulse.vercel.app">DeepSeek</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
+      <link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
+      <guid isPermaLink="false">https-huggingface-co-blog-ggml-org-llama-cpp-v1</guid>
+      <pubDate>Fri, 13 Nov 2026 14:05:22 GMT</pubDate>
+      <description>Source: Hugging Face</description>
+      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <category>model</category>
+    </item>
+    <item>
+      <title>Shield helps technicians hand off legacy portal work with OpenAI</title>
+      <link>https://openai.com/business/customer-stories/shield</link>
+      <guid isPermaLink="false">https-openai-com-business-customer-stories-shield</guid>
+      <pubDate>Fri, 13 Nov 2026 08:00:00 GMT</pubDate>
+      <description>Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
       <category>feature</category>
     </item>
     <item>
@@ -224,24 +287,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Introducing Businesses in ChatGPT</title>
-      <link>https://openai.com/index/introducing-businesses-chatgpt</link>
-      <guid isPermaLink="false">https-openai-com-index-introducing-businesses-chatgpt</guid>
-      <pubDate>Tue, 10 Nov 2026 10:00:00 GMT</pubDate>
-      <description>Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Closing the AI guidance gap in education</title>
-      <link>https://openai.com/index/closing-ai-guidance-gap-education</link>
-      <guid isPermaLink="false">https-openai-com-index-closing-ai-guidance-gap-education</guid>
-      <pubDate>Tue, 10 Nov 2026 09:00:00 GMT</pubDate>
-      <description>New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>research</category>
-    </item>
-    <item>
       <title>Pay for Hugging Face Hub with your Google Cloud Account</title>
       <link>https://huggingface.co/blog/hub-gcp-marketplace</link>
       <guid isPermaLink="false">https-huggingface-co-blog-hub-gcp-marketplace</guid>
@@ -260,15 +305,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context</title>
-      <link>https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-nvidia-nemotron-personas-finance-japan</guid>
-      <pubDate>Mon, 09 Nov 2026 15:05:57 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together</title>
       <link>https://huggingface.co/blog/amazon/higher-order-pruning-experts</link>
       <guid isPermaLink="false">https-huggingface-co-blog-amazon-higher-order-pruning-experts</guid>
@@ -278,21 +314,12 @@
       <category>feature</category>
     </item>
     <item>
-      <title>ToyBlocks: A controlled world for robot learning and evaluation</title>
-      <link>https://huggingface.co/blog/allenai/toyblocks</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-allenai-toyblocks</guid>
-      <pubDate>Fri, 06 Nov 2026 14:00:48 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Egyptian and Nigerian English join the Open ASR Leaderboard</title>
-      <link>https://huggingface.co/blog/open-asr-leaderboard-liva</link>
-      <guid isPermaLink="false">https-huggingface-co-blog-open-asr-leaderboard-liva</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-      <description>Source: Hugging Face</description>
-      <source url="https://ai-pulse.vercel.app">Hugging Face</source>
+      <title>Build Enterprise Agents, Workflows &amp; Apps in Mistral Studio</title>
+      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vb2Y2YS15S1NVQ2pMNGpPNzdkaklaQ3hHRkU4WnoySVNJNWZ0R3ZBTGFEU1pyNTB1ZmtlUmozdTJGUkJkV2ljNVZGMFA0UFlEOEg4OQ?oc=5</link>
+      <guid isPermaLink="false">cbmivefvx3lxte9vb2y2ys15s1nvq2pmngppnzdkaklaq3hhrku4wnoysvnjnwz0r3zbtgfeu1pyntb1</guid>
+      <pubDate>Thu, 05 Nov 2026 15:49:26 GMT</pubDate>
+      <description>Source: Mistral</description>
+      <source url="https://ai-pulse.vercel.app">Mistral</source>
       <category>feature</category>
     </item>
     <item>
@@ -314,15 +341,6 @@
       <category>model</category>
     </item>
     <item>
-      <title>Giving every team a data scientist with Grok Bot</title>
-      <link>https://news.google.com/rss/articles/CBMiP0FVX3lxTFB3QjZSMFpSY09hLVVkNmMzdFpFR1Nvc0QyUjhJOXY0VUZhTU1Tck1objkzRHVRdENkMzh6TnZQbw?oc=5</link>
-      <guid isPermaLink="false">cbmip0fvx3lxtfb3qjzsmfpsy09hlvvknmmzdfpfr1nvc0qyujhjoxy0vuzhtu1tck1objkzrhvrdenk</guid>
-      <pubDate>Mon, 02 Nov 2026 08:00:00 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>News: Research, Product &amp; Company Updates</title>
       <link>https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5</link>
       <guid isPermaLink="false">cbmim0fvx3lxtfa5m2w2tm1kd0l0ltnhwuk0rgfsrve2v3p0a0o2dzlmrlducglxtfhusjlkwq</guid>
@@ -330,6 +348,15 @@
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
       <category>research</category>
+    </item>
+    <item>
+      <title>Giving every team a data scientist with Grok Bot</title>
+      <link>https://news.google.com/rss/articles/CBMiP0FVX3lxTFB3QjZSMFpSY09hLVVkNmMzdFpFR1Nvc0QyUjhJOXY0VUZhTU1Tck1objkzRHVRdENkMzh6TnZQbw?oc=5</link>
+      <guid isPermaLink="false">cbmip0fvx3lxtfb3qjzsmfpsy09hlvvknmmzdfpfr1nvc0qyujhjoxy0vuzhtu1tck1objkzrhvrdenk</guid>
+      <pubDate>Mon, 02 Nov 2026 08:00:00 GMT</pubDate>
+      <description>Source: xAI</description>
+      <source url="https://ai-pulse.vercel.app">xAI</source>
+      <category>feature</category>
     </item>
     <item>
       <title>Mistral Large 4 (Le Chonk) is now open weight</title>
@@ -341,13 +368,13 @@
       <category>model</category>
     </item>
     <item>
-      <title>AI for Science expands to foundations and research institutions</title>
+      <title>AI for Science expands to foundations and institutions</title>
       <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNTE8xTmRrRUZtQndpOVdCTUFQQ2ZXSjl5Tk4zeXB0RzhSVzRYaUt3S091Y3FmRnVvT1c0UXhIVW0xZF83R2c1VUwtNjhNUkcxYWI0MFRXWXcxT2ZLdkF6bUd5V0JpTWJla3BzOWNORmdFN0ZTUkplbmZRcjRNdm5GSUVDUXp5QWwxNkRoN3JCVXo?oc=5</link>
       <guid isPermaLink="false">cbmikafbvv95cuxnte8xtmrrruztqndpovdctufqq2zxsjl5tk4zexb0rzhsvzryaut3s091y3fmrnvv</guid>
       <pubDate>Wed, 28 Oct 2026 07:00:00 GMT</pubDate>
       <description>Source: Anthropic</description>
       <source url="https://ai-pulse.vercel.app">Anthropic</source>
-      <category>research</category>
+      <category>feature</category>
     </item>
     <item>
       <title>Expanding our partnership with GSA to bring Claude to all levels of government</title>
@@ -356,15 +383,6 @@
       <pubDate>Tue, 27 Oct 2026 07:00:00 GMT</pubDate>
       <description>Source: Anthropic</description>
       <source url="https://ai-pulse.vercel.app">Anthropic</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Your next sales teammate should be a Grok Bot</title>
-      <link>https://news.google.com/rss/articles/CBMiR0FVX3lxTE82OUx3Q0JobGxhcUVaMlhkMl9fVkNKOUVuSVlBS1NyMFpyZE55Vl9zc2xWRmtCams1M3lwTjhKaDcxMnJUR19n?oc=5</link>
-      <guid isPermaLink="false">cbmir0fvx3lxte82oux3q0jobgxhcuvamlhkml9fvknkouvusvlbs1nymfpyze55vl9zc2xwrmtcams1</guid>
-      <pubDate>Tue, 27 Oct 2026 07:00:00 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
       <category>feature</category>
     </item>
     <item>
@@ -410,6 +428,15 @@
       <pubDate>Tue, 20 Oct 2026 17:03:24 GMT</pubDate>
       <description>Source: Anthropic</description>
       <source url="https://ai-pulse.vercel.app">Anthropic</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>Using Grok Bot to detect and respond to incidents</title>
+      <link>https://news.google.com/rss/articles/CBMiR0FVX3lxTFBLNUdfMTJkempVaUxhenhjbnNzcnZHanZLUkVCSER2MVlvcTVXNGdQN05RSW9hZXAtYjlGSWUyYUVkTEFiX0Jv?oc=5</link>
+      <guid isPermaLink="false">cbmir0fvx3lxtfblnudfmtjkempvauxhenhjbnnzcnzhanzlukvcser2mvlvctvxngdqn05rsw9hzxat</guid>
+      <pubDate>Tue, 20 Oct 2026 07:00:00 GMT</pubDate>
+      <description>Source: xAI</description>
+      <source url="https://ai-pulse.vercel.app">xAI</source>
       <category>feature</category>
     </item>
     <item>
@@ -494,9 +521,9 @@
       <category>feature</category>
     </item>
     <item>
-      <title>2026 Usage Policy update</title>
-      <link>https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jb0FYSC1vRGpQd1BEeXA2TFdubUUwZnJlY19xQjI1X21oZ2xrYzFiZ2dfU283YXVGX2pxU05kUGZCV0lLUE5GZ2pjcnBQbFFGb2dHSDdtd1Zhd1NaZUJ6b1lIQXlGQQ?oc=5</link>
-      <guid isPermaLink="false">cbmizkfvx3lxte9jb0fysc1vrgpqd1beexa2tfdubuuwznjly19xqji1x21oz2xryzfiz2dfu283yxvg</guid>
+      <title>Introducing the Anthropic Cyber Mission</title>
+      <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SRkRRLThCQk54NV9hR0E5akl4LVNfanczWXU2cExpb2tyd3M4bGtFbWx6ekVPOUw5bDRzRjNhSlJ3ZjJqQklIMTVMNmNjXzNwaGtsb1lJeVItOXVaMlVuQk1BelE?oc=5</link>
+      <guid isPermaLink="false">cbmizefvx3lxte9srkrrlthcqk54nv9hr0e5akl4lvnfanczwxu2cexpb2tyd3m4bgtfbwx6ekvpouw5</guid>
       <pubDate>Thu, 08 Oct 2026 07:00:00 GMT</pubDate>
       <description>Source: Anthropic</description>
       <source url="https://ai-pulse.vercel.app">Anthropic</source>
@@ -519,33 +546,6 @@
       <description>Source: Mistral</description>
       <source url="https://ai-pulse.vercel.app">Mistral</source>
       <category>feature</category>
-    </item>
-    <item>
-      <title>Team Bots: shared AI teammates that learn as they work</title>
-      <link>https://news.google.com/rss/articles/CBMiQEFVX3lxTE5HYnpIUnhxb2dGRndDaVZCOWJWY2dSR1Bib1BvSDFJZ3NFanMtWjY5eTVoZU1Mck9SMDN0NTVXYU0?oc=5</link>
-      <guid isPermaLink="false">cbmiqefvx3lxte5hynpiunhxb2dgrnddavzcowjwy2dsr1bib1bvsdfjz3nfanmtwjy5etvozu1mck9s</guid>
-      <pubDate>Mon, 28 Sep 2026 07:00:00 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>How SpaceXSI is using Grok Bot to scale customer support</title>
-      <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE43aVl1akNMbUdsc3V3RXdMbnlDRWFlSEpESTItLTQ5aEVsdVQ2X1NCb0duUWZTVkozVDhOd21KWEg4YlU3RE5fQWp2YnV4ZUFmaUVxRGV3?oc=5</link>
-      <guid isPermaLink="false">cbmivkfvx3lxte43avl1aknmbudsc3v3rxdmbnldrwflsepestitltq5aevsdvq2x1ncb0duuwztvkoz</guid>
-      <pubDate>Tue, 22 Sep 2026 07:00:00 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Introducing Grok 4.7</title>
-      <link>https://news.google.com/rss/articles/CBMiP0FVX3lxTFBqb2x1bzQ3UkxTVDFCUVRjODMzbDJ5YTg3Nmh5Q2luZGdUTmctZmo1Ukp4c3RVdUhfSGZFc1p5SQ?oc=5</link>
-      <guid isPermaLink="false">cbmip0fvx3lxtfbqb2x1bzq3ukxtvdfcuvrjodmzbdj5ytg3nmh5q2luzgdutmctzmo1ukp4c3rvduhf</guid>
-      <pubDate>Mon, 21 Sep 2026 07:00:00 GMT</pubDate>
-      <description>Source: xAI</description>
-      <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>model</category>
     </item>
   </channel>
 </rss>
