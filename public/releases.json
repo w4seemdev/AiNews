@@ -60,19 +60,6 @@
     ]
   },
   {
-    "id": "cbmiu0fvx3lxte5lumpmlwpvddcxavzznkdonlaxcvhts2tlwk81tdjozufpemjkx3bsq0jsyuvrume5",
-    "lab": "DeepSeek",
-    "title": "Text to Speech",
-    "summary": "",
-    "date": "2026-11-13T14:39:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LUmpMLWpvdDcxaVZZNkdoNlAxcVhTS2tLWk81TDJOZUFpemJkX3BSQ0JSYUVrUmE5bGtmcTZrMmpyQjR0SzREWlZLRVlSU3FDWnM0?oc=5",
-    "tags": [
-      "text",
-      "speech"
-    ]
-  },
-  {
     "id": "cbmiy0fvx3lxte9vbeozrdl2strrytdmylvkvhvjq1l2dtjpy3rhevhhwnncoefluljsztzgruffm2d5",
     "lab": "DeepSeek",
     "title": "Build a Chatbot",
@@ -598,16 +585,16 @@
   {
     "id": "cbmikafbvv95cuxnte8xtmrrruztqndpovdctufqq2zxsjl5tk4zexb0rzhsvzryaut3s091y3fmrnvv",
     "lab": "Anthropic",
-    "title": "AI for Science expands to foundations and institutions",
+    "title": "AI for Science expands to foundations and research institutions",
     "summary": "",
     "date": "2026-10-28T07:00:00.000Z",
-    "category": "feature",
+    "category": "research",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTE8xTmRrRUZtQndpOVdCTUFQQ2ZXSjl5Tk4zeXB0RzhSVzRYaUt3S091Y3FmRnVvT1c0UXhIVW0xZF83R2c1VUwtNjhNUkcxYWI0MFRXWXcxT2ZLdkF6bUd5V0JpTWJla3BzOWNORmdFN0ZTUkplbmZRcjRNdm5GSUVDUXp5QWwxNkRoN3JCVXo?oc=5",
     "tags": [
       "science",
       "expands",
       "foundations",
-      "institutions"
+      "research"
     ]
   },
   {
@@ -683,30 +670,6 @@
       "advances",
       "engineering",
       "nvidia"
-    ]
-  },
-  {
-    "id": "cbmiv0fvx3lxte1kck1smnp3z1lwz1vjwk1hmm9lyw1grnhuodnttwjuvs1tnutpdzu2yvdrrxrmbedy",
-    "lab": "Anthropic",
-    "title": "Announcements",
-    "summary": "",
-    "date": "2026-10-20T17:03:24.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Kck1SMnp3Z1lwZ1VjWk1hMm9lYW1GRnhuODNtTWJuVS1TNUtPdzU2YVdrRXRmbEdYVWlJM2Y1cVo0QzRpR1dBM2hpRnl3ZEs2WmlGSmUwcw?oc=5"
-  },
-  {
-    "id": "cbmir0fvx3lxtfblnudfmtjkempvauxhenhjbnnzcnzhanzlukvcser2mvlvctvxngdqn05rsw9hzxat",
-    "lab": "xAI",
-    "title": "Using Grok Bot to detect and respond to incidents",
-    "summary": "",
-    "date": "2026-10-20T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBLNUdfMTJkempVaUxhenhjbnNzcnZHanZLUkVCSER2MVlvcTVXNGdQN05RSW9hZXAtYjlGSWUyYUVkTEFiX0Jv?oc=5",
-    "tags": [
-      "grok",
-      "bot",
-      "detect",
-      "respond"
     ]
   },
   {
@@ -792,6 +755,19 @@
     ]
   },
   {
+    "id": "cbmiw0fvx3lxte40a2x1bxc2vhhzafl0slrhdghowjnqnhlkz3dgcwpzshnwufvhbuhwsky3zxvru3dx",
+    "lab": "Anthropic",
+    "title": "Preparing for the 2026 US midterms",
+    "summary": "",
+    "date": "2026-10-14T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40a2x1bXc2VHhZaFl0SlRhdGhoWjNqNHlKZ3dGcWpzSHNWUFVHbUhwSkY3ZXVrU3dXVWJGSEh5cUlvMjUzMm5YQ2E3VHF2cUFBZ3NneDJGTnQyVUk?oc=5",
+    "tags": [
+      "preparing",
+      "midterms"
+    ]
+  },
+  {
     "id": "cbmirefvx3lxte1moucxzkpjvvvyyjllowk1v0sxb1qyy3dvlwtpcdbfbepqqzldqzfpekdzsuvkbnho",
     "lab": "xAI",
     "title": "Introducing Grok Voice 3.0",
@@ -802,21 +778,6 @@
     "tags": [
       "grok",
       "voice"
-    ]
-  },
-  {
-    "id": "cbmiykfvx3lxtfbhwjfvmdhlchfwvkrudvf0nvlft3jvahbxtmplmuflzuhtm3u1zexnevrhvnlnndq2",
-    "lab": "Anthropic",
-    "title": "Strengthening our defenses against distillation attacks",
-    "summary": "",
-    "date": "2026-10-12T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhWjFvMDhlcHFwVkRUdVF0NVlFT3JVaHBxTmpLMUFlZUhtM3U1ZExneVRhVnlnNDQ2a0dndjM5UWF5R1FaOWxHbkVfUHo5QmRBZGRFQ2xlTkpKRDJQOGIzbjRR?oc=5",
-    "tags": [
-      "strengthening",
-      "defenses",
-      "against",
-      "distillation"
     ]
   },
   {
@@ -846,6 +807,19 @@
     ]
   },
   {
+    "id": "cbmizkfvx3lxte9jb0fysc1vrgpqd1beexa2tfdubuuwznjly19xqji1x21oz2xryzfiz2dfu283yxvg",
+    "lab": "Anthropic",
+    "title": "2026 Usage Policy update",
+    "summary": "",
+    "date": "2026-10-08T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jb0FYSC1vRGpQd1BEeXA2TFdubUUwZnJlY19xQjI1X21oZ2xrYzFiZ2dfU283YXVGX2pxU05kUGZCV0lLUE5GZ2pjcnBQbFFGb2dHSDdtd1Zhd1NaZUJ6b1lIQXlGQQ?oc=5",
+    "tags": [
+      "usage",
+      "policy"
+    ]
+  },
+  {
     "id": "cbmiukfvx3lxte55rwfreetwvxnoutdccnvmadllqmjslxnjbtk4bvznwnf2bme4azu1d0lztgx0wnht",
     "lab": "Mistral",
     "title": "Introducing Mistral Large 4",
@@ -871,6 +845,36 @@
       "opens",
       "munich",
       "hub"
+    ]
+  },
+  {
+    "id": "cbmiqefvx3lxte5hynpiunhxb2dgrnddavzcowjwy2dsr1bib1bvsdfjz3nfanmtwjy5etvozu1mck9s",
+    "lab": "xAI",
+    "title": "Team Bots: shared AI teammates that learn as they work",
+    "summary": "",
+    "date": "2026-09-28T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5HYnpIUnhxb2dGRndDaVZCOWJWY2dSR1Bib1BvSDFJZ3NFanMtWjY5eTVoZU1Mck9SMDN0NTVXYU0?oc=5",
+    "tags": [
+      "team",
+      "bots",
+      "shared",
+      "teammates"
+    ]
+  },
+  {
+    "id": "cbmivkfvx3lxte43avl1aknmbudsc3v3rxdmbnldrwflsepestitltq5aevsdvq2x1ncb0duuwztvkoz",
+    "lab": "xAI",
+    "title": "How SpaceXSI is using Grok Bot to scale customer support",
+    "summary": "",
+    "date": "2026-09-22T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43aVl1akNMbUdsc3V3RXdMbnlDRWFlSEpESTItLTQ5aEVsdVQ2X1NCb0duUWZTVkozVDhOd21KWEg4YlU3RE5fQWp2YnV4ZUFmaUVxRGV3?oc=5",
+    "tags": [
+      "spacexsi",
+      "grok",
+      "bot",
+      "scale"
     ]
   }
 ]
