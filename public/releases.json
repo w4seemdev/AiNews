@@ -1,5 +1,81 @@
 [
   {
+    "id": "https-blog-google-products-and-platforms-products-maps-ask-maps-holiday-travel-f",
+    "lab": "Google DeepMind",
+    "title": "New Ask Maps features to help with holiday travel and prep",
+    "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
+    "date": "2026-11-16T14:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_November_herosocial.max-600x600.format-webp.webp",
+    "tags": [
+      "ask",
+      "maps",
+      "features",
+      "holiday"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-lvmh-media-division-partnership",
+    "lab": "OpenAI",
+    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+    "date": "2026-11-16T09:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/lvmh-media-division-partnership",
+    "tags": [
+      "lvmh",
+      "media",
+      "division",
+      "partnership"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-the-kings-trust-and-openai",
+    "lab": "OpenAI",
+    "title": "The King’s Trust and OpenAI launch £1m partnership",
+    "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+    "date": "2026-11-16T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/the-kings-trust-and-openai",
+    "tags": [
+      "king",
+      "trust",
+      "openai",
+      "partnership"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-step-toward-defining-the-standard-model",
+    "lab": "OpenAI",
+    "title": "A step toward defining the Standard Model on a lattice",
+    "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+    "date": "2026-11-15T22:00:01.000Z",
+    "category": "model",
+    "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "tags": [
+      "standard",
+      "model",
+      "lattice",
+      "step"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-our-new-blog-for-science",
+    "lab": "OpenAI",
+    "title": "Our new blog for science",
+    "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+    "date": "2026-11-15T22:00:00.000Z",
+    "category": "research",
+    "url": "https://openai.com/index/our-new-blog-for-science",
+    "tags": [
+      "blog",
+      "science",
+      "openai",
+      "shares"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-nvidia-simready-assets-robot-pick-and-place",
     "lab": "Hugging Face",
     "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
@@ -222,21 +298,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-gilbert-tobin-sam-nickless",
-    "lab": "OpenAI",
-    "title": "Gilbert + Tobin rethinks the business of law with AI",
-    "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-    "date": "2026-11-12T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-    "tags": [
-      "gilbert",
-      "tobin",
-      "rethinks",
-      "business"
-    ]
-  },
-  {
     "id": "https-blog-google-innovation-and-ai-technology-developers-tools-gemini-decisions",
     "lab": "Google DeepMind",
     "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
@@ -300,21 +361,6 @@
     ]
   },
   {
-    "id": "https-openai-com-index-chatgpt-plus-for-veterans",
-    "lab": "OpenAI",
-    "title": "ChatGPT Plus for veterans and servicemembers",
-    "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-    "date": "2026-11-11T08:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-    "tags": [
-      "chatgpt",
-      "plus",
-      "veterans",
-      "servicemembers"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-qvac-botpsy",
     "lab": "Hugging Face",
     "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
@@ -342,21 +388,6 @@
       "pooling",
       "aware",
       "training"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-jiostar-vijay-seshadri",
-    "lab": "OpenAI",
-    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-    "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-    "date": "2026-11-11T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/jiostar-vijay-seshadri",
-    "tags": [
-      "jiostar",
-      "discovery",
-      "user",
-      "scale"
     ]
   },
   {
@@ -402,37 +433,6 @@
       "creative",
       "productivity",
       "tools"
-    ]
-  },
-  {
-    "id": "https-blog-google-innovation-and-ai-infrastructure-and-cloud-google-cloud-gemini",
-    "lab": "Google DeepMind",
-    "title": "Google Cloud launches Gemini for healthcare.",
-    "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-    "date": "2026-11-10T13:00:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp",
-    "tags": [
-      "google",
-      "cloud",
-      "gemini",
-      "healthcare"
-    ]
-  },
-  {
-    "id": "https-openai-com-index-helping-caregivers-use-ai-in-everyday-life",
-    "lab": "OpenAI",
-    "title": "Helping caregivers use AI in everyday life",
-    "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-    "date": "2026-11-10T12:00:00.000Z",
-    "category": "feature",
-    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-    "tags": [
-      "helping",
-      "caregivers",
-      "everyday",
-      "life"
     ]
   },
   {
@@ -658,6 +658,21 @@
     ]
   },
   {
+    "id": "cbmihgfbvv95cuxqbhvfztrusg1cam5rqllpvvrvvkitrnzwvvlwodvdwu54vm5jmza0m1dza09rt1kx",
+    "lab": "Anthropic",
+    "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+    "summary": "",
+    "date": "2026-10-21T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbHVFZTRuSG1Cam5rQllpVVRvVkItRnZwVVlWODVDWU54Vm5jMzA0M1dza09rT1kxbFNTbGVYWWtmdmVGdzQxUjJ0SkczUWFBd3l5MUFWSlN4dWc4Y0FDc1F4S2c0TGNyUGVESUo1MGJpR0VfVXdDYXhDUXNadkRob0ZuVkotUQ?oc=5",
+    "tags": [
+      "physicist",
+      "christopher",
+      "stubbs",
+      "joins"
+    ]
+  },
+  {
     "id": "cbmieefvx3lxte5erem1nkpawtg3mvnmoustwdzocjduuffxvulfczfvu3hsrgfrugdwsunltvdjsnr0",
     "lab": "Mistral",
     "title": "Mistral Advances AI for Engineering with NVIDIA",
@@ -687,13 +702,13 @@
     ]
   },
   {
-    "id": "cbmiwefvx3lxte9kztr4t290yy1kvwdwznbod01jskdnujbirexpmzh2annnrxq4y2hpr21tq1pubmvk",
+    "id": "cbmiwkfvx3lxte5svg45vei5nmftyxlesue5vjrcrkg1tk9sbwn5vggzze56bunvwhvcahgwa1p1nkzp",
     "lab": "DeepSeek",
     "title": "DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real",
     "summary": "",
     "date": "2026-10-17T07:00:00.000Z",
     "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kZTR4T290Yy1KVWdWZnBod01jSkdNUjBiRExPMzh2anNNRXQ4Y2hpR21TQ1pubmVKVDZ6VmhONzdnYzhoUG1xamRjZVhaRmhQNVZQcHlaVWE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sVG45VEI5NmFTYXlESUE5VjRCRkg1Tk9sbWN5VGgzZE56bUNvWHVCaHgwa1p1NkZPWWl1MXVzdnFsSjlxMUJsSlZHdldwbVNYWnN0SnJwWlliQQ?oc=5",
     "tags": [
       "deepseek",
       "flash",
@@ -715,13 +730,13 @@
     ]
   },
   {
-    "id": "cbmiu0fvx3lxte1wzvzfemlpehpqr1uyzwozttizwwluegqtntlwn29ovzfkne5xc2vza1fzmlb6yug2",
+    "id": "cbmiukfvx3lxtfbvrulmtenmmgezsxnisepobwj3uevidhqtzwg0m2tzwnj1wjvqbk1ioup5bc1ku3p5",
     "lab": "DeepSeek",
     "title": "Search",
     "summary": "",
-    "date": "2026-10-16T13:29:35.000Z",
+    "date": "2026-10-16T13:29:34.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wZVZFemlPeHpQR1UyZWozTTIzWWlueGQtNTlwN29oVzFKNE5xc2Vza1FzMlB6YUg2cnNQUW9scXN3cDZVUkFGRWdRRnIzSUhxUWZR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvRUlMTENmMGEzSXNISEpobWJ3UEVidHQtZWg0M2tZWnJ1WjVQbk1IOUp5bC1kU3p5eGFtM1hGWHhtbWE3ME8yRlRVcFZseXVpUGc?oc=5",
     "tags": [
       "search"
     ]
@@ -781,6 +796,21 @@
     ]
   },
   {
+    "id": "cbmiykfvx3lxtfbhwjfvmdhlchfwvkrudvf0nvlft3jvahbxtmplmuflzuhtm3u1zexnevrhvnlnndq2",
+    "lab": "Anthropic",
+    "title": "Strengthening our defenses against distillation attacks",
+    "summary": "",
+    "date": "2026-10-12T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhWjFvMDhlcHFwVkRUdVF0NVlFT3JVaHBxTmpLMUFlZUhtM3U1ZExneVRhVnlnNDQ2a0dndjM5UWF5R1FaOWxHbkVfUHo5QmRBZGRFQ2xlTkpKRDJQOGIzbjRR?oc=5",
+    "tags": [
+      "strengthening",
+      "defenses",
+      "against",
+      "distillation"
+    ]
+  },
+  {
     "id": "cbmir0fvx3lxte1xshzsr1pnauw0lxbebhzky0owdtz3n1hstlq1mgj5cm9nykrcoxgytkhfuhvmavph",
     "lab": "xAI",
     "title": "Introducing The X Subscription",
@@ -790,33 +820,6 @@
     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xSHZsR1pnaUw0LXBEbHZkY0owdTZ3N1hsTlQ1MGJ5cm9nYkRCOXgyTkhFUHVmaVphZ1FNU0xfWkFMN29jMnpN?oc=5",
     "tags": [
       "subscription"
-    ]
-  },
-  {
-    "id": "cbmizefvx3lxte9srkrrlthcqk54nv9hr0e5akl4lvnfanczwxu2cexpb2tyd3m4bgtfbwx6ekvpouw5",
-    "lab": "Anthropic",
-    "title": "Introducing the Anthropic Cyber Mission",
-    "summary": "",
-    "date": "2026-10-08T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SRkRRLThCQk54NV9hR0E5akl4LVNfanczWXU2cExpb2tyd3M4bGtFbWx6ekVPOUw5bDRzRjNhSlJ3ZjJqQklIMTVMNmNjXzNwaGtsb1lJeVItOXVaMlVuQk1BelE?oc=5",
-    "tags": [
-      "anthropic",
-      "cyber",
-      "mission"
-    ]
-  },
-  {
-    "id": "cbmizkfvx3lxte9jb0fysc1vrgpqd1beexa2tfdubuuwznjly19xqji1x21oz2xryzfiz2dfu283yxvg",
-    "lab": "Anthropic",
-    "title": "2026 Usage Policy update",
-    "summary": "",
-    "date": "2026-10-08T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jb0FYSC1vRGpQd1BEeXA2TFdubUUwZnJlY19xQjI1X21oZ2xrYzFiZ2dfU283YXVGX2pxU05kUGZCV0lLUE5GZ2pjcnBQbFFGb2dHSDdtd1Zhd1NaZUJ6b1lIQXlGQQ?oc=5",
-    "tags": [
-      "usage",
-      "policy"
     ]
   },
   {

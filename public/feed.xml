@@ -5,8 +5,53 @@
     <link>https://ai-pulse.vercel.app</link>
     <description>Model, feature, API, and research drops from the top AI labs.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 13:23:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 14:38:48 GMT</lastBuildDate>
     <atom:link href="https://ai-pulse.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>New Ask Maps features to help with holiday travel and prep</title>
+      <link>https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/</link>
+      <guid isPermaLink="false">https-blog-google-products-and-platforms-products-maps-ask-maps-holiday-travel-f</guid>
+      <pubDate>Mon, 16 Nov 2026 14:00:00 GMT</pubDate>
+      <description>Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features. (Source: Google DeepMind)</description>
+      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>LVMH’s Media Division announces strategic partnership with OpenAI</title>
+      <link>https://openai.com/index/lvmh-media-division-partnership</link>
+      <guid isPermaLink="false">https-openai-com-index-lvmh-media-division-partnership</guid>
+      <pubDate>Mon, 16 Nov 2026 09:00:00 GMT</pubDate>
+      <description>LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>The King’s Trust and OpenAI launch £1m partnership</title>
+      <link>https://openai.com/index/the-kings-trust-and-openai</link>
+      <guid isPermaLink="false">https-openai-com-index-the-kings-trust-and-openai</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description>The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>feature</category>
+    </item>
+    <item>
+      <title>A step toward defining the Standard Model on a lattice</title>
+      <link>https://openai.com/index/step-toward-defining-the-standard-model</link>
+      <guid isPermaLink="false">https-openai-com-index-step-toward-defining-the-standard-model</guid>
+      <pubDate>Sun, 15 Nov 2026 22:00:01 GMT</pubDate>
+      <description>Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>model</category>
+    </item>
+    <item>
+      <title>Our new blog for science</title>
+      <link>https://openai.com/index/our-new-blog-for-science</link>
+      <guid isPermaLink="false">https-openai-com-index-our-new-blog-for-science</guid>
+      <pubDate>Sun, 15 Nov 2026 22:00:00 GMT</pubDate>
+      <description>The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery. (Source: OpenAI)</description>
+      <source url="https://ai-pulse.vercel.app">OpenAI</source>
+      <category>research</category>
+    </item>
     <item>
       <title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
       <link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
@@ -143,15 +188,6 @@
       <category>research</category>
     </item>
     <item>
-      <title>Gilbert + Tobin rethinks the business of law with AI</title>
-      <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
-      <guid isPermaLink="false">https-openai-com-index-gilbert-tobin-sam-nickless</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-      <description>A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>Gemini Decisions API: Fast, calibrated multimodal decisions</title>
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
       <guid isPermaLink="false">https-blog-google-innovation-and-ai-technology-developers-tools-gemini-decisions</guid>
@@ -188,15 +224,6 @@
       <category>feature</category>
     </item>
     <item>
-      <title>ChatGPT Plus for veterans and servicemembers</title>
-      <link>https://openai.com/index/chatgpt-plus-for-veterans</link>
-      <guid isPermaLink="false">https-openai-com-index-chatgpt-plus-for-veterans</guid>
-      <pubDate>Wed, 11 Nov 2026 08:00:00 GMT</pubDate>
-      <description>More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
-      <category>feature</category>
-    </item>
-    <item>
       <title>BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model</title>
       <link>https://huggingface.co/blog/qvac/botpsy</link>
       <guid isPermaLink="false">https-huggingface-co-blog-qvac-botpsy</guid>
@@ -212,15 +239,6 @@
       <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
       <description>Source: Hugging Face</description>
       <source url="https://ai-pulse.vercel.app">Hugging Face</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>JioStar’s chief architect on AI discovery at 500M-user scale</title>
-      <link>https://openai.com/index/jiostar-vijay-seshadri</link>
-      <guid isPermaLink="false">https-openai-com-index-jiostar-vijay-seshadri</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
-      <description>JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
       <category>feature</category>
     </item>
     <item>
@@ -248,24 +266,6 @@
       <pubDate>Tue, 10 Nov 2026 14:00:00 GMT</pubDate>
       <description>Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership. (Source: Google DeepMind)</description>
       <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Google Cloud launches Gemini for healthcare.</title>
-      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/</link>
-      <guid isPermaLink="false">https-blog-google-innovation-and-ai-infrastructure-and-cloud-google-cloud-gemini</guid>
-      <pubDate>Tue, 10 Nov 2026 13:00:00 GMT</pubDate>
-      <description>Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works. (Source: Google DeepMind)</description>
-      <source url="https://ai-pulse.vercel.app">Google DeepMind</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Helping caregivers use AI in everyday life</title>
-      <link>https://openai.com/index/helping-caregivers-use-ai-in-everyday-life</link>
-      <guid isPermaLink="false">https-openai-com-index-helping-caregivers-use-ai-in-everyday-life</guid>
-      <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
-      <description>OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life. (Source: OpenAI)</description>
-      <source url="https://ai-pulse.vercel.app">OpenAI</source>
       <category>feature</category>
     </item>
     <item>
@@ -404,6 +404,15 @@
       <category>feature</category>
     </item>
     <item>
+      <title>Physicist Christopher Stubbs joins Anthropic&apos;s Long-Term Benefit Trust</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQbHVFZTRuSG1Cam5rQllpVVRvVkItRnZwVVlWODVDWU54Vm5jMzA0M1dza09rT1kxbFNTbGVYWWtmdmVGdzQxUjJ0SkczUWFBd3l5MUFWSlN4dWc4Y0FDc1F4S2c0TGNyUGVESUo1MGJpR0VfVXdDYXhDUXNadkRob0ZuVkotUQ?oc=5</link>
+      <guid isPermaLink="false">cbmihgfbvv95cuxqbhvfztrusg1cam5rqllpvvrvvkitrnzwvvlwodvdwu54vm5jmza0m1dza09rt1kx</guid>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 GMT</pubDate>
+      <description>Source: Anthropic</description>
+      <source url="https://ai-pulse.vercel.app">Anthropic</source>
+      <category>feature</category>
+    </item>
+    <item>
       <title>Mistral Advances AI for Engineering with NVIDIA</title>
       <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE5EREM1NkpaWTg3MVNMOUstWDZOcjduUFFXVUlfczFVU3hSRGFRUGdwSUNLTVdJSnR0eWluOGJfeVJtbTM5TkgzdEZEdzhZZGxsbVdtSEVKSlAxNEFuTFNyZHRhbF81bEp2Z2h0WTQwNW5ncnJWMXhRag?oc=5</link>
       <guid isPermaLink="false">cbmieefvx3lxte5erem1nkpawtg3mvnmoustwdzocjduuffxvulfczfvu3hsrgfrugdwsunltvdjsnr0</guid>
@@ -423,8 +432,8 @@
     </item>
     <item>
       <title>DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real</title>
-      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kZTR4T290Yy1KVWdWZnBod01jSkdNUjBiRExPMzh2anNNRXQ4Y2hpR21TQ1pubmVKVDZ6VmhONzdnYzhoUG1xamRjZVhaRmhQNVZQcHlaVWE?oc=5</link>
-      <guid isPermaLink="false">cbmiwefvx3lxte9kztr4t290yy1kvwdwznbod01jskdnujbirexpmzh2annnrxq4y2hpr21tq1pubmvk</guid>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sVG45VEI5NmFTYXlESUE5VjRCRkg1Tk9sbWN5VGgzZE56bUNvWHVCaHgwa1p1NkZPWWl1MXVzdnFsSjlxMUJsSlZHdldwbVNYWnN0SnJwWlliQQ?oc=5</link>
+      <guid isPermaLink="false">cbmiwkfvx3lxte5svg45vei5nmftyxlesue5vjrcrkg1tk9sbwn5vggzze56bunvwhvcahgwa1p1nkzp</guid>
       <pubDate>Sat, 17 Oct 2026 07:00:00 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
@@ -441,9 +450,9 @@
     </item>
     <item>
       <title>Search</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wZVZFemlPeHpQR1UyZWozTTIzWWlueGQtNTlwN29oVzFKNE5xc2Vza1FzMlB6YUg2cnNQUW9scXN3cDZVUkFGRWdRRnIzSUhxUWZR?oc=5</link>
-      <guid isPermaLink="false">cbmiu0fvx3lxte1wzvzfemlpehpqr1uyzwozttizwwluegqtntlwn29ovzfkne5xc2vza1fzmlb6yug2</guid>
-      <pubDate>Fri, 16 Oct 2026 13:29:35 GMT</pubDate>
+      <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvRUlMTENmMGEzSXNISEpobWJ3UEVidHQtZWg0M2tZWnJ1WjVQbk1IOUp5bC1kU3p5eGFtM1hGWHhtbWE3ME8yRlRVcFZseXVpUGc?oc=5</link>
+      <guid isPermaLink="false">cbmiukfvx3lxtfbvrulmtenmmgezsxnisepobwj3uevidhqtzwg0m2tzwnj1wjvqbk1ioup5bc1ku3p5</guid>
+      <pubDate>Fri, 16 Oct 2026 13:29:34 GMT</pubDate>
       <description>Source: DeepSeek</description>
       <source url="https://ai-pulse.vercel.app">DeepSeek</source>
       <category>feature</category>
@@ -485,30 +494,21 @@
       <category>model</category>
     </item>
     <item>
+      <title>Strengthening our defenses against distillation attacks</title>
+      <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhWjFvMDhlcHFwVkRUdVF0NVlFT3JVaHBxTmpLMUFlZUhtM3U1ZExneVRhVnlnNDQ2a0dndjM5UWF5R1FaOWxHbkVfUHo5QmRBZGRFQ2xlTkpKRDJQOGIzbjRR?oc=5</link>
+      <guid isPermaLink="false">cbmiykfvx3lxtfbhwjfvmdhlchfwvkrudvf0nvlft3jvahbxtmplmuflzuhtm3u1zexnevrhvnlnndq2</guid>
+      <pubDate>Mon, 12 Oct 2026 07:00:00 GMT</pubDate>
+      <description>Source: Anthropic</description>
+      <source url="https://ai-pulse.vercel.app">Anthropic</source>
+      <category>feature</category>
+    </item>
+    <item>
       <title>Introducing The X Subscription</title>
       <link>https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xSHZsR1pnaUw0LXBEbHZkY0owdTZ3N1hsTlQ1MGJ5cm9nYkRCOXgyTkhFUHVmaVphZ1FNU0xfWkFMN29jMnpN?oc=5</link>
       <guid isPermaLink="false">cbmir0fvx3lxte1xshzsr1pnauw0lxbebhzky0owdtz3n1hstlq1mgj5cm9nykrcoxgytkhfuhvmavph</guid>
       <pubDate>Mon, 12 Oct 2026 07:00:00 GMT</pubDate>
       <description>Source: xAI</description>
       <source url="https://ai-pulse.vercel.app">xAI</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>Introducing the Anthropic Cyber Mission</title>
-      <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SRkRRLThCQk54NV9hR0E5akl4LVNfanczWXU2cExpb2tyd3M4bGtFbWx6ekVPOUw5bDRzRjNhSlJ3ZjJqQklIMTVMNmNjXzNwaGtsb1lJeVItOXVaMlVuQk1BelE?oc=5</link>
-      <guid isPermaLink="false">cbmizefvx3lxte9srkrrlthcqk54nv9hr0e5akl4lvnfanczwxu2cexpb2tyd3m4bgtfbwx6ekvpouw5</guid>
-      <pubDate>Thu, 08 Oct 2026 07:00:00 GMT</pubDate>
-      <description>Source: Anthropic</description>
-      <source url="https://ai-pulse.vercel.app">Anthropic</source>
-      <category>feature</category>
-    </item>
-    <item>
-      <title>2026 Usage Policy update</title>
-      <link>https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jb0FYSC1vRGpQd1BEeXA2TFdubUUwZnJlY19xQjI1X21oZ2xrYzFiZ2dfU283YXVGX2pxU05kUGZCV0lLUE5GZ2pjcnBQbFFGb2dHSDdtd1Zhd1NaZUJ6b1lIQXlGQQ?oc=5</link>
-      <guid isPermaLink="false">cbmizkfvx3lxte9jb0fysc1vrgpqd1beexa2tfdubuuwznjly19xqji1x21oz2xryzfiz2dfu283yxvg</guid>
-      <pubDate>Thu, 08 Oct 2026 07:00:00 GMT</pubDate>
-      <description>Source: Anthropic</description>
-      <source url="https://ai-pulse.vercel.app">Anthropic</source>
       <category>feature</category>
     </item>
     <item>
