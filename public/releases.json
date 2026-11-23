@@ -1,5 +1,67 @@
 [
   {
+    "id": "https-blog-google-products-and-platforms-products-search-google-search-personal-",
+    "lab": "Google DeepMind",
+    "title": "A more tailored Google Search that’s uniquely yours",
+    "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+    "date": "2026-11-23T17:00:00.000Z",
+    "category": "feature",
+    "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_pContext_Drive_1118.max-600x600.format-webp.webp",
+    "tags": [
+      "google",
+      "search",
+      "tailored",
+      "uniquely"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-finding-faster-quantum-algorithms-with-agents-and-for",
+    "lab": "Google DeepMind",
+    "title": "Finding faster quantum algorithms with agents and formal verification",
+    "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+    "date": "2026-11-23T16:59:40.000Z",
+    "category": "feature",
+    "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+    "image": "https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w528-h297-n-nu-rw-lo",
+    "tags": [
+      "quantum",
+      "algorithms",
+      "formal",
+      "verification"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-agentic-evals",
+    "lab": "Hugging Face",
+    "title": "How to build and maintain an agentic evaluation",
+    "summary": "",
+    "date": "2026-11-23T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/agentic-evals",
+    "tags": [
+      "build",
+      "maintain",
+      "agentic",
+      "evaluation"
+    ]
+  },
+  {
+    "id": "https-openai-com-index-perplexity-and-intelligence",
+    "lab": "OpenAI",
+    "title": "Perplexity and Intelligence",
+    "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+    "date": "2026-11-22T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://openai.com/index/perplexity-and-intelligence",
+    "tags": [
+      "perplexity",
+      "intelligence",
+      "measures",
+      "progress"
+    ]
+  },
+  {
     "id": "cbmiukfvx3lxte1pmhrici1urtbsyvnznnj5uvfis1gtrjdjnwjznupdv0jxdzjvwhvuveh5dxhvcvby",
     "lab": "Anthropic",
     "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
@@ -92,14 +154,11 @@
   {
     "id": "cbmickfvx3lxte81wi1wa1dpmxa4cknwxzlvqknsujhgdelmstlymze0ru9izgjwr3lumjfsxy1dwldh",
     "lab": "Anthropic",
-    "title": "News and Events - News",
+    "title": "News",
     "summary": "",
     "date": "2026-11-19T18:08:01.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81Wi1wa1dpMXA4ckNWXzlvQkNSUjhGdElMSTlyMzE0RU9iZGJwR3lUMjFSXy1DWldHaWhMZWsxQ2l3RzYzY001NENMalA4WS1xeVc0bUIzOTBlVG9UamNselBqT2ZSdzh1QnZUc2RJNFRTQQ?oc=5",
-    "tags": [
-      "events"
-    ]
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81Wi1wa1dpMXA4ckNWXzlvQkNSUjhGdElMSTlyMzE0RU9iZGJwR3lUMjFSXy1DWldHaWhMZWsxQ2l3RzYzY001NENMalA4WS1xeVc0bUIzOTBlVG9UamNselBqT2ZSdzh1QnZUc2RJNFRTQQ?oc=5"
   },
   {
     "id": "https-blog-google-innovation-and-ai-technology-developers-tools-gemini-api-tool-",
@@ -149,17 +208,17 @@
     ]
   },
   {
-    "id": "https-openai-com-business-learn-codex-security-plugin-demo",
+    "id": "https-openai-com-business-learn-deploying-daybreak-red",
     "lab": "OpenAI",
-    "title": "Explore the Codex Security Plugin",
-    "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+    "title": "Deploying Daybreak Red",
+    "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
     "date": "2026-11-19T00:00:00.000Z",
     "category": "feature",
-    "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "url": "https://openai.com/business/learn/deploying-daybreak-red",
     "tags": [
-      "codex",
-      "security",
-      "plugin",
+      "daybreak",
+      "red",
+      "deploying",
       "explore"
     ]
   },
@@ -194,17 +253,17 @@
     ]
   },
   {
-    "id": "https-openai-com-business-learn-deploying-daybreak-red",
+    "id": "https-openai-com-business-learn-codex-security-plugin-demo",
     "lab": "OpenAI",
-    "title": "Deploying Daybreak Red",
-    "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+    "title": "Explore the Codex Security Plugin",
+    "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
     "date": "2026-11-19T00:00:00.000Z",
     "category": "feature",
-    "url": "https://openai.com/business/learn/deploying-daybreak-red",
+    "url": "https://openai.com/business/learn/codex-security-plugin-demo",
     "tags": [
-      "daybreak",
-      "red",
-      "deploying",
+      "codex",
+      "security",
+      "plugin",
       "explore"
     ]
   },
@@ -325,21 +384,6 @@
     ]
   },
   {
-    "id": "https-openai-com-business-customer-stories-sumitomo-life",
-    "lab": "OpenAI",
-    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-    "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-    "date": "2026-11-18T08:00:00.000Z",
-    "category": "research",
-    "url": "https://openai.com/business/customer-stories/sumitomo-life",
-    "tags": [
-      "sumitomo",
-      "life",
-      "helped",
-      "chatgpt"
-    ]
-  },
-  {
     "id": "https-huggingface-co-blog-moe-expert-streaming",
     "lab": "Hugging Face",
     "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
@@ -447,89 +491,6 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-allenai-xybench",
-    "lab": "Hugging Face",
-    "title": "XYBench: Helping with the problem behind the question",
-    "summary": "",
-    "date": "2026-11-13T17:02:35.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/allenai/xybench",
-    "tags": [
-      "xybench",
-      "helping",
-      "problem",
-      "behind"
-    ]
-  },
-  {
-    "id": "cbmiwefvx3lxte5iuy1vd2dyzwjhywzhbeductffc3lpnlaznthwwgrzsk5ny0vpagvlm05uvfdpv3fs",
-    "lab": "DeepSeek",
-    "title": "The full DeepSeek App experience, now via API",
-    "summary": "",
-    "date": "2026-11-13T16:08:56.000Z",
-    "category": "api",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iUy1Vd2dYZWJhYWZHbEdUcTFfc3lpNlAzNThWWGRZSk5NY0VPaGVlM05UVFdpV3FsaTdfSE50eVI3bTZ3R3FMVXRiY2hfNXo1d09QcVNhdTU?oc=5",
-    "tags": [
-      "full",
-      "deepseek",
-      "app",
-      "experience"
-    ]
-  },
-  {
-    "id": "cbmiv0fvx3lxtfbvx0nryja4tgzlvlpmbjzbq2fkqjlnmmx4zujuahdjmmtnqtrvnfjstldmbutrbux1",
-    "lab": "DeepSeek",
-    "title": "Model Content Safety",
-    "summary": "",
-    "date": "2026-11-13T15:01:35.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvX0NrYjA4TGZlVlpMbjZBQ2FKQjlNMmx4ZUJuaHdJMmtNQTRVNFJSTldMbUtrbUx1eVJVb1NtSWxfLUNvM2RLSkoyeDRocm82ZW5fWHM3bw?oc=5",
-    "tags": [
-      "model",
-      "content",
-      "safety"
-    ]
-  },
-  {
-    "id": "cbmitkfvx3lxtfbaauxfanznzu5rumu5bke1rno0wvc2bnazawnhtjvdvuj1nxnsq1rqadzyahztrhri",
-    "lab": "DeepSeek",
-    "title": "Text to Speech",
-    "summary": "",
-    "date": "2026-11-13T14:50:56.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaaUxFanZnZU5RUmU5bkE1Rno0WVc2bnAzaWNHTjVDVUJ1NXNSQ1RqaDZyaHZTRHRIeTlpc1d4X2hVV29tdHpLZmRLZmt0UQ?oc=5",
-    "tags": [
-      "text",
-      "speech"
-    ]
-  },
-  {
-    "id": "cbmiykfvx3lxtfazemhuqjbtmexgz1podvi2aklyyzdhn3nndk9zzm5os2vsczjsszvqqkdsd2dwx3jq",
-    "lab": "DeepSeek",
-    "title": "Build a Chatbot",
-    "summary": "",
-    "date": "2026-11-13T14:38:55.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzemhuQjBTMExGZ1podVI2aklyYzdhN3Nndk9zZm5oS2VsczJSSzVQQkdsd2dWX3JqelFwYk5NS2xoV2x0eWZnMU1GTlI3cjRpU1kwd2JkdW5SNGYyVGV1U3d3?oc=5",
-    "tags": [
-      "build",
-      "chatbot"
-    ]
-  },
-  {
-    "id": "cbmizefvx3lxte4wbzy1stktdhfzulbrmlflc1mzn055cjjyxzzncmxssfhztzzfwndiutnbdnngawlt",
-    "lab": "DeepSeek",
-    "title": "File Parsing",
-    "summary": "",
-    "date": "2026-11-13T14:38:55.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wbzY1STktdHFzUlBRMlFLc1MzN055cjJYXzZNcmxsSFhzTzZfWndIUTNBdnNGaWlTRDZYODd0bUNSXy1VV2ZmYXM3dTJMVDcxNmRqalZCZExUMU5RWHJYMzBPeEM?oc=5",
-    "tags": [
-      "file",
-      "parsing"
-    ]
-  },
-  {
     "id": "https-deepmind-google-blog-introducing-gemini-4-hydrogen",
     "lab": "Google DeepMind",
     "title": "Introducing Gemini 4 Hydrogen",
@@ -540,37 +501,6 @@
     "tags": [
       "gemini",
       "hydrogen"
-    ]
-  },
-  {
-    "id": "https-blog-google-products-and-platforms-products-search-gemini-4-hydrogen-searc",
-    "lab": "Google DeepMind",
-    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-    "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
-    "date": "2026-11-12T18:00:00.000Z",
-    "category": "model",
-    "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp",
-    "tags": [
-      "google",
-      "search",
-      "gemini",
-      "hydrogen"
-    ]
-  },
-  {
-    "id": "https-blog-google-innovation-and-ai-technology-developers-tools-gemini-decisions",
-    "lab": "Google DeepMind",
-    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-    "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-    "date": "2026-11-11T18:00:00.000Z",
-    "category": "api",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-    "tags": [
-      "decisions",
-      "gemini",
-      "api",
-      "fast"
     ]
   },
   {
@@ -661,51 +591,6 @@
     ]
   },
   {
-    "id": "cbmikafbvv95cuxnte8xtmrrruztqndpovdctufqq2zxsjl5tk4zexb0rzhsvzryaut3s091y3fmrnvv",
-    "lab": "Anthropic",
-    "title": "AI for Science expands to foundations and research institutions",
-    "summary": "",
-    "date": "2026-10-28T07:00:00.000Z",
-    "category": "research",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTE8xTmRrRUZtQndpOVdCTUFQQ2ZXSjl5Tk4zeXB0RzhSVzRYaUt3S091Y3FmRnVvT1c0UXhIVW0xZF83R2c1VUwtNjhNUkcxYWI0MFRXWXcxT2ZLdkF6bUd5V0JpTWJla3BzOWNORmdFN0ZTUkplbmZRcjRNdm5GSUVDUXp5QWwxNkRoN3JCVXo?oc=5",
-    "tags": [
-      "science",
-      "expands",
-      "foundations",
-      "research"
-    ]
-  },
-  {
-    "id": "cbmiz0fvx3lxte9sdnrpwjk1nk1fem1ka0tlcljovnfkqmzzvuvou0hsq0pwyvzlwvpcughkz1q0umhy",
-    "lab": "Anthropic",
-    "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
-    "summary": "",
-    "date": "2026-10-27T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SdnRpWjk1Nk1Fem1Ka0tLclJoVnFkQmZzVUVOU0hsQ0pwYVZLWVpCUGhkZ1Q0UmhYekhYcFdraTdtbFd5MF91MkhPVlJzYlM3ZXVlOUUwLUhDVVBMOUR4aXlVZXhRRlU?oc=5",
-    "tags": [
-      "expanding",
-      "partnership",
-      "gsa",
-      "bring"
-    ]
-  },
-  {
-    "id": "cbmir0fvx3lxte82oux3q0jobgxhcuvamlhkml9fvknkouvusvlbs1nymfpyze55vl9zc2xwrmtcams1",
-    "lab": "xAI",
-    "title": "Your next sales teammate should be a Grok Bot",
-    "summary": "",
-    "date": "2026-10-27T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE82OUx3Q0JobGxhcUVaMlhkMl9fVkNKOUVuSVlBS1NyMFpyZE55Vl9zc2xWRmtCams1M3lwTjhKaDcxMnJUR19n?oc=5",
-    "tags": [
-      "next",
-      "sales",
-      "teammate",
-      "should"
-    ]
-  },
-  {
     "id": "cbmitkfvx3lxtfbnzudln3hwaxffbndlu0ftmc1invzzenp4cl92wxjqm3vdwtzusxn2s1ntdzbjetbd",
     "lab": "Anthropic",
     "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
@@ -718,6 +603,21 @@
       "files",
       "sec",
       "proposed"
+    ]
+  },
+  {
+    "id": "cbmiiafbvv95cuxooezpcuwyanbjn3atn3hwdgdnes1obvzxc1c5c2lwz3zzuwfwm2m2shfknhb2z3zl",
+    "lab": "Anthropic",
+    "title": "Donating Agent Skills to the Agentic AI Foundation",
+    "summary": "",
+    "date": "2026-10-22T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOEZpcUwyanBJN3AtN3hwdGdNeS1obVZxc1c5c2lWZ3ZZUWFWM2M2SHFKNHB2Z3ZlQndXWUNMU3NGU3g1NElZeEw1M1pHaUJOZzZqeWsxSlFDSzUwcGFVUmxOUDhuZklpeDZ1ODVQc2dHNnZkUnVSTjE1dzU5R1ZVcjJURHl6RW1z?oc=5",
+    "tags": [
+      "donating",
+      "agent",
+      "skills",
+      "agentic"
     ]
   },
   {
@@ -751,16 +651,13 @@
     ]
   },
   {
-    "id": "cbmiu0fvx3lxtfbnslvnajjpukhdotzetth2mmrxmhhidu1jqul4zmuwu0d4quvtohptu3rfngftr05l",
+    "id": "cbmiv0fvx3lxte1kck1smnp3z1lwz1vjwk1hmm9lyw1grnhuodnttwjuvs1tnutpdzu2yvdrrxrmbedy",
     "lab": "Anthropic",
-    "title": "Safeguards",
+    "title": "Announcements",
     "summary": "",
-    "date": "2026-10-20T19:09:05.000Z",
+    "date": "2026-10-20T17:03:24.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnSlVNajJPUkhDOTZETTh2MmRxMHhidU1jQUl4ZmUwU0d4QUVtOHptU3RFNGFtR05LUXA1bERWQUdYTVIzbmpsdkJfeHhLVHVzQmhr?oc=5",
-    "tags": [
-      "safeguards"
-    ]
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Kck1SMnp3Z1lwZ1VjWk1hMm9lYW1GRnhuODNtTWJuVS1TNUtPdzU2YVdrRXRmbEdYVWlJM2Y1cVo0QzRpR1dBM2hpRnl3ZEs2WmlGSmUwcw?oc=5"
   },
   {
     "id": "cbmiskfvx3lxtfb3sgxrsdawanvjtmvga3homjbmzhy3yzvkwdnaqm5uqwxjb2nlni12yu1ry28tt0fp",
@@ -778,58 +675,30 @@
     ]
   },
   {
-    "id": "cbmir0fvx3lxtfblnudfmtjkempvauxhenhjbnnzcnzhanzlukvcser2mvlvctvxngdqn05rsw9hzxat",
-    "lab": "xAI",
-    "title": "Using Grok Bot to detect and respond to incidents",
+    "id": "cbmix0fvx3lxtfbwmufbangwvddnuxbleefmoetsvfyzn3nsu1lvdvduql9infvtn0hfdevkns1yakjc",
+    "lab": "Anthropic",
+    "title": "Investing in the public benefit",
     "summary": "",
-    "date": "2026-10-20T07:00:00.000Z",
+    "date": "2026-10-18T07:00:00.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBLNUdfMTJkempVaUxhenhjbnNzcnZHanZLUkVCSER2MVlvcTVXNGdQN05RSW9hZXAtYjlGSWUyYUVkTEFiX0Jv?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWMUFBangwVDdnUXBLeEFmOEtSVFYzN3NSU1lVdVduQl9iNFVTN0hfdEVkNS1yakJCLWFtdkVqTXlLM1VhblU5empsdmVKTVNDVy1PZ1JoUW1HYUlLb0FV?oc=5",
     "tags": [
-      "grok",
-      "bot",
-      "detect",
-      "respond"
+      "investing",
+      "public",
+      "benefit"
     ]
   },
   {
-    "id": "cbmiwkfvx3lxte5svg45vei5nmftyxlesue5vjrcrkg1tk9sbwn5vggzze56bunvwhvcahgwa1p1nkzp",
-    "lab": "DeepSeek",
-    "title": "DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real",
+    "id": "cbmidefvx3lxte8zzvfudwfycc04rhnozhi0cghusxbutlk2rwzsunfky2mzewzry0nvav9ostjhbdvk",
+    "lab": "Anthropic",
+    "title": "An update on independent evaluators",
     "summary": "",
-    "date": "2026-10-17T07:00:00.000Z",
-    "category": "model",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sVG45VEI5NmFTYXlESUE5VjRCRkg1Tk9sbWN5VGgzZE56bUNvWHVCaHgwa1p1NkZPWWl1MXVzdnFsSjlxMUJsSlZHdldwbVNYWnN0SnJwWlliQQ?oc=5",
-    "tags": [
-      "deepseek",
-      "flash",
-      "wish",
-      "driven"
-    ]
-  },
-  {
-    "id": "cbmiv0fvx3lxte12s0dwvxpndutmafr6q1dimmnwdwvzeenzskliowhfymdytwxzruriqvy5c281bevz",
-    "lab": "DeepSeek",
-    "title": "Search & Fetch",
-    "summary": "",
-    "date": "2026-10-16T13:34:16.000Z",
+    "date": "2026-10-15T07:00:00.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12S0dWVXpNdUtmaFR6Q1dIMmNwdWVzeENzSklIOWhFYmdyTWxZRURIQVY5c281bEVzanZfM2hiVlpuYUxPWTJGWkdxRnRrVDFpcVBjS2xFcw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zZVFudWFYcC04RHNOZHI0cGhuSXBUTlk2RWZsUnFkY2MzeWZRY0NVaV9OSTJHbDVkc3BBTHBWd1FKUDVCbjdYLTQtN2tGNUZXdnFYRmt2OUZTTzRoRVZNeWNteUE1Vy1DSXBGTTUxSFJqVmRf?oc=5",
     "tags": [
-      "search",
-      "fetch"
-    ]
-  },
-  {
-    "id": "cbmiu0fvx3lxte1wzvzfemlpehpqr1uyzwozttizwwluegqtntlwn29ovzfkne5xc2vza1fzmlb6yug2",
-    "lab": "DeepSeek",
-    "title": "Search",
-    "summary": "",
-    "date": "2026-10-16T13:29:35.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wZVZFemlPeHpQR1UyZWozTTIzWWlueGQtNTlwN29oVzFKNE5xc2Vza1FzMlB6YUg2cnNQUW9scXN3cDZVUkFGRWdRRnIzSUhxUWZR?oc=5",
-    "tags": [
-      "search"
+      "independent",
+      "evaluators"
     ]
   },
   {
@@ -848,31 +717,158 @@
     ]
   },
   {
-    "id": "cbmizkfvx3lxte5yttm0yuphdfbiujfdcnlzty1lvklpbgp4ztczuhjkzjgxsjbkckjsmdg2mhzwyui5",
-    "lab": "Anthropic",
-    "title": "Singapore office and government MOU",
+    "id": "cbmirefvx3lxte1moucxzkpjvvvyyjllowk1v0sxb1qyy3dvlwtpcdbfbepqqzldqzfpekdzsuvkbnho",
+    "lab": "xAI",
+    "title": "Introducing Grok Voice 3.0",
     "summary": "",
     "date": "2026-10-14T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yTTM0YUphdFBiUjFDcnlZTy1lVklPbGp4ZTczUHJkZjgxSjBkckJSMDg2MHZwYUI5SkFGWlZlNHN4NFVQN3hDdERZSTFfVS1wNlZQRXV2YWE0ZnktZDFIZ3d0NEZLQQ?oc=5",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1mOUcxZkpjVVVyYjlLOWk1V0sxb1QyY3dVLWtpcDBFbEpqQzlDQzFPekdzSUVKbnhoaHZNd3ZzYzlweElu?oc=5",
     "tags": [
-      "singapore",
-      "office",
-      "government",
-      "mou"
+      "grok",
+      "voice"
     ]
   },
   {
-    "id": "cbmiw0fvx3lxte40a2x1bxc2vhhzafl0slrhdghowjnqnhlkz3dgcwpzshnwufvhbuhwsky3zxvru3dx",
+    "id": "cbmiykfvx3lxtfbhwjfvmdhlchfwvkrudvf0nvlft3jvahbxtmplmuflzuhtm3u1zexnevrhvnlnndq2",
     "lab": "Anthropic",
-    "title": "Preparing for the 2026 US midterms",
+    "title": "Strengthening our defenses against distillation attacks",
     "summary": "",
-    "date": "2026-10-14T07:00:00.000Z",
+    "date": "2026-10-12T07:00:00.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40a2x1bXc2VHhZaFl0SlRhdGhoWjNqNHlKZ3dGcWpzSHNWUFVHbUhwSkY3ZXVrU3dXVWJGSEh5cUlvMjUzMm5YQ2E3VHF2cUFBZ3NneDJGTnQyVUk?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhWjFvMDhlcHFwVkRUdVF0NVlFT3JVaHBxTmpLMUFlZUhtM3U1ZExneVRhVnlnNDQ2a0dndjM5UWF5R1FaOWxHbkVfUHo5QmRBZGRFQ2xlTkpKRDJQOGIzbjRR?oc=5",
     "tags": [
-      "preparing",
-      "midterms"
+      "strengthening",
+      "defenses",
+      "against",
+      "distillation"
+    ]
+  },
+  {
+    "id": "cbmir0fvx3lxte1xshzsr1pnauw0lxbebhzky0owdtz3n1hstlq1mgj5cm9nykrcoxgytkhfuhvmavph",
+    "lab": "xAI",
+    "title": "Introducing The X Subscription",
+    "summary": "",
+    "date": "2026-10-12T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xSHZsR1pnaUw0LXBEbHZkY0owdTZ3N1hsTlQ1MGJ5cm9nYkRCOXgyTkhFUHVmaVphZ1FNU0xfWkFMN29jMnpN?oc=5",
+    "tags": [
+      "subscription"
+    ]
+  },
+  {
+    "id": "cbmiukfvx3lxte55rwfreetwvxnoutdccnvmadllqmjslxnjbtk4bvznwnf2bme4azu1d0lztgx0wnht",
+    "lab": "Mistral",
+    "title": "Introducing Mistral Large 4",
+    "summary": "",
+    "date": "2026-10-06T07:00:00.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55RWFreEtWVXNoUTdCcnVmaDllQmJsLXNJbTk4bVZNWnF2bmE4azU1d0lzTGx0WnhtelRzZWtMdllmM2dXM3h0RlVVeXBkRTJfNlE?oc=5",
+    "tags": [
+      "mistral",
+      "large"
+    ]
+  },
+  {
+    "id": "cbmivefvx3lxtfbhx1q4qvc5ogeysndosjqyqw4yt01ksjflvk5ibzrzludid19wwhu5qujkthyzddbi",
+    "lab": "Mistral",
+    "title": "Mistral Opens Munich Hub to Advance Industrial AI in Germany",
+    "summary": "",
+    "date": "2026-09-28T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhX1Q4QVc5OGEySndOSjQyQW4yT01kSjFlVk5IbzRzLUdId19WWHU5QUJkTHYzdDBiYktmNm9DeFBubkF1MEZweUM2ZW42ZDRpWDU2TQ?oc=5",
+    "tags": [
+      "mistral",
+      "opens",
+      "munich",
+      "hub"
+    ]
+  },
+  {
+    "id": "cbmiqefvx3lxte5hynpiunhxb2dgrnddavzcowjwy2dsr1bib1bvsdfjz3nfanmtwjy5etvozu1mck9s",
+    "lab": "xAI",
+    "title": "Team Bots: shared AI teammates that learn as they work",
+    "summary": "",
+    "date": "2026-09-28T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5HYnpIUnhxb2dGRndDaVZCOWJWY2dSR1Bib1BvSDFJZ3NFanMtWjY5eTVoZU1Mck9SMDN0NTVXYU0?oc=5",
+    "tags": [
+      "team",
+      "bots",
+      "shared",
+      "teammates"
+    ]
+  },
+  {
+    "id": "cbmivkfvx3lxte43avl1aknmbudsc3v3rxdmbnldrwflsepestitltq5aevsdvq2x1ncb0duuwztvkoz",
+    "lab": "xAI",
+    "title": "How SpaceXSI is using Grok Bot to scale customer support",
+    "summary": "",
+    "date": "2026-09-22T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43aVl1akNMbUdsc3V3RXdMbnlDRWFlSEpESTItLTQ5aEVsdVQ2X1NCb0duUWZTVkozVDhOd21KWEg4YlU3RE5fQWp2YnV4ZUFmaUVxRGV3?oc=5",
+    "tags": [
+      "spacexsi",
+      "grok",
+      "bot",
+      "scale"
+    ]
+  },
+  {
+    "id": "cbmip0fvx3lxtfbqb2x1bzq3ukxtvdfcuvrjodmzbdj5ytg3nmh5q2luzgdutmctzmo1ukp4c3rvduhf",
+    "lab": "xAI",
+    "title": "Introducing Grok 4.7",
+    "summary": "",
+    "date": "2026-09-21T07:00:00.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBqb2x1bzQ3UkxTVDFCUVRjODMzbDJ5YTg3Nmh5Q2luZGdUTmctZmo1Ukp4c3RVdUhfSGZFc1p5SQ?oc=5",
+    "tags": [
+      "grok"
+    ]
+  },
+  {
+    "id": "cbmivefvx3lxte1quxzcu1u0dnn2r2h5tjjuejzqy1prmtdhafjxm0xsbmp5vxk5mmhbanlmrg9ntehk",
+    "lab": "Mistral",
+    "title": "Mistral x Mozilla: Private, Multilingual AI Browsing",
+    "summary": "",
+    "date": "2026-09-16T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qUXZCU1U0dnN2R2h5TjJuejZqY1prMTdHaFJXM0xSbmp5VXk5MmhBanlmRG9NTEhKdEtjNUJfMnhTcC1ub2t4Sm04S3o3SjB2YlI2VA?oc=5",
+    "tags": [
+      "mistral",
+      "mozilla",
+      "private",
+      "multilingual"
+    ]
+  },
+  {
+    "id": "cbmivkfvx3lxte01nmpon3znztrgdxh2vwq3c0mwd19pb21kc0v5uflletzzbvf3dnboefzsv3rldvd5",
+    "lab": "Mistral",
+    "title": "Cloudera and Mistral Partner for Sovereign Enterprise AI",
+    "summary": "",
+    "date": "2026-09-10T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01NmpON3ZnZTRGdXh2VWQ3c0Mwd19Pb21Kc0V5UFlLeTZzbVF3dnBOeFZSV3RldVd5cm5tSF94SUxMWV9EaGh0LXRqWkFkSHN1NkpadzZn?oc=5",
+    "tags": [
+      "cloudera",
+      "mistral",
+      "partner",
+      "sovereign"
+    ]
+  },
+  {
+    "id": "cbmigafbvv95cuxnrzu0ctlwnhctb0fiy092uvljzfh4umxsq2lpltdkveu2slrzvu12vzi2rgrywefq",
+    "lab": "Mistral",
+    "title": "Making sovereign, open-weight AI the technology frontier",
+    "summary": "",
+    "date": "2026-09-08T05:15:43.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5",
+    "tags": [
+      "making",
+      "sovereign",
+      "open",
+      "weight"
     ]
   }
 ]
