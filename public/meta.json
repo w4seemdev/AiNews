@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-25T16:44:00.558Z",
+  "generatedAt": "2026-11-26T16:18:22.897Z",
   "labs": {
     "Hugging Face": 10,
     "Google DeepMind": 10,
     "OpenAI": 10,
+    "Anthropic": 9,
+    "xAI": 6,
     "DeepSeek": 10,
-    "Anthropic": 8,
-    "xAI": 7,
     "Mistral": 5
   }
 }

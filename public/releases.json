@@ -1,5 +1,65 @@
 [
   {
+    "id": "https-huggingface-co-blog-ggml-org-llamacpp-amd-bench",
+    "lab": "Hugging Face",
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "summary": "",
+    "date": "2026-11-26T11:37:17.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "tags": [
+      "llama",
+      "cpp",
+      "benchmark",
+      "dashboard"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-nvidia-building-on-nemotron-35-parse-open-data-fine-tu",
+    "lab": "Hugging Face",
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "summary": "",
+    "date": "2026-11-26T05:05:36.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "tags": [
+      "building",
+      "nemotron",
+      "parse",
+      "open"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-training-swarms",
+    "lab": "Hugging Face",
+    "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "summary": "",
+    "date": "2026-11-26T00:00:00.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/training-swarms",
+    "tags": [
+      "swarms",
+      "flocks",
+      "gangs",
+      "build"
+    ]
+  },
+  {
+    "id": "https-huggingface-co-blog-allenai-where-scientists-draw-the-line-on-ai-agents",
+    "lab": "Hugging Face",
+    "title": "Where scientists draw the line on AI agents",
+    "summary": "",
+    "date": "2026-11-25T18:52:55.000Z",
+    "category": "feature",
+    "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "tags": [
+      "where",
+      "scientists",
+      "draw",
+      "line"
+    ]
+  },
+  {
     "id": "https-huggingface-co-blog-ibm-research-an-indic-voice-agent-with-cuga",
     "lab": "Hugging Face",
     "title": "An Indic Voice Agent with CUGA",
@@ -15,18 +75,18 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-nvidia-microduck-obstacle-avoidance",
+    "id": "https-huggingface-co-blog-inkling-2-mini-inference-hillclimb",
     "lab": "Hugging Face",
-    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+    "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
     "summary": "",
-    "date": "2026-11-24T16:34:13.000Z",
+    "date": "2026-11-25T00:00:00.000Z",
     "category": "feature",
-    "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+    "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
     "tags": [
-      "microduck",
-      "obstacle",
-      "avoidance",
-      "sim2real"
+      "hill",
+      "climbing",
+      "inkling",
+      "mini"
     ]
   },
   {
@@ -43,6 +103,22 @@
       "golden",
       "state",
       "changing"
+    ]
+  },
+  {
+    "id": "https-deepmind-google-blog-interpreting-mass-spectra-with-google-antigravity",
+    "lab": "Google DeepMind",
+    "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+    "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+    "date": "2026-11-24T13:07:53.000Z",
+    "category": "feature",
+    "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+    "image": "https://lh3.googleusercontent.com/CtAfS_JWygw2R9cuDNty3xd0S4WFRzVew1vtNDiPaN1ZOGa88hCwTiCLxtgCtpSFER2t3jFO-moRkPnQYPjXziNgMvKHVc0wkOkzBTdGRoOYL3Ld=w528-h297-n-nu-rw-lo",
+    "tags": [
+      "mass",
+      "spec",
+      "skills",
+      "google"
     ]
   },
   {
@@ -136,21 +212,6 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-allenai-robotrack",
-    "lab": "Hugging Face",
-    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-    "summary": "",
-    "date": "2026-11-23T17:20:37.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/allenai/robotrack",
-    "tags": [
-      "robotrack",
-      "point",
-      "tracking",
-      "real"
-    ]
-  },
-  {
     "id": "https-blog-google-products-and-platforms-products-search-google-search-personal-",
     "lab": "Google DeepMind",
     "title": "A more tailored Google Search that’s uniquely yours",
@@ -180,19 +241,6 @@
       "algorithms",
       "formal",
       "verification"
-    ]
-  },
-  {
-    "id": "cbmit0fvx3lxte9osefrwtrnwnziulytsu5lyjzrbfe4u3i5ugjbd0rrwdmwz3mzvhppzjzgy3ndwkfn",
-    "lab": "DeepSeek",
-    "title": "Speech to Text",
-    "summary": "",
-    "date": "2026-11-23T08:45:50.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oSEFrWTRnWnZIUlYtSU5LYjZRbFE4U3I5UGJBd0RrWDMwZ3MzVHppZjZGY3NDWkFnZy1PUlh6S0FhXzRtZWJwX0RmdXF2b3c?oc=5",
-    "tags": [
-      "speech",
-      "text"
     ]
   },
   {
@@ -360,21 +408,6 @@
     ]
   },
   {
-    "id": "cbmie0fvx3lxte0wb1jnwepudjjcr014znpedkq1mufxotzsrv9su2wxclptymrmvjy3d2r3bwj2u2zx",
-    "lab": "Anthropic",
-    "title": "Anthropic prices initial public offering",
-    "summary": "",
-    "date": "2026-11-18T23:35:59.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wb1JNWEpudjJCR014ZnpEdkQ1MUFXOTZsRV9sU2wxclptYmRMVjY3d2R3bWJ2U2ZXdlktS1lNVE45b2NrVkY4aERJOXRJVkpRdy1kd2tRek52UG8wcXUwUEQwaUlEM0p1aE9YRlRvbnkyZVJUSmFLcWhFOA?oc=5",
-    "tags": [
-      "anthropic",
-      "prices",
-      "initial",
-      "public"
-    ]
-  },
-  {
     "id": "https-deepmind-google-blog-introducing-gemini-4-neon",
     "lab": "Google DeepMind",
     "title": "Introducing Gemini 4 Neon",
@@ -400,21 +433,6 @@
       "pushing",
       "frontier",
       "post"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-dharma-ai-predicting-fine-tuning-time",
-    "lab": "Hugging Face",
-    "title": "Why your fine-tuning job takes longer than the FLOPs say",
-    "summary": "",
-    "date": "2026-11-18T18:53:43.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-    "tags": [
-      "fine",
-      "tuning",
-      "job",
-      "takes"
     ]
   },
   {
@@ -446,33 +464,18 @@
     ]
   },
   {
-    "id": "https-huggingface-co-blog-moe-expert-streaming",
-    "lab": "Hugging Face",
-    "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+    "id": "cbmie0fvx3lxte0wb1jnwepudjjcr014znpedkq1mufxotzsrv9su2wxclptymrmvjy3d2r3bwj2u2zx",
+    "lab": "Anthropic",
+    "title": "Anthropic prices initial public offering",
     "summary": "",
-    "date": "2026-11-18T00:00:00.000Z",
+    "date": "2026-11-18T08:00:00.000Z",
     "category": "feature",
-    "url": "https://huggingface.co/blog/moe-expert-streaming",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wb1JNWEpudjJCR014ZnpEdkQ1MUFXOTZsRV9sU2wxclptYmRMVjY3d2R3bWJ2U2ZXdlktS1lNVE45b2NrVkY4aERJOXRJVkpRdy1kd2tRek52UG8wcXUwUEQwaUlEM0p1aE9YRlRvbnkyZVJUSmFLcWhFOA?oc=5",
     "tags": [
-      "parameters",
-      "ram",
-      "pushing",
-      "moe"
-    ]
-  },
-  {
-    "id": "https-huggingface-co-blog-rumble-2-flash",
-    "lab": "Hugging Face",
-    "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
-    "summary": "",
-    "date": "2026-11-18T00:00:00.000Z",
-    "category": "feature",
-    "url": "https://huggingface.co/blog/rumble-2-flash",
-    "tags": [
-      "rumble",
-      "flash",
-      "open",
-      "speech"
+      "anthropic",
+      "prices",
+      "initial",
+      "public"
     ]
   },
   {
@@ -492,22 +495,6 @@
     ]
   },
   {
-    "id": "https-blog-google-products-and-platforms-products-maps-ask-maps-holiday-travel-f",
-    "lab": "Google DeepMind",
-    "title": "New Ask Maps features to help with holiday travel and prep",
-    "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
-    "date": "2026-11-16T14:00:00.000Z",
-    "category": "feature",
-    "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_November_herosocial.max-600x600.format-webp.webp",
-    "tags": [
-      "ask",
-      "maps",
-      "features",
-      "holiday"
-    ]
-  },
-  {
     "id": "cbmitkfvx3lxte1xrhnkams0vnf1wvpqlv9yz2jjyvfzzzz5zgx1cwndmm9wtulfcxa5y1phavbrlvdk",
     "lab": "xAI",
     "title": "Building an accounting team with Grok Bot",
@@ -523,19 +510,6 @@
     ]
   },
   {
-    "id": "cbmiz0fvx3lxtfbwnzaxcffrmxrotdduswv2zwm1nwzzuxpqvlbsoe9wnxv6yzvxuwk5emnwntlkruli",
-    "lab": "DeepSeek",
-    "title": "Conversation Title",
-    "summary": "",
-    "date": "2026-11-13T15:01:35.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWNzAxcFFRMXROTDduSWV2ZWM1NWZZUXpQVlBsOE9WNXV6YzVXUWk5emNWNTlkRUlicnlzdkVDdjI4UFpOWnc4eEc4TFhvS2lnRUxKSkVQMUpHbmlwSDV6a0N6dHVUU1k?oc=5",
-    "tags": [
-      "conversation",
-      "title"
-    ]
-  },
-  {
     "id": "cbmiv0fvx3lxtfbvx0nryja4tgzlvlpmbjzbq2fkqjlnmmx4zujuahdjmmtnqtrvnfjstldmbutrbux1",
     "lab": "DeepSeek",
     "title": "Model Content Safety",
@@ -547,20 +521,6 @@
       "model",
       "content",
       "safety"
-    ]
-  },
-  {
-    "id": "cbmiy0fvx3lxte5lmnvgsevab3ytbvpjotlryvhnrfu5cwtienhqazdbcenpanzwteracf9tugc0euhv",
-    "lab": "DeepSeek",
-    "title": "User Metadata Marker",
-    "summary": "",
-    "date": "2026-11-13T15:01:34.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lMnVGSEVab3YtbVpJOTlrYVhNRFU5cWtIenhQazdBcENpanZwTERacF9TUGc0eUhVQWZ1bEVlbnBkLWM5Z3NEcnJQQ0RvdjFSeEh4b1pkaVhXN2ZJMS00TWhjQQ?oc=5",
-    "tags": [
-      "user",
-      "metadata",
-      "marker"
     ]
   },
   {
@@ -589,19 +549,6 @@
     ]
   },
   {
-    "id": "cbmiu0fvx3lxte5lumpmlwpvddcxavzznkdonlaxcvhts2tlwk81tdjozufpemjkx3bsq0jsyuvrume5",
-    "lab": "DeepSeek",
-    "title": "Text to Speech",
-    "summary": "",
-    "date": "2026-11-13T14:39:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LUmpMLWpvdDcxaVZZNkdoNlAxcVhTS2tLWk81TDJOZUFpemJkX3BSQ0JSYUVrUmE5bGtmcTZrMmpyQjR0SzREWlZLRVlSU3FDWnM0?oc=5",
-    "tags": [
-      "text",
-      "speech"
-    ]
-  },
-  {
     "id": "cbmiu0fvx3lxtfbpri1yze9rtf95c09lddduefv6t05amuk4dzvva0vtbfgyvfnwcwtldjjesefsqnb1",
     "lab": "DeepSeek",
     "title": "OCR",
@@ -614,29 +561,44 @@
     ]
   },
   {
-    "id": "cbmiu0fvx3lxte12y0vjt3btdvkznnnsalv6tmw3a290rvbrzm5euwfkbu9zv21tevzbzzvrc29qamzj",
+    "id": "cbmiy0fvx3lxte9vbeozrdl2strrytdmylvkvhvjq1l2dtjpy3rhevhhwnncoefluljsztzgruffm2d5",
     "lab": "DeepSeek",
-    "title": "Speech to Text",
+    "title": "Build a Chatbot",
     "summary": "",
-    "date": "2026-11-13T14:38:58.000Z",
+    "date": "2026-11-13T14:38:56.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12Y0VjT3BtdVkzNnNsalV6Tmw3a290RVBrZm5EUWFKbU9zV21teVZBZzVRc29qamZjZHhReVFiYndTLUhLSGtpMG1LQm9FMUFEZUx3?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VbEozRDl2STRRYTdmYlVkVHVJQ1l2dTJPY3RHeVhhWnNCOEFlUlJSZTZGRUFfM2d5MkVUdUdZakJqMGpHb0VSOXhHX0hJT1NNLTlaSzBFMUcwOEJWUlluMDloOA?oc=5",
     "tags": [
-      "speech",
-      "text"
+      "build",
+      "chatbot"
     ]
   },
   {
-    "id": "cbmiw0fvx3lxte5xvkj6svjorkf1btnjvlj0axitugv3sfdaq016ttc2a01yzugtuuz5dzljmtu1t1h0",
+    "id": "cbmizefvx3lxte4wbzy1stktdhfzulbrmlflc1mzn055cjjyxzzncmxssfhztzzfwndiutnbdnngawlt",
     "lab": "DeepSeek",
-    "title": "Web Tools",
+    "title": "File Parsing",
     "summary": "",
-    "date": "2026-11-13T14:38:57.000Z",
+    "date": "2026-11-13T14:38:55.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xVkJ6SVJORkF1bTNJVlJ0aXItUGV3SFdaQ016TTc2a01yZUgtUUZ5dzljMTU1T1h0bDBWelhydUFpWFpTZ3k4bzVZSFV0YlZKSDloOUlnMjhKMkE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wbzY1STktdHFzUlBRMlFLc1MzN055cjJYXzZNcmxsSFhzTzZfWndIUTNBdnNGaWlTRDZYODd0bUNSXy1VV2ZmYXM3dTJMVDcxNmRqalZCZExUMU5RWHJYMzBPeEM?oc=5",
     "tags": [
-      "web",
-      "tools"
+      "file",
+      "parsing"
+    ]
+  },
+  {
+    "id": "cbmiwkfvx3lxtfawb3ptzljyme5oaxziy0xravnmy0fmy1awrudwnf9ttwhhbtrjcgk5uhjvetiyq04y",
+    "lab": "DeepSeek",
+    "title": "The full DeepSeek App experience, now via API",
+    "summary": "",
+    "date": "2026-11-13T08:00:00.000Z",
+    "category": "api",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwb3ptZlJyME5OaXZIY0xraVNmY0FmY1AwRUdwNF9TTWhHbTRjcGk5UHJveTIyQ04yZzJOUEJUd3d1UG0wejVWQ3pSTkZzTGk1TFRIal9WWEFyUQ?oc=5",
+    "tags": [
+      "full",
+      "deepseek",
+      "app",
+      "experience"
     ]
   },
   {
@@ -712,6 +674,19 @@
     ]
   },
   {
+    "id": "cbmixkfvx3lxte9nsnffywj1s2pgnc1pqkr5zwjgsupncdjuwknyms1itkvfx1p1quo5znrln0lgckhx",
+    "lab": "DeepSeek",
+    "title": "Messages API",
+    "summary": "",
+    "date": "2026-10-30T10:59:04.000Z",
+    "category": "api",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NSnFFYWJ1S2pGNC1PQkR5ZWJGSUpNcDJUWkNYMS1ITkVfX1p1QUo5ZnRLN0lGckhxUDZ4MjhGcVZwdzJrdENLcG56MzQ2emVwYXVHYV9lU3dqaHNhQVE?oc=5",
+    "tags": [
+      "messages",
+      "api"
+    ]
+  },
+  {
     "id": "cbmiv0fvx3lxtfbmctvulwp4c3dyy2lgelvhag9gdnrzddlpceixluhjctjrz0dcbfrxmvdtafnft1nt",
     "lab": "Mistral",
     "title": "Mistral Large 4 (Le Chonk) is now open weight",
@@ -757,18 +732,18 @@
     ]
   },
   {
-    "id": "cbmir0fvx3lxte82oux3q0jobgxhcuvamlhkml9fvknkouvusvlbs1nymfpyze55vl9zc2xwrmtcams1",
-    "lab": "xAI",
-    "title": "Your next sales teammate should be a Grok Bot",
+    "id": "cbmitkfvx3lxtfbnzudln3hwaxffbndlu0ftmc1invzzenp4cl92wxjqm3vdwtzusxn2s1ntdzbjetbd",
+    "lab": "Anthropic",
+    "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
     "summary": "",
-    "date": "2026-10-27T07:00:00.000Z",
+    "date": "2026-10-26T07:00:00.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE82OUx3Q0JobGxhcUVaMlhkMl9fVkNKOUVuSVlBS1NyMFpyZE55Vl9zc2xWRmtCams1M3lwTjhKaDcxMnJUR19n?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnZUdLN3hwaXFFbndLU0FTMC1INVZzenp4cl92WXJqM3VDWTZUSXN2S1NTdzBjeTBDaUZmRHFud1M1azhBX3pmcFAxR3Nzdw?oc=5",
     "tags": [
-      "next",
-      "sales",
-      "teammate",
-      "should"
+      "anthropic",
+      "files",
+      "sec",
+      "proposed"
     ]
   },
   {
@@ -829,18 +804,31 @@
     ]
   },
   {
-    "id": "cbmir0fvx3lxtfblnudfmtjkempvauxhenhjbnnzcnzhanzlukvcser2mvlvctvxngdqn05rsw9hzxat",
-    "lab": "xAI",
-    "title": "Using Grok Bot to detect and respond to incidents",
+    "id": "cbmiwkfvx3lxte5svg45vei5nmftyxlesue5vjrcrkg1tk9sbwn5vggzze56bunvwhvcahgwa1p1nkzp",
+    "lab": "DeepSeek",
+    "title": "DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real",
     "summary": "",
-    "date": "2026-10-20T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBLNUdfMTJkempVaUxhenhjbnNzcnZHanZLUkVCSER2MVlvcTVXNGdQN05RSW9hZXAtYjlGSWUyYUVkTEFiX0Jv?oc=5",
+    "date": "2026-10-17T07:00:00.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sVG45VEI5NmFTYXlESUE5VjRCRkg1Tk9sbWN5VGgzZE56bUNvWHVCaHgwa1p1NkZPWWl1MXVzdnFsSjlxMUJsSlZHdldwbVNYWnN0SnJwWlliQQ?oc=5",
     "tags": [
-      "grok",
-      "bot",
-      "detect",
-      "respond"
+      "deepseek",
+      "flash",
+      "wish",
+      "driven"
+    ]
+  },
+  {
+    "id": "cbmiv0fvx3lxte12s0dwvxpndutmafr6q1dimmnwdwvzeenzskliowhfymdytwxzruriqvy5c281bevz",
+    "lab": "DeepSeek",
+    "title": "Search & Fetch",
+    "summary": "",
+    "date": "2026-10-16T13:34:16.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12S0dWVXpNdUtmaFR6Q1dIMmNwdWVzeENzSklIOWhFYmdyTWxZRURIQVY5c281bEVzanZfM2hiVlpuYUxPWTJGWkdxRnRrVDFpcVBjS2xFcw?oc=5",
+    "tags": [
+      "search",
+      "fetch"
     ]
   },
   {
@@ -869,6 +857,19 @@
     "tags": [
       "preparing",
       "midterms"
+    ]
+  },
+  {
+    "id": "cbmirefvx3lxte1moucxzkpjvvvyyjllowk1v0sxb1qyy3dvlwtpcdbfbepqqzldqzfpekdzsuvkbnho",
+    "lab": "xAI",
+    "title": "Introducing Grok Voice 3.0",
+    "summary": "",
+    "date": "2026-10-14T07:00:00.000Z",
+    "category": "model",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1mOUcxZkpjVVVyYjlLOWk1V0sxb1QyY3dVLWtpcDBFbEpqQzlDQzFPekdzSUVKbnhoaHZNd3ZzYzlweElu?oc=5",
+    "tags": [
+      "grok",
+      "voice"
     ]
   }
 ]
