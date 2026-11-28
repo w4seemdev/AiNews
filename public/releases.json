@@ -332,21 +332,6 @@
     ]
   },
   {
-    "id": "cbmiukfvx3lxte1pmhrici1urtbsyvnznnj5uvfis1gtrjdjnwjznupdv0jxdzjvwhvuveh5dxhvcvby",
-    "lab": "Anthropic",
-    "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
-    "summary": "",
-    "date": "2026-11-20T12:45:21.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pMHRici1uRTBSYVNzNnJ5UVFiS1gtRjdJNWJZNUpDV0JxdzJVWHVUVEh5dXhVcVBYWXpSQWs2N1dnclY1aXJFaDhzM21OamVwQ1E?oc=5",
-    "tags": [
-      "closing",
-      "anthropic",
-      "initial",
-      "public"
-    ]
-  },
-  {
     "id": "https-openai-com-index-combatting-adversarial-distillation",
     "lab": "OpenAI",
     "title": "Combatting adversarial distillation",
@@ -359,6 +344,21 @@
       "distillation",
       "combatting",
       "openai"
+    ]
+  },
+  {
+    "id": "cbmiukfvx3lxte1pmhrici1urtbsyvnznnj5uvfis1gtrjdjnwjznupdv0jxdzjvwhvuveh5dxhvcvby",
+    "lab": "Anthropic",
+    "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+    "summary": "",
+    "date": "2026-11-20T08:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pMHRici1uRTBSYVNzNnJ5UVFiS1gtRjdJNWJZNUpDV0JxdzJVWHVUVEh5dXhVcVBYWXpSQWs2N1dnclY1aXJFaDhzM21OamVwQ1E?oc=5",
+    "tags": [
+      "closing",
+      "anthropic",
+      "initial",
+      "public"
     ]
   },
   {
@@ -389,18 +389,6 @@
       "adapters",
       "adapt",
       "favorite"
-    ]
-  },
-  {
-    "id": "cbmickfvx3lxte81wi1wa1dpmxa4cknwxzlvqknsujhgdelmstlymze0ru9izgjwr3lumjfsxy1dwldh",
-    "lab": "Anthropic",
-    "title": "News and Events - News",
-    "summary": "",
-    "date": "2026-11-19T18:08:01.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81Wi1wa1dpMXA4ckNWXzlvQkNSUjhGdElMSTlyMzE0RU9iZGJwR3lUMjFSXy1DWldHaWhMZWsxQ2l3RzYzY001NENMalA4WS1xeVc0bUIzOTBlVG9UamNselBqT2ZSdzh1QnZUc2RJNFRTQQ?oc=5",
-    "tags": [
-      "events"
     ]
   },
   {
@@ -713,21 +701,6 @@
     ]
   },
   {
-    "id": "cbmikafbvv95cuxnte8xtmrrruztqndpovdctufqq2zxsjl5tk4zexb0rzhsvzryaut3s091y3fmrnvv",
-    "lab": "Anthropic",
-    "title": "AI for Science expands to foundations and research institutions",
-    "summary": "",
-    "date": "2026-10-28T07:00:00.000Z",
-    "category": "research",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTE8xTmRrRUZtQndpOVdCTUFQQ2ZXSjl5Tk4zeXB0RzhSVzRYaUt3S091Y3FmRnVvT1c0UXhIVW0xZF83R2c1VUwtNjhNUkcxYWI0MFRXWXcxT2ZLdkF6bUd5V0JpTWJla3BzOWNORmdFN0ZTUkplbmZRcjRNdm5GSUVDUXp5QWwxNkRoN3JCVXo?oc=5",
-    "tags": [
-      "science",
-      "expands",
-      "foundations",
-      "research"
-    ]
-  },
-  {
     "id": "cbmitkfvx3lxtfbnzudln3hwaxffbndlu0ftmc1invzzenp4cl92wxjqm3vdwtzusxn2s1ntdzbjetbd",
     "lab": "Anthropic",
     "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
@@ -740,6 +713,21 @@
       "files",
       "sec",
       "proposed"
+    ]
+  },
+  {
+    "id": "cbmiiafbvv95cuxooezpcuwyanbjn3atn3hwdgdnes1obvzxc1c5c2lwz3zzuwfwm2m2shfknhb2z3zl",
+    "lab": "Anthropic",
+    "title": "Donating Agent Skills to the Agentic AI Foundation",
+    "summary": "",
+    "date": "2026-10-22T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOEZpcUwyanBJN3AtN3hwdGdNeS1obVZxc1c5c2lWZ3ZZUWFWM2M2SHFKNHB2Z3ZlQndXWUNMU3NGU3g1NElZeEw1M1pHaUJOZzZqeWsxSlFDSzUwcGFVUmxOUDhuZklpeDZ1ODVQc2dHNnZkUnVSTjE1dzU5R1ZVcjJURHl6RW1z?oc=5",
+    "tags": [
+      "donating",
+      "agent",
+      "skills",
+      "agentic"
     ]
   },
   {
@@ -773,16 +761,13 @@
     ]
   },
   {
-    "id": "cbmiu0fvx3lxtfbnslvnajjpukhdotzetth2mmrxmhhidu1jqul4zmuwu0d4quvtohptu3rfngftr05l",
+    "id": "cbmiv0fvx3lxte1kck1smnp3z1lwz1vjwk1hmm9lyw1grnhuodnttwjuvs1tnutpdzu2yvdrrxrmbedy",
     "lab": "Anthropic",
-    "title": "Safeguards",
+    "title": "Announcements",
     "summary": "",
-    "date": "2026-10-20T19:09:05.000Z",
+    "date": "2026-10-20T17:03:24.000Z",
     "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnSlVNajJPUkhDOTZETTh2MmRxMHhidU1jQUl4ZmUwU0d4QUVtOHptU3RFNGFtR05LUXA1bERWQUdYTVIzbmpsdkJfeHhLVHVzQmhr?oc=5",
-    "tags": [
-      "safeguards"
-    ]
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Kck1SMnp3Z1lwZ1VjWk1hMm9lYW1GRnhuODNtTWJuVS1TNUtPdzU2YVdrRXRmbEdYVWlJM2Y1cVo0QzRpR1dBM2hpRnl3ZEs2WmlGSmUwcw?oc=5"
   },
   {
     "id": "cbmiskfvx3lxtfb3sgxrsdawanvjtmvga3homjbmzhy3yzvkwdnaqm5uqwxjb2nlni12yu1ry28tt0fp",
@@ -800,6 +785,34 @@
     ]
   },
   {
+    "id": "cbmix0fvx3lxtfbwmufbangwvddnuxbleefmoetsvfyzn3nsu1lvdvduql9infvtn0hfdevkns1yakjc",
+    "lab": "Anthropic",
+    "title": "Investing in the public benefit",
+    "summary": "",
+    "date": "2026-10-18T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWMUFBangwVDdnUXBLeEFmOEtSVFYzN3NSU1lVdVduQl9iNFVTN0hfdEVkNS1yakJCLWFtdkVqTXlLM1VhblU5empsdmVKTVNDVy1PZ1JoUW1HYUlLb0FV?oc=5",
+    "tags": [
+      "investing",
+      "public",
+      "benefit"
+    ]
+  },
+  {
+    "id": "cbmidefvx3lxte8zzvfudwfycc04rhnozhi0cghusxbutlk2rwzsunfky2mzewzry0nvav9ostjhbdvk",
+    "lab": "Anthropic",
+    "title": "Anthropic update on independent evaluators",
+    "summary": "",
+    "date": "2026-10-15T07:00:00.000Z",
+    "category": "feature",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zZVFudWFYcC04RHNOZHI0cGhuSXBUTlk2RWZsUnFkY2MzeWZRY0NVaV9OSTJHbDVkc3BBTHBWd1FKUDVCbjdYLTQtN2tGNUZXdnFYRmt2OUZTTzRoRVZNeWNteUE1Vy1DSXBGTTUxSFJqVmRf?oc=5",
+    "tags": [
+      "anthropic",
+      "independent",
+      "evaluators"
+    ]
+  },
+  {
     "id": "cbmiskfvx3lxte05zvhon0nkx3dmrnjrmgtrbdrqb1nlavretlkzzmvylwfrt1jnwkfhwg4xynlrqwqz",
     "lab": "Mistral",
     "title": "Timestral: Mistral's time-series foundation models",
@@ -812,21 +825,6 @@
       "mistral",
       "time",
       "series"
-    ]
-  },
-  {
-    "id": "cbmizkfvx3lxte5yttm0yuphdfbiujfdcnlzty1lvklpbgp4ztczuhjkzjgxsjbkckjsmdg2mhzwyui5",
-    "lab": "Anthropic",
-    "title": "Singapore office and government MOU",
-    "summary": "",
-    "date": "2026-10-14T07:00:00.000Z",
-    "category": "feature",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yTTM0YUphdFBiUjFDcnlZTy1lVklPbGp4ZTczUHJkZjgxSjBkckJSMDg2MHZwYUI5SkFGWlZlNHN4NFVQN3hDdERZSTFfVS1wNlZQRXV2YWE0ZnktZDFIZ3d0NEZLQQ?oc=5",
-    "tags": [
-      "singapore",
-      "office",
-      "government",
-      "mou"
     ]
   },
   {
